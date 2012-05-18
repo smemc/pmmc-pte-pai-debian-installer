@@ -53,7 +53,7 @@ Description: Metapackage for PAI standalone downloader/installer
 
 Package: pai-data-installer
 Architecture: all
-Depends: ${misc:Depends}, pai-installer-common (= ${binary:Version}), git, patch
+Depends: ${misc:Depends}, pai-installer-common (= ${binary:Version}), git-core, patch
 Conflicts: pai-data (<< ${binary:Version}), pai-installer (<< ${binary:Version})
 Replaces: pai-data (<< ${binary:Version})
 Provides: pai-data
