@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Categories=Education;
+Name=PAI - Resumo das Atividades (por Nível)
+Exec=pai-summary-by-level
+Icon=application-pdf
+Terminal=false
+Version=@VERSION@

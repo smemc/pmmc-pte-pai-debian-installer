@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=PAI
+Categories=Education;
+Exec=pai
+Icon=pmmc-pte-pai
+Terminal=false
+StartupNotify=true
+Version=@VERSION@
