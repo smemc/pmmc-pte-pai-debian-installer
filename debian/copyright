@@ -1,0 +1,48 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pai
+Source: <http://www.orientadores.pmmc.com.br/cae/pai>
+
+Files: *
+Copytight: 2012 Laércio de Sousa <lbsousajr@gmail.com>
+License: GPL-3.0+
+
+Files: debian/*
+Copyright: 2001-2006 Takuo KITAME <kitame@northeye.org> (The original installer script using ruby)
+           2006-2007 Bart Martens <bartm@knars.be> (The rewritten installer script using sh, later integrated into the debian/p* scripts)
+           2012 Laércio de Sousa <lbsousajr@gmail.com> (The rewritten installer script for Adobe Flash Player projector)
+           2012 Laércio de Sousa <lbsousajr@gmail.com> (The rewritten installer script for PAI)
+License: GPL-3.0+
+
+Files: linux/*
+Copyright: 2012 Laércio de Sousa <lbsousajr@gmail.com>
+License: GPL-3.0+
+
+Files: icons/*
+Copyright: 2012 Comissão de Atividades Educacionais da Equipe de Orientadores de Informática de Mogi das Cruzes, SP, Brazil <cae.sme@gmail.com>
+License: CAE
+ Copying and distribution of this package, without
+ modification, are permitted in any medium without royalty
+ provided the copyright notice and this notice are
+ preserved.
+
+License: GPL-3.0+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
+ .
+ Note that this package does not contain any software from "Orientadores de Informática".
+ This package does however contain a script to download and install PAI.
+ All information regarding PAI itself can be found on this website:
+ http://www.orientadores.pmmc.com.br/cae/pai
