@@ -21,7 +21,7 @@ set -e
 . /usr/share/pai/functions
 
 CACHE_DIR=/var/opt/pmmc/pte/cache
-TEMP=`mktemp -d --tmpdir sei-unpack-XXXXXX`
+TEMP=`mktemp -d --tmpdir pai-unpack-XXXXXX`
 
 exit_with_error() {
     echo "PAI documentation is NOT installed."
