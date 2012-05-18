@@ -1,0 +1,61 @@
+VERSION=@VERSION@
+SHA256SUM=@SHA256SUM@
+FILENAME=pai-${VERSION}.tar.gz
+URI=http://www.orientadores.pmmc.com.br/cae/pai/download/${FILENAME}
+
+pai_exit_with_error() {
+    echo ${1}
+    exit 1
+}
+
+pai_download() {
+    download_dir=${1}
+
+    # use apt proxy
+    APT_PROXIES=$(apt-config shell \
+        http_proxy Acquire::http::Proxy \
+        https_proxy Acquire::https::Proxy \
+        ftp_proxy Acquire::ftp::Proxy)
+
+    if [ -n "${APT_PROXIES}" ]
+    then
+        eval export ${APT_PROXIES}
+    fi
+
+    (cd ${download_dir}
+    # setting wget options
+    : > wgetrc
+    echo "noclobber = off" >> wgetrc
+    echo "dir_prefix = ." >> wgetrc
+    echo "dirstruct = off" >> wgetrc
+    echo "verbose = on" >> wgetrc
+    echo "progress = dot:mega" >> wgetrc
+    echo "tries = 2" >> wgetrc
+    echo "continue = on" >> wgetrc
+
+    # downloading the tarball
+    echo "Downloading..."
+    WGETRC=wgetrc wget ${URI}
+    rm -f wgetrc
+    echo "Download done.") || pai_exit_with_error "download failed"
+    
+    # verify SHA256 checksum of (copied or downloaded) tarball
+    if echo "${SHA256SUM}  ${download_dir}/${FILENAME}" | sha256sum -c > /dev/null 2>&1
+    then
+        echo "${download_dir}/${FILENAME}: sha256sum OK :-)"
+    else
+        pai_exit_with_error "${download_dir}/${FILENAME}: sha256sum mismatch :-("
+    fi
+}
+
+pai_unpack() {
+    tarball_dir=${1}
+    unpack_dir=${2}
+
+    # unpacking the tarball
+    tar xzf ${tarball_dir}/${FILENAME} -C ${unpack_dir} || pai_exit_with_error "cannot unpack PAI"
+
+    zip_password=`grep "local=" ${unpack_dir}/instalar | sed -e 's/^.*local="-e \(.*\)"/\1/g'`
+    unzip -q -P `bash -c "echo -e \"${zip_password}\""` ${unpack_dir}/pai.zip -d ${unpack_dir} \
+        || pai_exit_with_error "unpack failed"
+}
