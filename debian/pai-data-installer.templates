@@ -1,0 +1,14 @@
+Template: pai-installer/httpget
+Type: boolean
+Default: true
+_Description: Do you accept the license and do you want to download PAI now?
+ PAI is to be downloaded from www.orientadores.pmmc.com.br/cae/pai. This
+ can be done automatically now. The distribution license of PAI is available at
+ www.orientadores.pmmc.com.br/cae/pai.
+
+Template: pai-installer/fix_filename_case_accents
+Type: text
+_Description: IMPORTANTE!!
+ Para garantir que as atividades do PAI 2.11.2 funcionem corretamente neste ambiente Linux, algumas modificacoes serao feitas no codigo original. Para mais informacoes, acesse o seguinte endereco:
+ .
+ https://github.com/oiteam/pmmc-pte-pai-patchset.git
