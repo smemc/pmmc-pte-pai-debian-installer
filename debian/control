@@ -1,0 +1,104 @@
+Source: pai
+Section: contrib/games
+Priority: extra
+Maintainer: Laércio de Sousa <lbsousajr@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), librsvg2-bin
+Standards-Version: 3.9.3
+Homepage: http://www.orientadores.pmmc.com.br/cae/pai
+Vcs-Git: git://github.com/oiteam/pmmc-pte-pai-debian.git
+Vcs-Browser: https://github.com/oiteam/pmmc-pte-pai-debian.git
+
+Package: pai
+Architecture: all
+Section: contrib/oldlibs
+Depends: ${misc:Depends}, pai-installer (= ${binary:Version})
+Description: Transitional package to pai-installer
+ This is just a dummy transitional package to new pai-installer.
+ It can be safely removed after pai-installer is installed.
+
+Package: pai-data
+Architecture: all
+Section: contrib/oldlibs
+Depends: ${misc:Depends}, pai-data-installer (= ${binary:Version})
+Description: Transitional package to pai-data-installer
+ This is just a dummy transitional package to new pai-data-installer.
+ It can be safely removed after pai-data-installer is installed.
+
+Package: pai-doc
+Architecture: all
+Section: contrib/oldlibs
+Depends: ${misc:Depends}, pai-doc-installer (= ${binary:Version})
+Description: Transitional package to pai-doc-installer
+ This is just a dummy transitional package to new pai-doc-installer.
+ It can be safely removed after pai-doc-installer is installed.
+
+Package: pai-installer-common
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: wget
+Suggests: pai-data-installer (= ${binary:Version}), pai-doc-installer (= ${binary:Version})
+Description: Automated downloader/installer for PAI (common files)
+ This package contains common files for
+ pai-data-installer and pai-doc-installer.
+
+Package: pai-installer
+Architecture: all
+Depends: ${misc:Depends}, pai-client, pai-data-installer (= ${binary:Version}), pai-doc-installer (= ${binary:Version})
+Conflicts: pai (<< ${binary:Version})
+Replaces: pai (<< ${binary:Version})
+Provides: pai
+Description: Metapackage for PAI standalone downloader/installer
+ This simple metapackage installs all necessary components of PAI
+ for standalone use.
+
+Package: pai-data-installer
+Architecture: all
+Depends: ${misc:Depends}, pai-installer-common (= ${binary:Version}), git, patch
+Conflicts: pai-data (<< ${binary:Version}), pai-installer (<< ${binary:Version})
+Replaces: pai-data (<< ${binary:Version})
+Provides: pai-data
+Description: Automated downloader/installer for PAI (data)
+ This metapackage downloads and installs the PAI data.
+ PAI (Pacote de Atividades de Informática) is a set of activities/games
+ for primary education, as part of the Educational Technology Program of
+ Mogi das Cruzes, SP, Brazil.
+ .
+ WARNING: Installing this Ubuntu package causes the PAI tarball to
+ be downloaded from the "Orientadores de Informática" web site.
+ The distribution license of PAI is available at
+ www.orientadores.pmmc.com.br/cae/pai. Installing this Ubuntu package implies
+ that you have accepted the terms of that license.
+
+Package: pai-doc-installer
+Architecture: all
+Depends: ${misc:Depends}, pai-installer-common (= ${binary:Version})
+Recommends: xdg-utils
+Conflicts: pai-doc (<< ${binary:Version}), pai-installer (<< ${binary:Version})
+Replaces: pai-doc (<< ${binary:Version})
+Provides: pai-doc
+Description: Automated downloader/installer for PAI (docs)
+ This package downloads and installs the PAI documentation.
+ PAI (Pacote de Atividades de Informática) is a set of activities/games for
+ primary education, as part of the Educational Technology Program of
+ Mogi das Cruzes, SP, Brazil.
+ .
+ WARNING: Installing this Ubuntu package causes the PAI tarball to
+ be downloaded from the "Orientadores de Informática" web site.
+ The distribution license of PAI is available at
+ www.orientadores.pmmc.com.br/cae/pai. Installing this Ubuntu package implies
+ that you have accepted the terms of that license.
+
+Package: pai-client-minimal
+Architecture: all
+Depends: ${misc:Depends}, firefox | iceweasel, pai-data
+Provides: pai-client
+Suggests: pai-doc
+Description: Minimal launcher for PAI
+ This package installs a minimal script to launch PAI from a local installation.
+
+Package: pai-server
+Architecture: all
+Depends: ${misc:Depends}, apache2, pai-data
+Suggests: pai-client, pai-doc
+Description: PAI web server
+ This metapackage makes a PAI installation available in a web server.
