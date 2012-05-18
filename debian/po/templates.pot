@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pai\n"
 "Report-Msgid-Bugs-To: pai@packages.debian.org\n"
-"POT-Creation-Date: 2012-05-10 13:46-0300\n"
+"POT-Creation-Date: 2012-05-18 14:53-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,58 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Type: string
-#. Description
-#: ../pai-data-installer.templates:1001 ../pai-doc-installer.templates:1001
-msgid "Filename for PAI .tar.gz:"
-msgstr ""
-
-#. Type: string
-#. Description
-#: ../pai-data-installer.templates:2001 ../pai-doc-installer.templates:2001
-msgid "SHA-256 checksum for PAI .tar.gz:"
-msgstr ""
-
-#. Type: string
-#. Description
-#: ../pai-data-installer.templates:3001 ../pai-doc-installer.templates:3001
-msgid "Location to the local file:"
-msgstr ""
-
-#. Type: string
-#. Description
-#: ../pai-data-installer.templates:3001 ../pai-doc-installer.templates:3001
-msgid ""
-"If you have already downloaded the .tar.gz package from the Internet, please "
-"enter the directory you downloaded it into. Do not include the filename "
-"here. If you have not already downloaded it, leave this blank and the "
-"package will be downloaded automatically."
-msgstr ""
-
-#. Type: error
-#. Description
-#: ../pai-data-installer.templates:4001 ../pai-doc-installer.templates:4001
-msgid "File not found"
-msgstr ""
-
-#. Type: error
-#. Description
-#: ../pai-data-installer.templates:4001 ../pai-doc-installer.templates:4001
-msgid ""
-"The .tar.gz file does not exist in the directory you entered. Please try "
-"again. Enter the path of the directory that the package is in (don't type "
-"the filename at the end of the path)."
-msgstr ""
-
 #. Type: boolean
 #. Description
-#: ../pai-data-installer.templates:5001 ../pai-doc-installer.templates:5001
+#: ../pai-data-installer.templates:1001 ../pai-doc-installer.templates:1001
 msgid "Do you accept the license and do you want to download PAI now?"
 msgstr ""
 
 #. Type: boolean
 #. Description
-#: ../pai-data-installer.templates:5001 ../pai-doc-installer.templates:5001
+#: ../pai-data-installer.templates:1001 ../pai-doc-installer.templates:1001
 msgid ""
 "PAI is to be downloaded from www.orientadores.pmmc.com.br/cae/pai. This can "
 "be done automatically now. The distribution license of PAI is available at "
@@ -77,21 +34,21 @@ msgstr ""
 
 #. Type: text
 #. Description
-#: ../pai-data-installer.templates:6001 ../pai-doc-installer.templates:6001
+#: ../pai-data-installer.templates:2001 ../pai-doc-installer.templates:2001
 msgid "IMPORTANTE!!"
 msgstr ""
 
 #. Type: text
 #. Description
-#: ../pai-data-installer.templates:6001 ../pai-doc-installer.templates:6001
+#: ../pai-data-installer.templates:2001 ../pai-doc-installer.templates:2001
 msgid ""
 "Para garantir que as atividades do PAI 2.11.2 funcionem corretamente neste "
-"ambiente Linux, algumas modificacoes serao feitas no codigo origina. Para "
+"ambiente Linux, algumas modificacoes serao feitas no codigo original. Para "
 "mais informacoes, acesse o seguinte endereco:"
 msgstr ""
 
 #. Type: text
 #. Description
-#: ../pai-data-installer.templates:6001 ../pai-doc-installer.templates:6001
+#: ../pai-data-installer.templates:2001 ../pai-doc-installer.templates:2001
 msgid "https://github.com/oiteam/pmmc-pte-pai-patchset.git"
 msgstr ""
