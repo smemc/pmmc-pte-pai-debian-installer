@@ -1,0 +1,60 @@
+From: =?UTF-8?q?La=C3=A9rcio=20de=20Sousa?= <lbsousajr@gmail.com>
+Date: Fri, 18 May 2012 10:15:21 -0300
+Subject: Change desktop Icon= value from application-pdf to pdf
+
+---
+ linux/desktop/pmmc-pte-pai-changelog.desktop.in    |    2 +-
+ linux/desktop/pmmc-pte-pai-doc.desktop.in          |    2 +-
+ .../pmmc-pte-pai-summary-by-discipline.desktop.in  |    2 +-
+ .../pmmc-pte-pai-summary-by-level.desktop.in       |    2 +-
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+
+diff --git a/linux/desktop/pmmc-pte-pai-changelog.desktop.in b/linux/desktop/pmmc-pte-pai-changelog.desktop.in
+index a4564b8..129ab69 100644
+--- a/linux/desktop/pmmc-pte-pai-changelog.desktop.in
++++ b/linux/desktop/pmmc-pte-pai-changelog.desktop.in
+@@ -4,6 +4,6 @@ Type=Application
+ Categories=Education;
+ Name=PAI - Histórico da versão 2
+ Exec=pai-changelog
+-Icon=application-pdf
++Icon=pdf
+ Terminal=false
+ Version=@VERSION@
+diff --git a/linux/desktop/pmmc-pte-pai-doc.desktop.in b/linux/desktop/pmmc-pte-pai-doc.desktop.in
+index 7690093..cb88158 100644
+--- a/linux/desktop/pmmc-pte-pai-doc.desktop.in
++++ b/linux/desktop/pmmc-pte-pai-doc.desktop.in
+@@ -4,6 +4,6 @@ Type=Application
+ Categories=Education;
+ Name=PAI - Manual de Ajuda
+ Exec=pai-doc
+-Icon=application-pdf
++Icon=pdf
+ Terminal=false
+ Version=@VERSION@
+diff --git a/linux/desktop/pmmc-pte-pai-summary-by-discipline.desktop.in b/linux/desktop/pmmc-pte-pai-summary-by-discipline.desktop.in
+index 0974621..56942b7 100644
+--- a/linux/desktop/pmmc-pte-pai-summary-by-discipline.desktop.in
++++ b/linux/desktop/pmmc-pte-pai-summary-by-discipline.desktop.in
+@@ -4,6 +4,6 @@ Type=Application
+ Categories=Education;
+ Name=PAI - Resumo das Atividades (por Disciplina)
+ Exec=pai-summary-by-discipline
+-Icon=application-pdf
++Icon=pdf
+ Terminal=false
+ Version=@VERSION@
+diff --git a/linux/desktop/pmmc-pte-pai-summary-by-level.desktop.in b/linux/desktop/pmmc-pte-pai-summary-by-level.desktop.in
+index 76e2d83..588ae19 100644
+--- a/linux/desktop/pmmc-pte-pai-summary-by-level.desktop.in
++++ b/linux/desktop/pmmc-pte-pai-summary-by-level.desktop.in
+@@ -4,6 +4,6 @@ Type=Application
+ Categories=Education;
+ Name=PAI - Resumo das Atividades (por Nível)
+ Exec=pai-summary-by-level
+-Icon=application-pdf
++Icon=pdf
+ Terminal=false
+ Version=@VERSION@
+-- 

@@ -9,5 +9,16 @@
 # Uncomment this to turn on verbose mode.
 #export DH_VERBOSE=1
 
+include /usr/share/quilt/quilt.make
+
+build: build-stamp
+
+build-stamp: $(QUILT_STAMPFN)
+	dh build
+
+clean: unpatch
+	dh_clean build-stamp
+	dh clean
+
 %:
 	dh $@
