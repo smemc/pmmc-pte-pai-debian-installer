@@ -163,6 +163,7 @@ postpatch_data() {
     count=$(( count + 1 ))
 
     (cd ${DATA_DEST}/atividades/0203POR003
+    mv viol*o.gif violão.gif
     mv ta*a.gif taça.gif)
     count=$(( count + 1 ))
 
