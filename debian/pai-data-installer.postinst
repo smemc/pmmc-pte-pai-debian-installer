@@ -134,8 +134,9 @@ prepatch_data() {
     DATA_DEST=/opt/pmmc/pte/pai
     PAI_TEMP_DIR=`mktemp -d --tmpdir pai-patchset-XXXXXX`
     echo "Fetching patches from GitHub..."
-    git clone https://github.com/oiteam/pmmc-pte-pai-patchset.git ${PAI_TEMP_DIR}
-    cp -r ${PAI_TEMP_DIR}/patches ${DATA_DEST}
+    (cd ${PAI_TEMP_DIR}
+    git clone https://github.com/oiteam/pmmc-pte-pai-patchset.git
+    cp -r pmmc-pte-pai-patchset/patches ${DATA_DEST})
     rm -rf ${PAI_TEMP_DIR}
 }
 
