@@ -78,7 +78,7 @@ install_doc() {
 
 case "${1}" in
     configure)
-        download_and_unpack
+        download_and_unpack ${TEMP}
         preinstall_doc ${TEMP} \
             && install_doc ${TEMP} \
             && rm -rf ${TEMP} \
