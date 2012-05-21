@@ -22,6 +22,7 @@ set -e
 
 CACHE_DIR=/var/opt/pmmc/pte/cache
 TEMP=`mktemp -d --tmpdir pai-unpack-XXXXXX`
+GIT_PROTOCOL="https"
 
 exit_with_error() {
     echo "PAI data is NOT installed."
@@ -131,7 +132,7 @@ prepatch_data() {
     PAI_TEMP_DIR=`mktemp -d --tmpdir pai-patchset-XXXXXX`
     echo "Fetching patches from GitHub..."
     (cd ${PAI_TEMP_DIR}
-    git clone https://github.com/oiteam/pmmc-pte-pai-patchset.git
+    git clone ${GIT_PROTOCOL}://github.com/oiteam/pmmc-pte-pai-patchset.git
     cp -r pmmc-pte-pai-patchset/patches ${DATA_DEST})
     rm -rf ${PAI_TEMP_DIR}
 }
