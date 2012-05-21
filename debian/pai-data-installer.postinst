@@ -162,18 +162,59 @@ postpatch_data() {
     DATA_DEST=/opt/pmmc/pte/pai
     count=0
 
+    (cd ${DATA_DEST}/atividades/0202MAT004
+    mv crian*as.gif crianças.gif)
+    count=$(( count + 1 ))
+
+    (cd ${DATA_DEST}/atividades/0203POR003
+    mv ta*a.gif taça.gif)
+    count=$(( count + 1 ))
+
+    (cd ${DATA_DEST}/atividades/0403POR003
+    mv 02-lapis.png .__temp__02-lapis.png
+    mv 02-l*pis.png 02-lápis.png
+    mv .__temp__02-lapis.png 02-lapis-png)
+    count=$(( count + 1 ))
+
+    (cd ${DATA_DEST}/atividades/0602POR207
+    mv *gua.jpg égua.jpg)
+    count=$(( count + 1 ))
+
     (cd ${DATA_DEST}/atividades/1001POR003
-    mv boneca.jpg .boneca.jpg
+    mv boneca.jpg .__temp__boneca.jpg
     mv bon*.jpg boné.jpg
     mv caf*.jpg café.jpg
     mv c*co.jpg côco.jpg
-    mv .boneca.jpg boneca.jpg)
+    mv .__temp__boneca.jpg boneca.jpg)
+    count=$(( count + 3 ))
+
+    (cd ${DATA_DEST}/atividades/1002POR003
+    mv boneca.jpg .__temp__boneca.jpg
+    mv bon*.jpg boné.jpg
+    mv caf*.jpg café.jpg
+    mv c*co.jpg côco.jpg
+    mv .__temp__boneca.jpg boneca.jpg)
     count=$(( count + 3 ))
 
     (cd ${DATA_DEST}/atividades/1001POR004/imagens
     mv h*lice.jpg hélice.jpg
     mv *culos.gif óculos.gif)
     count=$(( count + 2 ))
+
+    (cd ${DATA_DEST}/atividades/1004MAT002/imagens
+    mv doister*os.jpg doisterços.jpg
+    mv umter*o.jpg umterço.jpg
+    mv 1ter*o.jpg 1terço.jpg
+    mv 2ter*os.jpg 2terços.jpg)
+    count=$(( count + 4 ))
+
+    (cd ${DATA_DEST}/atividades/1004MAT003/imagens
+    mv n*meros.png números.png)
+    count=$(( count + 1 ))
+    
+    (cd ${DATA_DEST}/templates/2009/imagens
+    mv pai_*cone.ico pai_ícone.ico)
+    count=$(( count + 1 ))
 
     echo "After patching, ${count} more files were renamed."
     sleep 1
