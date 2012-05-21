@@ -19,10 +19,22 @@ set -e
 
 . /usr/share/debconf/confmodule
 . /usr/share/pai/functions
+. /etc/lsb-release
+
+case "${DISTRIB_CODENAME}" in
+    "hardy") 
+        GIT_PROTOCOL="git"
+        MKTEMP_OPTS="-t"
+    ;;
+
+    *)
+        GIT_PROTOCOL="https"
+        MKTEMP_OPTS="--tmpdir"
+    ;;
+esac
 
 CACHE_DIR=/var/opt/pmmc/pte/cache
-TEMP=`mktemp -d --tmpdir pai-unpack-XXXXXX`
-GIT_PROTOCOL="https"
+TEMP=`mktemp -d ${MKTEMP_OPTS} pai-unpack-XXXXXX`
 
 exit_with_error() {
     echo "PAI data is NOT installed."
@@ -129,7 +141,7 @@ install_data() {
 
 prepatch_data() {
     DATA_DEST=/opt/pmmc/pte/pai
-    PAI_TEMP_DIR=`mktemp -d --tmpdir pai-patchset-XXXXXX`
+    PAI_TEMP_DIR=`mktemp -d ${MKTEMP_OPTS} pai-patchset-XXXXXX`
     echo "Fetching patches from GitHub..."
     (cd ${PAI_TEMP_DIR}
     git clone ${GIT_PROTOCOL}://github.com/oiteam/pmmc-pte-pai-patchset.git

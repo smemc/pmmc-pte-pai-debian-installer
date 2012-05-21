@@ -19,9 +19,20 @@ set -e
 
 . /usr/share/debconf/confmodule
 . /usr/share/pai/functions
+. /etc/lsb-release
+
+case "${DISTRIB_CODENAME}" in
+    "hardy")
+        MKTEMP_OPTS="-t"
+    ;;
+
+    *)
+        MKTEMP_OPTS="--tmpdir"
+    ;;
+esac
 
 CACHE_DIR=/var/opt/pmmc/pte/cache
-TEMP=`mktemp -d --tmpdir pai-unpack-XXXXXX`
+TEMP=`mktemp -d ${MKTEMP_OPTS} pai-unpack-XXXXXX`
 
 exit_with_error() {
     echo "PAI documentation is NOT installed."
