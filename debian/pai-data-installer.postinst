@@ -51,16 +51,12 @@ download_and_unpack() {
 preinstall_data() { 
     DATA_ORIG=${1}/usr/share/PTE-PMMC/pai
 
-    (
-        cd ${DATA_ORIG}/templates/2009/imagens/ajuda_arquivos
-        mv Execu*1.jpg "Execucao_do_PAI_1.jpg"
-    )
+    (cd ${DATA_ORIG}/templates/2009/imagens/ajuda_arquivos
+    mv Execu*1.jpg "Execucao_do_PAI_1.jpg")
 
-    (
-        cd ${DATA_ORIG}/atividades
-        rm -rf 0302HIS001
-        mv 1004POR014/1004PORr01409.js 1004POR014/1004POR01409.js
-    )
+    (cd ${DATA_ORIG}/atividades
+    rm -rf 0302HIS001
+    mv 1004POR014/1004PORr01409.js 1004POR014/1004POR01409.js)
 }
 
 install_data() {
