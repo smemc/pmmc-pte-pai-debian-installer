@@ -1,3 +1,22 @@
+pai (2.11.2oi5-1) unstable; urgency=low
+
+  * [aaef750] Replace symlinks with file copies
+    - Needed to avoid problems with hardy backports.
+  * [01a69fd] Update README.md
+  * [e159906] Fix prepatch function in pai-data-installer.postinst
+  * [74b51b5] Update postpatch function in pai-data-installer.postinst
+  * [e99d3e9] Update preinstall function in pai-data-installer.postinst
+  * [aa25c89] Update postpatch function in pai-data-installer.postinst
+  * [7ebf6e0] Add missing ${TEMP} in pai-doc-installer.postinst
+  * [927e5da] Easy Git protocol change in pai-data-installer.postinst
+  * [3eedca4] Universalize postinst scripts
+    - Use contents of /etc/lsb-release to distinguish between hardy and others.
+  * [0dfe555] Fix postpatch function in pai-data-installer.postinst
+  * [7fe915e] Initial upstream branch
+  * [5d8f82b] New upstream version 2.11.2oi5
+
+ -- Laércio de Sousa <lbsousajr@gmail.com>  Tue, 22 May 2012 11:28:01 -0300
+
 pai (2.11.2oi3-1) unstable; urgency=low
 
   * Initial release.
