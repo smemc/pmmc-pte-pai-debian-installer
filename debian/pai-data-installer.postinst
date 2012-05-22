@@ -185,7 +185,7 @@ postpatch_data() {
     (cd ${DATA_DEST}/atividades/0403POR003
     mv 02-lapis.png .__temp__02-lapis.png
     mv 02-l*pis.png 02-lápis.png
-    mv .__temp__02-lapis.png 02-lapis-png)
+    mv .__temp__02-lapis.png 02-lapis.png)
     count=$(( count + 1 ))
 
     (cd ${DATA_DEST}/atividades/0602POR207
