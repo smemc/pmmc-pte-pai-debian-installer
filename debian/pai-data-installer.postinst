@@ -172,7 +172,9 @@ postpatch_data() {
     count=0
 
     (cd ${DATA_DEST}/atividades/0202MAT004
-    mv crian*as.gif crianças.gif)
+    mv criancas.gif .__temp__criancas.gif
+    mv crian*as.gif crianças.gif
+    mv .__temp__criancas.gif criancas.gif)
     count=$(( count + 1 ))
 
     (cd ${DATA_DEST}/atividades/0203POR003
