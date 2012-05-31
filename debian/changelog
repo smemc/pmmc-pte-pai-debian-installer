@@ -1,3 +1,9 @@
+pai (2.11.2oi6-1) unstable; urgency=low
+
+  * [b067414] New upstream version 2.11.2oi6
+
+ -- Laércio de Sousa <lbsousajr@gmail.com>  Thu, 31 May 2012 14:39:21 -0300
+
 pai (2.11.2oi5-2) unstable; urgency=low
  
   * [27368b5] Small fix in pai-data-installer.postinst postpatch function
