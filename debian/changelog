@@ -1,3 +1,10 @@
+pai (2.12.1-1) unstable; urgency=low
+
+  * [3673ce5] Imported Upstream version 2.12.1
+  * [2f3e12c] Remove uneeded fixes in postinst script
+
+ -- Laércio de Sousa <lbsousajr@gmail.com>  Fri, 22 Jun 2012 16:01:50 -0300
+
 pai (2.11.2oi6-1) unstable; urgency=low
 
   * [b067414] New upstream version 2.11.2oi6
