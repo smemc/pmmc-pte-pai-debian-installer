@@ -1,3 +1,9 @@
+pai (2.12.1-2) unstable; urgency=low
+
+  * [2dce986] Remove uneeded postpatch function in postinst script
+
+ -- Laércio de Sousa <lbsousajr@gmail.com>  Mon, 25 Jun 2012 09:31:25 -0300
+
 pai (2.12.1-1) unstable; urgency=low
 
   * [3673ce5] Imported Upstream version 2.12.1
