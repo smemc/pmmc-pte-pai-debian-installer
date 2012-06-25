@@ -11,14 +11,40 @@
 
 include /usr/share/quilt/quilt.make
 
-build: build-stamp
+build: build-arch build-indep
+
+build-arch: build-stamp
+
+build-indep: build-stamp
 
 build-stamp: $(QUILT_STAMPFN)
-	dh build
+	dh_testdir
+	$(MAKE)
+	touch build-stamp
+
+binary: binary-arch binary-indep
+
+binary-arch: build-arch
+
+binary-indep: build-indep
+	dh_testdir
+	dh_testroot
+	dh_installdirs
+	$(MAKE) DESTDIR=$(CURDIR)/debian/tmp install
+	dh_installchangelogs
+	dh_installdocs
+	dh_install --sourcedir=debian/tmp
+	dh_installdebconf
+	dh_installman
+	dh_compress
+	dh_fixperms
+	dh_installdeb
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
 
 clean: unpatch
+	dh_testdir
 	dh_clean build-stamp
-	dh clean
 
-%:
-	dh $@
+.PHONY: build build-arch build-indep build-stamp binary binary-arch binary-indep clean

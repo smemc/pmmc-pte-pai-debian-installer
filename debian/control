@@ -2,7 +2,7 @@ Source: pai
 Section: contrib/games
 Priority: extra
 Maintainer: Laércio de Sousa <lbsousajr@gmail.com>
-Build-Depends: debhelper (>= 7.0.0), librsvg2-bin, quilt
+Build-Depends: debhelper (>= 6.0.0), librsvg2-bin, quilt
 Standards-Version: 3.9.3
 Homepage: http://www.orientadores.pmmc.com.br/cae/pai
 Vcs-Git: git://github.com/oiteam/pmmc-pte-pai-debian.git
