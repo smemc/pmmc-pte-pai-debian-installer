@@ -1,3 +1,12 @@
+pai (2.12.1oi1-1~1.gbp110b45) unstable; urgency=low
+
+  ** SNAPSHOT build @110b4548d863baa086db4000a50e257e67695628 **
+
+  * [b019eff] Update maintaniner scripts to use new functions
+  * [ff0a41c] Imported Upstream version 2.12.1oi1
+
+ -- Laércio de Sousa <lbsousajr@gmail.com>  Fri, 13 Jul 2012 12:34:17 -0300
+
 pai (2.12.1-2) unstable; urgency=low
 
   * [2dce986] Remove uneeded postpatch function in postinst script
