@@ -16,9 +16,10 @@ set -e
 # for details, see http://www.debian.org/doc/debian-policy/ or
 # the debian-policy package
 
+. /usr/share/pai/functions
+
 remove_doc() {
-    rm -f /opt/pmmc/pte/doc/pai/*.pdf
-    rmdir --ignore-fail-on-non-empty -p /opt/pmmc/pte/doc/pai || true
+    pai_remove_data_or_doc /opt/pmmc/pte/doc/pai
 }
 
 case "${1}" in

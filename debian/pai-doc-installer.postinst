@@ -59,41 +59,17 @@ download_and_unpack() {
     pai_unpack ${CACHE_DIR} ${1} || exit_with_error
 }
 
-
-preinstall_doc() { 
-    DOC_ORIG=${1}/usr/share/PTE-PMMC/pai/documentos
-
-    (cd ${DOC_ORIG}
-    mv "./Histórico da versão 2.pdf" ./pmmc-pte-pai-changelog.pdf
-    mv ./manual.pdf ./pmmc-pte-pai-doc.pdf
-    mv ./resumo_pai.pdf ./pmmc-pte-pai-summary-by-level.pdf
-    mv ./resumo_pai_disciplina.pdf ./pmmc-pte-pai-summary-by-discipline.pdf)
-}
-
 install_doc() {
-    PTE_DEST=/opt/pmmc/pte
     DOC_ORIG=${1}/usr/share/PTE-PMMC/pai/documentos
-    DOC_DEST=${PTE_DEST}/doc/pai
-    oldnames_doc=pai-doc-old-names.tmp.txt
-    
-    (cd ${DOC_ORIG}
-    find -type f -print0 | xargs -n1 -0 echo) > ${oldnames_doc}
-
-    while read doc_file
-    do
-        install -D -m 644 "${DOC_ORIG}/${doc_file}" "${DOC_DEST}/${doc_file}"
-    done < ${oldnames_doc}
-
-    rm -f ${oldnames_doc}
+    DOC_DEST=/opt/pmmc/pte/doc/pai
+    pai_install_doc ${DOC_ORIG} ${DOC_DEST}
 }
 
 case "${1}" in
     configure)
-        download_and_unpack ${TEMP}
-        preinstall_doc ${TEMP} \
-            && install_doc ${TEMP} \
-            && rm -rf ${TEMP} \
-            && echo "PAI documentation installed."
+        (download_and_unpack ${TEMP}
+        install_doc ${TEMP}
+        rm -rf ${TEMP}) && echo "PAI documentation installed."
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
