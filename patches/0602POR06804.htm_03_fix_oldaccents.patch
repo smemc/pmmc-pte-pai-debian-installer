@@ -1,0 +1,37 @@
+--- atividades/0602POR068/0602POR06804.htm	2012-06-22 15:01:14.063895697 -0300
++++ atividades/0602POR068/0602POR06804.htm.new	2012-06-22 15:01:14.067895695 -0300
+@@ -469,12 +469,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -842,7 +842,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">AO TERMINAR TODO O EXERCÍCIO CLIQUE NO BOTÃO VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">AO TERMINAR TODO O EXERC&Iacute;CIO CLIQUE NO BOT&Atilde;O VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 
+@@ -862,7 +862,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" ALIGN="CENTER" cellpadding="15" cellspacing="15"><tbody><tr><td>DOMINGO</td><td>SEGUNDA</td><td>TERÇA</td><td>QUARTA</td><td>QUINTA</td><td>SEXTA</td><td>SÁBADO</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>01</td><td>02</td></tr><tr><td>03</td><td>04</td><td>05</td><td>06</td><td>07</td><td>08</td><td>09</td></tr><tr><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr><tr><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr><tr><td>31</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><br /><br />1 - EM QUE DIA DA SEMANA AS AULAS ENCERRARAM?<br />RESPOSTA: NUMA <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.<br /><br />2 - EM QUAL DIA SERÁ O NATAL?<br />RESPOSTA: NUMA <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="13"></input></span>.<br /><br />
++<table border="0" ALIGN="CENTER" cellpadding="15" cellspacing="15"><tbody><tr><td>DOMINGO</td><td>SEGUNDA</td><td>TER&Ccedil;A</td><td>QUARTA</td><td>QUINTA</td><td>SEXTA</td><td>S&Aacute;BADO</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>01</td><td>02</td></tr><tr><td>03</td><td>04</td><td>05</td><td>06</td><td>07</td><td>08</td><td>09</td></tr><tr><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr><tr><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr><tr><td>31</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><br /><br />1 - EM QUE DIA DA SEMANA AS AULAS ENCERRARAM?<br />RESPOSTA: NUMA <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.<br /><br />2 - EM QUAL DIA SER&Aacute; O NATAL?<br />RESPOSTA: NUMA <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="13"></input></span>.<br /><br />
+         3 - EM QUAL DIA DA SEMANA ENCERRA O ANO?<br />
+         RESPOSTA: NUM <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7"></input>
+         </span>.<br />

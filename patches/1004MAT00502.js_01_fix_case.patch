@@ -1,0 +1,11 @@
+--- atividades/1004MAT005/1004MAT00502.js	2012-06-22 14:49:37.207885225 -0300
++++ atividades/1004MAT005/1004MAT00502.js.new	2012-06-22 15:10:46.747904301 -0300
+@@ -634,7 +634,7 @@
+ 
+ 
+ 
+-	PreloadImages('imagens/4-10.JPG','imagens/3-10.JPG','imagens/5-100.JPG','imagens/4-100.JPG','imagens/6-10.JPG','imagens/43-100.JPG','imagens/1-10.JPG','imagens/9-10.JPG','imagens/58-100.JPG','imagens/8-10.JPG','imagens/3-100.JPG','imagens/34-100.JPG','imagens/7-10.JPG','imagens/9-100.JPG','imagens/73-100.JPG','imagens/2-10.JPG','imagens/12-100.JPG','imagens/6-100.JPG','imagens/5-10.JPG','imagens/28-100.JPG');
++	PreloadImages('imagens/4-10.jpg','imagens/3-10.jpg','imagens/5-100.jpg','imagens/4-100.jpg','imagens/6-10.jpg','imagens/43-100.jpg','imagens/1-10.jpg','imagens/9-10.jpg','imagens/58-100.jpg','imagens/8-10.jpg','imagens/3-100.jpg','imagens/34-100.jpg','imagens/7-10.jpg','imagens/9-100.jpg','imagens/73-100.jpg','imagens/2-10.jpg','imagens/12-100.jpg','imagens/6-100.jpg','imagens/5-10.jpg','imagens/28-100.jpg');
+ 
+ 
+ 	var i = 0;

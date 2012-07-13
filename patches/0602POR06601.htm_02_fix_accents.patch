@@ -1,0 +1,20 @@
+--- atividades/0602POR066/0602POR06601.htm	2012-06-22 15:01:11.631895658 -0300
++++ atividades/0602POR066/0602POR06601.htm.new	2012-06-22 15:01:11.635895660 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;&#x003C;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;&#x003C;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;O PASTORZINHO E O LOBO&#x003C;img src=&quot;animal0427.gif&quot; alt=&quot;animal0427.gif&quot; title=&quot;Animal0427&quot; width=&quot;141&quot; height=&quot;113&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="&lt;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&gt;&lt;/img&gt;&lt;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&gt;&lt;/img&gt;&lt;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&gt;&lt;/img&gt;O PASTORZINHO E O LOBO&lt;img src=&quot;animal0427.gif&quot; alt=&quot;animal0427.gif&quot; title=&quot;Animal0427&quot; width=&quot;141&quot; height=&quot;113&quot;&gt;&lt;/img&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

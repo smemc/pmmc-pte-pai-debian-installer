@@ -1,0 +1,11 @@
+--- atividades/0603GEO089/fundo.htm	2012-06-22 15:02:04.647896456 -0300
++++ atividades/0603GEO089/fundo.htm.new	2012-06-22 15:02:04.647896456 -0300
+@@ -11,7 +11,7 @@
+ <script language="JavaScript" type="text/JavaScript">
+ function click() {
+ if (event.button==2) {
+-alert(' E.M. Ana Lúcia Ferreira de Souza! Obrigado pela Visita! ');
++alert(' E.M. Ana L&uacute;cia Ferreira de Souza! Obrigado pela Visita! ');
+ }
+ }
+ document.onmousedown=click;

@@ -1,0 +1,52 @@
+--- atividades/0203POR003/0203POR00301.htm	2012-06-22 14:55:27.415890486 -0300
++++ atividades/0203POR003/0203POR00301.htm.new	2012-06-22 14:55:27.415890486 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -823,7 +823,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Vento ou chuva violenta, com raio, trov&#x00E3;o, etc.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Ant&#x00F4;nimo de amigos.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Ant&#x00F4;nimo de pequeno.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Depress&#x00E3;o entre montes.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Feixe de penas que enfeita a cabe&#x00E7;a.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Vento ou chuva violenta, com raio, trov&atilde;o, etc.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Ant&ocirc;nimo de amigos.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Ant&ocirc;nimo de pequeno.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Depress&atilde;o entre montes.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Feixe de penas que enfeita a cabe&ccedil;a.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -836,7 +836,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Esta&#x00E7;&#x00E3;o amena entre o inverno e o ver&#x00E3;o.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Sin&#x00F4;nimo de rir.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Ant&#x00F4;nimo de desordem.</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Esta&ccedil;&atilde;o amena entre o inverno e o ver&atilde;o.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Sin&ocirc;nimo de rir.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Ant&ocirc;nimo de desordem.</td></tr>
+ 
+ </tbody>
+ </table>

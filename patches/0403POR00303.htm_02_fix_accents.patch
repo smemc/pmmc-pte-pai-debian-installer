@@ -1,0 +1,33 @@
+--- atividades/0403POR003/0403POR00303.htm	2012-06-22 14:57:05.959891968 -0300
++++ atividades/0403POR003/0403POR00303.htm.new	2012-06-22 14:57:05.959891968 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Gustavo Firveda" />
+-<meta name="DC:Title" content="Relacione os n&#x00FA;meros" />
++<meta name="DC:Title" content="Relacione os n&uacute;meros" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -666,9 +666,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = 'Parab&#x00E9;ns. Bom trabalho!';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#ffffff';
+@@ -1110,7 +1110,7 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Relacione os n&#x00FA;meros</h2>
++	<h2 class="ExerciseTitle">Relacione os n&uacute;meros</h2>
+ 
+ 
+ 

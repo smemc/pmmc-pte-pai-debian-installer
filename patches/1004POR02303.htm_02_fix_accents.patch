@@ -1,0 +1,108 @@
+--- atividades/1004POR023/1004POR02303.htm	2012-06-22 15:06:19.479900285 -0300
++++ atividades/1004POR023/1004POR02303.htm.new	2012-06-22 15:06:19.483900286 -0300
+@@ -1,11 +1,11 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="PALAVRAS COM C OU &#x00C7;" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
++<meta name="DC:Title" content="PALAVRAS COM C OU &Ccedil;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -45,12 +45,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR02304.htm'; return false;">=&gt;</button>-->
+ 
+@@ -61,11 +61,11 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C OU &#x00C7;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C OU &Ccedil;</h2>
+ 
+ 
+ 
+@@ -73,8 +73,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Coloque as palavras em ordem alfab&#x00E9;tica. Em seguida, 
+-    clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Coloque as palavras em ordem alfab&eacute;tica. Em seguida, 
++    clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -95,12 +95,12 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table border="1" align="center" cellpadding="2" cellspacing="2"><tbody><tr>
+-              <td bgcolor="#FFFFFF"><strong><center>TA&#x00C7;A - MA&#x00C7;&#x00C3; - 
+-                ON&#x00C7;A - GAR&#x00C7;OM - BALAN&#x00C7;A </center></strong> <p><strong><br />
+-                 <center> A&#x00C7;O - OURI&#x00C7;O - A&#x00C7;&#x00DA;CAR - PO&#x00C7;O 
+-                  - PESCO&#x00C7;O</center></strong>
++              <td bgcolor="#FFFFFF"><strong><center>TA&Ccedil;A - MA&Ccedil;&Atilde; - 
++                ON&Ccedil;A - GAR&Ccedil;OM - BALAN&Ccedil;A </center></strong> <p><strong><br />
++                 <center> A&Ccedil;O - OURI&Ccedil;O - A&Ccedil;&Uacute;CAR - PO&Ccedil;O 
++                  - PESCO&Ccedil;O</center></strong>
+                 <p align="center"><br />
+-                  <strong><center>MAR&#x00C7;O - CADAR&#x00C7;O - CA&#x00C7;ADA - BER&#x00C7;O</center></strong></td></tr></tbody></table><br />
++                  <strong><center>MAR&Ccedil;O - CADAR&Ccedil;O - CA&Ccedil;ADA - BER&Ccedil;O</center></strong></td></tr></tbody></table><br />
+         <table align="center" cellpadding="2" cellspacing="2">
+           <tbody>
+             <tr> 
+@@ -220,12 +220,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR02304.htm'; return false;">=&gt;</button>-->
+ 
+@@ -237,7 +237,7 @@
+ <!-- EndBottomNavButtons -->
+ <!-- BeginSubmissionForm -->
+ <!-- EndSubmissionForm -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body>
+ 
+ </html>

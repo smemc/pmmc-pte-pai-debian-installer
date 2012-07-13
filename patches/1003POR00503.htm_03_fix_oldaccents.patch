@@ -1,0 +1,25 @@
+--- atividades/1003POR005/1003POR00503.htm	2012-06-22 15:04:28.355898616 -0300
++++ atividades/1003POR005/1003POR00503.htm.new	2012-06-22 15:04:28.355898616 -0300
+@@ -6,7 +6,7 @@
+     <meta name="keywords" content="Ardora"></meta>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -30,11 +30,11 @@
+ 
+   <div class="Titles">
+ 	<h2 class="ExerciseTitle">BOB BAFO - ORTOGRAFIA</h2>
+-	<h3 class="ExerciseSubtitle">Agora que você já corrigiu as palavras encontre as palavras certas nesse caça-palavras: </h3>
++	<h3 class="ExerciseSubtitle">Agora que voc&ecirc; j&aacute; corrigiu as palavras encontre as palavras certas nesse ca&ccedil;a-palavras: </h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)--></p>
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)--></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">

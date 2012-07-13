@@ -1,0 +1,94 @@
+--- atividades/0202MAT003/0202MAT00304.htm	2012-06-22 14:54:13.507889377 -0300
++++ atividades/0202MAT003/0202MAT00304.htm.new	2012-06-22 14:54:13.507889377 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE MATEM&#x00C1;TICA" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE MATEM&Aacute;TICA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Você Terminou os Exercícios!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -830,27 +830,27 @@
+               </tr>
+               <tr> 
+                 <td class="ClueNum">1. </td>
+-                <td id="Clue_A_1" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_A_1" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   entre 49 e 51.</font></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">4. </td>
+-                <td id="Clue_A_4" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_A_4" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   entre 59 e 61.</font></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">5. </td>
+-                <td id="Clue_A_5" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_A_5" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   depois de 10.</font></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">6. </td>
+-                <td id="Clue_A_6" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_A_6" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   antes de 31.</font></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">7. </td>
+-                <td id="Clue_A_7" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_A_7" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   entre 13 e 15.</font></td>
+               </tr>
+             </tbody>
+@@ -867,22 +867,22 @@
+               </tr>
+               <tr> 
+                 <td class="ClueNum">1. </td>
+-                <td id="Clue_D_1" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_D_1" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   depois de 4.</font></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">2. </td>
+-                <td id="Clue_D_2" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_D_2" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   depois de 89.</font></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">3. </td>
+-                <td id="Clue_D_3" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_D_3" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   entre 39 e 41.</font></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">4. </td>
+-                <td id="Clue_D_4" class="Clue"><font color="#333399" size="6">Est&#x00E1; 
++                <td id="Clue_D_4" class="Clue"><font color="#333399" size="6">Est&aacute; 
+                   depois de 69.</font></td>
+               </tr>
+             </tbody>

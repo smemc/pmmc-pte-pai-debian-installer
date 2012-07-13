@@ -1,0 +1,15 @@
+--- atividades/0804POR002/0804POR00204.js	2012-06-22 15:09:00.667902706 -0300
++++ atividades/0804POR002/0804POR00204.js.new	2012-06-22 15:09:00.671902707 -0300
+@@ -636,9 +636,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var IncorrectResponse = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var IncorrectResponse = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

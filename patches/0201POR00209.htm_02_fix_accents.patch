@@ -1,0 +1,40 @@
+--- atividades/0201POR002/0201POR00209.htm	2012-06-22 14:53:37.691888839 -0300
++++ atividades/0201POR002/0201POR00209.htm.new	2012-06-22 14:53:37.691888839 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -580,13 +580,13 @@
+ var Punctuation = '';
+ 
+ var Openers = '';
+-var CorrectResponse = 'Parab&#x00E9;ns. Bom trabalho!';
+-var IncorrectResponse = 'Sua resposta est&#x00E1; incorreta. Tente outra vez!';
+-var ThisMuchCorrect = 'Esta parte da sua resposta est&#x00E1; correta:';
+-var TheseAnswersToo = 'Estas respostas tamb&#x00E9;m est&#x00E3;o corretas:';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
++var IncorrectResponse = 'Sua resposta est&aacute; incorreta. Tente outra vez!';
++var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
++var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o corretas:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para a Próxima Palavra!';
+-var NextCorrect = 'Pr&#x00F3;xima letra correta adicionada:';
++var NextCorrect = 'Pr&oacute;xima letra correta adicionada:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+ var PageBGColor = '#ffffff';
+@@ -1142,7 +1142,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Desembaralhe 
+     as letras e forme a palavra representada no desenho. Quando terminar, clique 
+-    em VERIFICAR para corrigir seu exerc&#x00ED;cio.<br />
++    em VERIFICAR para corrigir seu exerc&iacute;cio.<br />
+   </p>
+   <table width="50" border="1" align="center" cellpadding="0" cellspacing="0">
+     <tr>

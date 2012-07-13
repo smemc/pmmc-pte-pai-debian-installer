@@ -1,0 +1,19 @@
+--- atividades/0802POR003/0802POR00301.htm	2012-06-22 15:03:10.671897448 -0300
++++ atividades/0802POR003/0802POR00301.htm.new	2012-06-22 15:03:10.675897449 -0300
+@@ -62,14 +62,14 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle"></h2>
+ 
+-	<h3 class="ExerciseSubtitle">SIN&#x00D4;NIMOS</h3>
++	<h3 class="ExerciseSubtitle">SIN&Ocirc;NIMOS</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">CLIQUE NOS N&#x00DA;MEROS PARA COMPLETAR A CRUZADINHA COM OS SIN&#x00D4;NIMOS DAS PALAVRAS. CLIQUE EM VERIFICAR PARA CORRIGIR.</div>
++	<div id="Instructions">CLIQUE NOS N&Uacute;MEROS PARA COMPLETAR A CRUZADINHA COM OS SIN&Ocirc;NIMOS DAS PALAVRAS. CLIQUE EM VERIFICAR PARA CORRIGIR.</div>
+ </div>
+ 
+ 

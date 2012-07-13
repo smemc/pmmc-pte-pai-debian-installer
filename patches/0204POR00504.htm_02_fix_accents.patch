@@ -1,0 +1,128 @@
+--- atividades/0204POR005/0204POR00504.htm	2012-06-22 14:56:42.203891611 -0300
++++ atividades/0204POR005/0204POR00504.htm.new	2012-06-22 14:56:42.203891611 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -919,8 +919,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -936,8 +936,8 @@
+ 
+  -->
+   <div align="left"><strong><font size="3">Copie as palavras seguintes, substituindo 
+-    o s&#x00ED;mbolo <img src="cod25.gif" width="20" height="20" align="absmiddle" /> 
+-    por <font color="#FF0000" size="5">H</font> quando necess&#x00E1;rio:</font></strong> 
++    o s&iacute;mbolo <img src="cod25.gif" width="20" height="20" align="absmiddle" /> 
++    por <font color="#FF0000" size="5">H</font> quando necess&aacute;rio:</font></strong> 
+   </div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+@@ -945,9 +945,9 @@
+         <table width="600" border="1" align="center" cellpadding="0" cellspacing="0">
+           <tr bgcolor="#FFFFCC"> 
+             <td width="200"> 
+-              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>&#x00E9;lice</strong></div></td>
++              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>&eacute;lice</strong></div></td>
+             <td width="200"> 
+-              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>avi&#x00E3;o</strong></div></td>
++              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>avi&atilde;o</strong></div></td>
+             <td width="200"> 
+               <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>umorado</strong></div></td>
+           </tr>
+@@ -996,7 +996,7 @@
+             <td width="200"> 
+               <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>ouvinte</strong></div></td>
+             <td width="200"> 
+-              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>&#x00ED;m&#x00E3;</strong></div></td>
++              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>&iacute;m&atilde;</strong></div></td>
+             <td width="200"> 
+               <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>ema</strong></div></td>
+           </tr>
+@@ -1022,7 +1022,7 @@
+             <td width="200"> 
+               <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>elefante</strong></div></td>
+             <td width="200"> 
+-              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>ipop&#x00F3;tamo</strong></div></td>
++              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>ipop&oacute;tamo</strong></div></td>
+           </tr>
+           <tr bgcolor="#99FFCC"> 
+             <td width="200"> 
+@@ -1045,7 +1045,7 @@
+             <td width="200"> 
+               <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>abitante</strong></div></td>
+             <td width="200"> 
+-              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>informa&#x00E7;&#x00E3;o</strong></div></td>
++              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>informa&ccedil;&atilde;o</strong></div></td>
+             <td width="200"> 
+               <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>igiene</strong></div></td>
+           </tr>
+@@ -1067,7 +1067,7 @@
+           </tr>
+           <tr bgcolor="#FFFFCC"> 
+             <td width="200"> 
+-              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>ort&#x00EA;nsia</strong></div></td>
++              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>ort&ecirc;nsia</strong></div></td>
+             <td width="200"> 
+               <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>urso</strong></div></td>
+             <td width="200"> 
+@@ -1092,11 +1092,11 @@
+           </tr>
+           <tr bgcolor="#FFFFCC"> 
+             <td width="200"> 
+-              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>ortel&#x00E3;</strong></div></td>
++              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>ortel&atilde;</strong></div></td>
+             <td width="200"> 
+               <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>esquerda</strong></div></td>
+             <td width="200"> 
+-              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>elic&#x00F3;ptero</strong></div></td>
++              <div align="center"><strong><font size="3"><img src="cod25.gif" width="20" height="20" align="absmiddle" /></font>elic&oacute;ptero</strong></div></td>
+           </tr>
+           <tr bgcolor="#99FFCC"> 
+             <td width="200"> 
+@@ -1142,7 +1142,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

@@ -1,0 +1,29 @@
+--- atividades/0804GEO002/0804GEO00202.htm	2012-06-22 15:03:35.487897821 -0300
++++ atividades/0804GEO002/0804GEO00202.htm.new	2012-06-22 15:03:35.491897820 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Dermeval Arouca" />
+-<meta name="DC:Title" content="Fa&#x00E7;a o que se pede:" />
++<meta name="DC:Title" content="Fa&ccedil;a o que se pede:" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -57,7 +57,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Fa&#x00E7;a o que se pede:</h2>
++	<h2 class="ExerciseTitle">Fa&ccedil;a o que se pede:</h2>
+ 
+ 
+ 

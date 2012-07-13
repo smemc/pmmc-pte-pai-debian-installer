@@ -1,0 +1,11 @@
+--- ajuda.html	2012-06-22 14:49:57.483885530 -0300
++++ ajuda.html.new	2012-06-22 15:12:19.695905698 -0300
+@@ -103,7 +103,7 @@
+   sobre algum tema em espec&iacute;fico, voc&ecirc; pode utilizar o sistema de 
+   busca do PAI. na parte superior da tela inicial, clique na caixa de texto ao 
+   lado da figura da lupa. </p>
+-<p class="centro"><img class="imghelp" src="templates/2009/imagens/ajuda_arquivos/Busca1.jpg"/></p>
++<p class="centro"><img class="imghelp" src="templates/2009/imagens/ajuda_arquivos/busca1.jpg"/></p>
+ <p>Digite o assunto desejado e clique na seta &agrave; direita. Logo abaixo, aparecer&aacute; 
+   o resultado da busca dividida em disciplina e <font color="#000000">n&iacute;vel</font>. 
+   Para abrir uma atividade constante no resultado da busca, basta clicar sobre 

@@ -1,0 +1,20 @@
+--- atividades/0803POR004/0803POR00401.htm	2012-06-22 15:03:19.835897586 -0300
++++ atividades/0803POR004/0803POR00401.htm.new	2012-06-22 15:03:19.839897586 -0300
+@@ -11,7 +11,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.3 Release 0 Build 3 -->
+ 
+@@ -64,7 +64,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete os espa&ccedil;os com as sílabas indicadas pelos números. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete os espa&ccedil;os com as s&iacute;labas indicadas pelos n&uacute;meros. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

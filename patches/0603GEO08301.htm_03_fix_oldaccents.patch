@@ -1,0 +1,32 @@
+--- atividades/0603GEO083/0603GEO08301.htm	2012-06-22 15:02:02.703896427 -0300
++++ atividades/0603GEO083/0603GEO08301.htm.new	2012-06-22 15:02:02.707896427 -0300
+@@ -463,9 +463,9 @@
+ var AcrossCaption = '';
+ var DownCaption = '';
+ var Correct = 'CERTO MUITO BEM !';
+-var Incorrect = 'Algumas respostas ainda não estão corretas.'; 
++var Incorrect = 'Algumas respostas ainda n&atilde;o est&atilde;o corretas.'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -877,7 +877,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">GRANDE ELEVAÇÃO DE TERRA.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">TERRENO PLANO MAIS ALTO QUE A PLANÍCIE.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">PORÇÃO DE ÁGUA CERCADA DE TERRA POR TODOS OS LADOS.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">O LUGAR ONDE O RIO NASCE.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">AS BEIRADAS DO RIO.</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">OS ALTOS E BAIXOS QUE A NATUREZA APRESENTA NO SOLO.</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">REUNIÃO DE MONTANHAS.</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_A_13" class="Clue">O LUGAR ONDE O RIO CORRE.</td></tr><tr><td class="ClueNum">15. </td><td id="Clue_A_15" class="Clue">O LUGAR ONDE O RIO DESPEJA AS SUAS ÁGUAS.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">GRANDE ELEVA&Ccedil;&Atilde;O DE TERRA.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">TERRENO PLANO MAIS ALTO QUE A PLAN&Iacute;CIE.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">POR&Ccedil;&Atilde;O DE &Aacute;GUA CERCADA DE TERRA POR TODOS OS LADOS.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">O LUGAR ONDE O RIO NASCE.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">AS BEIRADAS DO RIO.</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">OS ALTOS E BAIXOS QUE A NATUREZA APRESENTA NO SOLO.</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">REUNI&Atilde;O DE MONTANHAS.</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_A_13" class="Clue">O LUGAR ONDE O RIO CORRE.</td></tr><tr><td class="ClueNum">15. </td><td id="Clue_A_15" class="Clue">O LUGAR ONDE O RIO DESPEJA AS SUAS &Aacute;GUAS.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -890,7 +890,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">VERTICAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">UM RIO QUE DESPEJA A SUAS ÁGUAS EM UM OUTRO.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">TERRENO PLANO OU LEVEMENTE ONDULADO E BAIXO.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">GRANDES EXTENSÕES DE ÁGUA SALGADA.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">REGIÃO QUE FICA ENTRE AS MONTANHAS ONDE GERALMENTE CORRE UM RIO.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_D_10" class="Clue">PEQUENA ELEVAÇÃO DE TERRA.</td></tr><tr><td class="ClueNum">14. </td><td id="Clue_D_14" class="Clue">ELEVAÇÃO DE TERRA CERCADA DE ÁGUA.</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">UM RIO QUE DESPEJA A SUAS &Aacute;GUAS EM UM OUTRO.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">TERRENO PLANO OU LEVEMENTE ONDULADO E BAIXO.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">GRANDES EXTENS&Otilde;ES DE &Aacute;GUA SALGADA.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">REGI&Atilde;O QUE FICA ENTRE AS MONTANHAS ONDE GERALMENTE CORRE UM RIO.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_D_10" class="Clue">PEQUENA ELEVA&Ccedil;&Atilde;O DE TERRA.</td></tr><tr><td class="ClueNum">14. </td><td id="Clue_D_14" class="Clue">ELEVA&Ccedil;&Atilde;O DE TERRA CERCADA DE &Aacute;GUA.</td></tr>
+ 
+ </tbody>
+ </table>

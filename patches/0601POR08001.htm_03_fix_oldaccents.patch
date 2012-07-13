@@ -1,0 +1,54 @@
+--- atividades/0601POR080/0601POR08001.htm	2012-06-22 14:59:34.211894197 -0300
++++ atividades/0601POR080/0601POR08001.htm.new	2012-06-22 14:59:34.215894195 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="OBSERVE AS FIGURAS PARA COMPLETAR AS SÍLABAS QUE FALTAM" />
++<meta name="DC:Title" content="OBSERVE AS FIGURAS PARA COMPLETAR AS S&Iacute;LABAS QUE FALTAM" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -877,14 +877,14 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">OBSERVE AS FIGURAS PARA COMPLETAR AS SÍLABAS QUE FALTAM</h2>
++	<h2 class="ExerciseTitle">OBSERVE AS FIGURAS PARA COMPLETAR AS S&Iacute;LABAS QUE FALTAM</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -904,7 +904,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table align="center" border="1" cellpadding="2" cellspacing="2"><tbody><tr><td><img src="lapis.png" width="150" height="150"><BR><STRONG><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - PIS</STRONG></td><td><img src="galo.png" width="150" height="150"><BR><STRONG>GA - <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></STRONG></td><td><img src="leao.png" width="150" height="150"><BR><STRONG><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - ÃO</STRONG></td><td><img src="leoa.png" width="150" height="150"><BR><STRONG>LE - <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - A</STRONG></td><td><img src="lua.png" width="150" height="150"><BR><STRONG><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - A</STRONG></td></tr><tr><td><img src="iate.png" width="150" height="150"><BR><STRONG>I - <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - TE</STRONG></td><td><img src="mala.png" width="150" height="150"><BR><STRONG>MA - <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></STRONG></td><td><img src="mola.png" width="150" height="150"><BR><STRONG>MO - <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></STRONG></td><td><img src="moto.png" width="150" height="150"><BR><STRONG>MO - <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></STRONG></td><td><img src="tomate.png" width="150" height="150"><BR><STRONG><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - MA - TE</STRONG></td></tr></tbody></table>
++<table align="center" border="1" cellpadding="2" cellspacing="2"><tbody><tr><td><img src="lapis.png" width="150" height="150"><BR><STRONG><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - PIS</STRONG></td><td><img src="galo.png" width="150" height="150"><BR><STRONG>GA - <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></STRONG></td><td><img src="leao.png" width="150" height="150"><BR><STRONG><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - &Atilde;O</STRONG></td><td><img src="leoa.png" width="150" height="150"><BR><STRONG>LE - <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - A</STRONG></td><td><img src="lua.png" width="150" height="150"><BR><STRONG><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - A</STRONG></td></tr><tr><td><img src="iate.png" width="150" height="150"><BR><STRONG>I - <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - TE</STRONG></td><td><img src="mala.png" width="150" height="150"><BR><STRONG>MA - <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></STRONG></td><td><img src="mola.png" width="150" height="150"><BR><STRONG>MO - <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></STRONG></td><td><img src="moto.png" width="150" height="150"><BR><STRONG>MO - <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span></STRONG></td><td><img src="tomate.png" width="150" height="150"><BR><STRONG><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> - MA - TE</STRONG></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

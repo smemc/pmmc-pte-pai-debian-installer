@@ -1,0 +1,11 @@
+--- atividades/0203HIS001/0203HIS00101.htm	2012-06-22 14:55:05.295890155 -0300
++++ atividades/0203HIS001/0203HIS00101.htm.new	2012-06-22 14:55:05.295890155 -0300
+@@ -443,7 +443,7 @@
+ var ShowCorrectFirstTime = true;
+ var ShuffleQs = false;
+ var ShuffleAs = false;
+-var Proximo = 'Agora vamos para o próximo exercício!';
++var Proximo = 'Agora vamos para o pr&oacute;ximo exerc&iacute;cio!';
+ var DefaultRight = 'Parab&eacute;ns. Voc&ecirc; Acertou!';
+ var DefaultWrong = 'Resposta incorreta ! Tente novamente !';
+ var QsToShow = 5;

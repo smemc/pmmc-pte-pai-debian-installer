@@ -1,0 +1,29 @@
+--- atividades/0602MAT083/0602MAT08301.htm	2012-06-22 15:00:45.195895262 -0300
++++ atividades/0602MAT083/0602MAT08301.htm.new	2012-06-22 15:00:45.239895263 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="&lt;STRONG&gt;NO JOGO BOLA NA BOCA CADA JOGADOR TEM DIREITO A JOGAR A BOLA 3 VEZES. ESCOLHA A ALTERNATIVA EM QUE A OPERAÇÃO ESTÁ DE ACORDO COM O NÚMERO DE BOLAS QUE CADA UM ACERTOU.&lt;/STRONG&gt;&lt;/P&gt;" />
++<meta name="DC:Title" content="&lt;STRONG&gt;NO JOGO BOLA NA BOCA CADA JOGADOR TEM DIREITO A JOGAR A BOLA 3 VEZES. ESCOLHA A ALTERNATIVA EM QUE A OPERA&Ccedil;&Atilde;O EST&Aacute; DE ACORDO COM O N&Uacute;MERO DE BOLAS QUE CADA UM ACERTOU.&lt;/STRONG&gt;&lt;/P&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -459,7 +459,7 @@
+ var CurrQNum = 0;
+ var CorrectIndicator = 'CERTO!';
+ var IncorrectIndicator = 'ERRADO';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var ContinuousScoring = true;
+ var CorrectFirstTime = 'Perguntas respondidas corretamente na primeira vez:';
+ var ShowCorrectFirstTime = true;
+@@ -1005,7 +1005,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle"><STRONG>NO JOGO BOLA NA BOCA, CADA JOGADOR TEM DIREITO A JOGAR A BOLA 3 VEZES. ESCOLHA A ALTERNATIVA EM QUE A OPERAÇÃO ESTÁ DE ACORDO COM O NÚMERO DE BOLAS QUE CADA UM ACERTOU.</STRONG></P></h2>
++	<h2 class="ExerciseTitle"><STRONG>NO JOGO BOLA NA BOCA, CADA JOGADOR TEM DIREITO A JOGAR A BOLA 3 VEZES. ESCOLHA A ALTERNATIVA EM QUE A OPERA&Ccedil;&Atilde;O EST&Aacute; DE ACORDO COM O N&Uacute;MERO DE BOLAS QUE CADA UM ACERTOU.</STRONG></P></h2>
+ 
+ 
+ 

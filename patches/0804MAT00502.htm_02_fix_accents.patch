@@ -1,0 +1,37 @@
+--- atividades/0804MAT005/0804MAT00502.htm	2012-06-22 15:03:39.939897888 -0300
++++ atividades/0804MAT005/0804MAT00502.htm.new	2012-06-22 15:03:39.943897888 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -58,14 +58,14 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">Responda</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Observe o n&#x00FA;mero <u>3.671</u> e responda:</h3>
++	<h3 class="ExerciseSubtitle">Observe o n&uacute;mero <u>3.671</u> e responda:</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Digite nos espa&#x00E7;os em branco o que se pede. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Digite nos espa&ccedil;os em branco o que se pede. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Quantas ordens possui esse algarismo?</td></tr><tr><td>R: O algarismo possui <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> ordens</td></tr><tr><td>b) Qual o n&#x00FA;mero que est&#x00E1; na centena?</td></tr><tr><td>R: O n&#x00FA;mero &#x00E9; <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr><tr><td>c) Quanto vale o algarismo <b>3</b> na posi&#x00E7;&#x00E3;o em que ele ocupa?</td></tr><tr><td>R: O valor &#x00E9; de <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="20"></input></span></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Quantas ordens possui esse algarismo?</td></tr><tr><td>R: O algarismo possui <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> ordens</td></tr><tr><td>b) Qual o n&uacute;mero que est&aacute; na centena?</td></tr><tr><td>R: O n&uacute;mero &eacute; <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr><tr><td>c) Quanto vale o algarismo <b>3</b> na posi&ccedil;&atilde;o em que ele ocupa?</td></tr><tr><td>R: O valor &eacute; de <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="20"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

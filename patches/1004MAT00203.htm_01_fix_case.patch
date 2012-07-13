@@ -1,0 +1,20 @@
+--- atividades/1004MAT002/1004MAT00203.htm	2012-06-22 14:49:27.707885080 -0300
++++ atividades/1004MAT002/1004MAT00203.htm.new	2012-06-22 15:05:17.235899350 -0300
+@@ -110,7 +110,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontais</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue"><img src="imagens/trezevinteecincoavos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue"><img src="imagens/seisquinzeavos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue"><img src="imagens/doissextos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue"><img src="imagens/quatroquartos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue"><img src="imagens/cincodecimos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue"><img src="imagens/cincosetimos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue"><img src="imagens/meio.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue"><img src="imagens/tresnonos.JPG" width="72" height="74"></img></td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue"><img src="imagens/trezevinteecincoavos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue"><img src="imagens/seisquinzeavos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue"><img src="imagens/doissextos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue"><img src="imagens/quatroquartos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue"><img src="imagens/cincodecimos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue"><img src="imagens/cincosetimos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue"><img src="imagens/meio.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue"><img src="imagens/tresnonos.jpg" width="72" height="74"></img></td></tr>
+ 
+ </tbody>
+ </table>
+@@ -123,7 +123,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Verticais</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue"><img src="imagens/tresoitavos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="imagens/novedezoitoavos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="imagens/doistercos.JPG" width="72" height="74"></img></td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue"><img src="imagens/umquinto.JPG" width="72" height="74"></img></td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue"><img src="imagens/tresoitavos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="imagens/novedezoitoavos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="imagens/doistercos.jpg" width="72" height="74"></img></td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue"><img src="imagens/umquinto.jpg" width="72" height="74"></img></td></tr>
+ 
+ </tbody>
+ </table>

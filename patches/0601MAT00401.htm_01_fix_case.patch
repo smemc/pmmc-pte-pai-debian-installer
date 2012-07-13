@@ -1,0 +1,20 @@
+--- atividades/0601MAT004/0601MAT00401.htm	2012-06-22 14:49:37.667885231 -0300
++++ atividades/0601MAT004/0601MAT00401.htm.new	2012-06-22 14:57:25.659892264 -0300
+@@ -519,7 +519,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','CASA.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','casa.gif','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -868,7 +868,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<img src="CASA.gif" width="503" height="300" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br /><table ALIGN="CENTER" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td align="center" bgcolor="#FDFA00"><b>CASA 1</b></td><td align="center" bgcolor="#00A54B"><b>CASA 2</b></td><td align="center" bgcolor="#EE7157"><b>CASA 3</b></td><td align="center" bgcolor="#0089E1"><b>CASA 4</b></td></tr><tr><td align="center" bgcolor="#FDFA00"><B><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td align="center" bgcolor="#00A54B"><B><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td align="center" bgcolor="#EE7157"><B><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td align="center" bgcolor="#0089E1"><B><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td></tr></tbody></table>
++<img src="casa.gif" width="503" height="300" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br /><table ALIGN="CENTER" border="0" cellpadding="2" cellspacing="0"><tbody><tr><td align="center" bgcolor="#FDFA00"><b>CASA 1</b></td><td align="center" bgcolor="#00A54B"><b>CASA 2</b></td><td align="center" bgcolor="#EE7157"><b>CASA 3</b></td><td align="center" bgcolor="#0089E1"><b>CASA 4</b></td></tr><tr><td align="center" bgcolor="#FDFA00"><B><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td align="center" bgcolor="#00A54B"><B><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td align="center" bgcolor="#EE7157"><B><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td align="center" bgcolor="#0089E1"><B><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

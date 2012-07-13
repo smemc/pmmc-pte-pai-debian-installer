@@ -1,0 +1,39 @@
+--- atividades/0403POR003/0403POR00313.htm	2012-06-22 14:57:15.475892111 -0300
++++ atividades/0403POR003/0403POR00313.htm.new	2012-06-22 14:57:15.479892111 -0300
+@@ -11,17 +11,17 @@
+ 
+ <!-- Made with executable version 6.2 Release 4 Build 2 --><!-- The following insertion allows you to add your own code directly to this head tag from the configuration screen -->
+ <link type="text/css" rel="stylesheet" href="../estilos/estilos.css">
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS <style type="text/css"> [strStyleSheet-OI] </style> -->
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS <style type="text/css"> [strStyleSheet-OI] </style> -->
+ <script src="0403POR00313.js" type="text/javascript"></script>
+ </head>
+        
+        <body onload="StartUp()" id="TheBody">
+ <!-- BeginTopNavButtons -->
+-<div class="NavButtonBar" id="TopNavBar"><!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo --><!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='14.htm'; return false;">=&gt;</button>-->
++<div class="NavButtonBar" id="TopNavBar"><!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo --><!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='14.htm'; return false;">=&gt;</button>-->
+ </div>
+ <!-- EndTopNavButtons -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png"></p>
+ <div class="Titles">
+ <h2 class="ExerciseTitle">Escreva o numeral que
+@@ -71,10 +71,10 @@
+ <button id="FeedbackOKButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="HideFeedback(); return false;">&nbsp;OK&nbsp;</button>
+ </div>
+ <!-- BeginBottomNavButtons -->
+-<div class="NavButtonBar" id="BottomNavBar"><!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo --><!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='14.htm'; return false;">=&gt;</button>-->
++<div class="NavButtonBar" id="BottomNavBar"><!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo --><!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='14.htm'; return false;">=&gt;</button>-->
+ </div>
+ <!-- EndBottomNavButtons --><!-- BeginSubmissionForm --><!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body></html>
+\ Falta o caracter nova linha no final do arquivo

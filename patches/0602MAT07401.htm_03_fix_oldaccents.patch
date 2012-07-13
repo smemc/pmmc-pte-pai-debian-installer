@@ -1,0 +1,37 @@
+--- atividades/0602MAT074/0602MAT07401.htm	2012-06-22 15:00:43.651895239 -0300
++++ atividades/0602MAT074/0602MAT07401.htm.new	2012-06-22 15:00:43.651895239 -0300
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -852,7 +852,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -872,7 +872,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<STRONG>1 - ROSA VAI AO SUPERMECADO COMPRAR BEBIDAS. ELA VAI LEVAR 48 GARRAFAS. PARA CARREGÁ-LAS, SEPAROU ALGUMAS CESTAS. EM CADA CESTA CABEM 6 GARRAFAS. </STRONG><br /><br />QUANTAS CESTAS SERÃO NECESSÁRIAS? <STRONG> - RESPOSTA: SERÃO NECESSÁRIAS <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> CESTAS. </STRONG><br />QUANTAS GARRAFAS AO TODO? <STRONG> - RESPOSTA: AO TODO SÃO <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> GARRAFAS. </STRONG><br />QUANTAS GARRAFAS EM CADA CESTA? <STRONG> - RESPOSTA: SERÃO <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> GARRAFAS EM CADA CESTA. </STRONG><br />QUANTAS SOBRAM? <STRONG> - RESPOSTA: SOBRARAM <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> GARRAFAS </STRONG><br />QUANTAS CESTAS? <STRONG> - RESPOSTA: SÃO <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> CESTAS. </STRONG><br />
++<STRONG>1 - ROSA VAI AO SUPERMECADO COMPRAR BEBIDAS. ELA VAI LEVAR 48 GARRAFAS. PARA CARREG&Aacute;-LAS, SEPAROU ALGUMAS CESTAS. EM CADA CESTA CABEM 6 GARRAFAS. </STRONG><br /><br />QUANTAS CESTAS SER&Atilde;O NECESS&Aacute;RIAS? <STRONG> - RESPOSTA: SER&Atilde;O NECESS&Aacute;RIAS <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> CESTAS. </STRONG><br />QUANTAS GARRAFAS AO TODO? <STRONG> - RESPOSTA: AO TODO S&Atilde;O <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> GARRAFAS. </STRONG><br />QUANTAS GARRAFAS EM CADA CESTA? <STRONG> - RESPOSTA: SER&Atilde;O <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> GARRAFAS EM CADA CESTA. </STRONG><br />QUANTAS SOBRAM? <STRONG> - RESPOSTA: SOBRARAM <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> GARRAFAS </STRONG><br />QUANTAS CESTAS? <STRONG> - RESPOSTA: S&Atilde;O <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> CESTAS. </STRONG><br />
+ </div>
+ </form>
+ </div>

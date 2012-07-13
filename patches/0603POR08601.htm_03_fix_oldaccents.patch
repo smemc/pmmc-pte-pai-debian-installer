@@ -1,0 +1,37 @@
+--- atividades/0603POR086/0603POR08601.htm	2012-06-22 15:02:30.399896843 -0300
++++ atividades/0603POR086/0603POR08601.htm.new	2012-06-22 15:02:30.399896843 -0300
+@@ -468,12 +468,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -881,7 +881,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -901,7 +901,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-1- Verbo escrever no futuro:<br />Amanhã nós <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> uma carta.<br /><br />2- Verbo sentir no presente:<br />Eu <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> saudades de você.<br /><br />3- Verbo acordar no pretérito:<br />Ontem, vós <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> tarde.<br /><br />4- Antônimo de descer: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> <br /><br />5- Sinônimo de repartir: <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> <br /><br />6- Os verbos terminados em "ar" pertencem à que conjugação?<br /><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> <br /><br />7- Os verbos terminados em "er" pertencem à que conjugação?<br /><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> <br /><br />8- Os verbos terminados em "ir" pertencem à que conjugação?<br /><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> <br />
++1- Verbo escrever no futuro:<br />Amanh&atilde; n&oacute;s <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> uma carta.<br /><br />2- Verbo sentir no presente:<br />Eu <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> saudades de voc&ecirc;.<br /><br />3- Verbo acordar no pret&eacute;rito:<br />Ontem, v&oacute;s <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> tarde.<br /><br />4- Ant&ocirc;nimo de descer: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> <br /><br />5- Sin&ocirc;nimo de repartir: <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> <br /><br />6- Os verbos terminados em "ar" pertencem &agrave; que conjuga&ccedil;&atilde;o?<br /><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> <br /><br />7- Os verbos terminados em "er" pertencem &agrave; que conjuga&ccedil;&atilde;o?<br /><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> <br /><br />8- Os verbos terminados em "ir" pertencem &agrave; que conjuga&ccedil;&atilde;o?<br /><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> <br />
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,71 @@
+--- atividades/0403POR003/0403POR00302.htm	2012-06-22 14:57:04.879891952 -0300
++++ atividades/0403POR003/0403POR00302.htm.new	2012-06-22 14:57:04.883891952 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.3 Release 0 Build 3 -->
+ 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Informática - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -354,7 +354,7 @@
+ 	}
+ 	return InArray;
+ }
+-<!-- Orientadores de Informática - Comentado para que não exibe o resultado no enunciado da atividade -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para que n&atilde;o exibe o resultado no enunciado da atividade -->
+ function WriteToInstructions(Feedback) {
+ 	<!-- document.getElementById('InstructionsDiv').innerHTML = Feedback; -->
+ 
+@@ -490,7 +490,7 @@
+ 		Frm.submit();
+ 	}
+ 
+-  	//Orientadores de Informática - Código que exibir o próximo arquivo
++  	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir o pr&oacute;ximo arquivo
+ 	parent.location.href="0403POR00303.htm";
+ 
+ }
+@@ -1091,12 +1091,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Informática - Comentado para não exibir o botão Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Informática - Comentado pra não exibir o botão próximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='fim.htm'; return false;">=&gt;</button>-->
+ 
+@@ -1107,7 +1107,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Informática - Comando incluído para exibir a imagem de cabeçalho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+@@ -1158,7 +1158,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Informática - Comando incluído para exibir o crédito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ 
+ 
+ </body>

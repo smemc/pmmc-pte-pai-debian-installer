@@ -1,0 +1,22 @@
+--- atividades/0602HIS089/0602HIS08902.htm	2012-06-22 14:49:45.671885351 -0300
++++ atividades/0602HIS089/0602HIS08902.htm.new	2012-06-22 15:00:32.487895072 -0300
+@@ -529,7 +529,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','MAE.gif','CASA.gif','FILHOS.gif','AVO.gif','ESCOLA.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','mae.gif','casa.gif','filhos.gif','avo.gif','escola.gif','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -878,8 +878,8 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-Ao longo do tempo a vida das mulheres mudou. Antigamente as coisas eram diferentes...<br />Observe os desenhos e interprete a história.<br /><br />A minha <img src="MAE.gif" width="91" height="94"></img> <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> gosta de cuidar da<img src="CASA.gif" width="127" height="128"></img> <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> e dos<img src="FILHOS.gif" width="142" height="105"></img> <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, mas precisa trabalhar.<br />Diferente da minha<img src="AVO.gif" width="74" height="99"></img> <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;">
+-</input></span>, ela frequentou a<img src="ESCOLA.gif" width="79" height="120"></img> <span class="GapSpan" id="GapSpan4">
++Ao longo do tempo a vida das mulheres mudou. Antigamente as coisas eram diferentes...<br />Observe os desenhos e interprete a história.<br /><br />A minha <img src="mae.gif" width="91" height="94"></img> <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> gosta de cuidar da<img src="casa.gif" width="127" height="128"></img> <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> e dos<img src="filhos.gif" width="142" height="105"></img> <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, mas precisa trabalhar.<br />Diferente da minha<img src="avo.gif" width="74" height="99"></img> <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;">
++</input></span>, ela frequentou a<img src="escola.gif" width="79" height="120"></img> <span class="GapSpan" id="GapSpan4">
+ <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> e tem uma profissão.
+ </div>
+ </form>

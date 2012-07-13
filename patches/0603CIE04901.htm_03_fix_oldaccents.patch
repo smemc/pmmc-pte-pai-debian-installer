@@ -1,0 +1,134 @@
+--- atividades/0603CIE049/0603CIE04901.htm	2012-06-22 15:02:02.223896420 -0300
++++ atividades/0603CIE049/0603CIE04901.htm.new	2012-06-22 15:02:02.227896420 -0300
+@@ -4,7 +4,7 @@
+ <META name="Author" content="Criado usando Galli's QuizFaber 2.10.1">
+ <META name="generator" content="Galli's QuizFaber 2.10.1">
+ <META name="keywords" content="quiz">
+-<META name="description" content="TESTE DE ECONOMIA - Você e sua família sabem economizar água? Faça o teste e confira seus pontos.">
++<META name="description" content="TESTE DE ECONOMIA - Voc&ecirc; e sua fam&iacute;lia sabem economizar &aacute;gua? Fa&ccedil;a o teste e confira seus pontos.">
+ <TITLE>PAI - Pacote de Atividades Educacionais</TITLE>
+    
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+@@ -44,7 +44,7 @@
+ </SCRIPT>
+ 
+ <div class="Titles">
+-  <h2 class="ExerciseTitle">TESTE DE ECONOMIA - Você e sua família sabem economizar água? Faça o teste e confira seus pontos.</h2>
++  <h2 class="ExerciseTitle">TESTE DE ECONOMIA - Voc&ecirc; e sua fam&iacute;lia sabem economizar &aacute;gua? Fa&ccedil;a o teste e confira seus pontos.</h2>
+ </div>
+ 
+ <FORM NAME='domanda'><SCRIPT LANGUAGE='JavaScript'>
+@@ -86,7 +86,7 @@
+ <A NAME='qstAnchor0'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 1</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>PARA LAVAR O CARRO VOCÊS USAM:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>PARA LAVAR O CARRO VOC&Ecirc;S USAM:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -140,7 +140,7 @@
+ <A NAME='qstAnchor1'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 2</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>VOCÊS LIMPAM A CALÇADA COM:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>VOC&Ecirc;S LIMPAM A CAL&Ccedil;ADA COM:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -194,14 +194,14 @@
+ <A NAME='qstAnchor2'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 3</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>PARA REGAR AS PLANTAS VOCÊS USAM:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>PARA REGAR AS PLANTAS VOC&Ecirc;S USAM:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio003000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>UM BALDE OU UM REGADOR, DE MANHÃ OU À NOITE.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>UM BALDE OU UM REGADOR, DE MANH&Atilde; OU &Agrave; NOITE.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio003001'></TD>
+@@ -248,14 +248,14 @@
+ <A NAME='qstAnchor3'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 4</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>QUANDO ESCOVA OS DENTES VOCÊ:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>QUANDO ESCOVA OS DENTES VOC&Ecirc;:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio004000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>DEIXA A ÁGUA ESCORRENDO O TEMPO TODO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>DEIXA A &Aacute;GUA ESCORRENDO O TEMPO TODO</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio004001'></TD>
+@@ -309,12 +309,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio005000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>A TORNEIRA FICA ABERTA ENQUANTO A LOUÇA É ENSABOADA</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>A TORNEIRA FICA ABERTA ENQUANTO A LOU&Ccedil;A &Eacute; ENSABOADA</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio005001'></TD>
+         <TD ALIGN='LEFT'  WIDTH=90%> <FONT  FACE='Arial' SIZE='2'>A TORNEIRA FICA FECHADA 
+-          ENQUANTO A LOUÇA É ENSABOADA, SÓ SENDO ABERTA DE NOVO NA HORA DE ENXAGUAR.</FONT></TD>
++          ENQUANTO A LOU&Ccedil;A &Eacute; ENSABOADA, S&Oacute; SENDO ABERTA DE NOVO NA HORA DE ENXAGUAR.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -363,12 +363,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio006000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>VOCÊ FICA BRINCANDO OU PENSANDO EM BAIXO DO CHUVEIRO ABERTO.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>VOC&Ecirc; FICA BRINCANDO OU PENSANDO EM BAIXO DO CHUVEIRO ABERTO.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio006001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>VOCÊ GASTA O TEMPO SUFICIENTE PARA UM BOM E RÁPIDO BANHO.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>VOC&Ecirc; GASTA O TEMPO SUFICIENTE PARA UM BOM E R&Aacute;PIDO BANHO.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -418,12 +418,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio007000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>O CONSERTO É FEITO RAPIDAMENTE.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>O CONSERTO &Eacute; FEITO RAPIDAMENTE.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio007001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>É MELHOR ESPERAR A COISA ARREBENTAR PARA DEPOIS CHAMAR O ENCANADOR.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Eacute; MELHOR ESPERAR A COISA ARREBENTAR PARA DEPOIS CHAMAR O ENCANADOR.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -465,14 +465,14 @@
+ <A NAME='qstAnchor7'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 8</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>QUANDO EXISTE UM VAZAMENTO NA RUA VOCÊ:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>QUANDO EXISTE UM VAZAMENTO NA RUA VOC&Ecirc;:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio008000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO FAZ NADA PORQUE ACHA QUE NÃO TEM NADA A VER COM ISSO.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O FAZ NADA PORQUE ACHA QUE N&Atilde;O TEM NADA A VER COM ISSO.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio008001'></TD>

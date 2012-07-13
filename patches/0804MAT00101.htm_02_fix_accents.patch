@@ -1,0 +1,62 @@
+--- atividades/0804MAT001/0804MAT00101.htm	2012-06-22 15:03:36.555897837 -0300
++++ atividades/0804MAT001/0804MAT00101.htm.new	2012-06-22 15:03:36.555897837 -0300
+@@ -1,12 +1,12 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="Opera&#x00E7;&#x00F5;es com N&#x00FA;meros Decimais" />
++<meta name="DC:Title" content="Opera&ccedil;&otilde;es com N&uacute;meros Decimais" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -23,7 +23,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -516,11 +516,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var Incorrect = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var Incorrect = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = true;
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -982,16 +982,16 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Opera&#x00E7;&#x00F5;es com N&#x00FA;meros Decimais</h2>
++	<h2 class="ExerciseTitle">Opera&ccedil;&otilde;es com N&uacute;meros Decimais</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Calcule as Adi&#x00E7;&#x00F5;es e Subtra&#x00E7;&#x00F5;es dos n&#x00FA;meros decimais</h3>
++	<h3 class="ExerciseSubtitle">Calcule as Adi&ccedil;&otilde;es e Subtra&ccedil;&otilde;es dos n&uacute;meros decimais</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

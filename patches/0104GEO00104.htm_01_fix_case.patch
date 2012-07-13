@@ -1,0 +1,29 @@
+--- atividades/0104GEO001/0104GEO00104.htm	2012-06-22 14:49:51.847885444 -0300
++++ atividades/0104GEO001/0104GEO00104.htm.new	2012-06-22 14:53:16.803888525 -0300
+@@ -95,22 +95,22 @@
+ <form id="QForm" method="post" action="" onsubmit="return false;">
+ <table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">
+ 
+-<tr><td class="LeftItem"><img src="imagens/Paraiba.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
++<tr><td class="LeftItem"><img src="imagens/paraiba.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
+ <option value="3">Bahia (BA)</option>
+ <option value="0">Para&#x00ED;ba (PB)</option>
+ <option value="1">Sergipe (SE)</option>
+ <option value="2">Alagoas (AL)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Sergipe.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/sergipe.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
+ <option value="3">Bahia (BA)</option>
+ <option value="0">Para&#x00ED;ba (PB)</option>
+ <option value="1">Sergipe (SE)</option>
+ <option value="2">Alagoas (AL)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Alagoas.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/alagoas.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
+ <option value="3">Bahia (BA)</option>
+ <option value="0">Para&#x00ED;ba (PB)</option>
+ <option value="1">Sergipe (SE)</option>
+ <option value="2">Alagoas (AL)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Bahia.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s3_3"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/bahia.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s3_3"><option value="x"></option>
+ <option value="3">Bahia (BA)</option>
+ <option value="0">Para&#x00ED;ba (PB)</option>
+ <option value="1">Sergipe (SE)</option>

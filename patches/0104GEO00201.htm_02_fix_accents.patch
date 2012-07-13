@@ -1,0 +1,29 @@
+--- atividades/0104GEO002/0104GEO00201.htm	2012-06-22 14:53:18.839888556 -0300
++++ atividades/0104GEO002/0104GEO00201.htm.new	2012-06-22 14:53:18.843888556 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -66,7 +66,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-  <p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o &quot;Verificar&quot; para corrigir seu exerc&#x00ED;cio.</p>
++  <p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o &quot;Verificar&quot; para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ <div id="InstructionsDiv" class="Titles">
+   <p align="center" id="Instructions"><img src="imagens/mapa_migra_1.gif" alt="" width="600" height="593" /></p>
+@@ -84,7 +84,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-Esta &#x00E9; a hist&#x00F3;ria de Pedro. Sua fam&#x00ED;lia produz caf&#x00E9; no estado de (1) <span class="GapSpan" id="GapSpan0"><select id="Gap0"><option value=""></option><option value="Bahia">Bahia</option><option value="Mato Grosso">Mato Grosso</option><option value="Rio Grande do Sul">Rio Grande do Sul</option><option value="S&#x00E3;o Paulo">S&#x00E3;o Paulo</option></select></span>. Ainda beb&#x00EA;, mudou-se com seus pais para o interior do estado da (2) <span class="GapSpan" id="GapSpan1"><select id="Gap1"><option value=""></option><option value="Bahia">Bahia</option><option value="Mato Grosso">Mato Grosso</option><option value="Rio Grande do Sul">Rio Grande do Sul</option><option value="S&#x00E3;o Paulo">S&#x00E3;o Paulo</option></select></span>, onde continuavam com o cultivo do caf&#x00E9;. O pai de Pedro recebeu uma proposta para cuidar de uma fazenda de gado no estado do (3) <span class="GapSpan" id="GapSpan2"><select id="Gap2"><option value=""></option><option value="Bahia">Bahia</option><option value="Mato Grosso">Mato Grosso</option><option value="Rio Grande do Sul">Rio Grande do Sul</option><option value="S&#x00E3;o Paulo">S&#x00E3;o Paulo</option></select></span>, para onde se mudaram. Por fim, Pedro e sua fam&#x00ED;lia agora vivem no estado do (4) <span class="GapSpan" id="GapSpan3"><select id="Gap3"><option value=""></option><option value="Bahia">Bahia</option><option value="Mato Grosso">Mato Grosso</option><option value="Rio Grande do Sul">Rio Grande do Sul</option><option value="S&#x00E3;o Paulo">S&#x00E3;o Paulo</option></select></span>, onde aprenderam a cultivar a uva!
++Esta &eacute; a hist&oacute;ria de Pedro. Sua fam&iacute;lia produz caf&eacute; no estado de (1) <span class="GapSpan" id="GapSpan0"><select id="Gap0"><option value=""></option><option value="Bahia">Bahia</option><option value="Mato Grosso">Mato Grosso</option><option value="Rio Grande do Sul">Rio Grande do Sul</option><option value="S&atilde;o Paulo">S&atilde;o Paulo</option></select></span>. Ainda beb&ecirc;, mudou-se com seus pais para o interior do estado da (2) <span class="GapSpan" id="GapSpan1"><select id="Gap1"><option value=""></option><option value="Bahia">Bahia</option><option value="Mato Grosso">Mato Grosso</option><option value="Rio Grande do Sul">Rio Grande do Sul</option><option value="S&atilde;o Paulo">S&atilde;o Paulo</option></select></span>, onde continuavam com o cultivo do caf&eacute;. O pai de Pedro recebeu uma proposta para cuidar de uma fazenda de gado no estado do (3) <span class="GapSpan" id="GapSpan2"><select id="Gap2"><option value=""></option><option value="Bahia">Bahia</option><option value="Mato Grosso">Mato Grosso</option><option value="Rio Grande do Sul">Rio Grande do Sul</option><option value="S&atilde;o Paulo">S&atilde;o Paulo</option></select></span>, para onde se mudaram. Por fim, Pedro e sua fam&iacute;lia agora vivem no estado do (4) <span class="GapSpan" id="GapSpan3"><select id="Gap3"><option value=""></option><option value="Bahia">Bahia</option><option value="Mato Grosso">Mato Grosso</option><option value="Rio Grande do Sul">Rio Grande do Sul</option><option value="S&atilde;o Paulo">S&atilde;o Paulo</option></select></span>, onde aprenderam a cultivar a uva!
+ </div>
+ </form>
+ </div>

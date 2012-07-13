@@ -1,0 +1,38 @@
+--- atividades/0102POR001/xadrez.htm	2012-06-22 14:53:13.439888475 -0300
++++ atividades/0102POR001/xadrez.htm.new	2012-06-22 14:53:13.439888475 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="RGarcia" />
+-<meta name="DC:Title" content="CRUZADINHA - XADREZ - &quot;Jo&#x00E3;o Petroti&quot;" />
++<meta name="DC:Title" content="CRUZADINHA - XADREZ - &quot;Jo&atilde;o Petroti&quot;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -453,7 +453,7 @@
+ var Correct = '';
+ var Incorrect = ''; 
+ var GiveHint = '';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -802,7 +802,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">CRUZADINHA - XADREZ - "Jo&#x00E3;o Petroti"</h2>
++	<h2 class="ExerciseTitle">CRUZADINHA - XADREZ - "Jo&atilde;o Petroti"</h2>
+ 
+ 
+ 
+@@ -847,7 +847,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"></h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Quem levou os jogadores para o xadrez?</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Como s&#x00E3;o chamados os animais de 4 patas usados na alimenta&#x00E7;&#x00E3;o humana?</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Em que dia da semana os animais jogavam xadrez?</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Como era o gato?</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Setembro &#x00E9; um ... !</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Quem levou os jogadores para o xadrez?</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Como s&atilde;o chamados os animais de 4 patas usados na alimenta&ccedil;&atilde;o humana?</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Em que dia da semana os animais jogavam xadrez?</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Como era o gato?</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Setembro &eacute; um ... !</td></tr>
+ 
+ </tbody>
+ </table>

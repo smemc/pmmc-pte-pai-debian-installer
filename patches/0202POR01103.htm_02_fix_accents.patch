@@ -1,0 +1,81 @@
+--- atividades/0202POR011/0202POR01103.htm	2012-06-22 14:55:03.191890122 -0300
++++ atividades/0202POR011/0202POR01103.htm.new	2012-06-22 14:55:03.191890122 -0300
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -833,22 +833,22 @@
+ 
+ <tr><td class="ClueNum">1. </td>
+                 <td id="Clue_A_1" class="Clue">Comemoramos o seu dia em 13 de 
+-                  junho. Quem &#x00E9;?<img src="santoantonio.gif" width="100" height="100" align="absmiddle" /></td>
++                  junho. Quem &eacute;?<img src="santoantonio.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">7. </td>
+-                <td id="Clue_A_7" class="Clue">Dela escutamos m&#x00FA;sicas muito 
++                <td id="Clue_A_7" class="Clue">Dela escutamos m&uacute;sicas muito 
+                   bonitas na noite de Santo Antonio.<img src="sanfona.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">8. </td>
+-                <td id="Clue_A_8" class="Clue">&#x00C9; amarelinha, mas quando 
++                <td id="Clue_A_8" class="Clue">&Eacute; amarelinha, mas quando 
+                   pula, pula, fica branquinha.<img src="pipoca.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">10. </td>
+                 <td id="Clue_A_10" class="Clue">Comemoramos o seu dia em 24 de 
+-                  junho. Quem &#x00E9;?<img src="saojoao.gif" width="100" height="100" align="absmiddle" /></td>
++                  junho. Quem &eacute;?<img src="saojoao.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">11. </td>
+-                <td id="Clue_A_11" class="Clue">Na festa junina &#x00E9; uma dan&#x00E7;a 
++                <td id="Clue_A_11" class="Clue">Na festa junina &eacute; uma dan&ccedil;a 
+                   muito bonita.<img src="quadrilha.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">12. </td>
+-                <td id="Clue_A_12" class="Clue">Nos esquenta nas noites de S&#x00E3;o 
+-                  Jo&#x00E3;o.<img src="fogueira.gif" width="100" height="100" align="absmiddle" /></td>
++                <td id="Clue_A_12" class="Clue">Nos esquenta nas noites de S&atilde;o 
++                  Jo&atilde;o.<img src="fogueira.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr>
+ 
+ </tbody>
+@@ -863,20 +863,20 @@
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical - </h3></td></tr>
+ 
+ <tr><td class="ClueNum">2. </td>
+-                <td id="Clue_D_2" class="Clue">&#x00C9; torradinho, muito gostoso, 
++                <td id="Clue_D_2" class="Clue">&Eacute; torradinho, muito gostoso, 
+                   doce ou salgado.<img src="amendoim.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">3. </td>
+-                <td id="Clue_D_3" class="Clue">&#x00C9; feito com gengibre e cacha&#x00E7;a.<img src="quentao.gif" width="100" height="100" align="absmiddle" /></td>
++                <td id="Clue_D_3" class="Clue">&Eacute; feito com gengibre e cacha&ccedil;a.<img src="quentao.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">4. </td>
+-                <td id="Clue_D_4" class="Clue">&#x00C9; bonito mas perigoso, pode 
++                <td id="Clue_D_4" class="Clue">&Eacute; bonito mas perigoso, pode 
+                   queimar as matas.<img src="balao.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">5. </td>
+                 <td id="Clue_D_5" class="Clue">Todos fazem com o seu par.<img src="danca.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">6. </td>
+-                <td id="Clue_D_6" class="Clue">&#x00C9; a barraquinha mais procurada, 
++                <td id="Clue_D_6" class="Clue">&Eacute; a barraquinha mais procurada, 
+                   usamos vara e anzol.<img src="pescaria.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">9. </td>
+-                <td id="Clue_D_9" class="Clue">Nas festas juninas usamos na cabe&#x00E7;a.<img src="chapeu.gif" width="100" height="100" /></td>
++                <td id="Clue_D_9" class="Clue">Nas festas juninas usamos na cabe&ccedil;a.<img src="chapeu.gif" width="100" height="100" /></td>
+               </tr>
+ 
+ </tbody>

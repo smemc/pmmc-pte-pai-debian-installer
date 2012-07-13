@@ -1,0 +1,11 @@
+--- atividades/1004POR023/1004POR02301.htm	2012-06-22 15:06:18.471900270 -0300
++++ atividades/1004POR023/1004POR02301.htm.new	2012-06-22 15:06:18.471900270 -0300
+@@ -29,7 +29,7 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C OU &#199;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C OU &Ccedil;</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 

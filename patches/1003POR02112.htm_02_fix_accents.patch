@@ -1,0 +1,109 @@
+--- atividades/1003POR021/1003POR02112.htm	2012-06-22 15:05:02.263899125 -0300
++++ atividades/1003POR021/1003POR02112.htm.new	2012-06-22 15:05:02.263899125 -0300
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -45,12 +45,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -61,7 +61,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+@@ -74,8 +74,8 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete as frases com as palavras abaixo e escreva-as 
+-    novamente. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu 
+-    exerc&#x00ED;cio.</div>
++    novamente. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu 
++    exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -97,7 +97,7 @@
+ <div class="ClozeBody">
+ <table border="1" align="center" cellpadding="2" cellspacing="2"><tbody><tr>
+               <td bgcolor="#FFFFFF"><strong><font size="4">ASSOBIO - SUCESSO - 
+-                MASSA - B&#x00DA;SSOLA - AVESSO</font></strong></td>
++                MASSA - B&Uacute;SSOLA - AVESSO</font></strong></td>
+             </tr></tbody></table><br />
+         <table align="center" cellpadding="2" cellspacing="2">
+           <tbody><tr>
+@@ -110,11 +110,11 @@
+                 </input></span></td></tr><tr>
+               <td bordercolor="#FFFFCC" bgcolor="#FFFFCC">b) Para ter <span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="7" maxlength="11">
+-                </input></span> na vida &#x00E9; preciso sorte e dedica&#x00E7;&#x00E3;o.</td></tr><tr>
++                </input></span> na vida &eacute; preciso sorte e dedica&ccedil;&atilde;o.</td></tr><tr>
+               <td bgcolor="#cfe5b8">b) <span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="53" maxlength="60">
+                 </input></span></td></tr><tr>
+-              <td bordercolor="#FFFFCC" bgcolor="#FFFFCC">c) Mam&#x00E3;e preparou 
++              <td bordercolor="#FFFFCC" bgcolor="#FFFFCC">c) Mam&atilde;e preparou 
+                 a <span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" style="width: 5em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="5" maxlength="9">
+                 </input></span> do bolo e acendeu o forno.</td></tr><tr>
+@@ -124,13 +124,13 @@
+               <td bordercolor="#FFFFCC" bgcolor="#FFFFCC">d) O menino ouviu o 
+                 <span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="7" maxlength="11">
+-                </input></span> de seu primo e foi at&#x00E9; o lugar onde ele estava.</td></tr><tr>
++                </input></span> de seu primo e foi at&eacute; o lugar onde ele estava.</td></tr><tr>
+               <td bgcolor="#cfe5b8">d) <span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="72" maxlength="79">
+                 </input></span></td></tr><tr>
+               <td bordercolor="#FFFFCC" bgcolor="#FFFFCC">e) A <span class="GapSpan" id="GapSpan8"> 
+                 <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="7" maxlength="11">
+-                </input></span> &#x00E9; um instrumento de orienta&#x00E7;&#x00E3;o.</td></tr><tr>
++                </input></span> &eacute; um instrumento de orienta&ccedil;&atilde;o.</td></tr><tr>
+               <td bgcolor="#cfe5b8">e) <span class="GapSpan" id="GapSpan9"> 
+                 <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="41" maxlength="48">
+                 </input></span></td></tr></tbody></table>
+@@ -158,12 +158,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -175,7 +175,7 @@
+ <!-- EndBottomNavButtons -->
+ <!-- BeginSubmissionForm -->
+ <!-- EndSubmissionForm -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body>
+ 
+ </html>

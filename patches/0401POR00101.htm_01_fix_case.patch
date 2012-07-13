@@ -1,0 +1,54 @@
+--- atividades/0401POR001/0401POR00101.htm	2012-06-22 14:49:38.579885244 -0300
++++ atividades/0401POR001/0401POR00101.htm.new	2012-06-22 14:57:00.375891883 -0300
+@@ -765,41 +765,41 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='<img src="BA.png" alt="BA.png" title="BA" width="80" height="45"></img>';
++F[0][0]='<img src="ba.png" alt="ba.png" title="BA" width="80" height="45"></img>';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='<img src="BE.png" alt="BE.png" title="BE" width="80" height="45"></img>';
++F[1][0]='<img src="be.png" alt="be.png" title="BE" width="80" height="45"></img>';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='<img src="BI.png" alt="BI.png" title="BI" width="80" height="45"></img>';
++F[2][0]='<img src="bi.png" alt="bi.png" title="BI" width="80" height="45"></img>';
+ F[2][1] = 3;
+ F[3] = new Array();
+-F[3][0]='<img src="BO.png" alt="BO.png" title="BO" width="80" height="45"></img>';
++F[3][0]='<img src="bo.png" alt="bo.png" title="BO" width="80" height="45"></img>';
+ F[3][1] = 4;
+ F[4] = new Array();
+-F[4][0]='<img src="BU.png" alt="BU.png" title="BU" width="80" height="45"></img>';
++F[4][0]='<img src="bu.png" alt="bu.png" title="BU" width="80" height="45"></img>';
+ F[4][1] = 5;
+ 
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<img src="ComesBebes0025.jpg" alt="ComesBebes0025.jpg" title="ComesBebes0025" width="75" height="39" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[0][0]='<img src="comesbebes0025.jpg" alt="comesbebes0025.jpg" title="ComesBebes0025" width="75" height="39" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='<img src="Diversao0252.jpg" alt="Diversao0252.jpg" title="Diversao0252" width="39" height="50" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[1][0]='<img src="diversao0252.jpg" alt="diversao0252.jpg" title="Diversao0252" width="39" height="50" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='<img src="Esporte0224.jpg" alt="Esporte0224.jpg" title="Esporte0224" width="50" height="63" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[2][0]='<img src="esporte0224.jpg" alt="esporte0224.jpg" title="Esporte0224" width="50" height="63" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ D[3] = new Array();
+-D[3][0]='<img src="Animal0009.jpg" alt="Animal0009.jpg" title="Animal0009" width="61" height="46" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[3][0]='<img src="animal0009.jpg" alt="animal0009.jpg" title="Animal0009" width="61" height="46" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[3][1] = 4;
+ D[3][2] = 0;
+ D[4] = new Array();
+-D[4][0]='<img src="Casa0120.jpg" alt="Casa0120.jpg" title="Casa0120" width="55" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[4][0]='<img src="casa0120.jpg" alt="casa0120.jpg" title="Casa0120" width="55" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[4][1] = 5;
+ D[4][2] = 0;
+ 

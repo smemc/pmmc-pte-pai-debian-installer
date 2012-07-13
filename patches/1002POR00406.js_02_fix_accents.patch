@@ -1,0 +1,33 @@
+--- atividades/1002POR004/1002POR00406.js	2012-06-22 15:09:22.943903042 -0300
++++ atividades/1002POR004/1002POR00406.js.new	2012-06-22 15:09:22.943903042 -0300
+@@ -606,9 +606,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = 'Correto. Parab&#x00E9;ns! <br> Agora vamos para o pr&#x00F3;ximo exerc&#x00ED;cio.';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = 'Correto. Parab&eacute;ns! <br> Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#c5c5c5';
+@@ -798,7 +798,7 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<font size =5>BAL&#x00C3;O</font>';
++D[0][0]='<font size =5>BAL&Atilde;O</font>';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+@@ -806,7 +806,7 @@
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='<font size =5>BA&#x00DA;</font>';
++D[2][0]='<font size =5>BA&Uacute;</font>';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ 

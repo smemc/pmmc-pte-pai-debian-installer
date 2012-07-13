@@ -1,0 +1,33 @@
+--- atividades/1004MAT002/1004MAT00202.js	2012-06-22 15:10:36.955904155 -0300
++++ atividades/1004MAT002/1004MAT00202.js.new	2012-06-22 15:10:36.959904155 -0300
+@@ -606,9 +606,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = 'Correto. Parab&#x00E9;ns! <br> Agora vamos para o pr&#x00F3;ximo exerc&#x00ED;cio.';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = 'Correto. Parab&eacute;ns! <br> Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#c5c5c5';
+@@ -786,7 +786,7 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='<img src="imagens/1ter&#x00E7;o.JPG" width="99" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[0][0]='<img src="imagens/1ter&ccedil;o.JPG" width="99" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[0][1] = 1;
+ F[1] = new Array();
+ F[1][0]='<img src="imagens/5sextos.jpg" width="101" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+@@ -798,7 +798,7 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<img src="imagens/umter&#x00E7;o.JPG" width="72" height="74" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[0][0]='<img src="imagens/umter&ccedil;o.JPG" width="72" height="74" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();

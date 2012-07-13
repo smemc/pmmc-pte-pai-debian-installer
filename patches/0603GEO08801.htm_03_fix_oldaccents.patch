@@ -1,0 +1,251 @@
+--- atividades/0603GEO088/0603GEO08801.htm	2012-06-22 15:02:04.303896451 -0300
++++ atividades/0603GEO088/0603GEO08801.htm.new	2012-06-22 15:02:04.303896451 -0300
+@@ -4,7 +4,7 @@
+ <META name="Author" content="Criado usando Galli's QuizFaber 2.10.1">
+ <META name="generator" content="Galli's QuizFaber 2.10.1">
+ <META name="keywords" content="quiz">
+-<META name="description" content="FICHA DE AVALIAÇÃO DO PEDESTRE:">
++<META name="description" content="FICHA DE AVALIA&Ccedil;&Atilde;O DO PEDESTRE:">
+ <TITLE>PAI - Pacote de Atividades Educacionais</TITLE>
+    
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+@@ -43,7 +43,7 @@
+ //-->
+ </SCRIPT>
+ <div class="Titles">
+-  <h2 class="ExerciseTitle">FICHA DE AVALIAÇÃO DO PEDESTRE:</h2>
++  <h2 class="ExerciseTitle">FICHA DE AVALIA&Ccedil;&Atilde;O DO PEDESTRE:</h2>
+ </div>
+ 
+ <FORM NAME='domanda'><SCRIPT LANGUAGE='JavaScript'>
+@@ -90,7 +90,7 @@
+ <A NAME='qstAnchor0'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 1</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>CONHEÇO A SINALIZAÇÃO DA MINHA ESCOLA?</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>CONHE&Ccedil;O A SINALIZA&Ccedil;&Atilde;O DA MINHA ESCOLA?</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -102,12 +102,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio001001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio001002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -154,7 +154,7 @@
+ <A NAME='qstAnchor1'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 2</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>OBEDEÇO À SINALIZAÇÃO EXISTENTE?</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>OBEDE&Ccedil;O &Agrave; SINALIZA&Ccedil;&Atilde;O EXISTENTE?</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -166,12 +166,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio002001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio002002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -218,7 +218,7 @@
+ <A NAME='qstAnchor2'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 3</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>USO MINHA BICICLETA COM SEGURANÇA</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>USO MINHA BICICLETA COM SEGURAN&Ccedil;A</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -230,12 +230,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio003001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio003002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -282,7 +282,7 @@
+ <A NAME='qstAnchor3'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 4</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>OBEDEÇO AO POLICIAL DE TRÂNSITO</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>OBEDE&Ccedil;O AO POLICIAL DE TR&Acirc;NSITO</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -294,12 +294,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio004001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio004002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -346,7 +346,7 @@
+ <A NAME='qstAnchor4'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 5</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>COLABORO NA CONSERVAÇÃO DAS PLACAS DE SINALIZAÇÃO</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>COLABORO NA CONSERVA&Ccedil;&Atilde;O DAS PLACAS DE SINALIZA&Ccedil;&Atilde;O</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -358,12 +358,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio005001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio005002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -410,7 +410,7 @@
+ <A NAME='qstAnchor5'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 6</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>COLABORO COM SEGURANÇA DO TRÂNSITO NÃO ME ARRISCANDO A ATRAVESSAR AS VIAS</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>COLABORO COM SEGURAN&Ccedil;A DO TR&Acirc;NSITO N&Atilde;O ME ARRISCANDO A ATRAVESSAR AS VIAS</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -422,12 +422,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio006001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio006002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -474,7 +474,7 @@
+ <A NAME='qstAnchor6'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 7</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>TENHO CUIDADO QUANDO ANDO DE ÔNIBUS OU DE CARRO</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>TENHO CUIDADO QUANDO ANDO DE &Ocirc;NIBUS OU DE CARRO</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -486,12 +486,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio007001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio007002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -538,7 +538,7 @@
+ <A NAME='qstAnchor7'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 8</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>SÓ ATRAVESSO NAS FAIXAS DE SEGURANÇA</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>S&Oacute; ATRAVESSO NAS FAIXAS DE SEGURAN&Ccedil;A</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -550,12 +550,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio008001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio008002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -602,7 +602,7 @@
+ <A NAME='qstAnchor8'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 9</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>SÓ ATRAVESSO AS VIAS DEPOIS DE OLHAR COM BASTANTE ATENÇÃO</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>S&Oacute; ATRAVESSO AS VIAS DEPOIS DE OLHAR COM BASTANTE ATEN&Ccedil;&Atilde;O</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -614,12 +614,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio009001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio009002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -678,12 +678,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio010001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>N&Atilde;O</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio010002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÀS VEZES</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Agrave;S VEZES</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>

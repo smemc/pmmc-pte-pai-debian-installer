@@ -1,0 +1,11 @@
+--- atividades/0602HIS092/0602HIS09201.js	2012-06-22 15:07:47.935901615 -0300
++++ atividades/0602HIS092/0602HIS09201.js.new	2012-06-22 15:07:47.939901613 -0300
+@@ -791,7 +791,7 @@
+ }
+ 
+ 
+-function clicar() { //função responsável pelo tratamento do botão direito do mouse no IE
++function clicar() { //fun&ccedil;&atilde;o respons&aacute;vel pelo tratamento do bot&atilde;o direito do mouse no IE
+       		if (event.button==2) {
+         		alert(' Obrigado pela Visita! ');
+       		}

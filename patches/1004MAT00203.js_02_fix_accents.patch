@@ -1,0 +1,16 @@
+--- atividades/1004MAT002/1004MAT00203.js	2012-06-22 15:10:37.963904168 -0300
++++ atividades/1004MAT002/1004MAT00203.js.new	2012-06-22 15:10:37.967904169 -0300
+@@ -478,10 +478,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns! Bom trabalho. <br><br> Agora vamos para o pr&#x00F3;ximo exerc&#x00ED;cio.';
+-var Incorrect = 'Algumas respostas est&#x00E3;o erradas. Tente novamente.'; 
++var Correct = 'Parab&eacute;ns! Bom trabalho. <br><br> Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
++var Incorrect = 'Algumas respostas est&atilde;o erradas. Tente novamente.'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

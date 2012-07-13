@@ -1,0 +1,38 @@
+--- atividades/0804CIE002/0804CIE00201.htm	2012-06-22 15:03:32.899897781 -0300
++++ atividades/0804CIE002/0804CIE00201.htm.new	2012-06-22 15:03:32.903897782 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -63,7 +63,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para completar a Cruzadinha. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para completar a Cruzadinha. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -101,7 +101,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"><b>Horizontal:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">A superf&#x00ED;cie da Terra &#x00E9; formada por uma camada</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">A forma&#x00E7;&#x00E3;o de rochas &#x00E9; litosfera ou a</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">A atmosfera &#x00E9; uma camada</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Grande parte do planeta &#x00E9; recoberto por</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">A maior por&#x00E7;&#x00E3;o da Litosfera &#x00E9; coberta pelos</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">A camada de ar que envolve a Terra &#x00E9; chamada de</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">O planeta Terra visto do espa&#x00E7;o apresenta a cor</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">A camada de &#x00E1;gua que cobre a Terra &#x00E9; chamada de</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">A superf&iacute;cie da Terra &eacute; formada por uma camada</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">A forma&ccedil;&atilde;o de rochas &eacute; litosfera ou a</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">A atmosfera &eacute; uma camada</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Grande parte do planeta &eacute; recoberto por</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">A maior por&ccedil;&atilde;o da Litosfera &eacute; coberta pelos</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">A camada de ar que envolve a Terra &eacute; chamada de</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">O planeta Terra visto do espa&ccedil;o apresenta a cor</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">A camada de &aacute;gua que cobre a Terra &eacute; chamada de</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -114,7 +114,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel"><b>Vertical:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">A camada s&#x00F3;lida da superf&#x00ED;cie terrestre &#x00E9; a</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">A superf&#x00ED;cie da Terra &#x00E9; totalmente envolvida por uma</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">A atmosfera &#x00E9; formada por</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">Faz parte da camada mais superficial da Litosfera</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">A camada s&oacute;lida da superf&iacute;cie terrestre &eacute; a</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">A superf&iacute;cie da Terra &eacute; totalmente envolvida por uma</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">A atmosfera &eacute; formada por</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">Faz parte da camada mais superficial da Litosfera</td></tr>
+ 
+ </tbody>
+ </table>

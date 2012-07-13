@@ -1,0 +1,35 @@
+--- atividades/0704CIE004/0704CIE00402.js	2012-06-22 15:08:03.151901843 -0300
++++ atividades/0704CIE004/0704CIE00402.js.new	2012-06-22 15:08:03.151901843 -0300
+@@ -315,7 +315,7 @@
+ }
+ 
+ function WriteToInstructions(Feedback) {
+-	// Orientadores de Inform&#225;tica - N&#227;o permite substituir as instru&#231;&#245;es 
++	// Orientadores de Inform&aacute;tica - N&atilde;o permite substituir as instru&ccedil;&otilde;es 
+ 	// document.getElementById('InstructionsDiv').innerHTML = Feedback;
+ 	
+ 
+@@ -431,7 +431,7 @@
+ 		Frm.submit();
+ 	}
+ 	{
+-	//Orientadores de Inform&#225;tica - C&#243;digo que exibir&#225; o pr&#243;ximo arquivo
++	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir&aacute; o pr&oacute;ximo arquivo
+ 		parent.location.href="../imagens/fim.htm";
+ 	}
+ }
+@@ -453,11 +453,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

@@ -1,0 +1,85 @@
+--- atividades/0104GEO001/0104GEO00103.htm	2012-06-22 14:53:16.319888518 -0300
++++ atividades/0104GEO001/0104GEO00103.htm.new	2012-06-22 14:53:16.323888518 -0300
+@@ -5,13 +5,13 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="Bandeiras dos Estados Brasileiros - Regi&#x00E3;o Nordeste" />
++<meta name="DC:Title" content="Bandeiras dos Estados Brasileiros - Regi&atilde;o Nordeste" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+ <title>
+-Bandeiras dos Estados Brasileiros - Regi&#x00E3;o Nordeste
++Bandeiras dos Estados Brasileiros - Regi&atilde;o Nordeste
+ </title>
+ 
+ <!-- Made with executable version 6.2 Release 4 Build 4 -->
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -73,7 +73,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Bandeiras dos Estados Brasileiros - Regi&#x00E3;o Nordeste</h2>
++	<h2 class="ExerciseTitle">Bandeiras dos Estados Brasileiros - Regi&atilde;o Nordeste</h2>
+ 
+ 
+ 
+@@ -96,33 +96,33 @@
+ <table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">
+ 
+ <tr><td class="LeftItem"><img src="imagens/maranhao.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
+-<option value="1">Piau&#x00ED; (PI)</option>
+-<option value="0">Maranh&#x00E3;o (MA)</option>
+-<option value="2">Cear&#x00E1; (CE)</option>
++<option value="1">Piau&iacute; (PI)</option>
++<option value="0">Maranh&atilde;o (MA)</option>
++<option value="2">Cear&aacute; (CE)</option>
+ <option value="3">Rio Grande do Norte (RN)</option>
+ <option value="4">Pernambuco (PE)</option>
+ </select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/piaui.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
+-<option value="1">Piau&#x00ED; (PI)</option>
+-<option value="0">Maranh&#x00E3;o (MA)</option>
+-<option value="2">Cear&#x00E1; (CE)</option>
++<option value="1">Piau&iacute; (PI)</option>
++<option value="0">Maranh&atilde;o (MA)</option>
++<option value="2">Cear&aacute; (CE)</option>
+ <option value="3">Rio Grande do Norte (RN)</option>
+ <option value="4">Pernambuco (PE)</option>
+ </select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/ceara.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
+-<option value="1">Piau&#x00ED; (PI)</option>
+-<option value="0">Maranh&#x00E3;o (MA)</option>
+-<option value="2">Cear&#x00E1; (CE)</option>
++<option value="1">Piau&iacute; (PI)</option>
++<option value="0">Maranh&atilde;o (MA)</option>
++<option value="2">Cear&aacute; (CE)</option>
+ <option value="3">Rio Grande do Norte (RN)</option>
+ <option value="4">Pernambuco (PE)</option>
+ </select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/rio_grande_do_norte.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s3_3"><option value="x"></option>
+-<option value="1">Piau&#x00ED; (PI)</option>
+-<option value="0">Maranh&#x00E3;o (MA)</option>
+-<option value="2">Cear&#x00E1; (CE)</option>
++<option value="1">Piau&iacute; (PI)</option>
++<option value="0">Maranh&atilde;o (MA)</option>
++<option value="2">Cear&aacute; (CE)</option>
+ <option value="3">Rio Grande do Norte (RN)</option>
+ <option value="4">Pernambuco (PE)</option>
+ </select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/pernambuco.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s4_4"><option value="x"></option>
+-<option value="1">Piau&#x00ED; (PI)</option>
+-<option value="0">Maranh&#x00E3;o (MA)</option>
+-<option value="2">Cear&#x00E1; (CE)</option>
++<option value="1">Piau&iacute; (PI)</option>
++<option value="0">Maranh&atilde;o (MA)</option>
++<option value="2">Cear&aacute; (CE)</option>
+ <option value="3">Rio Grande do Norte (RN)</option>
+ <option value="4">Pernambuco (PE)</option>
+ </select></td><td></td></tr>

@@ -1,0 +1,52 @@
+--- atividades/1004POR023/1004POR02312.htm	2012-06-22 15:06:23.531900346 -0300
++++ atividades/1004POR023/1004POR02312.htm.new	2012-06-22 15:06:23.531900346 -0300
+@@ -1,11 +1,11 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="PALAVRAS COM C OU &#x00C7;" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
++<meta name="DC:Title" content="PALAVRAS COM C OU &Ccedil;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -33,12 +33,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR02313.htm'; return false;">=&gt;</button>-->
+ 
+@@ -50,7 +50,7 @@
+ <!-- EndTopNavButtons -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C OU &#x00C7;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C OU &Ccedil;</h2>
+ 
+ 
+ 
+@@ -58,8 +58,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Coloque as s&#x00ED;labas em ordem para formar palavras. 
+-    Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Coloque as s&iacute;labas em ordem para formar palavras. 
++    Depois de conclu&iacute;do, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

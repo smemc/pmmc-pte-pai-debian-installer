@@ -1,0 +1,29 @@
+--- atividades/0603POR014/0603POR01401.htm	2012-06-22 15:02:28.223896809 -0300
++++ atividades/0603POR014/0603POR01401.htm.new	2012-06-22 15:02:28.227896808 -0300
+@@ -3,7 +3,7 @@
+ <head>
+ <meta http-equiv="Content-Language" content="pt-br">
+ <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ </head>
+ 
+@@ -23,7 +23,7 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">CONTINUE A ESCREVER O TEXTO ABAIXO ACRESCENTANDO NOVOS DETALHES E AMPLIANDO AS INFORMAÇÕES APRESENTADAS (ONDE FORAM, O QUE FIZERAM, COMO VOLTARAM, ETC.)</h2>
++	<h2 class="ExerciseTitle">CONTINUE A ESCREVER O TEXTO ABAIXO ACRESCENTANDO NOVOS DETALHES E AMPLIANDO AS INFORMA&Ccedil;&Otilde;ES APRESENTADAS (ONDE FORAM, O QUE FIZERAM, COMO VOLTARAM, ETC.)</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+ </div>
+ 
+@@ -34,7 +34,7 @@
+ <div id="MainDiv" class="StdDiv">
+ 	<div id="ClozeDiv">
+ 		<form method="POST" action="--WEBBOT-SELF--">
+-			<p align="center"><textarea rows="22" name="S1" cols="104">Minha turma combinou de sair no feriado, então...</textarea></p>
++			<p align="center"><textarea rows="22" name="S1" cols="104">Minha turma combinou de sair no feriado, ent&atilde;o...</textarea></p>
+ 		</form>
+ 	</div>
+ </div>

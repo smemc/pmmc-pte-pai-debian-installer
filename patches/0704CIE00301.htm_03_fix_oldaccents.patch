@@ -1,0 +1,363 @@
+--- atividades/0704CIE003/0704CIE00301.htm	2012-06-22 15:03:08.555897417 -0300
++++ atividades/0704CIE003/0704CIE00301.htm.new	2012-06-22 15:03:08.559897417 -0300
+@@ -4,7 +4,7 @@
+ <META name="Author" content="Criado usando Galli's QuizFaber 2.10.1">
+ <META name="generator" content="Galli's QuizFaber 2.10.1">
+ <META name="keywords" content="quiz">
+-<META name="description" content="MARQUE A RESPOSTA CORRETA DE CADA QUESTÃO">
++<META name="description" content="MARQUE A RESPOSTA CORRETA DE CADA QUEST&Atilde;O">
+ 
+ <TITLE>PAI - Pacote de Atividades Educacionais</TITLE>
+    
+@@ -46,7 +46,7 @@
+ </SCRIPT>
+ 
+ <div class="Titles">
+-  <h2 class="ExerciseTitle">MARQUE A RESPOSTA CORRETA DE CADA QUESTÃO</h2>
++  <h2 class="ExerciseTitle">MARQUE A RESPOSTA CORRETA DE CADA QUEST&Atilde;O</h2>
+ </div>
+ 
+ <div id="MainDiv" class="StdDiv">
+@@ -54,7 +54,7 @@
+     
+ <P><CENTER><TABLE WIDTH='80%'>
+ <TD ALIGN=LEFT>
+-<FONT  COLOR='#FFFFFF'>Você está completamente envolvido pela água que abriga e movimenta toda vida na Terra. Tem água acima, abaixo, dentro e fora de você... <br />MAS VOCÊ CONHECE E DÁ A DEVIDA IMPORTÂNCIA A ESSE ASSUNTO?</FONT></TD></TABLE></CENTER>
++<FONT  COLOR='#FFFFFF'>Voc&ecirc; est&aacute; completamente envolvido pela &aacute;gua que abriga e movimenta toda vida na Terra. Tem &aacute;gua acima, abaixo, dentro e fora de voc&ecirc;... <br />MAS VOC&Ecirc; CONHECE E D&Aacute; A DEVIDA IMPORT&Acirc;NCIA A ESSE ASSUNTO?</FONT></TD></TABLE></CENTER>
+ <P>
+ <HR WIDTH='80%'>
+ <FORM NAME='domanda'><SCRIPT LANGUAGE='JavaScript'>
+@@ -92,7 +92,7 @@
+ <A NAME='qstAnchor0'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 1</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>1 - A água representa cerca de:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>1 - A &aacute;gua representa cerca de:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -146,7 +146,7 @@
+ <A NAME='qstAnchor1'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 2</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>2 - Além de usada para beber, cozinhar, nos divertir, produzir alimentos, no transporte e na higiene, a água e um recurso importante na geração de:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>2 - Al&eacute;m de usada para beber, cozinhar, nos divertir, produzir alimentos, no transporte e na higiene, a &aacute;gua e um recurso importante na gera&ccedil;&atilde;o de:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -177,7 +177,7 @@
+  valuation = DecodeNumber(17,2,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio003001.checked==true);
+- answer = "é inodora e incolor.";
++ answer = "&eacute; inodora e incolor.";
+  remark = "";
+  valuation = DecodeNumber(19,2,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -200,7 +200,7 @@
+ <A NAME='qstAnchor2'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 3</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>3 - A água potável:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>3 - A &aacute;gua pot&aacute;vel:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -212,7 +212,7 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio003001'  OnClick=" document.domanda.radio003000.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>é inodora e incolor.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&eacute; inodora e incolor.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -226,12 +226,12 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio004000.checked==true);
+- answer = "o despejo de esgoto doméstico sem tratamento nos rios.";
++ answer = "o despejo de esgoto dom&eacute;stico sem tratamento nos rios.";
+  remark = "";
+  valuation = DecodeNumber(11,3,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio004001.checked==true);
+- answer = "a criação de peixes.";
++ answer = "a cria&ccedil;&atilde;o de peixes.";
+  remark = "";
+  valuation = DecodeNumber(9,3,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -254,19 +254,19 @@
+ <A NAME='qstAnchor3'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 4</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>4 - Um dos grandes problemas da contaminação da água é:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>4 - Um dos grandes problemas da contamina&ccedil;&atilde;o da &aacute;gua &eacute;:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='radio' NAME='radio004000'  OnClick=" document.domanda.radio004001.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>o despejo de esgoto doméstico sem tratamento nos rios.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>o despejo de esgoto dom&eacute;stico sem tratamento nos rios.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio004001'  OnClick=" document.domanda.radio004000.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>a criação de peixes.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>a cria&ccedil;&atilde;o de peixes.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -280,12 +280,12 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio005000.checked==true);
+- answer = "um problema sem importância.";
++ answer = "um problema sem import&acirc;ncia.";
+  remark = "";
+  valuation = DecodeNumber(3,4,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio005001.checked==true);
+- answer = "a principal causa do desequilíbrio ecológico do ambiente aquático.";
++ answer = "a principal causa do desequil&iacute;brio ecol&oacute;gico do ambiente aqu&aacute;tico.";
+  remark = "";
+  valuation = DecodeNumber(5,4,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -308,19 +308,19 @@
+ <A NAME='qstAnchor4'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 5</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>5 - A poluição das águas é:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>5 - A polui&ccedil;&atilde;o das &aacute;guas &eacute;:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='radio' NAME='radio005000'  OnClick=" document.domanda.radio005001.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>um problema sem importância.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>um problema sem import&acirc;ncia.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio005001'  OnClick=" document.domanda.radio005000.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>a principal causa do desequilíbrio ecológico do ambiente aquático.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>a principal causa do desequil&iacute;brio ecol&oacute;gico do ambiente aqu&aacute;tico.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -334,7 +334,7 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio006000.checked==true);
+- answer = "sólido.";
++ answer = "s&oacute;lido.";
+  remark = "";
+  valuation = DecodeNumber(23,5,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -362,14 +362,14 @@
+ <A NAME='qstAnchor5'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 6</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>6 - Nas nuvens encontramos a água no estado:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>6 - Nas nuvens encontramos a &aacute;gua no estado:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='radio' NAME='radio006000'  OnClick=" document.domanda.radio006001.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>sólido.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>s&oacute;lido.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio006001'  OnClick=" document.domanda.radio006000.checked=0;" ></TD>
+@@ -388,7 +388,7 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio007000.checked==true);
+- answer = "água.";
++ answer = "&aacute;gua.";
+  remark = "";
+  valuation = DecodeNumber(19,6,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -416,14 +416,14 @@
+ <A NAME='qstAnchor6'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 7</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>7 - A maior parte da superfície da Terra é coberta por:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>7 - A maior parte da superf&iacute;cie da Terra &eacute; coberta por:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='radio' NAME='radio007000'  OnClick=" document.domanda.radio007001.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>água.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&aacute;gua.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio007001'  OnClick=" document.domanda.radio007000.checked=0;" ></TD>
+@@ -442,12 +442,12 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio008000.checked==true);
+- answer = "é importante, pois assim não contamina o solo.";
++ answer = "&eacute; importante, pois assim n&atilde;o contamina o solo.";
+  remark = "";
+  valuation = DecodeNumber(23,7,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio008001.checked==true);
+- answer = "é muito prejudicial, pois estas substâncias, além de deixarem a água imprópria para o consumo humano, provocam a morte de peixes e outros organismos aquáticos.";
++ answer = "&eacute; muito prejudicial, pois estas subst&acirc;ncias, al&eacute;m de deixarem a &aacute;gua impr&oacute;pria para o consumo humano, provocam a morte de peixes e outros organismos aqu&aacute;ticos.";
+  remark = "";
+  valuation = DecodeNumber(25,7,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -470,19 +470,19 @@
+ <A NAME='qstAnchor7'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 8</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>8 - O depósito de resíduos industriais nos rios:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>8 - O dep&oacute;sito de res&iacute;duos industriais nos rios:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='radio' NAME='radio008000'  OnClick=" document.domanda.radio008001.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>é importante, pois assim não contamina o solo.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&eacute; importante, pois assim n&atilde;o contamina o solo.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio008001'  OnClick=" document.domanda.radio008000.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>é muito prejudicial, pois estas substâncias, além de deixarem a água imprópria para o consumo humano, provocam a morte de peixes e outros organismos aquáticos.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&eacute; muito prejudicial, pois estas subst&acirc;ncias, al&eacute;m de deixarem a &aacute;gua impr&oacute;pria para o consumo humano, provocam a morte de peixes e outros organismos aqu&aacute;ticos.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -496,12 +496,12 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio009000.checked==true);
+- answer = "46 litros de água por dia.";
++ answer = "46 litros de &aacute;gua por dia.";
+  remark = "";
+  valuation = DecodeNumber(19,8,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio009001.checked==true);
+- answer = "46 litros de água por semana.";
++ answer = "46 litros de &aacute;gua por semana.";
+  remark = "";
+  valuation = DecodeNumber(17,8,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -524,19 +524,19 @@
+ <A NAME='qstAnchor8'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 9</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>9 - Uma torneira pingando pode desperdiçar em média:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>9 - Uma torneira pingando pode desperdi&ccedil;ar em m&eacute;dia:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='radio' NAME='radio009000'  OnClick=" document.domanda.radio009001.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>46 litros de água por dia.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>46 litros de &aacute;gua por dia.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio009001'  OnClick=" document.domanda.radio009000.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>46 litros de água por semana.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>46 litros de &aacute;gua por semana.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -578,7 +578,7 @@
+ <A NAME='qstAnchor9'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 10</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>10 - Para poupar água devemos:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>10 - Para poupar &aacute;gua devemos:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+@@ -604,12 +604,12 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio011000.checked==true);
+- answer = "10 dias sem comer e até 15 sem beber água.";
++ answer = "10 dias sem comer e at&eacute; 15 sem beber &aacute;gua.";
+  remark = "";
+  valuation = DecodeNumber(3,10,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio011001.checked==true);
+- answer = "28 dias sem comer, mas apenas 3 dias sem beber água.";
++ answer = "28 dias sem comer, mas apenas 3 dias sem beber &aacute;gua.";
+  remark = "";
+  valuation = DecodeNumber(5,10,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -632,19 +632,19 @@
+ <A NAME='qstAnchor10'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 11</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>11 - Quanto tempo podemos ficar sem beber água?</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>11 - Quanto tempo podemos ficar sem beber &aacute;gua?</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='radio' NAME='radio011000'  OnClick=" document.domanda.radio011001.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>10 dias sem comer e até 15 sem beber água.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>10 dias sem comer e at&eacute; 15 sem beber &aacute;gua.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio011001'  OnClick=" document.domanda.radio011000.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>28 dias sem comer, mas apenas 3 dias sem beber água.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>28 dias sem comer, mas apenas 3 dias sem beber &aacute;gua.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -658,12 +658,12 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio012000.checked==true);
+- answer = "aproximadamente 3% da água existente.";
++ answer = "aproximadamente 3% da &aacute;gua existente.";
+  remark = "";
+  valuation = DecodeNumber(25,11,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio012001.checked==true);
+- answer = "5,2% da água existente.";
++ answer = "5,2% da &aacute;gua existente.";
+  remark = "";
+  valuation = DecodeNumber(23,11,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -686,19 +686,19 @@
+ <A NAME='qstAnchor11'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 12</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>12 - 70% do nosso Planeta é coberto por água. De toda esta água, apenas uma pequena parte e água doce. Esta parte representa:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>12 - 70% do nosso Planeta &eacute; coberto por &aacute;gua. De toda esta &aacute;gua, apenas uma pequena parte e &aacute;gua doce. Esta parte representa:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='radio' NAME='radio012000'  OnClick=" document.domanda.radio012001.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>aproximadamente 3% da água existente.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>aproximadamente 3% da &aacute;gua existente.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='radio' NAME='radio012001'  OnClick=" document.domanda.radio012000.checked=0;" ></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>5,2% da água existente.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>5,2% da &aacute;gua existente.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>

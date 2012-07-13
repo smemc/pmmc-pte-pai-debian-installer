@@ -1,0 +1,29 @@
+--- atividades/0803POR007/0803POR00702.htm	2012-06-22 15:03:21.203897604 -0300
++++ atividades/0803POR007/0803POR00702.htm.new	2012-06-22 15:03:21.203897604 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -64,7 +64,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Escreva as frases abaixo no plural. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Escreva as frases abaixo no plural. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -84,7 +84,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table width="15%" align="center" border="2" cellpadding="0" cellspacing="0" bordercolor="#003399"><tbody><tr align="center"><td class="ExerciseSubtitle"><b>Est&#x00E1; <img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16"></img> Est&#x00E3;o</b></td></tr></tbody></table><br /><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) O biscoito est&#x00E1; gostoso.</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>b) O poste est&#x00E1; iluminado.</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>c) A cesta est&#x00E1; cheia.</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>d) A escova est&#x00E1; velha.</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>e) A p&#x00EA;ra est&#x00E1; madura.</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>f) O vestido est&#x00E1; bonito.</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>g) O espelho est&#x00E1; quebrado.</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>h) O f&#x00F3;sforo est&#x00E1; riscado.</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr></tbody></table>
++<table width="15%" align="center" border="2" cellpadding="0" cellspacing="0" bordercolor="#003399"><tbody><tr align="center"><td class="ExerciseSubtitle"><b>Est&aacute; <img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16"></img> Est&atilde;o</b></td></tr></tbody></table><br /><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) O biscoito est&aacute; gostoso.</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>b) O poste est&aacute; iluminado.</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>c) A cesta est&aacute; cheia.</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>d) A escova est&aacute; velha.</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>e) A p&ecirc;ra est&aacute; madura.</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>f) O vestido est&aacute; bonito.</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>g) O espelho est&aacute; quebrado.</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>h) O f&oacute;sforo est&aacute; riscado.</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

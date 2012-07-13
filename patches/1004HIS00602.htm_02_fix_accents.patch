@@ -1,0 +1,69 @@
+--- atividades/1004HIS006/1004HIS00602.htm	2012-06-22 15:05:11.407899263 -0300
++++ atividades/1004HIS006/1004HIS00602.htm.new	2012-06-22 15:05:11.407899263 -0300
+@@ -5,13 +5,13 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson S. Freitas Jr." />
+-<meta name="DC:Title" content="Imigra&#x00E7;&#x00E3;o japonesa" />
++<meta name="DC:Title" content="Imigra&ccedil;&atilde;o japonesa" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+ <title>
+-Imigra&#x00E7;&#x00E3;o japonesa
++Imigra&ccedil;&atilde;o japonesa
+ </title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 23 -->
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -445,11 +445,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Correto. Parab&#x00E9;ns!';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Preste aten&#x00E7;&#x00E3;o'; 
++var Correct = 'Correto. Parab&eacute;ns!';
++var Incorrect = 'Algumas est&atilde;o erradas... Preste aten&ccedil;&atilde;o'; 
+ var GiveHint = 'Muito bem';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -939,7 +939,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Complete as frases com as palavras que est&#x00E3;o no quadro logo abaixo:</p>
++	<p id="Instructions">Complete as frases com as palavras que est&atilde;o no quadro logo abaixo:</p>
+ </div>
+ 
+ 
+@@ -960,13 +960,13 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table border="2" cellpadding="2" cellspacing="2" align="center" bgcolor="white"><tbody><tr>
+-              <td><font size = 4>CAF&#x00C9; - CARLOS ARRUDA - COSTUMES - DEKASSEGUI 
+-                - &#x00CA;XODO - IMIGRA&#x00C7;&#x00C3;O 
+-                <P><br />INTERIOR - JAP&#x00C3;O - JAPONESES - KASATO MARU - KOBE - LIBERDADE <P><br />NIPO-BRASILEIRA - RYU MIZUNO - SANTOS - TAIWAN, COR&#x00C9;IA, MANCH&#x00DA;RIA - VERDURAS</font></td></tr></tbody></table><br /><br /><table cellpadding="2" cellspacing="2"><br /><tbody><tr>
++              <td><font size = 4>CAF&Eacute; - CARLOS ARRUDA - COSTUMES - DEKASSEGUI 
++                - &Ecirc;XODO - IMIGRA&Ccedil;&Atilde;O 
++                <P><br />INTERIOR - JAP&Atilde;O - JAPONESES - KASATO MARU - KOBE - LIBERDADE <P><br />NIPO-BRASILEIRA - RYU MIZUNO - SANTOS - TAIWAN, COR&Eacute;IA, MANCH&Uacute;RIA - VERDURAS</font></td></tr></tbody></table><br /><br /><table cellpadding="2" cellspacing="2"><br /><tbody><tr>
+               <td><font size = 4>1) A <span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="9"></input> 
+                 </span> japonesa completou 100 anos no Brasil em 2008.</font></td>
+-            </tr><tr><td><font size = 4>2) Os <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="9"></input></span> vieram a bordo de um navio para o Brasil.</font></td></tr><tr><td><font size = 4>3) O empres&#x00E1;rio <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> fechou um acordo com o secret&#x00E1;rio da Agricultura de S&#x00E3;o Paulo que era <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="13"></input></span>.</font></td></tr><tr><td><font size = 4>4) O nome do navio que trouxe os japoneses chamava-se <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</font></td></tr><tr><td><font size = 4>5) Esse navio saiu do porto de <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span> no <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span>.</font></td></tr><tr><td><font size = 4>6) Os japoneses chegaram ao porto de <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</font></td></tr><tr><td><font size = 4>7) Os imigrantes japoneses vieram trabalhar nas lavouras de <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span>.</font></td></tr><tr><td><font size = 4>8) Houve problemas pois os japoneses tinham <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> diferentes dos fazendeiros.</font></td></tr><tr><td><font size = 4>9) O <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> foi a sa&#x00ED;da dos japoneses dos campos para os centros urbanos.</font></td></tr><tr><td><font size = 4>10) Muitos japoneses sa&#x00ED;ram dos campos e foram para o <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> paulista trabalhar no cultivo de <span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</font></td></tr><tr><td><font size = 4>11) Surgiram escolas voltadas para a comunidade <span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="15"></input></span>.</font></td></tr><tr><td><font size = 4>12) Os japoneses foram para a capital, formaram o que hoje chamamos de bairro da <span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>.</font></td></tr><tr><td><font size = 4>13) O Jap&#x00E3;o tinha o dom&#x00ED;nio das cidades de <span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, <span class="GapSpan" id="GapSpan16"><input type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> e <span class="GapSpan" id="GapSpan17"><input type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>.</font></td></tr><tr><td><font size = 4>14) <span class="GapSpan" id="GapSpan18"><input type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> &#x00E9; o nome dado &#x00E0; pessoa que deixa seu pa&#x00ED;s para trabalhar em outro.</font></td></tr></tbody></table>
++            </tr><tr><td><font size = 4>2) Os <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="9"></input></span> vieram a bordo de um navio para o Brasil.</font></td></tr><tr><td><font size = 4>3) O empres&aacute;rio <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> fechou um acordo com o secret&aacute;rio da Agricultura de S&atilde;o Paulo que era <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="13"></input></span>.</font></td></tr><tr><td><font size = 4>4) O nome do navio que trouxe os japoneses chamava-se <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</font></td></tr><tr><td><font size = 4>5) Esse navio saiu do porto de <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span> no <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span>.</font></td></tr><tr><td><font size = 4>6) Os japoneses chegaram ao porto de <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</font></td></tr><tr><td><font size = 4>7) Os imigrantes japoneses vieram trabalhar nas lavouras de <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span>.</font></td></tr><tr><td><font size = 4>8) Houve problemas pois os japoneses tinham <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> diferentes dos fazendeiros.</font></td></tr><tr><td><font size = 4>9) O <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> foi a sa&iacute;da dos japoneses dos campos para os centros urbanos.</font></td></tr><tr><td><font size = 4>10) Muitos japoneses sa&iacute;ram dos campos e foram para o <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> paulista trabalhar no cultivo de <span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</font></td></tr><tr><td><font size = 4>11) Surgiram escolas voltadas para a comunidade <span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="15"></input></span>.</font></td></tr><tr><td><font size = 4>12) Os japoneses foram para a capital, formaram o que hoje chamamos de bairro da <span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>.</font></td></tr><tr><td><font size = 4>13) O Jap&atilde;o tinha o dom&iacute;nio das cidades de <span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, <span class="GapSpan" id="GapSpan16"><input type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> e <span class="GapSpan" id="GapSpan17"><input type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>.</font></td></tr><tr><td><font size = 4>14) <span class="GapSpan" id="GapSpan18"><input type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> &eacute; o nome dado &agrave; pessoa que deixa seu pa&iacute;s para trabalhar em outro.</font></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

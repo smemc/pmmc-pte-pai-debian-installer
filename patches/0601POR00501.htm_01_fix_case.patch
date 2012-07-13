@@ -1,0 +1,29 @@
+--- atividades/0601POR005/0601POR00501.htm	2012-06-22 14:49:54.519885486 -0300
++++ atividades/0601POR005/0601POR00501.htm.new	2012-06-22 14:59:00.151893684 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="QUAL A DIFERENÇA ENTRE O &#x003C;img src=&quot;CARRO.gif&quot; width=&quot;50&quot; height=&quot;22&quot;&#x003E;&#x003C;/img&#x003E; E O &#x003C;img src=&quot;SOL.gif&quot; width=&quot;56&quot; height=&quot;53&quot;&#x003E;&#x003C;/img&#x003E;?" />
++<meta name="DC:Title" content="QUAL A DIFERENÇA ENTRE O &#x003C;img src=&quot;carro.gif&quot; width=&quot;50&quot; height=&quot;22&quot;&#x003E;&#x003C;/img&#x003E; E O &#x003C;img src=&quot;sol.gif&quot; width=&quot;56&quot; height=&quot;53&quot;&#x003E;&#x003C;/img&#x003E;?" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -501,7 +501,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','CARRO.gif','SOL.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','carro.gif','sol.gif','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -821,7 +821,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">QUAL A DIFERENÇA ENTRE O <img src="CARRO.gif" width="50" height="22"></img> E O <img src="SOL.gif" width="56" height="53"></img>?</h2>
++	<h2 class="ExerciseTitle">QUAL A DIFERENÇA ENTRE O <img src="carro.gif" width="50" height="22"></img> E O <img src="sol.gif" width="56" height="53"></img>?</h2>
+ 
+ 	<h3 class="ExerciseSubtitle"><br /></h3>
+ 

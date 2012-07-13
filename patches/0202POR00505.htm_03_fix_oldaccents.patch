@@ -1,0 +1,11 @@
+--- atividades/0202POR005/0202POR00505.htm	2012-06-22 14:54:38.399889751 -0300
++++ atividades/0202POR005/0202POR00505.htm.new	2012-06-22 14:54:38.399889751 -0300
+@@ -593,7 +593,7 @@
+ var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
+ var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o corretas:';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var NextCorrect = 'Pr&oacute;xima letra correta adicionada:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

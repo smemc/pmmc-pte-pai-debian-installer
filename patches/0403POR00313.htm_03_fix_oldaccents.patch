@@ -1,0 +1,32 @@
+--- atividades/0403POR003/0403POR00313.htm	2012-06-22 14:57:15.483892110 -0300
++++ atividades/0403POR003/0403POR00313.htm.new	2012-06-22 14:57:15.487892111 -0300
+@@ -4,10 +4,10 @@
+ <meta content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria" name="keywords">
+ <link href="http://purl.org/dc/elements/1.1/" rel="schema.DC">
+ <meta content="Gustavo Firveda" name="DC:Creator">
+-<meta content="Escreva o numeral que corresponde à quantidade" name="DC:Title">
++<meta content="Escreva o numeral que corresponde &agrave; quantidade" name="DC:Title">
+ <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.2 Release 4 Build 2 --><!-- The following insertion allows you to add your own code directly to this head tag from the configuration screen -->
+ <link type="text/css" rel="stylesheet" href="../estilos/estilos.css">
+@@ -25,12 +25,12 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png"></p>
+ <div class="Titles">
+ <h2 class="ExerciseTitle">Escreva o numeral que
+-corresponde à quantidade</h2>
++corresponde &agrave; quantidade</h2>
+ </div>
+ <div id="InstructionsDiv" class="StdDiv">
+-<div id="Instructions">Escreva nos espaços em branco as
+-respostas adequadas. Em seguida, clique no botão "Verificar" para
+-corrigir seu exercício.</div>
++<div id="Instructions">Escreva nos espa&ccedil;os em branco as
++respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para
++corrigir seu exerc&iacute;cio.</div>
+ </div>
+ <div id="MainDiv" class="StdDiv">
+ <!-- These top buttons hidden; reveal if required --><!-- <button id="CheckButton1" class="FuncButton" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckAnswers()">&nbsp;Verificar&nbsp;</button> -->

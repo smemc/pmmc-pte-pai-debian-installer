@@ -1,0 +1,29 @@
+--- atividades/0201CIE001/0201CIE00101.htm	2012-06-22 14:53:19.903888572 -0300
++++ atividades/0201CIE001/0201CIE00101.htm.new	2012-06-22 14:53:19.907888572 -0300
+@@ -6,7 +6,7 @@
+     <meta name="keywords" content="Ardora"></meta>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1"/>
+@@ -302,7 +302,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Parabéns. Bom trabalho! Agora vamos para o Próximo Exercício!');
++		alert('Parab&eacute;ns. Bom trabalho! Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!');
+ 		parent.location.href="0201CIE00102.htm";		
+ 	}
+ 	
+@@ -603,7 +603,7 @@
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)--></p>
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)--></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">

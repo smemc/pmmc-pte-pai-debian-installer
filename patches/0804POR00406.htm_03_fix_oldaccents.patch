@@ -1,0 +1,26 @@
+--- atividades/0804POR004/0804POR00406.htm	2012-06-22 15:03:47.255897998 -0300
++++ atividades/0804POR004/0804POR00406.htm.new	2012-06-22 15:03:47.259897998 -0300
+@@ -6,7 +6,7 @@
+     <meta name="keywords" content="Ardora"></meta>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -29,12 +29,12 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">Caça-Palavras com "S"</h2>
++	<h2 class="ExerciseTitle">Ca&ccedil;a-Palavras com "S"</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)--></p>
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)--></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">

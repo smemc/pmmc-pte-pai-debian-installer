@@ -1,0 +1,20 @@
+--- atividades/1004MAT002/1004MAT00202.js	2012-06-22 15:10:36.967904152 -0300
++++ atividades/1004MAT002/1004MAT00202.js.new	2012-06-22 15:10:36.971904152 -0300
+@@ -325,7 +325,7 @@
+ 	}
+ 	return InArray;
+ }
+-<!-- Orientadores de Informática - Comentado para que não exibe o resultado no enunciado da atividade -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para que n&atilde;o exibe o resultado no enunciado da atividade -->
+ function WriteToInstructions(Feedback) {
+ 	<!-- document.getElementById('InstructionsDiv').innerHTML = Feedback; -->
+ 
+@@ -441,7 +441,7 @@
+ 		Frm.submit();
+ 	}
+ 
+-  	//Orientadores de Informática - Código que exibir o próximo arquivo
++  	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir o pr&oacute;ximo arquivo
+ 	parent.location.href="1004MAT00203.htm";
+ 
+ }

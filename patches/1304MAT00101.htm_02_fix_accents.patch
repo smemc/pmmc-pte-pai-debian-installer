@@ -1,0 +1,81 @@
+--- atividades/1304MAT001/1304MAT00101.htm	2012-06-22 15:07:06.075900986 -0300
++++ atividades/1304MAT001/1304MAT00101.htm.new	2012-06-22 15:07:06.075900986 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Luiz Beraldo" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="Encontre os n&#250;meros que completam as opera&#231;&#245;es matem&#225;ticas" />
++<meta name="DC:Title" content="Encontre os n&uacute;meros que completam as opera&ccedil;&otilde;es matem&aacute;ticas" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -466,12 +466,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -833,7 +833,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -852,23 +852,23 @@
+  
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+-      <div class="ClozeBody"> <strong>1)</strong> O senhor Jos&#x00E9; foi comprar 
+-        uma televis&#x00E3;o. Na primeira loja em que ele entrou a televis&#x00E3;o 
+-        custava R$ 725,00 e, na segunda loja, o mesmo modelo de televis&#x00E3;o 
++      <div class="ClozeBody"> <strong>1)</strong> O senhor Jos&eacute; foi comprar 
++        uma televis&atilde;o. Na primeira loja em que ele entrou a televis&atilde;o 
++        custava R$ 725,00 e, na segunda loja, o mesmo modelo de televis&atilde;o 
+         custava R$ 672,00.<br />
+-        Qual a diferen&#x00E7;a entre os valores?<br />
+-        <font color="#3300CC">A diferen&#x00E7;a &#x00E9; de R$ <span class="GapSpan" id="GapSpan0">
++        Qual a diferen&ccedil;a entre os valores?<br />
++        <font color="#3300CC">A diferen&ccedil;a &eacute; de R$ <span class="GapSpan" id="GapSpan0">
+         <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input>
+         </span>.</font><br />
+         <br /><br />
+-        <strong>2)</strong> Os dois maiores pa&#x00ED;ses da Am&#x00E9;rica do 
+-        Sul s&#x00E3;o o Brasil e a Argentina.<br />
+-        O Brasil ocupa um territ&#x00F3;rio de 8.547.404 quil&#x00F4;metros quadrados, enquanto a Argentina ocupa 2.780.092 quil&#x00F4;metros quadrados.<br />Calcule a diferen&#x00E7;a entre as &#x00E1;reas dos territ&#x00F3;rios dos dois pa&#x00ED;ses.<br />
+-        <font color="#3300CC">A diferen&#x00E7;a &#x00E9; de <span class="GapSpan" id="GapSpan1">
++        <strong>2)</strong> Os dois maiores pa&iacute;ses da Am&eacute;rica do 
++        Sul s&atilde;o o Brasil e a Argentina.<br />
++        O Brasil ocupa um territ&oacute;rio de 8.547.404 quil&ocirc;metros quadrados, enquanto a Argentina ocupa 2.780.092 quil&ocirc;metros quadrados.<br />Calcule a diferen&ccedil;a entre as &aacute;reas dos territ&oacute;rios dos dois pa&iacute;ses.<br />
++        <font color="#3300CC">A diferen&ccedil;a &eacute; de <span class="GapSpan" id="GapSpan1">
+         <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="9"></input>
+-        </span> quil&#x00F4;metros quadrados.</font><br />
++        </span> quil&ocirc;metros quadrados.</font><br />
+         <br />
+-        <strong><font color="#FF6600">Puxa, o Brasil &#x00E9; bem maior que a 
++        <strong><font color="#FF6600">Puxa, o Brasil &eacute; bem maior que a 
+         Argentina!</font></strong><br />
+         <br />
+ </div>

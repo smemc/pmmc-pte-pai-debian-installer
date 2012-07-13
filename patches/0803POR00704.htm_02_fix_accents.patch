@@ -1,0 +1,29 @@
+--- atividades/0803POR007/0803POR00704.htm	2012-06-22 15:03:21.879897617 -0300
++++ atividades/0803POR007/0803POR00704.htm.new	2012-06-22 15:03:21.883897617 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -66,7 +66,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Digite nos espa&#x00E7;os em branco as respostas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Digite nos espa&ccedil;os em branco as respostas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -86,7 +86,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) A gente pode brincar com <b><u>uma pedrinha</u></b> no ch&#x00E3;o.</td></tr><tr><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="51"></input></span>.</td></tr><tr><td>b) Usando a cabe&#x00E7;a, a gente pode inventar <b><u>uma brincadeira</u></b>.</td></tr><tr><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="51"></input></span>.</td></tr><tr><td>c) Usando as m&#x00E3;os, a gente pode construir <b><u>um brinquedo</u></b>.</td></tr><tr><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="51"></input></span>.</td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) A gente pode brincar com <b><u>uma pedrinha</u></b> no ch&atilde;o.</td></tr><tr><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="51"></input></span>.</td></tr><tr><td>b) Usando a cabe&ccedil;a, a gente pode inventar <b><u>uma brincadeira</u></b>.</td></tr><tr><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="51"></input></span>.</td></tr><tr><td>c) Usando as m&atilde;os, a gente pode construir <b><u>um brinquedo</u></b>.</td></tr><tr><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="51"></input></span>.</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

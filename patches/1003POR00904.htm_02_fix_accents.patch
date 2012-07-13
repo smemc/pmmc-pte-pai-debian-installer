@@ -1,0 +1,108 @@
+--- atividades/1003POR009/1003POR00904.htm	2012-06-22 15:04:35.743898727 -0300
++++ atividades/1003POR009/1003POR00904.htm.new	2012-06-22 15:04:35.743898727 -0300
+@@ -1,10 +1,10 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Title" content="TREINANDO ORTOGRAFIA: &quot;L&quot; OU &quot;U&quot;" />
+ 
+ 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -45,12 +45,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -61,7 +61,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -73,7 +73,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -143,7 +143,7 @@
+                   <input type="text" class="GapBox" id="Gap10" style="width: 2em;" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="1" maxlength="1"></input>
+                   </span></div></td>
+               <td> 
+-                <div align="center">c&#x00E9;<span class="GapSpan" id="GapSpan11"> 
++                <div align="center">c&eacute;<span class="GapSpan" id="GapSpan11"> 
+                   <input type="text" class="GapBox" id="Gap11" style="width: 2em;" onfocus="TrackFocus(11)" onblur="LeaveGap()" size="1" maxlength="1"></input>
+                   </span></div></td></tr>
+             <tr bgcolor="#FFFF99"> 
+@@ -177,7 +177,7 @@
+                   <input type="text" class="GapBox" id="Gap18" style="width: 2em;" onfocus="TrackFocus(18)" onblur="LeaveGap()" size="1" maxlength="1"></input>
+                   </span></div></td>
+               <td> 
+-                <div align="center">chap&#x00E9;<span class="GapSpan" id="GapSpan19"> 
++                <div align="center">chap&eacute;<span class="GapSpan" id="GapSpan19"> 
+                   <input type="text" class="GapBox" id="Gap19" style="width: 2em;" onfocus="TrackFocus(19)" onblur="LeaveGap()" size="1" maxlength="1"></input>
+                   </span></div></td></tr>
+             <tr bgcolor="#FFFF99"> 
+@@ -203,7 +203,7 @@
+                   <input type="text" class="GapBox" id="Gap24" style="width: 2em;" onfocus="TrackFocus(24)" onblur="LeaveGap()" size="1" maxlength="1"></input>
+                   </span></div></td>
+               <td> 
+-                <div align="center">trof&#x00E9;<span class="GapSpan" id="GapSpan25"> 
++                <div align="center">trof&eacute;<span class="GapSpan" id="GapSpan25"> 
+                   <input type="text" class="GapBox" id="Gap25" style="width: 2em;" onfocus="TrackFocus(25)" onblur="LeaveGap()" size="1" maxlength="1"></input>
+                   </span></div></td>
+               <td> 
+@@ -255,12 +255,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -275,7 +275,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

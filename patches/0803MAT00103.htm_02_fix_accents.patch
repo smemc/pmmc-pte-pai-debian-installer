@@ -1,0 +1,46 @@
+--- atividades/0803MAT001/0803MAT00103.htm	2012-06-22 15:03:12.235897473 -0300
++++ atividades/0803MAT001/0803MAT00103.htm.new	2012-06-22 15:03:12.235897473 -0300
+@@ -7,7 +7,7 @@
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+ <meta name="DC:Creator" content="Orientador" />
+ <meta name="DC:Creator" content="Danilo Moraes" />
+-<meta name="DC:Title" content="Observe a sequ&#x00EA;ncia dos n&#x00FA;meros abaixo" />
++<meta name="DC:Title" content="Observe a sequ&ecirc;ncia dos n&uacute;meros abaixo" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -58,14 +58,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Observe a sequ&#x00EA;ncia dos n&#x00FA;meros abaixo</h2>
++	<h2 class="ExerciseTitle">Observe a sequ&ecirc;ncia dos n&uacute;meros abaixo</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete os espa&#x00E7;os em branco com a resposta correta. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete os espa&ccedil;os em branco com a resposta correta. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="2" bordercolor="#0000ff" rules="none" cellpadding="2" cellspacing="2"><tbody><tr><td>100 - 113 - 127 - 136 - 141 - 157 - 168 - 170 - 185</td></tr></tbody></table><br /><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><b>Agora, complete a tabela abaixo, conforme o exemplo:</b></td></tr></tbody></table><br /><table border="1" frame="box" rules="all" cellpadding="4" cellspacing="4" align="center"><tbody><tr><td><b>&nbsp;a) N&#x00FA;meros entre 113 e 157:&nbsp; </b></td><td><b>&nbsp;127 - 136 - 141&nbsp; </b></td></tr><tr><td>&nbsp;b) N&#x00FA;meros maiores que 165:&nbsp; </td><td>&nbsp;<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="36"></input></span> &nbsp;</td></tr><tr><td>&nbsp;c) N&#x00FA;meros menores que 140:&nbsp;</td><td>&nbsp;<span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="36"></input></span>&nbsp;</td></tr><tr><td>&nbsp;d) N&#x00FA;meros pares:&nbsp;</td><td>&nbsp;<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="36"></input></span>&nbsp;</td></tr><tr><td>&nbsp;e) N&#x00FA;meros &#x00ED;mpares:&nbsp;</td><td>&nbsp;<span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="36"></input></span>&nbsp;</td></tr></tbody></table>
++<table border="2" bordercolor="#0000ff" rules="none" cellpadding="2" cellspacing="2"><tbody><tr><td>100 - 113 - 127 - 136 - 141 - 157 - 168 - 170 - 185</td></tr></tbody></table><br /><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><b>Agora, complete a tabela abaixo, conforme o exemplo:</b></td></tr></tbody></table><br /><table border="1" frame="box" rules="all" cellpadding="4" cellspacing="4" align="center"><tbody><tr><td><b>&nbsp;a) N&uacute;meros entre 113 e 157:&nbsp; </b></td><td><b>&nbsp;127 - 136 - 141&nbsp; </b></td></tr><tr><td>&nbsp;b) N&uacute;meros maiores que 165:&nbsp; </td><td>&nbsp;<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="36"></input></span> &nbsp;</td></tr><tr><td>&nbsp;c) N&uacute;meros menores que 140:&nbsp;</td><td>&nbsp;<span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="36"></input></span>&nbsp;</td></tr><tr><td>&nbsp;d) N&uacute;meros pares:&nbsp;</td><td>&nbsp;<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="36"></input></span>&nbsp;</td></tr><tr><td>&nbsp;e) N&uacute;meros &iacute;mpares:&nbsp;</td><td>&nbsp;<span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="36"></input></span>&nbsp;</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

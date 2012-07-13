@@ -1,0 +1,20 @@
+--- atividades/1001POR001/1001POR00101.htm	2012-06-22 15:03:52.419898075 -0300
++++ atividades/1001POR001/1001POR00101.htm.new	2012-06-22 15:03:52.419898075 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 23 -->
+ 
+@@ -587,7 +587,7 @@
+ var CorrectResponse = 'Correto! Parab&eacute;ns!.';
+ var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas... tente novamente!';
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o próximo exercício.'
++var Proximo = 'Agora vamos para o pr&oacute;ximo exerc&iacute;cio.'
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

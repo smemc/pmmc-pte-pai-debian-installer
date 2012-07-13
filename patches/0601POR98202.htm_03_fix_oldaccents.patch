@@ -1,0 +1,14 @@
+--- atividades/0601POR982/0601POR98202.htm	2012-06-22 15:00:17.599894848 -0300
++++ atividades/0601POR982/0601POR98202.htm.new	2012-06-22 15:00:17.603894848 -0300
+@@ -614,9 +614,9 @@
+ var Openers = '\u0022';
+ var CorrectResponse = 'CERTO!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var ThisMuchCorrect = 'ESTÁ PARTE ESTÁ CERTA';
++var ThisMuchCorrect = 'EST&Aacute; PARTE EST&Aacute; CERTA';
+ var TheseAnswersToo = 'These answers are also correct:';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var NextCorrect = 'The next correct part is:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

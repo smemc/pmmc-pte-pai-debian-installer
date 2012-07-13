@@ -1,0 +1,16 @@
+--- atividades/1003POR024/1003POR02403.js	2012-06-22 15:10:32.731904091 -0300
++++ atividades/1003POR024/1003POR02403.js.new	2012-06-22 15:10:32.731904091 -0300
+@@ -456,10 +456,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Correto. Parab&#x00E9;ns!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas... tente novamente.'; 
++var Correct = 'Correto. Parab&eacute;ns!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas... tente novamente.'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

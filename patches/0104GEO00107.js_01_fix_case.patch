@@ -1,0 +1,11 @@
+--- atividades/0104GEO001/0104GEO00107.js	2012-06-22 14:49:51.843885445 -0300
++++ atividades/0104GEO001/0104GEO00107.js.new	2012-06-22 15:07:39.647901490 -0300
+@@ -445,7 +445,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','Parana.gif','Santa_Catarina.gif','Rio_Grande_do_Sul.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','parana.gif','santa_catarina.gif','rio_grande_do_sul.gif','rodape.png');
+ 
+ 
+ 	SetUpItems(ShuffleQs,QsToShow);

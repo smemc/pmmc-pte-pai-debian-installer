@@ -1,0 +1,145 @@
+--- atividades/0601POR078/0601POR07801.htm	2012-06-22 14:59:32.667894172 -0300
++++ atividades/0601POR078/0601POR07801.htm.new	2012-06-22 14:59:32.671894173 -0300
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -464,12 +464,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns! Voc&#x00EA; conseguiu.';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns! Voc&ecirc; conseguiu.';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = '';
+ var CaseSensitive = false;
+-var YourScoreIs = 'Sua pontu&#x00E7;&#x00E3;o &#x00E9; de: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = 'Sua pontu&ccedil;&atilde;o &eacute; de: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -1177,7 +1177,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">AO TERMINAR TODO O EXERC&#x00CD;CIO CLIQUE NO BOT&#x00C3;O VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">AO TERMINAR TODO O EXERC&Iacute;CIO CLIQUE NO BOT&Atilde;O VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 
+@@ -1217,9 +1217,9 @@
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">PO<span class="GapSpan" id="GapSpan3"> 
+                   <input type="text" class="GapBox" id="Gap3" style="width: 2em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="2" maxlength="1" />
+-                  </span>PAN&#x00C7;A</div></td>
++                  </span>PAN&Ccedil;A</div></td>
+               <td>&nbsp;</td>
+-              <td bgcolor="#7E9EE5"> <div align="center">F&#x00C1;CI<span class="GapSpan" id="GapSpan4"> 
++              <td bgcolor="#7E9EE5"> <div align="center">F&Aacute;CI<span class="GapSpan" id="GapSpan4"> 
+                   <input type="text" class="GapBox" id="Gap4" style="width: 2em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="2" maxlength="1" />
+                   </span></div></td>
+             </tr>
+@@ -1245,7 +1245,7 @@
+                   </span></div></td>
+             </tr>
+             <tr> 
+-              <td height="35" bgcolor="#7E9EE5"> <div align="center">A&#x00C7;O<span class="GapSpan" id="GapSpan10"> 
++              <td height="35" bgcolor="#7E9EE5"> <div align="center">A&Ccedil;O<span class="GapSpan" id="GapSpan10"> 
+                   <input type="text" class="GapBox" id="Gap10" style="width: 2em;" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="2" maxlength="1" />
+                   </span>GUE</div></td>
+               <td>&nbsp;</td>
+@@ -1287,7 +1287,7 @@
+                   </span></div></td>
+             </tr>
+             <tr> 
+-              <td height="35" bgcolor="#7E9EE5"> <div align="center">&#x00C1;GI<span class="GapSpan" id="GapSpan20"> 
++              <td height="35" bgcolor="#7E9EE5"> <div align="center">&Aacute;GI<span class="GapSpan" id="GapSpan20"> 
+                   <input type="text" class="GapBox" id="Gap20" style="width: 2em;" onfocus="TrackFocus(20)" onblur="LeaveGap()" size="2" maxlength="1" />
+                   </span></div></td>
+               <td>&nbsp;</td>
+@@ -1297,11 +1297,11 @@
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan22"> 
+                   <input type="text" class="GapBox" id="Gap22" style="width: 2em;" onfocus="TrackFocus(22)" onblur="LeaveGap()" size="2" maxlength="1" />
+-                  </span>T&#x00D3;GRAFO</div></td>
++                  </span>T&Oacute;GRAFO</div></td>
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan23"> 
+                   <input type="text" class="GapBox" id="Gap23" style="width: 2em;" onfocus="TrackFocus(23)" onblur="LeaveGap()" size="2" maxlength="1" />
+-                  </span>GOD&#x00C3;O</div></td>
++                  </span>GOD&Atilde;O</div></td>
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan24"> 
+                   <input type="text" class="GapBox" id="Gap24" style="width: 2em;" onfocus="TrackFocus(24)" onblur="LeaveGap()" size="2" maxlength="1" />
+@@ -1329,7 +1329,7 @@
+                   </span></div></td>
+             </tr>
+             <tr> 
+-              <td height="35" bgcolor="#7E9EE5"> <div align="center">V&#x00C9;<span class="GapSpan" id="GapSpan30"> 
++              <td height="35" bgcolor="#7E9EE5"> <div align="center">V&Eacute;<span class="GapSpan" id="GapSpan30"> 
+                   <input type="text" class="GapBox" id="Gap30" style="width: 2em;" onfocus="TrackFocus(30)" onblur="LeaveGap()" size="2" maxlength="1" />
+                   </span></div></td>
+               <td>&nbsp;</td>
+@@ -1337,13 +1337,13 @@
+                   <input type="text" class="GapBox" id="Gap31" style="width: 2em;" onfocus="TrackFocus(31)" onblur="LeaveGap()" size="2" maxlength="1" />
+                   </span>RA</div></td>
+               <td>&nbsp;</td>
+-              <td bgcolor="#7E9EE5"> <div align="center">CHAP&#x00C9;<span class="GapSpan" id="GapSpan32"> 
++              <td bgcolor="#7E9EE5"> <div align="center">CHAP&Eacute;<span class="GapSpan" id="GapSpan32"> 
+                   <input type="text" class="GapBox" id="Gap32" style="width: 2em;" onfocus="TrackFocus(32)" onblur="LeaveGap()" size="2" maxlength="1" />
+                   </span></div></td>
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan33"> 
+                   <input type="text" class="GapBox" id="Gap33" style="width: 2em;" onfocus="TrackFocus(33)" onblur="LeaveGap()" size="2" maxlength="1" />
+-                  </span>TOM&#x00D3;VEL</div></td>
++                  </span>TOM&Oacute;VEL</div></td>
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan34"> 
+                   <input type="text" class="GapBox" id="Gap34" style="width: 2em;" onfocus="TrackFocus(34)" onblur="LeaveGap()" size="2" maxlength="1" />
+@@ -1377,11 +1377,11 @@
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan41"> 
+                   <input type="text" class="GapBox" id="Gap41" style="width: 2em;" onfocus="TrackFocus(41)" onblur="LeaveGap()" size="2" maxlength="1" />
+-                  </span>&#x00C7;AP&#x00C3;O</div></td>
++                  </span>&Ccedil;AP&Atilde;O</div></td>
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan42"> 
+                   <input type="text" class="GapBox" id="Gap42" style="width: 2em;" onfocus="TrackFocus(42)" onblur="LeaveGap()" size="2" maxlength="1" />
+-                  </span>MO&#x00C7;O</div></td>
++                  </span>MO&Ccedil;O</div></td>
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">ME<span class="GapSpan" id="GapSpan43"> 
+                   <input type="text" class="GapBox" id="Gap43" style="width: 2em;" onfocus="TrackFocus(43)" onblur="LeaveGap()" size="2" maxlength="1" />
+@@ -1415,7 +1415,7 @@
+             <tr> 
+               <td height="35" bgcolor="#7E9EE5"> <div align="center">CA<span class="GapSpan" id="GapSpan50"> 
+                   <input type="text" class="GapBox" id="Gap50" style="width: 2em;" onfocus="TrackFocus(50)" onblur="LeaveGap()" size="2" maxlength="1" />
+-                  </span>&#x00C7;AS</div></td>
++                  </span>&Ccedil;AS</div></td>
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">CA<span class="GapSpan" id="GapSpan51"> 
+                   <input type="text" class="GapBox" id="Gap51" style="width: 2em;" onfocus="TrackFocus(51)" onblur="LeaveGap()" size="2" maxlength="1" />
+@@ -1423,13 +1423,13 @@
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan52"> 
+                   <input type="text" class="GapBox" id="Gap52" style="width: 2em;" onfocus="TrackFocus(52)" onblur="LeaveGap()" size="2" maxlength="1" />
+-                  </span>CAN&#x00C7;AR</div></td>
++                  </span>CAN&Ccedil;AR</div></td>
+               <td>&nbsp;</td>
+               <td bgcolor="#7E9EE5"> <div align="center">A<span class="GapSpan" id="GapSpan53"> 
+                   <input type="text" class="GapBox" id="Gap53" style="width: 2em;" onfocus="TrackFocus(53)" onblur="LeaveGap()" size="2" maxlength="1" />
+                   </span>DITIVO</div></td>
+               <td>&nbsp;</td>
+-              <td bgcolor="#7E9EE5"> <div align="center">C&#x00C9;<span class="GapSpan" id="GapSpan54"> 
++              <td bgcolor="#7E9EE5"> <div align="center">C&Eacute;<span class="GapSpan" id="GapSpan54"> 
+                   <input type="text" class="GapBox" id="Gap54" style="width: 2em;" onfocus="TrackFocus(54)" onblur="LeaveGap()" size="2" maxlength="1" />
+                   </span></div></td>
+             </tr>

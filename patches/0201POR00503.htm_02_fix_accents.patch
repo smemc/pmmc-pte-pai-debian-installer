@@ -1,0 +1,89 @@
+--- atividades/0201POR005/0201POR00503.htm	2012-06-22 14:53:58.571889153 -0300
++++ atividades/0201POR005/0201POR00503.htm.new	2012-06-22 14:53:58.575889153 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -947,7 +947,7 @@
+     <table width="500" border="1" cellspacing="0" cellpadding="0">
+       <tr>
+         <td bgcolor="#CCFFCC">
+-<div align="center"><strong><font size="5">BALA - BOLA - BOTA - BOT&#x00C3;O</font></strong></div></td>
++<div align="center"><strong><font size="5">BALA - BOLA - BOTA - BOT&Atilde;O</font></strong></div></td>
+       </tr>
+     </table>
+     <strong><font size="3"> </font> </strong></div>
+@@ -959,7 +959,7 @@
+             <tr> 
+               <td bgcolor="#FFFFFF">
+ <div align="center"><font size="3"><strong>A <img src="bota.jpg" width="100" height="100" align="absmiddle" /> 
+-                  &#x00E9; do titio Paulo.</strong></font></div></td>
++                  &eacute; do titio Paulo.</strong></font></div></td>
+             </tr>
+             <tr> 
+               <td bgcolor="#FFFFCC">
+@@ -986,7 +986,7 @@
+             <tr> 
+               <td bgcolor="#FFFFFF">
+ <div align="center"><font size="3"><strong>O <img src="botao.jpg" width="100" height="100" align="absmiddle" /> 
+-                  &#x00E9; da titia Paula.</strong></font></div></td>
++                  &eacute; da titia Paula.</strong></font></div></td>
+             </tr>
+             <tr> 
+               <td bgcolor="#FFFFCC">
+@@ -1013,7 +1013,7 @@
+             <tr> 
+               <td bgcolor="#FFFFFF">
+ <div align="center"><font size="3"><strong>A <img src="bola.gif" width="100" height="100" align="absmiddle" /> 
+-                  &#x00E9; de futebol.</strong></font></div></td>
++                  &eacute; de futebol.</strong></font></div></td>
+             </tr>
+             <tr> 
+               <td bgcolor="#FFFFCC">
+@@ -1036,7 +1036,7 @@
+             <tr> 
+               <td bgcolor="#FFFFFF">
+ <div align="center"><font size="3"><strong>A <img src="bala.jpg" width="100" height="100" align="absmiddle" /> 
+-                  &#x00E9; de hortel&#x00E3;.</strong></font></div></td>
++                  &eacute; de hortel&atilde;.</strong></font></div></td>
+             </tr>
+             <tr> 
+               <td bgcolor="#FFFFCC">
+@@ -1086,7 +1086,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

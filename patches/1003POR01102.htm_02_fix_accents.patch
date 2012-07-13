@@ -1,0 +1,20 @@
+--- atividades/1003POR011/1003POR01102.htm	2012-06-22 15:04:37.139898745 -0300
++++ atividades/1003POR011/1003POR01102.htm.new	2012-06-22 15:04:37.139898745 -0300
+@@ -73,7 +73,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de finalizar a cruzadinha clique em "Verificar" para corrigir.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de finalizar a cruzadinha clique em "Verificar" para corrigir.</div>
+ </div>
+ 
+ 
+@@ -111,7 +111,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Uma risada bem alta.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Brinquedo onde se sentam duas crian&#x00E7;as. Enquanto uma est&#x00E1; em cima, a outra est&#x00E1; embaixo.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Um dos combust&#x00ED;veis utilizados pelos autom&#x00F3;veis.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Em noites frias, nos aquece.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">O vencedor de uma competi&#x00E7;&#x00E3;o.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Ave de h&#x00E1;bitos noturnos.</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Uma risada bem alta.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Brinquedo onde se sentam duas crian&ccedil;as. Enquanto uma est&aacute; em cima, a outra est&aacute; embaixo.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Um dos combust&iacute;veis utilizados pelos autom&oacute;veis.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Em noites frias, nos aquece.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">O vencedor de uma competi&ccedil;&atilde;o.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Ave de h&aacute;bitos noturnos.</td></tr>
+ 
+ </tbody>
+ </table>

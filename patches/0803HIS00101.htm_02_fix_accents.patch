@@ -1,0 +1,38 @@
+--- atividades/0803HIS001/0803HIS00101.htm	2012-06-22 15:03:11.503897462 -0300
++++ atividades/0803HIS001/0803HIS00101.htm.new	2012-06-22 15:03:11.503897462 -0300
+@@ -23,7 +23,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -57,7 +57,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para completar a Cruzadinha. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para completar a Cruzadinha. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -95,7 +95,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"><b>Horizontal:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Artesanato feito de barro.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Nas festas os &#x00ED;ndios gostavam de...</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O chefe dos &#x00ED;ndios.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Os &#x00ED;ndios tiravam das aves para enfeitarem-se.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Ele era o curandeiro da tribo, como um m&#x00E9;dico.</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Artesanato feito de barro.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Nas festas os &iacute;ndios gostavam de...</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O chefe dos &iacute;ndios.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Os &iacute;ndios tiravam das aves para enfeitarem-se.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Ele era o curandeiro da tribo, como um m&eacute;dico.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -108,7 +108,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel"><b>Vertical:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">As casas dos &#x00ED;ndios.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Eles aprenderam a cultivar essa raiz para alimenta&#x00E7;&#x00E3;o.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Eles cuidavam dos rios, pois usavam a ........ para se alimentar.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">As casas dos &iacute;ndios.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Eles aprenderam a cultivar essa raiz para alimenta&ccedil;&atilde;o.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Eles cuidavam dos rios, pois usavam a ........ para se alimentar.</td></tr>
+ 
+ </tbody>
+ </table>

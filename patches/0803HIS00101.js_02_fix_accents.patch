@@ -1,0 +1,16 @@
+--- atividades/0803HIS001/0803HIS00101.js	2012-06-22 15:08:06.799901898 -0300
++++ atividades/0803HIS001/0803HIS00101.js.new	2012-06-22 15:08:06.799901898 -0300
+@@ -474,10 +474,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas!'; 
++var Correct = 'Parab&eacute;ns!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas!'; 
+ var GiveHint = 'A seguinte letra foi adicionada: ';
+-var YourScoreIs = 'Sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = 'Sua pontua&ccedil;&atilde;o &eacute;: ';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

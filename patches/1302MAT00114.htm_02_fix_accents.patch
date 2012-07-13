@@ -1,0 +1,93 @@
+--- atividades/1302MAT001/1302MAT00114.htm	2012-06-22 15:07:03.107900941 -0300
++++ atividades/1302MAT001/1302MAT00114.htm.new	2012-06-22 15:07:03.107900941 -0300
+@@ -8,7 +8,7 @@
+ <meta name="DC:Creator" content="UNREGISTERED" />
+ <meta name="DC:Creator" content="Luiz Beraldo" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;matematica.gif&quot; alt=&quot;matematica.gif&quot; title=&quot;matematica&quot; width=&quot;100&quot; height=&quot;94&quot;&#x003E;&#x003C;/img&#x003E;N&#x00FA;meros Ordinais" />
++<meta name="DC:Title" content="&lt;img src=&quot;matematica.gif&quot; alt=&quot;matematica.gif&quot; title=&quot;matematica&quot; width=&quot;100&quot; height=&quot;94&quot;&gt;&lt;/img&gt;N&uacute;meros Ordinais" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -468,12 +468,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -960,7 +960,7 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><img src="matematica.gif" alt="matematica.gif" title="matematica" width="60" height="56"></img>N&#x00FA;meros 
++  <h2 class="ExerciseTitle"><img src="matematica.gif" alt="matematica.gif" title="matematica" width="60" height="56"></img>N&uacute;meros 
+     Ordinais</h2>
+ 
+ 
+@@ -968,7 +968,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">A <B>Beatriz</B> mora no 2&#x00BA; andar deste pr&#x00E9;dio. Ela tem muitos amigos e em quase todos os andares do pr&#x00E9;dio mora pelo menos um deles. Numere os andares e siga as dicas para identificar onde mora cada um.</p>
++	<p id="Instructions">A <B>Beatriz</B> mora no 2&ordm; andar deste pr&eacute;dio. Ela tem muitos amigos e em quase todos os andares do pr&eacute;dio mora pelo menos um deles. Numere os andares e siga as dicas para identificar onde mora cada um.</p>
+ </div>
+ 
+ 
+@@ -1177,22 +1177,22 @@
+             </tr>
+           </tbody>
+         </table>
+-        <p> <B>-</B> A <B>Mar&#x00ED;lia</B> mora no andar abaixo do <B>Felipe</B>.<br />
+-          <B>-</B> A <B>Flavinha</B> mora no pen&#x00FA;ltimo andar do pr&#x00E9;dio.<br />
+-          <B>-</B> A <B>Carolina</B> mora no andar que fica entre o 1&#x00BA; 
+-          e o 3&#x00BA;.<br />
+-          <B>-</B> O <B>Lucas</B> e a <B>L&#x00FA;cia</B> s&#x00E3;o irm&#x00E3;os 
++        <p> <B>-</B> A <B>Mar&iacute;lia</B> mora no andar abaixo do <B>Felipe</B>.<br />
++          <B>-</B> A <B>Flavinha</B> mora no pen&uacute;ltimo andar do pr&eacute;dio.<br />
++          <B>-</B> A <B>Carolina</B> mora no andar que fica entre o 1&ordm; 
++          e o 3&ordm;.<br />
++          <B>-</B> O <B>Lucas</B> e a <B>L&uacute;cia</B> s&atilde;o irm&atilde;os 
+           e moram no andar acima da <B>Beatriz</B>.<br />
+           <B>-</B> O <B>Felipe</B> mora no andar de baixo da <B>Flavinha.</B><br />
+-          <B>-</B> O <B>Renan</B> mora entre o 4&#x00BA; e o 6&#x00BA; andar.<br />
+-          <B>-</B> O <B>Paulo</B> e a <B>Tha&#x00ED;s</B> moram no andar entre 
+-          o <B>Renan</B> e a <B>Mar&#x00ED;lia.</B><br />
+-          <B>-</B> A <B>Simone</B>, o <B>Marcelo</B> e o <B>Vin&#x00ED;cius</B> 
+-          moram no &#x00FA;ltimo andar.<br />
++          <B>-</B> O <B>Renan</B> mora entre o 4&ordm; e o 6&ordm; andar.<br />
++          <B>-</B> O <B>Paulo</B> e a <B>Tha&iacute;s</B> moram no andar entre 
++          o <B>Renan</B> e a <B>Mar&iacute;lia.</B><br />
++          <B>-</B> A <B>Simone</B>, o <B>Marcelo</B> e o <B>Vin&iacute;cius</B> 
++          moram no &uacute;ltimo andar.<br />
+           <font color="#3366FF">Nos andares em que a Beatriz n&atilde;o tiver 
+           amigos escreva: <b><font color="#FF0000">SEM AMIGOS</font></b></font> 
+         </p>
+-        <p>Em quais andares n&#x00E3;o moram amigos da <strong>Beatriz</strong>?<br />
++        <p>Em quais andares n&atilde;o moram amigos da <strong>Beatriz</strong>?<br />
+           <span class="GapSpan" id="GapSpan20"> 
+           <input type="text" id="Gap20" onfocus="TrackFocus(20)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input> 
+           </span> e <span class="GapSpan" id="GapSpan21"> 
+@@ -1202,10 +1202,10 @@
+           <span class="GapSpan" id="GapSpan22"> 
+           <input type="text" id="Gap22" onfocus="TrackFocus(22)" onblur="LeaveGap()" class="GapBox" size="8"></input> 
+           </span> <br />
+-          Quantos amigos ela tem no pr&#x00E9;dio?<br />
++          Quantos amigos ela tem no pr&eacute;dio?<br />
+           Ela tem <span class="GapSpan" id="GapSpan23"> 
+           <input type="text" id="Gap23" onfocus="TrackFocus(23)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input> 
+-          </span> amigos no pr&#x00E9;dio. </p>
++          </span> amigos no pr&eacute;dio. </p>
+         </div>
+ </form>
+ </div>

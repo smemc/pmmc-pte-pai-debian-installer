@@ -1,0 +1,41 @@
+--- atividades/0603POR988/0603POR98801.htm	2012-06-22 15:02:33.355896888 -0300
++++ atividades/0603POR988/0603POR98801.htm.new	2012-06-22 15:02:33.355896888 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="COLOQUE AS LETRAS EM ORDEM ALFABÉTICA" />
++<meta name="DC:Title" content="COLOQUE AS LETRAS EM ORDEM ALFAB&Eacute;TICA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -617,9 +617,9 @@
+ var Openers = '\u0022';
+ var CorrectResponse = 'CERTO!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var ThisMuchCorrect = 'ESTA PARTE ESTÁ CERTA';
++var ThisMuchCorrect = 'ESTA PARTE EST&Aacute; CERTA';
+ var TheseAnswersToo = 'These answers are also correct:';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var NextCorrect = 'The next correct part is:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -1248,7 +1248,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">COLOQUE AS LETRAS EM ORDEM ALFABÉTICA</h2>
++	<h2 class="ExerciseTitle">COLOQUE AS LETRAS EM ORDEM ALFAB&Eacute;TICA</h2>
+ 
+ 	<h3 class="ExerciseSubtitle"><img src="a.gif" width="25" height="25"><img src="b.gif" width="25" height="25"><img src="c.gif" width="25" height="25"><img src="d.gif" width="25" height="25"><img src="e.gif" width="25" height="25"><img src="f.gif" width="25" height="25"><img src="g.gif" width="25" height="25"><img src="h.gif" width="25" height="25"><img src="i.gif" width="25" height="25"><img src="j.gif" width="25" height="25"><img src="k.gif" width="25" height="25"><img src="l.gif" width="25" height="25"><img src="m.gif" width="25" height="25"><img src="n.gif" width="25" height="25"><img src="o.gif" width="25" height="25"><img src="p.gif" width="25" height="25"><img src="q.gif" width="25" height="25"><img src="r.gif" width="25" height="25"><img src="s.gif" width="25" height="25"><img src="t.gif" width="25" height="25"><img src="u.gif" width="25" height="25"><img src="v.gif" width="25" height="25"><img src="w.gif" width="25" height="25"><img src="x.gif" width="25" height="25"><img src="y.gif" width="25" height="25"><img src="z.gif" width="25" height="25"></h3>
+ 
+@@ -1257,7 +1257,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-  <p id="Instructions">Arraste as letras em cima da linha para formar a sequ&ecirc;ncia corretamente. Quando você achar que a sua resposta está correta, clique em VERIFICAR para corrigir.</p>
++  <p id="Instructions">Arraste as letras em cima da linha para formar a sequ&ecirc;ncia corretamente. Quando voc&ecirc; achar que a sua resposta est&aacute; correta, clique em VERIFICAR para corrigir.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

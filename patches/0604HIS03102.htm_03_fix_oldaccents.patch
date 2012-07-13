@@ -1,0 +1,100 @@
+--- atividades/0604HIS031/0604HIS03102.htm	2012-06-22 15:02:38.087896959 -0300
++++ atividades/0604HIS031/0604HIS03102.htm.new	2012-06-22 15:02:38.087896959 -0300
+@@ -4,7 +4,7 @@
+ <META name="Author" content="Criado usando Galli's QuizFaber 2.10.1">
+ <META name="generator" content="Galli's QuizFaber 2.10.1">
+ <META name="keywords" content="quiz">
+-<META name="description" content="CONHECENDO A HISTÓRIA DE MOGI">
++<META name="description" content="CONHECENDO A HIST&Oacute;RIA DE MOGI">
+ <TITLE>PAI - Pacote de Atividades Educacionais</TITLE>
+    
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+@@ -53,7 +53,7 @@
+ //-->
+ </SCRIPT>
+ <div class="Titles">
+-  <h2 class="ExerciseTitle">CONHECENDO A HISTÓRIA MOGI DAS CRUZES</h2>
++  <h2 class="ExerciseTitle">CONHECENDO A HIST&Oacute;RIA MOGI DAS CRUZES</h2>
+ </div>
+ 
+ <FORM NAME='domanda'><SCRIPT LANGUAGE='JavaScript'>
+@@ -162,24 +162,24 @@
+ <A NAME='qstAnchor1'></A>
+ <strong><FONT  FACE='Arial' SIZE='3'>Pergunta 2</FONT></strong>
+ <P>
+-<FONT  FACE='Arial' SIZE='2'>EM QUE DIA, MÊS E ANO MOGI FOI FUNDADA?</FONT>
++<FONT  FACE='Arial' SIZE='2'>EM QUE DIA, M&Ecirc;S E ANO MOGI FOI FUNDADA?</FONT>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio002000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>1º DE SETEMBRO DE 2006</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>1Âº DE SETEMBRO DE 2006</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio002001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>1º DE SETEMBRO DE 1500</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>1Âº DE SETEMBRO DE 1500</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio002002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>1º DE SETEMBRO DE 1560</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>1Âº DE SETEMBRO DE 1560</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -237,7 +237,7 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio003000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>VETERINÁRIO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>VETERIN&Aacute;RIO</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio003001'></TD>
+@@ -252,7 +252,7 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> D </FONT><INPUT TYPE='checkbox' NAME='radio003003'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÍNDIO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Iacute;NDIO</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -310,12 +310,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio004001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>TIETÊ</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>TIET&Ecirc;</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio004002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>RIBEIRÃO</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>RIBEIR&Atilde;O</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -438,7 +438,7 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio006002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>RIO DAS RÃS</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>RIO DAS R&Atilde;S</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -484,7 +484,7 @@
+ <A NAME='qstAnchor6'></A>
+ <strong><FONT  FACE='Arial' SIZE='3'>Pergunta 7</FONT></strong>
+ <P>
+-<FONT  FACE='Arial' SIZE='2'>NA BANDEIRA DA CIDADE DE MOGI, QUAIS SÃO AS CORES DAS TRÊS FAIXAR HORIZONTAIS?</FONT>
++<FONT  FACE='Arial' SIZE='2'>NA BANDEIRA DA CIDADE DE MOGI, QUAIS S&Atilde;O AS CORES DAS TR&Ecirc;S FAIXAR HORIZONTAIS?</FONT>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>

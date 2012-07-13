@@ -1,0 +1,29 @@
+--- atividades/0603MAT040/0603MAT04001.htm	2012-06-22 15:02:21.047896703 -0300
++++ atividades/0603MAT040/0603MAT04001.htm.new	2012-06-22 15:02:21.047896703 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="ARRASTE O DESENHO (coluna da direita) PARA O LADO DA FRAÇÃO CORRESPONDENTE (coluna da esquerda)." />
++<meta name="DC:Title" content="ARRASTE O DESENHO (coluna da direita) PARA O LADO DA FRA&Ccedil;&Atilde;O CORRESPONDENTE (coluna da esquerda)." />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -588,7 +588,7 @@
+ 
+ var CorrectResponse = 'MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -913,7 +913,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">ARRASTE O DESENHO (coluna da direita) PARA O LADO DA FRAÇÃO CORRESPONDENTE (coluna da esquerda).</h2>
++	<h2 class="ExerciseTitle">ARRASTE O DESENHO (coluna da direita) PARA O LADO DA FRA&Ccedil;&Atilde;O CORRESPONDENTE (coluna da esquerda).</h2>
+ 
+ 
+ 

@@ -1,0 +1,20 @@
+--- atividades/0803POR020/0803POR02002.htm	2012-06-22 15:03:31.619897763 -0300
++++ atividades/0803POR020/0803POR02002.htm.new	2012-06-22 15:03:31.619897763 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -83,7 +83,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td width="100">o<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>servar</td><td width="20"></td><td width="100">o<span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>jeto</td><td width="20"></td><td width="100">o<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>diente</td></tr><tr><td width="100">o<span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>decer</td><td width="20"></td><td width="100">o<span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>ter</td><td width="20"></td><td width="100">o<span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>serva&#x00E7;&#x00E3;o</td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td width="100">o<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>servar</td><td width="20"></td><td width="100">o<span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>jeto</td><td width="20"></td><td width="100">o<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>diente</td></tr><tr><td width="100">o<span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>decer</td><td width="20"></td><td width="100">o<span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>ter</td><td width="20"></td><td width="100">o<span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span>serva&ccedil;&atilde;o</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

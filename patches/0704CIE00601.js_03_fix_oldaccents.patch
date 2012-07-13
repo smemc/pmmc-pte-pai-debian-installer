@@ -1,0 +1,29 @@
+--- atividades/0704CIE006/0704CIE00601.js	2012-06-22 15:08:03.991901856 -0300
++++ atividades/0704CIE006/0704CIE00601.js.new	2012-06-22 15:08:03.995901857 -0300
+@@ -315,7 +315,7 @@
+ }
+ 
+ function WriteToInstructions(Feedback) {
+-	// Orientadores de Informática - Não permite substituir as instruções 
++	// Orientadores de Inform&aacute;tica - N&atilde;o permite substituir as instru&ccedil;&otilde;es 
+ 	// document.getElementById('InstructionsDiv').innerHTML = Feedback;
+ 	
+ 
+@@ -431,7 +431,7 @@
+ 		Frm.submit();
+ 	}
+ 	{
+-	//Orientadores de Informática - Código que exibirá o próximo arquivo
++	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir&aacute; o pr&oacute;ximo arquivo
+ 		parent.location.href="../imagens/fim.htm";
+ 	}
+ }
+@@ -769,7 +769,7 @@
+ 		Frm.submit();
+ 	}
+ 	{
+-	//Orientadores de Informática - Código que exibirá o próximo arquivo
++	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir&aacute; o pr&oacute;ximo arquivo
+ 		parent.location.href="../imagens/fim.htm";
+ 	}
+ }

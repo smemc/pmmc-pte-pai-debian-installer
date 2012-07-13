@@ -1,0 +1,47 @@
+--- atividades/1303MAT001/1303MAT00101.htm	2012-06-22 15:07:03.607900949 -0300
++++ atividades/1303MAT001/1303MAT00101.htm.new	2012-06-22 15:07:03.611900949 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Luiz Beraldo" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="SISTEMA DE NUMERA&#x00C7;&#x00C3;O - 1&#x00AA; FASE" />
++<meta name="DC:Title" content="SISTEMA DE NUMERA&Ccedil;&Atilde;O - 1&ordf; FASE" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -466,12 +466,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -887,15 +887,15 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#FF6600">SISTEMA DE NUMERA&#x00C7;&#x00C3;O 
+-    - 1&#x00AA; FASE</font></h2>
++  <h2 class="ExerciseTitle"><font color="#FF6600">SISTEMA DE NUMERA&Ccedil;&Atilde;O 
++    - 1&ordf; FASE</font></h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 

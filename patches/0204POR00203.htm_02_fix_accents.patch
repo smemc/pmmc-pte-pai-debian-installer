@@ -1,0 +1,104 @@
+--- atividades/0204POR002/0204POR00203.htm	2012-06-22 14:56:28.215891401 -0300
++++ atividades/0204POR002/0204POR00203.htm.new	2012-06-22 14:56:28.219891401 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -823,13 +823,13 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles"> 
+-  <h2 class="ExerciseTitle"><font color="#336633">TRAZ / ATR&#x00C1;S</font></h2>
++  <h2 class="ExerciseTitle"><font color="#336633">TRAZ / ATR&Aacute;S</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -845,7 +845,7 @@
+ 
+  -->
+   <div align="left"><font size="3"><strong>Complete o texto com <font color="#FF0000" size="5">TRAZ</font> 
+-    ou <font color="#FF0000" size="5">ATR&#x00C1;S</font>: </strong> </font></div>
++    ou <font color="#FF0000" size="5">ATR&Aacute;S</font>: </strong> </font></div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+       <div class="ClozeBody"> 
+@@ -855,11 +855,11 @@
+               <div align="center"><strong>Todo&nbsp;dia&nbsp;Marquinhos&nbsp;<span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="5" maxlength="5">
+                 </input> 
+-                </span>&nbsp;uma&nbsp;flor&nbsp;para&nbsp;a&nbsp;professora N&#x00E1;dia.<br />
++                </span>&nbsp;uma&nbsp;flor&nbsp;para&nbsp;a&nbsp;professora N&aacute;dia.<br />
+                 Fica&nbsp;esperando-a&nbsp;<span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="5" maxlength="5">
+                 </input> 
+-                </span>&nbsp;da&nbsp;&#x00E1;rvore&nbsp;perto&nbsp;da&nbsp;escola.<br />
++                </span>&nbsp;da&nbsp;&aacute;rvore&nbsp;perto&nbsp;da&nbsp;escola.<br />
+                 Ela&nbsp;<span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="5" maxlength="5">
+                 </input> 
+@@ -867,15 +867,15 @@
+                 Logo&nbsp;que&nbsp;a&nbsp;professora&nbsp;passa,&nbsp;ele&nbsp;corre&nbsp;<span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="5" maxlength="5">
+                 </input> 
+-                </span>&nbsp;dela&nbsp;para&nbsp;ajud&#x00E1;-la.<br />
+-                &#x00C9;&nbsp;um&nbsp;menino&nbsp;muito&nbsp;gentil,&nbsp;sempre&nbsp;pronto&nbsp;a&nbsp;ajudar&nbsp;os&nbsp;outros.<br />
+-                Quando&nbsp;v&#x00EA;&nbsp;qualquer&nbsp;pessoa&nbsp;carregada&nbsp;j&#x00E1;&nbsp;corre&nbsp;<span class="GapSpan" id="GapSpan4"> 
++                </span>&nbsp;dela&nbsp;para&nbsp;ajud&aacute;-la.<br />
++                &Eacute;&nbsp;um&nbsp;menino&nbsp;muito&nbsp;gentil,&nbsp;sempre&nbsp;pronto&nbsp;a&nbsp;ajudar&nbsp;os&nbsp;outros.<br />
++                Quando&nbsp;v&ecirc;&nbsp;qualquer&nbsp;pessoa&nbsp;carregada&nbsp;j&aacute;&nbsp;corre&nbsp;<span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="5" maxlength="5">
+                 </input> 
+                 </span>&nbsp;para&nbsp;dividir&nbsp;o&nbsp;peso.&nbsp;Ele&nbsp;<span class="GapSpan" id="GapSpan5"> 
+                 <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="5" maxlength="5">
+                 </input> 
+-                </span>&nbsp;dentro&nbsp;de&nbsp;si&nbsp;um&nbsp;grande&nbsp;cora&#x00E7;&#x00E3;o.</strong></div></td>
++                </span>&nbsp;dentro&nbsp;de&nbsp;si&nbsp;um&nbsp;grande&nbsp;cora&ccedil;&atilde;o.</strong></div></td>
+           </tr>
+         </table>
+ </div>
+@@ -905,7 +905,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

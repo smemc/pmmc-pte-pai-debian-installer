@@ -1,0 +1,50 @@
+--- atividades/0601MAT053/0601MAT05306.htm	2012-06-22 14:57:40.387892484 -0300
++++ atividades/0601MAT053/0601MAT05306.htm.new	2012-06-22 14:57:40.387892484 -0300
+@@ -6,13 +6,13 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="Coloque os números em ordem crescente" />
++<meta name="DC:Title" content="Coloque os n&uacute;meros em ordem crescente" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+ <title>
+-Coloque os números em ordem crescente
++Coloque os n&uacute;meros em ordem crescente
+ </title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+@@ -617,10 +617,10 @@
+ var Openers = '';
+ var CorrectResponse = 'Correto!';
+ var IncorrectResponse = 'Que pena! Tente novamente.';
+-var ThisMuchCorrect = 'Esta parte da sua resposta está correta:';
+-var TheseAnswersToo = 'Estas respostas também estão corretas:';
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var NextCorrect = 'A próxima parte correta é: ';
++var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
++var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o corretas:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var NextCorrect = 'A pr&oacute;xima parte correta &eacute;: ';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+ var PageBGColor = '#ffffff';
+@@ -1188,14 +1188,14 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Coloque os números em ordem crescente</h2>
++	<h2 class="ExerciseTitle">Coloque os n&uacute;meros em ordem crescente</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Coloque os quadros em ordem. Quando você achar que suas respostas estão corretas, clique em "Verificar" para conferir suas respostas.</p>
++	<p id="Instructions">Coloque os quadros em ordem. Quando voc&ecirc; achar que suas respostas est&atilde;o corretas, clique em "Verificar" para conferir suas respostas.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

@@ -1,0 +1,11 @@
+--- atividades/0202POR006/0202POR00603.htm	2012-06-22 14:49:45.527885350 -0300
++++ atividades/0202POR006/0202POR00603.htm.new	2012-06-22 14:54:44.515889843 -0300
+@@ -856,7 +856,7 @@
+                 <td id="Clue_D_1" class="Clue"><img src="homemmagro.gif" width="159" height="160" align="middle" /> 
+                   <font color="#333399" size="6">homem MAGRO</font></td>
+               </tr><tr><td class="ClueNum">3. </td>
+-                <td id="Clue_D_3" class="Clue"><img src="leite.JPG" width="76" height="128" align="absmiddle" /> 
++                <td id="Clue_D_3" class="Clue"><img src="leite.jpg" width="76" height="128" align="absmiddle" /> 
+                   <font color="#333399" size="6">leite QUENTE</font></td>
+               </tr><tr><td class="ClueNum">5. </td>
+                 <td id="Clue_D_5" class="Clue"><img src="fim.gif" width="159" height="160" align="absmiddle" /> 

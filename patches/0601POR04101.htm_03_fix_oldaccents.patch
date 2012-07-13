@@ -1,0 +1,35 @@
+--- atividades/0601POR041/0601POR04101.htm	2012-06-22 14:59:05.703893768 -0300
++++ atividades/0601POR041/0601POR04101.htm.new	2012-06-22 14:59:05.707893768 -0300
+@@ -9,7 +9,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -613,10 +613,10 @@
+ var Openers = '';
+ var CorrectResponse = 'CERTO!';
+ var IncorrectResponse = 'ERRADO, TENTE NOVAMENTE.';
+-var ThisMuchCorrect = 'ESTA PARTE DA RESPOSTA ESTÁ CERTA:';
+-var TheseAnswersToo = 'ESTAS OUTRAS RESPOSTAS TAMBÉM SÃO CORRETAS:';
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var NextCorrect = 'A PRÓXIMA LETRA CORRETA É:';
++var ThisMuchCorrect = 'ESTA PARTE DA RESPOSTA EST&Aacute; CERTA:';
++var TheseAnswersToo = 'ESTAS OUTRAS RESPOSTAS TAMB&Eacute;M S&Atilde;O CORRETAS:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var NextCorrect = 'A PR&Oacute;XIMA LETRA CORRETA &Eacute;:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+ var PageBGColor = '#ffffff';
+@@ -1161,7 +1161,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Arraste as palavras em cima da linha para formar a frase corretamente. Quando você achar que a sua resposta está correta, clique em VERIFICAR para corrigir.</p>
++	<p id="Instructions">Arraste as palavras em cima da linha para formar a frase corretamente. Quando voc&ecirc; achar que a sua resposta est&aacute; correta, clique em VERIFICAR para corrigir.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

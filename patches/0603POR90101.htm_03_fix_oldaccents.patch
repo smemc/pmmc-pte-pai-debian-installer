@@ -1,0 +1,17 @@
+--- atividades/0603POR901/0603POR90101.htm	2012-06-22 15:02:32.347896873 -0300
++++ atividades/0603POR901/0603POR90101.htm.new	2012-06-22 15:02:32.351896873 -0300
+@@ -23,12 +23,12 @@
+ 
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">CONTINUE A HISTÓRIA</h2>
++	<h2 class="ExerciseTitle">CONTINUE A HIST&Oacute;RIA</h2>
+ 	<h3 class="ExerciseSubtitle">DESAFIO</h3>
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)--></p>
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)--></p>
+ </div>
+ 
+ <div id="MainDiv" class="StdDiv">

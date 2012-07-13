@@ -1,0 +1,159 @@
+--- atividades/1304POR001/1304POR00102.htm	2012-06-22 15:07:11.155901062 -0300
++++ atividades/1304POR001/1304POR00102.htm.new	2012-06-22 15:07:11.159901062 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Luiz Beraldo" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="Exerc&#x00ED;cio 2&#x003C;br&#x003E;Leia o texto e pontue corretamente" />
++<meta name="DC:Title" content="Exerc&iacute;cio 2&lt;br&gt;Leia o texto e pontue corretamente" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -466,12 +466,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -1103,7 +1103,7 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#FF9900">Exerc&#x00ED;cio 2</font><br />
++  <h2 class="ExerciseTitle"><font color="#FF9900">Exerc&iacute;cio 2</font><br />
+     <font color="#3333FF">Leia o texto e pontue corretamente</font></h2>
+ 
+ 
+@@ -1111,7 +1111,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -1135,7 +1135,7 @@
+             <font color="#0000FF">CARUMB&Eacute;, O JABUTI</font> 
+           </center></h3> 
+         <br />
+-         Antigamente os jabutis eram moleir&#x00F5;es e bobinhos<span class="GapSpan" id="GapSpan0">
++         Antigamente os jabutis eram moleir&otilde;es e bobinhos<span class="GapSpan" id="GapSpan0">
+         <input type="text" class="GapBox" id="Gap0" style="width: 1em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> Mas um dia<span class="GapSpan" id="GapSpan1">
+         <input type="text" class="GapBox" id="Gap1" style="width: 1em;" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="2" maxlength="2" />
+@@ -1145,27 +1145,27 @@
+         <input type="text" class="GapBox" id="Gap3" style="width: 1em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> perguntador e doido para saber tudo<span class="GapSpan" id="GapSpan4">
+         <input type="text" class="GapBox" id="Gap4" style="width: 1em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Tinha o nome de Carumb&#x00E9;<span class="GapSpan" id="GapSpan5">
++        </span> Tinha o nome de Carumb&eacute;<span class="GapSpan" id="GapSpan5">
+         <input type="text" class="GapBox" id="Gap5" style="width: 1em;" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> <br /> Carumb&#x00E9; perguntava &#x00E0; Dona Jabota<span class="GapSpan" id="GapSpan6">
++        </span> <br /> Carumb&eacute; perguntava &agrave; Dona Jabota<span class="GapSpan" id="GapSpan6">
+         <input type="text" class="GapBox" id="Gap6" style="width: 1em;" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> sempre atarefada com os arranjos da toca<span class="GapSpan" id="GapSpan7">
+         <input type="text" class="GapBox" id="Gap7" style="width: 1em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan8">
+         <input type="text" class="GapBox" id="Gap8" style="width: 1em;" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> M&#x00E3;e<span class="GapSpan" id="GapSpan9">
++        </span> M&atilde;e<span class="GapSpan" id="GapSpan9">
+         <input type="text" class="GapBox" id="Gap9" style="width: 1em;" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> &#x00F3; m&#x00E3;e<span class="GapSpan" id="GapSpan10">
++        </span> &oacute; m&atilde;e<span class="GapSpan" id="GapSpan10">
+         <input type="text" class="GapBox" id="Gap10" style="width: 1em;" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> O mundo &#x00E9; uma floresta s&#x00F3;<span class="GapSpan" id="GapSpan11">
++        </span> O mundo &eacute; uma floresta s&oacute;<span class="GapSpan" id="GapSpan11">
+         <input type="text" class="GapBox" id="Gap11" style="width: 1em;" onfocus="TrackFocus(11)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan12">
+         <input type="text" class="GapBox" id="Gap12" style="width: 1em;" onfocus="TrackFocus(12)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Voc&#x00EA; tem cada pergunta<span class="GapSpan" id="GapSpan13">
++        </span> Voc&ecirc; tem cada pergunta<span class="GapSpan" id="GapSpan13">
+         <input type="text" class="GapBox" id="Gap13" style="width: 1em;" onfocus="TrackFocus(13)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Carumb&#x00E9;<span class="GapSpan" id="GapSpan14">
++        </span> Carumb&eacute;<span class="GapSpan" id="GapSpan14">
+         <input type="text" class="GapBox" id="Gap14" style="width: 1em;" onfocus="TrackFocus(14)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> <br /> Dona Jabota tinha a cabe&#x00E7;a fraca para pensar e ficava atrapalhada<span class="GapSpan" id="GapSpan15">
++        </span> <br /> Dona Jabota tinha a cabe&ccedil;a fraca para pensar e ficava atrapalhada<span class="GapSpan" id="GapSpan15">
+         <input type="text" class="GapBox" id="Gap15" style="width: 1em;" onfocus="TrackFocus(15)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> Nunca pensara naquilo antes<span class="GapSpan" id="GapSpan16">
+         <input type="text" class="GapBox" id="Gap16" style="width: 1em;" onfocus="TrackFocus(16)" onblur="LeaveGap()" size="2" maxlength="2" />
+@@ -1179,11 +1179,11 @@
+         <input type="text" class="GapBox" id="Gap20" style="width: 1em;" onfocus="TrackFocus(20)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan21">
+         <input type="text" class="GapBox" id="Gap21" style="width: 1em;" onfocus="TrackFocus(21)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Decerto que &#x00E9;<span class="GapSpan" id="GapSpan22">
++        </span> Decerto que &eacute;<span class="GapSpan" id="GapSpan22">
+         <input type="text" class="GapBox" id="Gap22" style="width: 1em;" onfocus="TrackFocus(22)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan23">
+         <input type="text" class="GapBox" id="Gap23" style="width: 1em;" onfocus="TrackFocus(23)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Ent&#x00E3;o esse mato n&#x00E3;o tem fim<span class="GapSpan" id="GapSpan24">
++        </span> Ent&atilde;o esse mato n&atilde;o tem fim<span class="GapSpan" id="GapSpan24">
+         <input type="text" class="GapBox" id="Gap24" style="width: 1em;" onfocus="TrackFocus(24)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan25">
+         <input type="text" class="GapBox" id="Gap25" style="width: 1em;" onfocus="TrackFocus(25)" onblur="LeaveGap()" size="2" maxlength="2" />
+@@ -1197,7 +1197,7 @@
+         <input type="text" class="GapBox" id="Gap29" style="width: 1em;" onfocus="TrackFocus(29)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> E no fim do mato<span class="GapSpan" id="GapSpan30">
+         <input type="text" class="GapBox" id="Gap30" style="width: 1em;" onfocus="TrackFocus(30)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> o que &#x00E9; que h&#x00E1;<span class="GapSpan" id="GapSpan31">
++        </span> o que &eacute; que h&aacute;<span class="GapSpan" id="GapSpan31">
+         <input type="text" class="GapBox" id="Gap31" style="width: 1em;" onfocus="TrackFocus(31)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan32">
+         <input type="text" class="GapBox" id="Gap32" style="width: 1em;" onfocus="TrackFocus(32)" onblur="LeaveGap()" size="2" maxlength="2" />
+@@ -1205,9 +1205,9 @@
+         <input type="text" class="GapBox" id="Gap33" style="width: 1em;" onfocus="TrackFocus(33)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan34">
+         <input type="text" class="GapBox" id="Gap34" style="width: 1em;" onfocus="TrackFocus(34)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Nada o que &#x00E9;<span class="GapSpan" id="GapSpan35">
++        </span> Nada o que &eacute;<span class="GapSpan" id="GapSpan35">
+         <input type="text" class="GapBox" id="Gap35" style="width: 1em;" onfocus="TrackFocus(35)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> m&#x00E3;e<span class="GapSpan" id="GapSpan36">
++        </span> m&atilde;e<span class="GapSpan" id="GapSpan36">
+         <input type="text" class="GapBox" id="Gap36" style="width: 1em;" onfocus="TrackFocus(36)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan37">
+         <input type="text" class="GapBox" id="Gap37" style="width: 1em;" onfocus="TrackFocus(37)" onblur="LeaveGap()" size="2" maxlength="2" />
+@@ -1215,11 +1215,11 @@
+         <input type="text" class="GapBox" id="Gap38" style="width: 1em;" onfocus="TrackFocus(38)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> que pergunta<span class="GapSpan" id="GapSpan39">
+         <input type="text" class="GapBox" id="Gap39" style="width: 1em;" onfocus="TrackFocus(39)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Nada &#x00E9; nada...<br /> <span class="GapSpan" id="GapSpan40">
++        </span> Nada &eacute; nada...<br /> <span class="GapSpan" id="GapSpan40">
+         <input type="text" class="GapBox" id="Gap40" style="width: 1em;" onfocus="TrackFocus(40)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> Ah<span class="GapSpan" id="GapSpan41">
+         <input type="text" class="GapBox" id="Gap41" style="width: 1em;" onfocus="TrackFocus(41)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Eu queria ir ao fim do mato para ver nada como &#x00E9;<span class="GapSpan" id="GapSpan42">
++        </span> Eu queria ir ao fim do mato para ver nada como &eacute;<span class="GapSpan" id="GapSpan42">
+         <input type="text" class="GapBox" id="Gap42" style="width: 1em;" onfocus="TrackFocus(42)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> <span class="GapSpan" id="GapSpan43">
+         <input type="text" class="GapBox" id="Gap43" style="width: 1em;" onfocus="TrackFocus(43)" onblur="LeaveGap()" size="2" maxlength="2" />
+@@ -1229,14 +1229,14 @@
+         <input type="text" class="GapBox" id="Gap45" style="width: 1em;" onfocus="TrackFocus(45)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> Olhe<span class="GapSpan" id="GapSpan46">
+         <input type="text" class="GapBox" id="Gap46" style="width: 1em;" onfocus="TrackFocus(46)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> jabuti n&#x00E3;o precisa pensar... V&#x00E1; brincar<span class="GapSpan" id="GapSpan47">
++        </span> jabuti n&atilde;o precisa pensar... V&aacute; brincar<span class="GapSpan" id="GapSpan47">
+         <input type="text" class="GapBox" id="Gap47" style="width: 1em;" onfocus="TrackFocus(47)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br />
+         <br />
+         <br /><hr width=100% noshade />
+-        <font size="1">Autores: Of&#x00E9;lia e Narbal Fontes<br />
+-        Cem noites tapuias - S&#x00E3;o Paulo<br />
+-        Ed. &#x00C1;tica - 1982</font><br />
++        <font size="1">Autores: Of&eacute;lia e Narbal Fontes<br />
++        Cem noites tapuias - S&atilde;o Paulo<br />
++        Ed. &Aacute;tica - 1982</font><br />
+         <br />
+ </div>
+ </form>

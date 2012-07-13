@@ -1,0 +1,31 @@
+--- atividades/0603MAT040/0603MAT04005.htm	2012-06-22 14:49:52.131885447 -0300
++++ atividades/0603MAT040/0603MAT04005.htm.new	2012-06-22 15:02:24.051896748 -0300
+@@ -782,23 +782,23 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<img src="1-2A.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[0][0]='<img src="1-2a.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='<img src="5-6A.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[1][0]='<img src="5-6a.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='<img src="2-4A.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[2][0]='<img src="2-4a.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ D[3] = new Array();
+-D[3][0]='<img src="3-8A.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[3][0]='<img src="3-8a.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[3][1] = 4;
+ D[3][2] = 0;
+ D[4] = new Array();
+-D[4][0]='<img src="5-10A.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[4][0]='<img src="5-10a.gif" width="141" height="41" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[4][1] = 5;
+ D[4][2] = 0;
+ 

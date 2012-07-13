@@ -1,0 +1,20 @@
+--- atividades/0204POR005/0204POR00502.htm	2012-06-22 14:56:40.503891586 -0300
++++ atividades/0204POR005/0204POR00502.htm.new	2012-06-22 14:56:40.503891586 -0300
+@@ -451,7 +451,7 @@
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -986,7 +986,7 @@
+                 </span>&nbsp;<font color="#FF0000">(bagulho)</font>.</strong></div> 
+ 				
+               <div align="right"><br />
+-                <em><font size="1">Dilan Camargo. O embrulho do Getúlio. Porto 
++                <em><font size="1">Dilan Camargo. O embrulho do Get&uacute;lio. Porto 
+                 Alegre, Mercado Aberto, 1987. </font></em> </div></td>
+           </tr>
+         </table>

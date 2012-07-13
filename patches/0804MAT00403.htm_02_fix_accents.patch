@@ -1,0 +1,20 @@
+--- atividades/0804MAT004/0804MAT00403.htm	2012-06-22 15:03:39.159897876 -0300
++++ atividades/0804MAT004/0804MAT00403.htm.new	2012-06-22 15:03:39.159897876 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -86,7 +86,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="1" bordercolor="#0000ff" cellpadding="0" cellspacing="0" ><tbody><tr><td width="60" align="center"><b>9.837</b></td></tr></tbody></table><br /><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>a) Qual &#x00E9; o algorismo correspondente &#x00E0; ordem das centenas?</td><td>&nbsp;<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span></td></tr><tr><td>b) Qual &#x00E9; o algarismo correspondente &#x00E0; ordem unidades de milhar?</td><td>&nbsp;<span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span></td></tr><tr><td>c) Qual &#x00E9; o algarismo correspondente &#x00E0; ordem das dezenas?</td><td>&nbsp;<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span></td></tr><tr><td>d) Qual &#x00E9; o algarismo correspondente &#x00E0; ordem das unidades?</td><td>&nbsp;<span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span></td></tr></tbody></table>
++<table border="1" bordercolor="#0000ff" cellpadding="0" cellspacing="0" ><tbody><tr><td width="60" align="center"><b>9.837</b></td></tr></tbody></table><br /><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>a) Qual &eacute; o algorismo correspondente &agrave; ordem das centenas?</td><td>&nbsp;<span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span></td></tr><tr><td>b) Qual &eacute; o algarismo correspondente &agrave; ordem unidades de milhar?</td><td>&nbsp;<span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span></td></tr><tr><td>c) Qual &eacute; o algarismo correspondente &agrave; ordem das dezenas?</td><td>&nbsp;<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span></td></tr><tr><td>d) Qual &eacute; o algarismo correspondente &agrave; ordem das unidades?</td><td>&nbsp;<span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

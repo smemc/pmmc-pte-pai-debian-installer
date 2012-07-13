@@ -1,0 +1,29 @@
+--- atividades/0104GEO002/0104GEO00202.htm	2012-06-22 14:53:19.079888559 -0300
++++ atividades/0104GEO002/0104GEO00202.htm.new	2012-06-22 14:53:19.079888559 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -66,7 +66,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ <div id="InstructionsDiv" class="Titles">
+@@ -89,7 +89,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-Ol&#x00E1;, eu sou a Ana. Nasci no estado de (1) <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>. Meu pai trabalha em um banco, e foi transferido para o estado do (2) <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>. Ficamos l&#x00E1; por algum tempo, quando ele foi novamente transferido, desta vez, para bem longe, no estado do (3) <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>. Agora meu pai se aposentou e nos mudamos para o estado do (4) <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>, o mais novo estado brasileiro.
++Ol&aacute;, eu sou a Ana. Nasci no estado de (1) <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>. Meu pai trabalha em um banco, e foi transferido para o estado do (2) <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>. Ficamos l&aacute; por algum tempo, quando ele foi novamente transferido, desta vez, para bem longe, no estado do (3) <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>. Agora meu pai se aposentou e nos mudamos para o estado do (4) <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>, o mais novo estado brasileiro.
+ </div>
+ </form>
+ </div>

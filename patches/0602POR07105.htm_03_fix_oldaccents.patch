@@ -1,0 +1,38 @@
+--- atividades/0602POR071/0602POR07105.htm	2012-06-22 15:01:17.591895749 -0300
++++ atividades/0602POR071/0602POR07105.htm.new	2012-06-22 15:01:17.595895749 -0300
+@@ -9,7 +9,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -587,7 +587,7 @@
+ 
+ var CorrectResponse = 'CERTO! MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -830,7 +830,7 @@
+ D[3][1] = 4;
+ D[3][2] = 0;
+ D[4] = new Array();
+-D[4][0]='LÍRIO';
++D[4][0]='L&Iacute;RIO';
+ D[4][1] = 5;
+ D[4][2] = 0;
+ D[5] = new Array();
+@@ -858,7 +858,7 @@
+ D[10][1] = 11;
+ D[10][2] = 0;
+ D[11] = new Array();
+-D[11][0]='JACARÉ';
++D[11][0]='JACAR&Eacute;';
+ D[11][1] = 12;
+ D[11][2] = 0;
+ D[12] = new Array();

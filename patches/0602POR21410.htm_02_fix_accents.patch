@@ -1,0 +1,58 @@
+--- atividades/0602POR214/0602POR21410.htm	2012-06-22 15:01:56.931896339 -0300
++++ atividades/0602POR214/0602POR21410.htm.new	2012-06-22 15:01:56.931896339 -0300
+@@ -1,11 +1,11 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to M&#225;rcio Godoi."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to M&aacute;rcio Godoi."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="M&#225;rcio Godoi" />
+-<meta name="DC:Title" content="ORGANIZE AS S&#x00CD;LABAS" />
++<meta name="DC:Creator" content="M&aacute;rcio Godoi" />
++<meta name="DC:Title" content="ORGANIZE AS S&Iacute;LABAS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -614,9 +614,9 @@
+ var Openers = '';
+ var CorrectResponse = 'CERTO!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var ThisMuchCorrect = 'EST&#x00C1; PARTE EST&#x00C1; CERTA';
++var ThisMuchCorrect = 'EST&Aacute; PARTE EST&Aacute; CERTA';
+ var TheseAnswersToo = 'These answers are also correct:';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var NextCorrect = 'The next correct part is:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -1157,16 +1157,16 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">ORGANIZE AS S&#x00CD;LABAS</h2>
++	<h2 class="ExerciseTitle">ORGANIZE AS S&Iacute;LABAS</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Exerc&#x00ED;cio de ordena&#x00E7;&#x00E3;o de sílabas.</h3>
++	<h3 class="ExerciseSubtitle">Exerc&iacute;cio de ordena&ccedil;&atilde;o de sílabas.</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Forme uma palavra correta ordenando as sílabas. Quando achar que a palavra est&#x00E1; correta, clique no bot&#x00E3;o "Verificar" para verificar a sua resposta.</p>
++	<p id="Instructions">Forme uma palavra correta ordenando as sílabas. Quando achar que a palavra est&aacute; correta, clique no bot&atilde;o "Verificar" para verificar a sua resposta.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

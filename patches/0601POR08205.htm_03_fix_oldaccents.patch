@@ -1,0 +1,32 @@
+--- atividades/0601POR082/0601POR08205.htm	2012-06-22 14:59:38.703894263 -0300
++++ atividades/0601POR082/0601POR08205.htm.new	2012-06-22 14:59:38.703894263 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="ORDENE AS SÍLABAS" />
++<meta name="DC:Title" content="ORDENE AS S&Iacute;LABAS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -614,9 +614,9 @@
+ var Openers = '';
+ var CorrectResponse = 'CERTO!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var ThisMuchCorrect = 'ESTÁ PARTE ESTÁ CERTA';
++var ThisMuchCorrect = 'EST&Aacute; PARTE EST&Aacute; CERTA';
+ var TheseAnswersToo = 'These answers are also correct:';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var NextCorrect = 'The next correct part is:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -1157,7 +1157,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">ORDENE AS SÍLABAS</h2>
++	<h2 class="ExerciseTitle">ORDENE AS S&Iacute;LABAS</h2>
+ 
+ 
+ 

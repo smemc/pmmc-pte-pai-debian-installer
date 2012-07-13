@@ -1,0 +1,11 @@
+--- atividades/0204MAT001/0204MAT00101.htm	2012-06-22 14:55:48.875890810 -0300
++++ atividades/0204MAT001/0204MAT00101.htm.new	2012-06-22 14:55:48.879890810 -0300
+@@ -447,7 +447,7 @@
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = true;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Agora vamos para o 2º Exercício!';
++var Proximo = 'Agora vamos para o 2Âº Exerc&iacute;cio!';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

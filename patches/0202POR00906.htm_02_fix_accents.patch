@@ -1,0 +1,64 @@
+--- atividades/0202POR009/0202POR00906.htm	2012-06-22 14:54:54.499889993 -0300
++++ atividades/0202POR009/0202POR00906.htm.new	2012-06-22 14:54:54.499889993 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -582,9 +582,9 @@
+ 
+ 
+ 
+-var CorrectResponse = 'Parab&#x00E9;ns. Bom trabalho!';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+@@ -764,7 +764,7 @@
+ F[0][0]='feio';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='&#x00FA;til';
++F[1][0]='&uacute;til';
+ F[1][1] = 2;
+ F[2] = new Array();
+ F[2][0]='atrasado';
+@@ -792,7 +792,7 @@
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='in&#x00FA;til';
++D[1][0]='in&uacute;til';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+@@ -935,9 +935,9 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Arraste o item 
+-    da direita at&#x00E9; ficar ao lado da op&#x00E7;&#x00E3;o correta do lado 
+-    esquerdo. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu 
+-    exerc&#x00ED;cio.</p>
++    da direita at&eacute; ficar ao lado da op&ccedil;&atilde;o correta do lado 
++    esquerdo. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu 
++    exerc&iacute;cio.</p>
+   <p>&nbsp;</p>
+   <p><strong><font size="3"> Ligue as palavras de sentido contr&aacute;rio:</font></strong></p>
+ </div>

@@ -1,0 +1,82 @@
+--- atividades/0202POR001/0202POR00104.htm	2012-06-22 14:54:23.779889531 -0300
++++ atividades/0202POR001/0202POR00104.htm.new	2012-06-22 14:54:23.779889531 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S - 2&#x00AA; S&#x00C9;RIE" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S - 2&ordf; S&Eacute;RIE" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o 5º Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -828,8 +828,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -845,7 +845,7 @@
+ 
+  -->
+   <div align="left"><strong><font size="3">4 - Escreva as palavras abaixo, acrescentanto 
+-    <font color="#FF0000" size="5">h</font> onde for necess&#x00E1;rio: </font></strong></div>
++    <font color="#FF0000" size="5">h</font> onde for necess&aacute;rio: </font></strong></div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+       <div class="ClozeBody"> 
+@@ -880,7 +880,7 @@
+           </tr>
+           <tr bgcolor="#FFFFCC"> 
+             <td width="300"> 
+-              <div align="center"><strong><em>d)</em> <font color="#FF0000" size="3">?</font>&#x00F3;spede</strong></div></td>
++              <div align="center"><strong><em>d)</em> <font color="#FF0000" size="3">?</font>&oacute;spede</strong></div></td>
+             <td width="300"> 
+               <div align="center"><strong><span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="10" maxlength="7">
+@@ -889,7 +889,7 @@
+           </tr>
+           <tr> 
+             <td width="300" bgcolor="#FFFFCC">
+-<div align="center"><strong><em>e)</em> <font color="#FF0000" size="3">?</font>&#x00FA;nico</strong></div></td>
++<div align="center"><strong><em>e)</em> <font color="#FF0000" size="3">?</font>&uacute;nico</strong></div></td>
+             <td width="300" bgcolor="#FFFFCC"> 
+               <div align="center"><strong><span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="10" maxlength="6">
+@@ -933,7 +933,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

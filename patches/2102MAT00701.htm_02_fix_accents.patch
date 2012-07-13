@@ -1,0 +1,62 @@
+--- atividades/2102MAT007/2102MAT00701.htm	2012-06-22 15:07:27.959901313 -0300
++++ atividades/2102MAT007/2102MAT00701.htm.new	2012-06-22 15:07:27.963901314 -0300
+@@ -57,7 +57,7 @@
+ <title>PAI - Pacote de Atividades de Inform&aacute;tica</title>
+ <!-- Made with executable version 6.2 Release 4 Build 0 --><!-- The following insertion allows you to add your own code directly to this head tag from the configuration screen -->
+   <link href="../estilos/estilos.css" rel="stylesheet" type="text/css">
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -398,7 +398,7 @@
+ 	}
+ 	return InArray;
+ }
+-<!-- Orientadores de Inform&#225;tica - Comentado para que n&#227;o exibe o resultado no enunciado da atividade -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para que n&atilde;o exibe o resultado no enunciado da atividade -->
+ function WriteToInstructions(Feedback) {
+ 	<!-- document.getElementById('InstructionsDiv').innerHTML = Feedback; -->
+ 
+@@ -514,7 +514,7 @@
+ 		Frm.submit();
+ 	}
+ 
+-  	//Orientadores de Inform&#225;tica - C&#243;digo que exibir o pr&#243;ximo arquivo
++  	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir o pr&oacute;ximo arquivo
+ 	parent.location.href="2102MAT00702.htm";
+ 
+ }
+@@ -536,11 +536,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -1036,7 +1036,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ </div>
+ 
+ 
+@@ -1384,7 +1384,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </div>
+ 
+ 

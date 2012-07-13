@@ -1,0 +1,127 @@
+--- atividades/0204POR005/0204POR00503.htm	2012-06-22 14:56:41.303891598 -0300
++++ atividades/0204POR005/0204POR00503.htm.new	2012-06-22 14:56:41.307891598 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -853,8 +853,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -870,7 +870,7 @@
+ 
+  -->
+   <div align="left"><strong><font size="3">Complete o poema escrevendo as palavras 
+-    com <font color="#FF0000" size="5">H</font> inicial entre par&#x00EA;nteses: </font></strong></div>
++    com <font color="#FF0000" size="5">H</font> inicial entre par&ecirc;nteses: </font></strong></div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+       <div class="ClozeBody"> 
+@@ -879,47 +879,47 @@
+             <td bgcolor="#CCCCFF">
+ <div align="center"><strong>O&nbsp;grande&nbsp;<span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+-                </span>&nbsp;<font color="#FF0000">(her&#x00F3;i)</font><br />
++                </span>&nbsp;<font color="#FF0000">(her&oacute;i)</font><br />
+                 <br />
+                 A&nbsp;<span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+-                </span>&nbsp;<font color="#FF0000">(hist&#x00F3;ria)</font>&nbsp;de&nbsp;um&nbsp;<span class="GapSpan" id="GapSpan2"> 
++                </span>&nbsp;<font color="#FF0000">(hist&oacute;ria)</font>&nbsp;de&nbsp;um&nbsp;<span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+-                </span>&nbsp;<font color="#FF0000">(her&#x00F3;i)</font><br />
++                </span>&nbsp;<font color="#FF0000">(her&oacute;i)</font><br />
+                 <span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+                 </span>&nbsp;<font color="#FF0000">(hoje)</font>&nbsp;eu&nbsp;quero&nbsp;lhes&nbsp;contar.<br />
+-                &#x00C9;&nbsp;um&nbsp;<span class="GapSpan" id="GapSpan4"> 
++                &Eacute;&nbsp;um&nbsp;<span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+                 </span>&nbsp;<font color="#FF0000">(homem)</font>&nbsp;destemido,<br />
+-                quando&nbsp;&#x00E9;&nbsp;<span class="GapSpan" id="GapSpan5"> 
++                quando&nbsp;&eacute;&nbsp;<span class="GapSpan" id="GapSpan5"> 
+                 <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+                 </span>&nbsp;<font color="#FF0000">(hora)</font>&nbsp;de&nbsp;lutar!<br />
+                 <br />
+-                &#x00C9;&nbsp;um&nbsp;<span class="GapSpan" id="GapSpan6"> 
++                &Eacute;&nbsp;um&nbsp;<span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+-                </span>&nbsp;<font color="#FF0000">(her&#x00F3;i)</font>&nbsp;que&nbsp;salva&nbsp;todos<br />
+-                no&nbsp;inc&#x00EA;ndio&nbsp;l&#x00E1;&nbsp;do&nbsp;<span class="GapSpan" id="GapSpan7"> 
++                </span>&nbsp;<font color="#FF0000">(her&oacute;i)</font>&nbsp;que&nbsp;salva&nbsp;todos<br />
++                no&nbsp;inc&ecirc;ndio&nbsp;l&aacute;&nbsp;do&nbsp;<span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+                 </span>&nbsp;<font color="#FF0000">(hotel)</font>.<br />
+-                Ele&nbsp;enfrenta&nbsp;at&#x00E9;&nbsp;le&#x00E3;o,<br />
+-                tigre,&nbsp;on&#x00E7;a&nbsp;e&nbsp;cascavel!<br />
++                Ele&nbsp;enfrenta&nbsp;at&eacute;&nbsp;le&atilde;o,<br />
++                tigre,&nbsp;on&ccedil;a&nbsp;e&nbsp;cascavel!<br />
+                 <br />
+-                &#x00C9;&nbsp;um&nbsp;soldado&nbsp;corajoso,<br />
++                &Eacute;&nbsp;um&nbsp;soldado&nbsp;corajoso,<br />
+                 na&nbsp;defesa&nbsp;nacional.<br />
+-                N&#x00E3;o&nbsp;tem&nbsp;medo&nbsp;de&nbsp;inje&#x00E7;&#x00E3;o,<br />
++                N&atilde;o&nbsp;tem&nbsp;medo&nbsp;de&nbsp;inje&ccedil;&atilde;o,<br />
+                 muito&nbsp;menos&nbsp;de&nbsp;<span class="GapSpan" id="GapSpan8"> 
+                 <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+                 </span>&nbsp;<font color="#FF0000">(hospital)</font>!<br />
+                 <br />
+-                Voc&#x00EA;&nbsp;pode&nbsp;acreditar<br />
++                Voc&ecirc;&nbsp;pode&nbsp;acreditar<br />
+                 em&nbsp;tudo&nbsp;o&nbsp;que&nbsp;eu&nbsp;estou&nbsp;falando:<br />
+                 esse&nbsp;<span class="GapSpan" id="GapSpan9"> 
+                 <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="10" maxlength="10"></input> 
+-                </span>&nbsp;<font color="#FF0000">(her&#x00F3;i)</font>&nbsp;sempre&nbsp;sou&nbsp;eu,<br />
++                </span>&nbsp;<font color="#FF0000">(her&oacute;i)</font>&nbsp;sempre&nbsp;sou&nbsp;eu,<br />
+                 toda&nbsp;vez&nbsp;que&nbsp;estou&nbsp;sonhando!</strong></div>
+ 				 <div align="right"><br />
+-                <em><font size="1">Pedro Bandeira. Mais respeito, eu sou crian&#x00E7;a! S&#x00E3;o Paulo, Moderna, 1994.</font></em> </div>
++                <em><font size="1">Pedro Bandeira. Mais respeito, eu sou crian&ccedil;a! S&atilde;o Paulo, Moderna, 1994.</font></em> </div>
+ 				</td>
+           </tr>
+         </table>        
+@@ -950,7 +950,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

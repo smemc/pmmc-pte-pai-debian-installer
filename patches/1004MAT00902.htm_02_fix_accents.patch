@@ -1,0 +1,28 @@
+--- atividades/1004MAT009/1004MAT00902.htm	2012-06-22 15:05:31.951899571 -0300
++++ atividades/1004MAT009/1004MAT00902.htm.new	2012-06-22 15:05:31.955899571 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="FRA&#x00C7;&#x00D5;ES" />
++<meta name="DC:Title" content="FRA&Ccedil;&Otilde;ES" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -63,14 +63,14 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">FRA&#x00C7;&#x00D5;ES</h2>
++	<h2 class="ExerciseTitle">FRA&Ccedil;&Otilde;ES</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Arraste as fra&#x00E7;&#x00F5;es ao lado das figuras correspondentes. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir o exerc&#x00ED;cio.</div>
++	<div id="Instructions">Arraste as fra&ccedil;&otilde;es ao lado das figuras correspondentes. Depois de conclu&iacute;do, clique em "Verificar" para corrigir o exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

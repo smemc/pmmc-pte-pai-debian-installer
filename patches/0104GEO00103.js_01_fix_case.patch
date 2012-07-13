@@ -1,0 +1,11 @@
+--- atividades/0104GEO001/0104GEO00103.js	2012-06-22 14:49:51.835885445 -0300
++++ atividades/0104GEO001/0104GEO00103.js.new	2012-06-22 15:07:36.659901445 -0300
+@@ -445,7 +445,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','Maranhao.gif','Piaui.gif','Ceara.gif','Rio_Grande_do_Norte.gif','Pernambuco.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','maranhao.gif','piaui.gif','ceara.gif','rio_grande_do_norte.gif','pernambuco.gif','rodape.png');
+ 
+ 
+ 	SetUpItems(ShuffleQs,QsToShow);

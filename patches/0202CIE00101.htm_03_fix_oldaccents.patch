@@ -1,0 +1,11 @@
+--- atividades/0202CIE001/0202CIE00101.htm	2012-06-22 14:53:59.783889172 -0300
++++ atividades/0202CIE001/0202CIE00101.htm.new	2012-06-22 14:53:59.787889172 -0300
+@@ -441,7 +441,7 @@
+ var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o 2º Exercício!';
++var Proximo = 'Agora vamos para o 2Âº Exerc&iacute;cio!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

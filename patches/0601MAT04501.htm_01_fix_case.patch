@@ -1,0 +1,119 @@
+--- atividades/0601MAT045/0601MAT04501.htm	2012-06-22 14:49:29.655885112 -0300
++++ atividades/0601MAT045/0601MAT04501.htm.new	2012-06-22 14:57:31.255892346 -0300
+@@ -477,7 +477,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','2.PNG','4.PNG','10.PNG','5.PNG','1.PNG','6.PNG','8.PNG','12.PNG','9.PNG','11.PNG','7.PNG','3.PNG','rodape.png');
++	PreloadImages('../imagens/logo.png','2.png','4.png','10.png','5.png','1.png','6.png','8.png','12.png','9.png','11.png','7.png','3.png','rodape.png');
+ 
+ 
+ 	SetUpItems(ShuffleQs,QsToShow);
+@@ -745,7 +745,7 @@
+ <form id="QForm" method="post" action="" onsubmit="return false;">
+ <table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">
+ 
+-<tr><td class="LeftItem"><img src="2.PNG" title="2" width="175" height="174"></img></td><td class="RightItem"><select id="s0_0"><option value="x">Que horas são?</option>
++<tr><td class="LeftItem"><img src="2.png" title="2" width="175" height="174"></img></td><td class="RightItem"><select id="s0_0"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -758,7 +758,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="4.PNG" title="4" width="175" height="174"></img></td><td class="RightItem"><select id="s1_1"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="4.png" title="4" width="175" height="174"></img></td><td class="RightItem"><select id="s1_1"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -771,7 +771,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="10.PNG" title="10" width="175" height="174"></img></td><td class="RightItem"><select id="s2_2"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="10.png" title="10" width="175" height="174"></img></td><td class="RightItem"><select id="s2_2"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -784,7 +784,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="5.PNG" title="5" width="175" height="174"></img></td><td class="RightItem"><select id="s3_3"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="5.png" title="5" width="175" height="174"></img></td><td class="RightItem"><select id="s3_3"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -797,7 +797,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="1.PNG" title="1" width="175" height="174"></img></td><td class="RightItem"><select id="s4_4"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="1.png" title="1" width="175" height="174"></img></td><td class="RightItem"><select id="s4_4"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -810,7 +810,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="6.PNG" title="6" width="175" height="174"></img></td><td class="RightItem"><select id="s5_5"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="6.png" title="6" width="175" height="174"></img></td><td class="RightItem"><select id="s5_5"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -823,7 +823,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="8.PNG" title="8" width="175" height="174"></img></td><td class="RightItem"><select id="s6_6"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="8.png" title="8" width="175" height="174"></img></td><td class="RightItem"><select id="s6_6"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -836,7 +836,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="12.PNG" title="12" width="175" height="174"></img></td><td class="RightItem"><select id="s7_7"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="12.png" title="12" width="175" height="174"></img></td><td class="RightItem"><select id="s7_7"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -849,7 +849,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="9.PNG" title="9" width="175" height="174"></img></td><td class="RightItem"><select id="s8_8"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="9.png" title="9" width="175" height="174"></img></td><td class="RightItem"><select id="s8_8"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -862,7 +862,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="11.PNG" title="11" width="175" height="174"></img></td><td class="RightItem"><select id="s9_9"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="11.png" title="11" width="175" height="174"></img></td><td class="RightItem"><select id="s9_9"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -875,7 +875,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="7.PNG" title="7" width="175" height="174"></img></td><td class="RightItem"><select id="s10_10"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="7.png" title="7" width="175" height="174"></img></td><td class="RightItem"><select id="s10_10"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>
+@@ -888,7 +888,7 @@
+ <option value="5">06:00</option>
+ <option value="0">02:00</option>
+ <option value="11">03:00</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="3.PNG" title="3" width="175" height="174"></img></td><td class="RightItem"><select id="s11_11"><option value="x">Que horas são?</option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="3.png" title="3" width="175" height="174"></img></td><td class="RightItem"><select id="s11_11"><option value="x">Que horas são?</option>
+ <option value="4">01:00</option>
+ <option value="10">07:00</option>
+ <option value="6">08:00</option>

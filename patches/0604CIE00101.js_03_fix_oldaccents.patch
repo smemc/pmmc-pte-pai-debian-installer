@@ -1,0 +1,213 @@
+--- atividades/0604CIE001/0604CIE00101.js	2012-06-22 15:07:52.067901677 -0300
++++ atividades/0604CIE001/0604CIE00101.js.new	2012-06-22 15:07:52.067901677 -0300
+@@ -17,7 +17,7 @@
+ var qstHead = new init_array(1);
+ var pageWidth = 80;
+ var groups = new init_array(0);
+-var quizTitle="Escolha Verdadeiro ou Falso para as afirmações sobre higiene alimentar";
++var quizTitle="Escolha Verdadeiro ou Falso para as afirma&ccedil;&otilde;es sobre higiene alimentar";
+ var maxtime=1800;
+ var keycode = new init_array(6);
+ var keyword = 'syskey';
+@@ -326,18 +326,18 @@
+ switch(giorno) {
+ case 0: nome = "Domingo"; break;
+ case 1: nome = "Segunda-feira"; break;
+-case 2: nome = "Terça-feira"; break;
++case 2: nome = "Ter&ccedil;a-feira"; break;
+ case 3: nome = "Quarta-feira"; break;
+ case 4: nome = "Quinta-feira"; break;
+ case 5: nome = "Sexta-feira"; break;
+-case 6: nome = "Sábado"; break;
++case 6: nome = "S&aacute;bado"; break;
+ }
+ strData = nome+", "+obj.getDate();
+ mese = obj.getMonth();
+ switch(mese) {
+ case 0: nome = "Janeiro";  break;
+ case 1: nome = "Fevereiro"; break;
+-case 2: nome = "Março"; break;
++case 2: nome = "Mar&ccedil;o"; break;
+ case 3: nome = "Abril"; break;
+ case 4: nome = "Maio"; break;
+ case 5: nome = "Junho"; break;
+@@ -797,7 +797,7 @@
+ }
+ }
+ else {
+-window.alert("Aviso: impossível calcular o resultado final");
++window.alert("Aviso: imposs&iacute;vel calcular o resultado final");
+ computeMarkErr = 1;
+ voto = 0;
+ }
+@@ -955,11 +955,11 @@
+ }
+ function DoneBefore()
+ {
+-window.alert("Ops!Você já respondeu à pergunta");
++window.alert("Ops!Voc&ecirc; j&aacute; respondeu &agrave; pergunta");
+ }
+ function IncompletedQuest()
+ {
+-window.alert("Resposta incompleta. Por favor, responda a todas as opções");
++window.alert("Resposta incompleta. Por favor, responda a todas as op&ccedil;&otilde;es");
+ }
+ function Retire()
+ {
+@@ -985,7 +985,7 @@
+ if (ns>1) msg+=ns+" Incorrecto  .";
+ if (ns==1) msg+=" apenas um incorrecto.";
+ if (ns==0) msg+=" nada incorrecto.";
+-msg+=" Você deve responder a ";
++msg+=" Voc&ecirc; deve responder a ";
+ if (nr>1) msg+=nr+" perguntas.";
+ else msg+=" um pergunta.";
+ window.status=msg;
+@@ -1094,23 +1094,23 @@
+ else if (valid[i]==-1)
+ documento.writeln("Resposta incorrecta<BR>");
+ else if (valid[i]==2)
+-documento.writeln("Pergunta não validada<BR>");
++documento.writeln("Pergunta n&atilde;o validada<BR>");
+ else if (valid[i]==3) {
+ if (typeOfQuest[i]==2)
+ documento.writeln("Respostas correctas "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ else if (typeOfQuest[i]==4)
+ documento.writeln("descubra as palavras "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ else if (typeOfQuest[i]==5)
+-documento.writeln("Fazer a correspondência "+nScore[i]+" em "+maxScore[i]+"<BR>");
++documento.writeln("Fazer a correspond&ecirc;ncia "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ }
+ else if (valid[i]==5) {
+-documento.write("pontuações "+nScore[i]);
++documento.write("pontua&ccedil;&otilde;es "+nScore[i]);
+ if (groups[i]==0)
+-documento.writeln(" (Pontuação "+maxScore[i]+")<BR>");
++documento.writeln(" (Pontua&ccedil;&atilde;o "+maxScore[i]+")<BR>");
+ else if (groups[i]==1)
+-documento.writeln("<BR>Resultado adicionado à pontuação anterior<BR>");
++documento.writeln("<BR>Resultado adicionado &agrave; pontua&ccedil;&atilde;o anterior<BR>");
+ else if (groups[i]==2)
+-documento.writeln("<BR>Pontuação (cálculos das respostas às perguntas seguintes): "+maxScore[i]+"<BR>");
++documento.writeln("<BR>Pontua&ccedil;&atilde;o (c&aacute;lculos das respostas &agrave;s perguntas seguintes): "+maxScore[i]+"<BR>");
+ }
+ documento.writeln("</I>");
+ if (valid[i]==2) {
+@@ -1327,18 +1327,18 @@
+ }
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+ }
+ function PrintOpenAnswer(n,outMsg) {
+-outMsg.value = "Questão respondida";
++outMsg.value = "Quest&atilde;o respondida";
+ end_test = CountAnswers();
+ PrintStatusBar();
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1366,7 +1366,7 @@
+ textField.value = "Resposta selecionada";
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1378,9 +1378,9 @@
+ end_test = CountAnswers();
+ PrintStatusBar();
+ if (silent==0) {
+-msg = "Pontuação : " + nScore[n];
++msg = "Pontua&ccedil;&atilde;o : " + nScore[n];
+ if (groups[n]==0) 
+-msg += " (Pontuação "+maxScore[n]+")";
++msg += " (Pontua&ccedil;&atilde;o "+maxScore[n]+")";
+ textField.value = msg;
+ if (getGuessAns(n)<getNumAns(n))
+ msg += "<BR>A resposta correcta era " + getListOfRightAns(n);
+@@ -1392,7 +1392,7 @@
+ textField.value = "Resposta selecionada";
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1415,8 +1415,8 @@
+ document.writeln (bodyTagFrame1);
+ document.writeln("<CENTER><FONT SIZE=6 FACE='Arial' COLOR='#FF0000'>Cuidado!</FONT><BR>");
+ document.writeln ("<FONT SIZE=+2>Password incorrecta</FONT><BR>");
+-document.writeln ("Não pode avançar no quiz<BR>");
+-document.writeln ("Para mais informação, contacte o autor do quiz<BR>");
++document.writeln ("N&atilde;o pode avan&ccedil;ar no quiz<BR>");
++document.writeln ("Para mais informa&ccedil;&atilde;o, contacte o autor do quiz<BR>");
+ document.writeln("<P><INPUT TYPE='BUTTON' VALUE='FECHAR' OnClick='top.close()'>");
+ document.writeln("</CENTER>");
+ document.writeln ("</body></html>");
+@@ -1430,9 +1430,9 @@
+ PrintOpenHTML(document,"",1);
+ document.writeln (bodyTagFrame1);
+ document.writeln("<CENTER><BR><BR><FONT SIZE=6 FACE='Arial' COLOR='#FF0000'>Cuidado!</FONT><BR>");
+-document.writeln ("<FONT SIZE=+2>É impossível reiniciar o quiz</FONT><BR>");
+-document.writeln ("É impossível iniciar o quiz<BR>");
+-document.writeln ("Para mais informação, contacte o autor do quiz<BR>");
++document.writeln ("<FONT SIZE=+2>&Eacute; imposs&iacute;vel reiniciar o quiz</FONT><BR>");
++document.writeln ("&Eacute; imposs&iacute;vel iniciar o quiz<BR>");
++document.writeln ("Para mais informa&ccedil;&atilde;o, contacte o autor do quiz<BR>");
+ document.writeln("<P><INPUT TYPE='BUTTON' VALUE='FECHAR' OnClick='top.close()'>");
+ document.writeln("</CENTER>");
+ document.writeln ("</body></html>");
+@@ -1569,7 +1569,7 @@
+   doc.writeln("<TABLE cellpadding=5 border=0 width=100%><TR><TD>");
+   doc.writeln(""+quizTitle+"");
+   doc.writeln("</TD></TR></TABLE></TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Número de perguntas</TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;N&uacute;mero de perguntas</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+(questions-invisibleQuests)+"</TD></TR>");
+   if (identityName!="") {
+   doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Nome</TD>");
+@@ -1579,7 +1579,7 @@
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+nc+"</TD></TR>");
+   doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Respostas incorrectas</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+ns+"</TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Perguntas não respondidas</TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Perguntas n&atilde;o respondidas</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+falseQuests+"</TD></TR>");
+   if (maxtime>0) {
+   doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Tempo de preenchimento</TD>");
+@@ -1588,11 +1588,11 @@
+   doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Data</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+DataToStringa()+"</TD></TR>");
+   if (computeMarkErr==0) {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontuação</TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontua&ccedil;&atilde;o</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+GetVoto(voto)+"</TD></TR>");
+   } else {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontuação</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;sem pontuação</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontua&ccedil;&atilde;o</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;sem pontua&ccedil;&atilde;o</TD></TR>");
+   }
+   doc.writeln("</TABLE></TD></TR></TABLE></TD></TABLE></center>");
+ }
+@@ -1630,7 +1630,7 @@
+  window.status='';
+ }
+ function initShortQuestion() {
+- qstHead[0]="Que cuidados são tomados para que os alimentos não prejudiquem sua a saúde e se ...";
++ qstHead[0]="Que cuidados s&atilde;o tomados para que os alimentos n&atilde;o prejudiquem sua a sa&uacute;de e se ...";
+ }
+ 
+ 

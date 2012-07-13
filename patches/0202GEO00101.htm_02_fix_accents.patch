@@ -1,0 +1,61 @@
+--- atividades/0202GEO001/0202GEO00101.htm	2012-06-22 14:54:05.063889250 -0300
++++ atividades/0202GEO001/0202GEO00101.htm.new	2012-06-22 14:54:05.067889250 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIO DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIO DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -802,7 +802,7 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#333399">CRUZADA DO TR&#x00C2;NSITO</font></h2>
++  <h2 class="ExerciseTitle"><font color="#333399">CRUZADA DO TR&Acirc;NSITO</font></h2>
+   <h3 class="ExerciseSubtitle"><font color="#333399"><img src="sinais_transito.gif" width="120" height="100" /><img src="faixa_de_pedestres.gif" width="125" height="100" /><img src="motorista.gif" width="106" height="100" /><img src="pedestre.gif" width="80" height="100" /></font></h3>
+ 
+ 
+@@ -851,7 +851,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Nome das pessoas que dirigem os ve&#x00ED;culos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">O sinal verde significa..........</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Nome dado &#x00E0;s estradas</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Sinal amarelo significa..........</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Sinaliza&#x00E7;&#x00E3;o de tr&#x00E2;nsito</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Sinal vermelho significa..........</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Nome das pessoas que dirigem os ve&iacute;culos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">O sinal verde significa..........</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Nome dado &agrave;s estradas</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Sinal amarelo significa..........</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Sinaliza&ccedil;&atilde;o de tr&acirc;nsito</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Sinal vermelho significa..........</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -864,7 +864,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Obedecer a sinaliza&#x00E7;&#x00E3;o &#x00E9; sinal de..........</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Nome dado &#x00E0;s ruas onde trafegam os ve&#x00ED;culos</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Nome das pessoas que andam nas vias</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">Nome popular dos sem&#x00E1;foros</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Obedecer a sinaliza&ccedil;&atilde;o &eacute; sinal de..........</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Nome dado &agrave;s ruas onde trafegam os ve&iacute;culos</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Nome das pessoas que andam nas vias</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">Nome popular dos sem&aacute;foros</td></tr>
+ 
+ </tbody>
+ </table>

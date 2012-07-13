@@ -1,0 +1,40 @@
+--- atividades/0804POR007/0804POR00701.htm	2012-06-22 15:03:50.451898046 -0300
++++ atividades/0804POR007/0804POR00701.htm.new	2012-06-22 15:03:50.451898046 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="S&#x00ED;tio do Picapau amarelo" />
++<meta name="DC:Title" content="S&iacute;tio do Picapau amarelo" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,16 +56,16 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">S&#x00ED;tio do Picapau amarelo</h2>
++	<h2 class="ExerciseTitle">S&iacute;tio do Picapau amarelo</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Ca&#x00E7;a-palavras do S&#x00ED;tio</h3>
++	<h3 class="ExerciseSubtitle">Ca&ccedil;a-palavras do S&iacute;tio</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Procure no Ca&#x00E7;a-palavras o nome das personagens do S&#x00ED;tio e os escreva nos espa&#x00E7;os abaixo. Lembre-se de utilizar corretamente letras mai&uacute;scula e min&uacute;sculas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Procure no Ca&ccedil;a-palavras o nome das personagens do S&iacute;tio e os escreva nos espa&ccedil;os abaixo. Lembre-se de utilizar corretamente letras mai&uacute;scula e min&uacute;sculas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

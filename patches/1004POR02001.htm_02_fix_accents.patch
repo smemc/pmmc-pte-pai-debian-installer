@@ -1,0 +1,29 @@
+--- atividades/1004POR020/1004POR02001.htm	2012-06-22 15:06:12.335900178 -0300
++++ atividades/1004POR020/1004POR02001.htm.new	2012-06-22 15:06:12.339900178 -0300
+@@ -74,7 +74,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -112,7 +112,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Numeral sucessor do dez</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Dar presente</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Numeral que representa uma d&#x00FA;zia e meia</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Aquela que tem vaidade</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Planta&#x00E7;&#x00E3;o de caf&#x00E9;</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">O que n&#x00E3;o &#x00E9; leve</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">Realizar; confeccionar</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Numeral sucessor do dez</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Dar presente</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Numeral que representa uma d&uacute;zia e meia</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Aquela que tem vaidade</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Planta&ccedil;&atilde;o de caf&eacute;</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">O que n&atilde;o &eacute; leve</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">Realizar; confeccionar</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -125,7 +125,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Combust&#x00ED;vel de autom&#x00F3;veis derivado do petr&#x00F3;leo</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Que n&#x00E3;o &#x00E9; calmo; irritado</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">Ficar azedo</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Combust&iacute;vel de autom&oacute;veis derivado do petr&oacute;leo</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Que n&atilde;o &eacute; calmo; irritado</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">Ficar azedo</td></tr>
+ 
+ </tbody>
+ </table>

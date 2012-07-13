@@ -1,0 +1,11 @@
+--- atividades/0603HIS088/01.htm	2012-06-22 15:02:07.207896495 -0300
++++ atividades/0603HIS088/01.htm.new	2012-06-22 15:02:07.207896495 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

@@ -1,0 +1,20 @@
+--- atividades/0602POR067/0602POR06701.htm	2012-06-22 15:01:12.155895666 -0300
++++ atividades/0602POR067/0602POR06701.htm.new	2012-06-22 15:01:12.155895666 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;animal0033.gif&quot; width=&quot;192&quot; height=&quot;86&quot;&#x003E;&#x003C;/img&#x003E;A cigarra e as formigas&#x003C;img src=&quot;animal0035.gif&quot; alt=&quot;animal0035.gif&quot; title=&quot;Animal0035&quot; width=&quot;227&quot; height=&quot;11&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="&lt;img src=&quot;animal0033.gif&quot; width=&quot;192&quot; height=&quot;86&quot;&gt;&lt;/img&gt;A cigarra e as formigas&lt;img src=&quot;animal0035.gif&quot; alt=&quot;animal0035.gif&quot; title=&quot;Animal0035&quot; width=&quot;227&quot; height=&quot;11&quot;&gt;&lt;/img&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

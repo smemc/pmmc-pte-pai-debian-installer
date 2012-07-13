@@ -1,0 +1,35 @@
+--- atividades/0601CIE070/0601CIE07001.htm	2012-06-22 14:57:21.827892205 -0300
++++ atividades/0601CIE070/0601CIE07001.htm.new	2012-06-22 14:57:21.827892205 -0300
+@@ -4,7 +4,7 @@
+   <head>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -27,12 +27,12 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">Reciclagem - classificação dos resíduos</h2>
++	<h2 class="ExerciseTitle">Reciclagem - classifica&ccedil;&atilde;o dos res&iacute;duos</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)--></p>
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)--></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">
+@@ -43,7 +43,7 @@
+ 
+ 	<p style="text-align: center;"><img border="0" src="pode.gif" width="683" height="437"></p>
+ 	<a href="0601CIE07002.htm">
+-	<img border="0" id="img1" src="button7.jpg" height="50" width="300" alt="CLIQUE AQUI PARA INICIAR O EXERCÍCIO" fp-style="fp-btn: Corporate 1; fp-proportional: 0" fp-title="CLIQUE AQUI PARA INICIAR O EXERCÍCIO" onMouseOver="FP_swapImg(1,0,/*id*/'img1',/*url*/'button8.jpg')" onMouseOut="FP_swapImg(0,0,/*id*/'img1',/*url*/'button7.jpg')" onMouseDown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button9.jpg')" onMouseUp="FP_swapImg(0,0,/*id*/'img1',/*url*/'button8.jpg')"></a>
++	<img border="0" id="img1" src="button7.jpg" height="50" width="300" alt="CLIQUE AQUI PARA INICIAR O EXERC&Iacute;CIO" fp-style="fp-btn: Corporate 1; fp-proportional: 0" fp-title="CLIQUE AQUI PARA INICIAR O EXERC&Iacute;CIO" onMouseOver="FP_swapImg(1,0,/*id*/'img1',/*url*/'button8.jpg')" onMouseOut="FP_swapImg(0,0,/*id*/'img1',/*url*/'button7.jpg')" onMouseDown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button9.jpg')" onMouseUp="FP_swapImg(0,0,/*id*/'img1',/*url*/'button8.jpg')"></a>
+     </p>
+ 
+ 	<!-- *********************************************************************************************** -->

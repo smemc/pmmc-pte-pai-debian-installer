@@ -1,0 +1,52 @@
+--- atividades/1004POR005/1004POR00505.htm	2012-06-22 15:05:40.675899701 -0300
++++ atividades/1004POR005/1004POR00505.htm.new	2012-06-22 15:05:40.675899701 -0300
+@@ -421,10 +421,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns! Bom Trabalho!';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Tente de novo!'; 
++var Correct = 'Parab&eacute;ns! Bom Trabalho!';
++var Incorrect = 'Algumas est&atilde;o erradas... Tente de novo!'; 
+ var GiveHint = 'Acertou a letra!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;
+@@ -773,7 +773,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Clique no n&#x00FA;mero para abrir as perguntas. Complete a cruzadinha e clique em "Verificar" para corrigir a cruzadinha</p>
++	<p id="Instructions">Clique no n&uacute;mero para abrir as perguntas. Complete a cruzadinha e clique em "Verificar" para corrigir a cruzadinha</p>
+ </div>
+ 
+ 
+@@ -814,7 +814,7 @@
+ <tr><td class="ClueNum">1. </td>
+                 <td id="Clue_A_1" class="Clue"><font size="4">O que tem tempero</font></td>
+               </tr><tr><td class="ClueNum">5. </td>
+-                <td id="Clue_A_5" class="Clue"><font size="4">Eletrodom&#x00E9;stico 
++                <td id="Clue_A_5" class="Clue"><font size="4">Eletrodom&eacute;stico 
+                   utilizado para bater massas</font></td>
+               </tr><tr><td class="ClueNum">6. </td>
+                 <td id="Clue_A_6" class="Clue"><font size="4">Em que ocorreu empate</font></td>
+@@ -823,7 +823,7 @@
+               </tr><tr><td class="ClueNum">8. </td>
+                 <td id="Clue_A_8" class="Clue"><font size="4">Ventania devastadora</font></td>
+               </tr><tr><td class="ClueNum">9. </td>
+-                <td id="Clue_A_9" class="Clue"><font size="4">R&#x00E1;pido, ligeiro</font></td>
++                <td id="Clue_A_9" class="Clue"><font size="4">R&aacute;pido, ligeiro</font></td>
+               </tr>
+ 
+ </tbody>
+@@ -845,7 +845,7 @@
+               </tr><tr><td class="ClueNum">4. </td>
+                 <td id="Clue_D_4" class="Clue"><font size="4">Tem valentia</font></td>
+               </tr><tr><td class="ClueNum">9. </td>
+-                <td id="Clue_D_9" class="Clue"><font size="4">Esta&#x00E7;&#x00E3;o 
++                <td id="Clue_D_9" class="Clue"><font size="4">Esta&ccedil;&atilde;o 
+                   mais quente do ano</font></td>
+               </tr>
+ 

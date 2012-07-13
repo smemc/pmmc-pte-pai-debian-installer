@@ -1,0 +1,97 @@
+--- atividades/1004CIE002/1004CIE00202.htm	2012-06-22 15:05:10.567899250 -0300
++++ atividades/1004CIE002/1004CIE00202.htm.new	2012-06-22 15:05:10.567899250 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson S. Freitas Jr" />
+-<meta name="DC:Title" content="&#x003C;h1&#x003E;Sistema Solar&#x003C;/h1&#x003E;" />
++<meta name="DC:Title" content="&lt;h1&gt;Sistema Solar&lt;/h1&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -47,12 +47,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -63,7 +63,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -78,7 +78,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -100,13 +100,13 @@
+ <div class="ClozeBody">
+ <table border=1 align="center" bgcolor="white"><tr>
+             <td><div align="center"><font size=4>Asteroides &nbsp;&nbsp;Cometas 
+-                &nbsp;&nbsp;Estrela&nbsp;&nbsp;J&#x00FA;piter &nbsp;&nbsp;Lua</br> 
+-                Marte &nbsp;&nbsp;Merc&#x00FA;rio &nbsp;&nbsp;Netuno &nbsp;&nbsp;&#x00D3;rbita</br>Saturno 
+-                &nbsp;&nbsp;Sol &nbsp;&nbsp;Urano &nbsp;&nbsp;V&#x00EA;nus &nbsp;&nbsp;Vermelho</br></font size></div></td>
+-          </tr></table><br /><br /><table align="center"><tr><td>O Sistema Solar &#x00E9; formado pelo <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> e oito planetas.</td></tr><tr><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> &#x00E9; o planeta mais pr&#x00F3;ximo do Sol.</td></tr><tr><td>O planeta mais distante do Sol &#x00E9; <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>O trajeto que cada planeta segue ao redor do Sol, chama-se <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>O Sol &#x00E9; uma <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>.</td></tr><tr><td>O sat&#x00E9;lite natural da Terra &#x00E9; a <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>Os <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> s&#x00E3;o pequenos corpos celestes.</td></tr><tr><td>Os <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> s&#x00E3;o corpos celestes formados por uma parte s&#x00F3;lida composta de gelo e poeira.</td></tr><tr><td>O planeta <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input>
++                &nbsp;&nbsp;Estrela&nbsp;&nbsp;J&uacute;piter &nbsp;&nbsp;Lua</br> 
++                Marte &nbsp;&nbsp;Merc&uacute;rio &nbsp;&nbsp;Netuno &nbsp;&nbsp;&Oacute;rbita</br>Saturno 
++                &nbsp;&nbsp;Sol &nbsp;&nbsp;Urano &nbsp;&nbsp;V&ecirc;nus &nbsp;&nbsp;Vermelho</br></font size></div></td>
++          </tr></table><br /><br /><table align="center"><tr><td>O Sistema Solar &eacute; formado pelo <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> e oito planetas.</td></tr><tr><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> &eacute; o planeta mais pr&oacute;ximo do Sol.</td></tr><tr><td>O planeta mais distante do Sol &eacute; <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>O trajeto que cada planeta segue ao redor do Sol, chama-se <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>O Sol &eacute; uma <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>.</td></tr><tr><td>O sat&eacute;lite natural da Terra &eacute; a <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>.</td></tr><tr><td>Os <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10"></input></span> s&atilde;o pequenos corpos celestes.</td></tr><tr><td>Os <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> s&atilde;o corpos celestes formados por uma parte s&oacute;lida composta de gelo e poeira.</td></tr><tr><td>O planeta <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input>
+               </span> pode ser visto a olho nu ao amanhecer ou ao anoitecer.</td>
+-          </tr><tr><td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> &#x00E9; composto pelo mesmo material que forma a ferrugem. Da&#x00ED; seu nome de planeta <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr><td>O planeta <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> &#x00E9; o maior planeta do Sistema Solar.</td></tr><tr><td><span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> &#x00E9; conhecido por seus an&#x00E9;is brilhantes.</td></tr><tr><td><span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="6"></input> 
+-              </span> &#x00E9; o terceiro maior planeta do Sistema Solar.</td>
++          </tr><tr><td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> &eacute; composto pelo mesmo material que forma a ferrugem. Da&iacute; seu nome de planeta <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr><td>O planeta <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> &eacute; o maior planeta do Sistema Solar.</td></tr><tr><td><span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> &eacute; conhecido por seus an&eacute;is brilhantes.</td></tr><tr><td><span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="6"></input> 
++              </span> &eacute; o terceiro maior planeta do Sistema Solar.</td>
+           </tr></table>
+ </div>
+ </form>
+@@ -132,12 +132,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -152,7 +152,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

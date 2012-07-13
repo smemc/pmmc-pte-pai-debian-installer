@@ -1,0 +1,46 @@
+--- atividades/0601CIE069/0601CIE06901.htm	2012-06-22 14:57:19.203892167 -0300
++++ atividades/0601CIE069/0601CIE06901.htm.new	2012-06-22 14:57:19.207892166 -0300
+@@ -11,7 +11,7 @@
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -468,12 +468,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -847,7 +847,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">AO TERMINAR TODO O EXERCÍCIO CLIQUE NO BOTÃO VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">AO TERMINAR TODO O EXERC&Iacute;CIO CLIQUE NO BOT&Atilde;O VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 
+@@ -867,7 +867,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" align="center" cellpadding="2" cellspacing="2"><tbody><tr><td align="center"><br /><img src="girafa.gif" width="200" height="200"><img src="tubarao.gif" width="200" height="200"><img src="cobra.gif" width="200" height="200"><img src="arara.gif" width="200" height="200"></p></td></tr></tbody></table><br /><b><br />A) O <span class="GapSpan" id="GapSpan0"><select id="Gap0"><option value=""></option><option value="arara">arara</option><option value="cobra">cobra</option><option value="girafa">girafa</option><option value="tubarão">tubarão</option></select></span> não tem patas, mas tem nadadeiras.<br /><br />B) A <span class="GapSpan" id="GapSpan1"><select id="Gap1"><option value=""></option><option value="arara">arara</option><option value="cobra">cobra</option><option value="girafa">girafa</option><option value="tubarão">tubarão</option></select></span> tem quatro patas.<br /><br />C) A <span class="GapSpan" id="GapSpan2"><select id="Gap2"><option value=""></option><option value="arara">arara</option><option value="cobra">cobra</option><option value="girafa">girafa</option><option value="tubarão">tubarão</option></select></span> tem duas asas e duas patas.<br /><br />D) A <span class="GapSpan" id="GapSpan3"><select id="Gap3"><option value=""></option><option value="arara">arara</option><option value="cobra">cobra</option><option value="girafa">girafa</option><option value="tubarão">tubarão</option></select></span> não tem patas.<br /></b>
++<table border="0" align="center" cellpadding="2" cellspacing="2"><tbody><tr><td align="center"><br /><img src="girafa.gif" width="200" height="200"><img src="tubarao.gif" width="200" height="200"><img src="cobra.gif" width="200" height="200"><img src="arara.gif" width="200" height="200"></p></td></tr></tbody></table><br /><b><br />A) O <span class="GapSpan" id="GapSpan0"><select id="Gap0"><option value=""></option><option value="arara">arara</option><option value="cobra">cobra</option><option value="girafa">girafa</option><option value="tubar&atilde;o">tubar&atilde;o</option></select></span> n&atilde;o tem patas, mas tem nadadeiras.<br /><br />B) A <span class="GapSpan" id="GapSpan1"><select id="Gap1"><option value=""></option><option value="arara">arara</option><option value="cobra">cobra</option><option value="girafa">girafa</option><option value="tubar&atilde;o">tubar&atilde;o</option></select></span> tem quatro patas.<br /><br />C) A <span class="GapSpan" id="GapSpan2"><select id="Gap2"><option value=""></option><option value="arara">arara</option><option value="cobra">cobra</option><option value="girafa">girafa</option><option value="tubar&atilde;o">tubar&atilde;o</option></select></span> tem duas asas e duas patas.<br /><br />D) A <span class="GapSpan" id="GapSpan3"><select id="Gap3"><option value=""></option><option value="arara">arara</option><option value="cobra">cobra</option><option value="girafa">girafa</option><option value="tubar&atilde;o">tubar&atilde;o</option></select></span> n&atilde;o tem patas.<br /></b>
+ </div>
+ </form>
+ </div>

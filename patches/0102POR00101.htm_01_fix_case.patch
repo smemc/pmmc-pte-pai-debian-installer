@@ -1,0 +1,20 @@
+--- atividades/0102POR001/0102POR00101.htm	2012-06-22 14:49:47.007885370 -0300
++++ atividades/0102POR001/0102POR00101.htm.new	2012-06-22 14:53:12.939888467 -0300
+@@ -50,7 +50,7 @@
+ 
+ <div id="MainDiv" class="StdDiv">
+ 
+-<div align="center"><img src="fig_Xadrez.png" width="501" height="528" /> </div>
++<div align="center"><img src="fig_xadrez.png" width="501" height="528" /> </div>
+ 
+ 
+ 
+@@ -65,7 +65,7 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<button class="FuncButtonUp" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="location='Xadrez.htm'; return false;">Cruzadinha</button>
++<button class="FuncButtonUp" onmouseover="FuncBtnOver(this)" onfocus="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onblur="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="location='xadrez.htm'; return false;">Cruzadinha</button>
+ 
+ 
+ </div>

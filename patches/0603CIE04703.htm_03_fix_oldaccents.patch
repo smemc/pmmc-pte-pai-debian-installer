@@ -1,0 +1,46 @@
+--- atividades/0603CIE047/0603CIE04703.htm	2012-06-22 15:02:01.615896411 -0300
++++ atividades/0603CIE047/0603CIE04703.htm.new	2012-06-22 15:02:01.619896411 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -840,7 +840,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -860,7 +860,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<STRONG>3 - SE VOCÊ MOLHAR A ESCOVA, FECHAR A TORNEIRA ENQUANTO ESCOVA OS DENTES E, AINDA, ENXAGUAR A BOCA COM UM COPO DE ÁGUA, VOCÊ CONSEGUE ECONOMIZAR CERCA DE 79 LITROS DE ÁGUA DOS 80 LITROS QUE GASTARIA COM A TORNEIRA MEIO ABERTA. <i>(Fonte de pesquisa: Informativo Sabesp. SP, 1998)</i><br /><br />a) - DESSA FORMA, QUANTOS LITROS VOCÊ CONSOME CADA VEZ QUE ESCOVA OS DENTES?<br /> - RESPOSTA: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> LITRO.<br />b) - QUANTOS LITROS VOCÊ ECONOMIZA ESCOVANDO OS DENTES 2 VEZES POR DIA?<br /> - RESPOSTA: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> LITROS.<br />c) - ESCOVANDO OS DENTES 3 VEZES POR DIA, QUANTOS LITROS DE ÁGUA VOCÊ ECONOMIZA EM 2 DIAS?<br /> - RESPOSTA: <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> LITROS<br /><br /><br /></STRONG><br />
++<STRONG>3 - SE VOC&Ecirc; MOLHAR A ESCOVA, FECHAR A TORNEIRA ENQUANTO ESCOVA OS DENTES E, AINDA, ENXAGUAR A BOCA COM UM COPO DE &Aacute;GUA, VOC&Ecirc; CONSEGUE ECONOMIZAR CERCA DE 79 LITROS DE &Aacute;GUA DOS 80 LITROS QUE GASTARIA COM A TORNEIRA MEIO ABERTA. <i>(Fonte de pesquisa: Informativo Sabesp. SP, 1998)</i><br /><br />a) - DESSA FORMA, QUANTOS LITROS VOC&Ecirc; CONSOME CADA VEZ QUE ESCOVA OS DENTES?<br /> - RESPOSTA: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> LITRO.<br />b) - QUANTOS LITROS VOC&Ecirc; ECONOMIZA ESCOVANDO OS DENTES 2 VEZES POR DIA?<br /> - RESPOSTA: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> LITROS.<br />c) - ESCOVANDO OS DENTES 3 VEZES POR DIA, QUANTOS LITROS DE &Aacute;GUA VOC&Ecirc; ECONOMIZA EM 2 DIAS?<br /> - RESPOSTA: <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> LITROS<br /><br /><br /></STRONG><br />
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,38 @@
+--- atividades/0804POR009/0804POR00901.htm	2012-06-22 15:03:51.171898057 -0300
++++ atividades/0804POR009/0804POR00901.htm.new	2012-06-22 15:03:51.171898057 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="Classifica&#x00E7;&#x00E3;o de frases" />
++<meta name="DC:Title" content="Classifica&ccedil;&atilde;o de frases" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,7 +56,7 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Classifica&#x00E7;&#x00E3;o de frases</h2>
++	<h2 class="ExerciseTitle">Classifica&ccedil;&atilde;o de frases</h2>
+ 
+ 	<h3 class="ExerciseSubtitle">Classifique as frases em <u>interrogativa</u>, <u>imperativa</u>, <u>negativa</u>, <u>afirmativa</u> ou <u>exclamativa</u>:</h3>
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Voc&#x00EA; j&#x00E1; almo&#x00E7;ou? <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="13"></input></span></td></tr><tr><td>b) Fechem a porta imediatamente. <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>c) N&#x00E3;o quero conversa aqui. <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>d) Ele dorme sob a luz de um an&#x00FA;ncio de neon. <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>e) Tragam mais comida, por favor. <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>f) Eu n&#x00E3;o trouxe a li&#x00E7;&#x00E3;o. <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>g) Voc&#x00EA; escovou os dentes, Marcelo? <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="13"></input></span></td></tr><tr><td>h) Voc&#x00EA; n&#x00E3;o escovou os dentes, Marcelo. <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>i) Voc&#x00EA; &#x00E9; &#x00F3;timo, Augusto! <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td>j) Jos&#x00E9; tamb&#x00E9;m &#x00E9; um engraxate. <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>k) N&#x00E3;o gosto de fofoca. <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>l) Que filme maravilhoso! <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Voc&ecirc; j&aacute; almo&ccedil;ou? <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="13"></input></span></td></tr><tr><td>b) Fechem a porta imediatamente. <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>c) N&atilde;o quero conversa aqui. <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>d) Ele dorme sob a luz de um an&uacute;ncio de neon. <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>e) Tragam mais comida, por favor. <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>f) Eu n&atilde;o trouxe a li&ccedil;&atilde;o. <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>g) Voc&ecirc; escovou os dentes, Marcelo? <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="13"></input></span></td></tr><tr><td>h) Voc&ecirc; n&atilde;o escovou os dentes, Marcelo. <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>i) Voc&ecirc; &eacute; &oacute;timo, Augusto! <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td>j) Jos&eacute; tamb&eacute;m &eacute; um engraxate. <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>k) N&atilde;o gosto de fofoca. <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>l) Que filme maravilhoso! <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

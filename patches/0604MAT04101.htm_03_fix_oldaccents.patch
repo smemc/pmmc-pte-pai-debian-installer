@@ -1,0 +1,58 @@
+--- atividades/0604MAT041/0604MAT04101.htm	2012-06-22 15:02:59.587897282 -0300
++++ atividades/0604MAT041/0604MAT04101.htm.new	2012-06-22 15:02:59.587897282 -0300
+@@ -1,4 +1,4 @@
+-<!-- Revisado por Júlio César Soares da Silva / Data: 01/10/2007 -->
++<!-- Revisado por J&uacute;lio C&eacute;sar Soares da Silva / Data: 01/10/2007 -->
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+@@ -6,13 +6,13 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="Expressões Numéricas" />
++<meta name="DC:Title" content="Express&otilde;es Num&eacute;ricas" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title> 
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title> 
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -469,12 +469,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -847,14 +847,14 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Expressões Numéricas</h2>
++	<h2 class="ExerciseTitle">Express&otilde;es Num&eacute;ricas</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Ao terminar todo o exercício clique no botão verificar para corrigir.</p>
++	<p id="Instructions">Ao terminar todo o exerc&iacute;cio clique no bot&atilde;o verificar para corrigir.</p>
+ </div>
+ 
+ 

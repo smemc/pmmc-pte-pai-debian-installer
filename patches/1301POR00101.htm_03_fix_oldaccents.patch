@@ -1,0 +1,29 @@
+--- atividades/1301POR001/1301POR00101.htm	2012-06-22 15:06:39.839900591 -0300
++++ atividades/1301POR001/1301POR00101.htm.new	2012-06-22 15:06:39.839900591 -0300
+@@ -9,7 +9,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -766,7 +766,7 @@
+ F[1][0]='<br /><center><img src="rato.gif" title="barra" width="60" height="60"></img><br />Rato rima com?';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='<br /><center><img src="leao.gif" title="barra" width="80" height="80"></img><br />Leão rima com?';
++F[2][0]='<br /><center><img src="leao.gif" title="barra" width="80" height="80"></img><br />Le&atilde;o rima com?';
+ F[2][1] = 3;
+ 
+ 
+@@ -780,7 +780,7 @@
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='<br /><center><img src="cao.gif" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="80 height="80"></img><br />Cão';
++D[2][0]='<br /><center><img src="cao.gif" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="80 height="80"></img><br />C&atilde;o';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ 

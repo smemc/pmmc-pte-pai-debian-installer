@@ -1,0 +1,29 @@
+--- atividades/0804POR002/0804POR00202.htm	2012-06-22 15:03:42.135897921 -0300
++++ atividades/0804POR002/0804POR00202.htm.new	2012-06-22 15:03:42.139897921 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -64,7 +64,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete as frses com o ant&#x00F4;nimo das palavras entre par&#x00EA;nteses. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete as frses com o ant&ocirc;nimo das palavras entre par&ecirc;nteses. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -84,7 +84,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>Renato <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> a garrafa t&#x00E9;rmica. <b>(abriu)</b></td></tr><tr><td>O menino <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> a pipa. <b>(prendia)</b></td></tr><tr><td>O homem <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> levou a carro&#x00E7;a. <b>(fraco)</b></td></tr><tr><td>Aquele pr&#x00E9;dio &#x00E9; muito <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>. <b>(baixo)</b></td></tr><tr><td>Marcelo &#x00E9; um menino <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>. <b>(triste)</b></td></tr><tr><td>Esta casa &#x00E9; muito <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>. <b>(grande)</b></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>Renato <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> a garrafa t&eacute;rmica. <b>(abriu)</b></td></tr><tr><td>O menino <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> a pipa. <b>(prendia)</b></td></tr><tr><td>O homem <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> levou a carro&ccedil;a. <b>(fraco)</b></td></tr><tr><td>Aquele pr&eacute;dio &eacute; muito <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>. <b>(baixo)</b></td></tr><tr><td>Marcelo &eacute; um menino <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>. <b>(triste)</b></td></tr><tr><td>Esta casa &eacute; muito <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>. <b>(grande)</b></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

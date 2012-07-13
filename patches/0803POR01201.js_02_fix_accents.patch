@@ -1,0 +1,38 @@
+--- atividades/0803POR012/0803POR01201.js	2012-06-22 15:08:30.375902252 -0300
++++ atividades/0803POR012/0803POR01201.js.new	2012-06-22 15:08:30.379902252 -0300
+@@ -473,19 +473,19 @@
+ var CurrQNum = 0;
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+-var YourScoreIs = 'Sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = 'Sua pontua&ccedil;&atilde;o &eacute;: ';
+ 
+ //New for 6.2.2.0
+-var CompletedSoFar = 'Perguntas respondidas at&#x00E9; o momento: ';
+-var ExerciseCompleted = 'Voc&#x00EA; completou o exerc&#x00ED;cio!';
++var CompletedSoFar = 'Perguntas respondidas at&eacute; o momento: ';
++var ExerciseCompleted = 'Voc&ecirc; completou o exerc&iacute;cio!';
+ var ShowCompletedSoFar = true;
+ 
+ var ContinuousScoring = true;
+-var CorrectFirstTime = 'Perguntas respondidas corretamente &#x00E0; primeira: ';
++var CorrectFirstTime = 'Perguntas respondidas corretamente &agrave; primeira: ';
+ var ShowCorrectFirstTime = false;
+ var ShuffleQs = false;
+ var ShuffleAs = true;
+-var DefaultRight = 'Parab&#x00E9;ns!';
++var DefaultRight = 'Parab&eacute;ns!';
+ var DefaultWrong = 'Resposta incorreta!';
+ var QsToShow = 5;
+ var Score = 0;
+@@ -1070,8 +1070,8 @@
+ var PleaseEnter = 'Please enter a guess.';
+ var HybridTries = 2;
+ var PartlyIncorrect = 'Resposta parcialmente incorreta:';
+-var CorrectList = 'Parab&#x00E9;ns!';
+-var NextCorrect = 'Pr&#x00F3;xima letra correta na resposta';
++var CorrectList = 'Parab&eacute;ns!';
++var NextCorrect = 'Pr&oacute;xima letra correta na resposta';
+ var CurrBox = null;
+ 
+ function TrackFocus(BoxID){

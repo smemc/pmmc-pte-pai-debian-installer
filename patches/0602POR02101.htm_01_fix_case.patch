@@ -1,0 +1,29 @@
+--- atividades/0602POR021/0602POR02101.htm	2012-06-22 14:49:45.807885355 -0300
++++ atividades/0602POR021/0602POR02101.htm.new	2012-06-22 15:00:50.911895347 -0300
+@@ -494,7 +494,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','TV.png','CASA.png','PARAFUSO.png','BESOURO.png','TESOURO.png','VASO.png','CAMISOLA.png','PRINCESA.png','PRESENTE.png','rodape.png');
++	PreloadImages('../imagens/logo.png','tv.png','casa.png','parafuso.png','besouro.png','tesouro.png','vaso.png','camisola.png','princesa.png','presente.png','rodape.png');
+ 
+ 
+ 
+@@ -880,7 +880,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue"><img src="TV.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue"><img src="CASA.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue"><img src="PARAFUSO.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue"><img src="BESOURO.png" width="168" height="187"></img></td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue"><img src="tv.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue"><img src="casa.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue"><img src="parafuso.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue"><img src="besouro.png" width="168" height="187"></img></td></tr>
+ 
+ </tbody>
+ </table>
+@@ -893,7 +893,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">VERTICAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue"><img src="TESOURO.png" width="196" height="173"></img></td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="VASO.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="CAMISOLA.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue"><img src="PRINCESA.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue"><img src="PRESENTE.png" width="168" height="187"></img></td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue"><img src="tesouro.png" width="196" height="173"></img></td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="vaso.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="camisola.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue"><img src="princesa.png" width="168" height="187"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue"><img src="presente.png" width="168" height="187"></img></td></tr>
+ 
+ </tbody>
+ </table>

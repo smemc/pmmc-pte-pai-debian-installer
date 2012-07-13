@@ -1,0 +1,20 @@
+--- atividades/0601POR034/0601POR03401.htm	2012-06-22 14:49:43.847885325 -0300
++++ atividades/0601POR034/0601POR03401.htm.new	2012-06-22 14:59:04.711893750 -0300
+@@ -544,7 +544,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','FIO.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','fio.gif','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -919,7 +919,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="1" align="center" cellpadding="2" cellspacing="2"><tbody><tr align="center"><td colspan="7"><img src="FIO.gif" align="center" width="475" height="393"></td><tr><td align="center"><b>1</b></td><td align="center"><b>2</b></td><td align="center"><b>3</b></td><td align="center"><b>4</b></td><td align="center"><b>5</b></td><td align="center"><b>6</b></td><td align="center"><b>7</b></td></tr><tr><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr></tbody></table>
++<table border="1" align="center" cellpadding="2" cellspacing="2"><tbody><tr align="center"><td colspan="7"><img src="fio.gif" align="center" width="475" height="393"></td><tr><td align="center"><b>1</b></td><td align="center"><b>2</b></td><td align="center"><b>3</b></td><td align="center"><b>4</b></td><td align="center"><b>5</b></td><td align="center"><b>6</b></td><td align="center"><b>7</b></td></tr><tr><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

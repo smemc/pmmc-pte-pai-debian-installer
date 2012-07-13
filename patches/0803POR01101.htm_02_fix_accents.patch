@@ -1,0 +1,38 @@
+--- atividades/0803POR011/0803POR01101.htm	2012-06-22 15:03:25.395897667 -0300
++++ atividades/0803POR011/0803POR01101.htm.new	2012-06-22 15:03:25.395897667 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -63,7 +63,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para completar a Cruzadinha. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para completar a Cruzadinha. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -101,7 +101,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"><b>Horizontal:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Ela ajuda a diretora na organiza&#x00E7;&#x00E3;o da escola.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">A profissional que prepara a merenda.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Profissional respons&#x00E1;vel pelo andamento da escola.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">&#x00C9; dever do aluno usar o ......... para vir &#x00E0; escola.</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">Cumprir as ......... todos os dias &#x00E9; dever do aluno.</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_A_13" class="Clue">Lugar onde os alunos assistem aula.</td></tr><tr><td class="ClueNum">14. </td><td id="Clue_A_14" class="Clue">&#x00C9; dever do aluno ......... os colegas e funcion&#x00E1;rios.</td></tr><tr><td class="ClueNum">16. </td><td id="Clue_A_16" class="Clue">Ela trabalha na secretaria da escola e atende o p&#x00FA;blico.</td></tr><tr><td class="ClueNum">17. </td><td id="Clue_A_17" class="Clue">Nela praticam-se esportes.</td></tr>
++<tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Ela ajuda a diretora na organiza&ccedil;&atilde;o da escola.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">A profissional que prepara a merenda.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Profissional respons&aacute;vel pelo andamento da escola.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">&Eacute; dever do aluno usar o ......... para vir &agrave; escola.</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">Cumprir as ......... todos os dias &eacute; dever do aluno.</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_A_13" class="Clue">Lugar onde os alunos assistem aula.</td></tr><tr><td class="ClueNum">14. </td><td id="Clue_A_14" class="Clue">&Eacute; dever do aluno ......... os colegas e funcion&aacute;rios.</td></tr><tr><td class="ClueNum">16. </td><td id="Clue_A_16" class="Clue">Ela trabalha na secretaria da escola e atende o p&uacute;blico.</td></tr><tr><td class="ClueNum">17. </td><td id="Clue_A_17" class="Clue">Nela praticam-se esportes.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -114,7 +114,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel"><b>Vertical:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">&#x00C9; dever do aluno ......... com a limpeza da escola.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Na sala de ......... usamos os computadores.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">&#x00C9; ......... do aluno ter um lugar na sala de aula (direito / dever).</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Lugar onde se prepara a merenda.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Cada aluno deve zelar pelo seu ......... escolar.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">A profissional que leciona (d&#x00E1; aulas).</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_D_11" class="Clue">Frequentar as aulas &#x00E9; .......... do aluno (direito / dever).</td></tr><tr><td class="ClueNum">15. </td><td id="Clue_D_15" class="Clue">Onde os alunos v&#x00E3;o para assistirem aulas.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">&Eacute; dever do aluno ......... com a limpeza da escola.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Na sala de ......... usamos os computadores.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">&Eacute; ......... do aluno ter um lugar na sala de aula (direito / dever).</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Lugar onde se prepara a merenda.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Cada aluno deve zelar pelo seu ......... escolar.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">A profissional que leciona (d&aacute; aulas).</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_D_11" class="Clue">Frequentar as aulas &eacute; .......... do aluno (direito / dever).</td></tr><tr><td class="ClueNum">15. </td><td id="Clue_D_15" class="Clue">Onde os alunos v&atilde;o para assistirem aulas.</td></tr>
+ 
+ </tbody>
+ </table>

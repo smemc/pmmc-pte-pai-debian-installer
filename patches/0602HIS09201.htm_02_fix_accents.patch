@@ -1,0 +1,20 @@
+--- atividades/0602HIS092/0602HIS09201.htm	2012-06-22 15:00:33.807895089 -0300
++++ atividades/0602HIS092/0602HIS09201.htm.new	2012-06-22 15:00:33.811895089 -0300
+@@ -78,7 +78,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontais</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Galopando pelo mundo sem parar e espalhando a loucura por onde passa:</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Tem os p&#x00E9;s voltados para tr&#x00E1;s que dizem ser um recurso natural que usa para despistar os ca&#x00E7;adores:</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">&#x00C9; um homem comum, mas nas noites de sexta-feira, quando a lua brilha em todo esplendor, transforma-se e corre pelos campos:</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">&#x00C9; um garoto muito levado e faz muitas travessuras, dizem que ele faz tran&#x00E7;as em crina de cavalos:</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Serpente de fogo, que reside na &#x00E1;gua:</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Peixe do Rio Amazonas que se transforma em homem:</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Galopando pelo mundo sem parar e espalhando a loucura por onde passa:</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Tem os p&eacute;s voltados para tr&aacute;s que dizem ser um recurso natural que usa para despistar os ca&ccedil;adores:</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">&Eacute; um homem comum, mas nas noites de sexta-feira, quando a lua brilha em todo esplendor, transforma-se e corre pelos campos:</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">&Eacute; um garoto muito levado e faz muitas travessuras, dizem que ele faz tran&ccedil;as em crina de cavalos:</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Serpente de fogo, que reside na &aacute;gua:</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Peixe do Rio Amazonas que se transforma em homem:</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -91,7 +91,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Verticais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Aparece de noite quando todas as crian&#x00E7;as est&#x00E3;o dormindo:</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Rainha das &#x00E1;guas, muito bonita, ela &#x00E9; uma &#x00ED;ndia de rara beleza, metade mulher, metade peixe:</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Aparece de noite quando todas as crian&ccedil;as est&atilde;o dormindo:</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Rainha das &aacute;guas, muito bonita, ela &eacute; uma &iacute;ndia de rara beleza, metade mulher, metade peixe:</td></tr>
+ 
+ </tbody>
+ </table>

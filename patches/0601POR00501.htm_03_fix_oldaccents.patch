@@ -1,0 +1,55 @@
+--- atividades/0601POR005/0601POR00501.htm	2012-06-22 14:59:00.483893689 -0300
++++ atividades/0601POR005/0601POR00501.htm.new	2012-06-22 14:59:00.487893689 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="QUAL A DIFERENÇA ENTRE O &lt;img src=&quot;carro.gif&quot; width=&quot;50&quot; height=&quot;22&quot;&gt;&lt;/img&gt; E O &lt;img src=&quot;sol.gif&quot; width=&quot;56&quot; height=&quot;53&quot;&gt;&lt;/img&gt;?" />
++<meta name="DC:Title" content="QUAL A DIFEREN&Ccedil;A ENTRE O &lt;img src=&quot;carro.gif&quot; width=&quot;50&quot; height=&quot;22&quot;&gt;&lt;/img&gt; E O &lt;img src=&quot;sol.gif&quot; width=&quot;56&quot; height=&quot;53&quot;&gt;&lt;/img&gt;?" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -821,7 +821,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">QUAL A DIFERENÇA ENTRE O <img src="carro.gif" width="50" height="22"></img> E O <img src="sol.gif" width="56" height="53"></img>?</h2>
++	<h2 class="ExerciseTitle">QUAL A DIFEREN&Ccedil;A ENTRE O <img src="carro.gif" width="50" height="22"></img> E O <img src="sol.gif" width="56" height="53"></img>?</h2>
+ 
+ 	<h3 class="ExerciseSubtitle"><br /></h3>
+ 
+@@ -830,7 +830,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -850,7 +850,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<B><br />SE VOCÊ NÃO CONSEGUIR RESPONDER À CHARADA, ELIMINE DA FRASE ABAIXO TODAS AS PALAVRAS "EU" QUE APARECEM ENTRE AS LETRAS, E ENCONTRE A RESPOSTA.<br /><br /><br />OEU CEUAEUREUREUOEU EEUSEUQEUUEUEEUNEUTEUAEU PEUAEUREUAEU SEUAEUIEUR.<br />EUO EUSEUOEUL SEUAEUI EUPEUAEUREUA EEUSEUQEUUEUEEUNEUTEUAEUR.<br /><br />RESPOSTA:<br /><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="53"></input></span> <br /><br /></B>
++<B><br />SE VOC&Ecirc; N&Atilde;O CONSEGUIR RESPONDER &Agrave; CHARADA, ELIMINE DA FRASE ABAIXO TODAS AS PALAVRAS "EU" QUE APARECEM ENTRE AS LETRAS, E ENCONTRE A RESPOSTA.<br /><br /><br />OEU CEUAEUREUREUOEU EEUSEUQEUUEUEEUNEUTEUAEU PEUAEUREUAEU SEUAEUIEUR.<br />EUO EUSEUOEUL SEUAEUI EUPEUAEUREUA EEUSEUQEUUEUEEUNEUTEUAEUR.<br /><br />RESPOSTA:<br /><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="53"></input></span> <br /><br /></B>
+ </div>
+ </form>
+ </div>

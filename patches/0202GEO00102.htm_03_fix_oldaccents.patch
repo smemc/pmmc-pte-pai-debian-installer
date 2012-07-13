@@ -1,0 +1,63 @@
+--- atividades/0202GEO001/0202GEO00102.htm	2012-06-22 14:54:05.491889257 -0300
++++ atividades/0202GEO001/0202GEO00102.htm.new	2012-06-22 14:54:05.495889257 -0300
+@@ -307,7 +307,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Parabéns. Bom trabalho! Agora vamos para o Próximo Exercício!');
++		alert('Parab&eacute;ns. Bom trabalho! Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!');
+ 		parent.location.href="0202GEO00103.htm";		
+ 	}
+ 	
+@@ -619,27 +619,27 @@
+ 		<ul id="allItems">
+ 			<li id="node1" groupId="box1">CARRO</li>
+ 
+-<li id="node2" groupId="box3">AVIÃO</li>
++<li id="node2" groupId="box3">AVI&Atilde;O</li>
+ 
+ <li id="node3" groupId="box1">BICICLETA</li>
+ 
+ <li id="node4" groupId="box2">BALSA</li>
+ 
+-<li id="node5" groupId="box3">BALÃO</li>
++<li id="node5" groupId="box3">BAL&Atilde;O</li>
+ 
+ <li id="node6" groupId="box1">TREM</li>
+ 
+-<li id="node7" groupId="box1">CAMINHÃO</li>
++<li id="node7" groupId="box1">CAMINH&Atilde;O</li>
+ 
+-<li id="node8" groupId="box3">HELICÓPTERO</li>
++<li id="node8" groupId="box3">HELIC&Oacute;PTERO</li>
+ 
+ <li id="node9" groupId="box2">NAVIO</li>
+ 
+-<li id="node10" groupId="box1">CARROÇA</li>
++<li id="node10" groupId="box1">CARRO&Ccedil;A</li>
+ 
+ <li id="node11" groupId="box2">SUBMARINO</li>
+ 
+-<li id="node12" groupId="box1">METRÔ</li>
++<li id="node12" groupId="box1">METR&Ocirc;</li>
+ 
+ <li id="node13" groupId="box2">LANCHA</li>
+ 
+@@ -655,7 +655,7 @@
+ 
+ <li id="node19" groupId="box3">ASA DELTA</li>
+ 
+-<li id="node20" groupId="box1">ÔNIBUS</li>
++<li id="node20" groupId="box1">&Ocirc;NIBUS</li>
+ 
+ <li id="node21" groupId="box2">JANGADA</li>
+ 
+@@ -668,7 +668,7 @@
+ 	</div>	
+ 	<div id="dhtmlgoodies_mainContainer">
+ 		<!-- ONE <UL> for each "room" -->
+-		<div><p>TERRESTRE</p><ul id="box1"></ul> </div><div><p>AQUÁTICO</p><ul id="box2"></ul> </div><div><p>AÉREO</p><ul id="box3"></ul> </div>
++		<div><p>TERRESTRE</p><ul id="box1"></ul> </div><div><p>AQU&Aacute;TICO</p><ul id="box2"></ul> </div><div><p>A&Eacute;REO</p><ul id="box3"></ul> </div>
+ 		
+ 	</div>
+ </div>

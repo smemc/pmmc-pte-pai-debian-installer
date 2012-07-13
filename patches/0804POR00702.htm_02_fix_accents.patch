@@ -1,0 +1,55 @@
+--- atividades/0804POR007/0804POR00702.htm	2012-06-22 15:03:50.707898050 -0300
++++ atividades/0804POR007/0804POR00702.htm.new	2012-06-22 15:03:50.707898050 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="Cruzadinha do S&#x00ED;tio" />
++<meta name="DC:Title" content="Cruzadinha do S&iacute;tio" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,14 +56,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Cruzadinha do S&#x00ED;tio</h2>
++	<h2 class="ExerciseTitle">Cruzadinha do S&iacute;tio</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para completar a Cruzadinha. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para completar a Cruzadinha. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -101,7 +101,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"><b>Horizontal:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">A cozinheira que faz uns bolinhos deleciosos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">A dona da boneca falante</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">A vov&#x00F3; que conta hist&#x00F3;rias</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O menino que adora aventuras</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">O sabugo de milho</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">A cozinheira que faz uns bolinhos deleciosos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">A dona da boneca falante</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">A vov&oacute; que conta hist&oacute;rias</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O menino que adora aventuras</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">O sabugo de milho</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -114,7 +114,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel"><b>Vertical:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Garoto levado que tem uma perna s&#x00F3;</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">O porco comil&#x00E3;o</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">A boneca falante</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Garoto levado que tem uma perna s&oacute;</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">O porco comil&atilde;o</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">A boneca falante</td></tr>
+ 
+ </tbody>
+ </table>

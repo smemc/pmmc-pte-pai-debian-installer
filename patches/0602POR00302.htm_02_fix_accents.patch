@@ -1,0 +1,20 @@
+--- atividades/0602POR003/0602POR00302.htm	2012-06-22 15:00:47.831895302 -0300
++++ atividades/0602POR003/0602POR00302.htm.new	2012-06-22 15:00:47.835895302 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;carteiro_00.gif&quot; width=&quot;200&quot; heigth=&quot;200&quot;&#x003E;" />
++<meta name="DC:Title" content="&lt;img src=&quot;carteiro_00.gif&quot; width=&quot;200&quot; heigth=&quot;200&quot;&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

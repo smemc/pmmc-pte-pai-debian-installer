@@ -1,0 +1,20 @@
+--- atividades/0203POR002/0203POR00202.htm	2012-06-22 14:55:25.511890459 -0300
++++ atividades/0203POR002/0203POR00202.htm.new	2012-06-22 14:55:25.515890459 -0300
+@@ -442,7 +442,7 @@
+ var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;
+@@ -800,7 +800,7 @@
+ 
+ 
+ <div id="MainDiv" class="StdDiv"> 
+-  <div align="left"><strong><font size="3">O que é, o que é... </font></strong></div>
++  <div align="left"><strong><font size="3">O que &eacute;, o que &eacute;... </font></strong></div>
+   <div class="pista" id="ClueEntry">
+ 
+ </div>

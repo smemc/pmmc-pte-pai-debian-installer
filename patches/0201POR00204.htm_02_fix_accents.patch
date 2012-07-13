@@ -1,0 +1,46 @@
+--- atividades/0201POR002/0201POR00204.htm	2012-06-22 14:53:32.791888766 -0300
++++ atividades/0201POR002/0201POR00204.htm.new	2012-06-22 14:53:32.795888764 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -586,9 +586,9 @@
+ 
+ 
+ 
+-var CorrectResponse = 'Parab&#x00E9;ns. Bom trabalho!';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+@@ -919,9 +919,9 @@
+ <!--
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Arraste o item 
+-    da direita at&#x00E9; ficar ao lado da op&#x00E7;&#x00E3;o correta do lado 
+-    esquerdo. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu 
+-    exerc&#x00ED;cio.</p>
++    da direita at&eacute; ficar ao lado da op&ccedil;&atilde;o correta do lado 
++    esquerdo. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu 
++    exerc&iacute;cio.</p>
+   <p>&nbsp;</p>
+   <p><strong><font size="3"> Fa&ccedil;a a correspond&ecirc;ncia:</font></strong></p>
+ </div>-->

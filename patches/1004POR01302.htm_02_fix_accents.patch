@@ -1,0 +1,152 @@
+--- atividades/1004POR013/1004POR01302.htm	2012-06-22 15:05:53.727899898 -0300
++++ atividades/1004POR013/1004POR01302.htm.new	2012-06-22 15:05:53.727899898 -0300
+@@ -1,10 +1,10 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Title" content="Tempos verbais" />
+ 
+ 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -47,12 +47,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01303.htm'; return false;">=&gt;</button>-->
+ 
+@@ -63,7 +63,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -76,7 +76,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva os verbos nos tempos pedidos. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva os verbos nos tempos pedidos. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -107,7 +107,7 @@
+                       <td bordercolor="#000000">Ele / Ela <span class="GapSpan" id="GapSpan1"> 
+                         <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="6" maxlength="7">
+                         </input></span></td></tr><tr>
+-                      <td bordercolor="#000000">N&#x00F3;s <span class="GapSpan" id="GapSpan2"> 
++                      <td bordercolor="#000000">N&oacute;s <span class="GapSpan" id="GapSpan2"> 
+                         <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="8" maxlength="9">
+                         </input></span></td></tr><tr>
+                       <td bordercolor="#000000">Eles / Elas <span class="GapSpan" id="GapSpan3"> 
+@@ -115,7 +115,7 @@
+                         </input></span></td></tr></tbody></table></td><td><table border="1" cellpadding="2" cellspacing="2" bordercolor="#000000" bgcolor="#cfe5b8">
+                   <tbody><tr>
+                       <td width="210" bordercolor="#000000"><strong><font color="#0000FF">b)</font></strong> 
+-                        <strong>escrever - pret&#x00E9;rito perfeito</strong></td>
++                        <strong>escrever - pret&eacute;rito perfeito</strong></td>
+                     </tr><tr>
+                       <td bordercolor="#000000">Eu <span class="GapSpan" id="GapSpan4"> 
+                         <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="7" maxlength="8">
+@@ -123,7 +123,7 @@
+                       <td bordercolor="#000000">Ele / Ela <span class="GapSpan" id="GapSpan5"> 
+                         <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="8" maxlength="9">
+                         </input></span></td></tr><tr>
+-                      <td bordercolor="#000000">N&#x00F3;s <span class="GapSpan" id="GapSpan6"> 
++                      <td bordercolor="#000000">N&oacute;s <span class="GapSpan" id="GapSpan6"> 
+                         <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="10" maxlength="11">
+                         </input></span></td></tr><tr>
+                       <td bordercolor="#000000">Eles / Elas <span class="GapSpan" id="GapSpan7"> 
+@@ -131,7 +131,7 @@
+                         </input></span></td></tr></tbody></table></td></tr><tr><td><table border="1" cellpadding="2" cellspacing="2" bordercolor="#000000" bgcolor="#cfe5b8">
+                   <tbody><tr>
+                       <td width="210" bordercolor="#000000"><strong><font color="#0000FF">c)</font></strong> 
+-                        <strong>dividir - pret&#x00E9;rito imperfeito</strong></td>
++                        <strong>dividir - pret&eacute;rito imperfeito</strong></td>
+                     </tr><tr>
+                       <td bordercolor="#000000">Eu <span class="GapSpan" id="GapSpan8"> 
+                         <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="7" maxlength="8">
+@@ -139,7 +139,7 @@
+                       <td bordercolor="#000000">Ele / Ela <span class="GapSpan" id="GapSpan9"> 
+                         <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="7" maxlength="8">
+                         </input></span></td></tr><tr>
+-                      <td bordercolor="#000000">N&#x00F3;s <span class="GapSpan" id="GapSpan10"> 
++                      <td bordercolor="#000000">N&oacute;s <span class="GapSpan" id="GapSpan10"> 
+                         <input type="text" class="GapBox" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="10" maxlength="11">
+                         </input></span></td></tr><tr>
+                       <td bordercolor="#000000">Eles / Elas <span class="GapSpan" id="GapSpan11"> 
+@@ -152,14 +152,14 @@
+                         <input type="text" class="GapBox" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" size="7" maxlength="8">
+                         </input></span></td></tr><tr><td>Ele / Ela <span class="GapSpan" id="GapSpan13">
+                         <input type="text" class="GapBox" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" size="6" maxlength="7">
+-                        </input></span></td></tr><tr><td>N&#x00F3;s <span class="GapSpan" id="GapSpan14">
++                        </input></span></td></tr><tr><td>N&oacute;s <span class="GapSpan" id="GapSpan14">
+                         <input type="text" class="GapBox" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" size="9" maxlength="10">
+                         </input></span></td></tr><tr><td>Eles / Elas <span class="GapSpan" id="GapSpan15">
+                         <input type="text" class="GapBox" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" size="7" maxlength="8">
+                         </input></span></td></tr></tbody></table></td></tr><tr><td><table border="1" cellpadding="2" cellspacing="2" bordercolor="#000000" bgcolor="#cfe5b8">
+                   <tbody><tr>
+                       <td width="210" bordercolor="#000000"><strong><font color="#0000FF">e)</font></strong> 
+-                        <strong>correr - futuro do pret&#x00E9;rito</strong></td>
++                        <strong>correr - futuro do pret&eacute;rito</strong></td>
+                     </tr><tr>
+                       <td bordercolor="#000000">Eu <span class="GapSpan" id="GapSpan16"> 
+                         <input type="text" class="GapBox" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" size="8" maxlength="9">
+@@ -167,7 +167,7 @@
+                       <td bordercolor="#000000">Ele / Ela <span class="GapSpan" id="GapSpan17"> 
+                         <input type="text" class="GapBox" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" size="8" maxlength="9">
+                         </input></span></td></tr><tr>
+-                      <td bordercolor="#000000">N&#x00F3;s <span class="GapSpan" id="GapSpan18"> 
++                      <td bordercolor="#000000">N&oacute;s <span class="GapSpan" id="GapSpan18"> 
+                         <input type="text" class="GapBox" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" size="11" maxlength="12">
+                         </input></span></td></tr><tr>
+                       <td bordercolor="#000000">Eles / Elas <span class="GapSpan" id="GapSpan19"> 
+@@ -197,12 +197,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01303.htm'; return false;">=&gt;</button>-->
+ 
+@@ -217,7 +217,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

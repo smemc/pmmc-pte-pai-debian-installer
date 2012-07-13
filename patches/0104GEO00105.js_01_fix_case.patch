@@ -1,0 +1,11 @@
+--- atividades/0104GEO001/0104GEO00105.js	2012-06-22 14:49:51.819885445 -0300
++++ atividades/0104GEO001/0104GEO00105.js.new	2012-06-22 15:07:38.159901468 -0300
+@@ -445,7 +445,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','Mato_Grosso.gif','Mato_Grosso_do_Sul.gif','Goias.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','mato_grosso.gif','mato_grosso_do_sul.gif','goias.gif','rodape.png');
+ 
+ 
+ 	SetUpItems(ShuffleQs,QsToShow);

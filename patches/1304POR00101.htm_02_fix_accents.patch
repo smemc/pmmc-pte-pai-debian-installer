@@ -1,0 +1,91 @@
+--- atividades/1304POR001/1304POR00101.htm	2012-06-22 15:07:10.571901053 -0300
++++ atividades/1304POR001/1304POR00101.htm.new	2012-06-22 15:07:10.571901053 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Luiz Beraldo" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="Exerc&#x00ED;cio1&#x003C;br&#x003E;Leia o texto e pontue corretamente" />
++<meta name="DC:Title" content="Exerc&iacute;cio1&lt;br&gt;Leia o texto e pontue corretamente" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -464,12 +464,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -945,7 +945,7 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle">Exerc&#x00ED;cio 1<br />
++  <h2 class="ExerciseTitle">Exerc&iacute;cio 1<br />
+     Leia o texto e pontue corretamente</h2>
+ 
+ 
+@@ -953,7 +953,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -987,17 +987,17 @@
+         <input type="text" class="GapBox" id="Gap3" style="width: 1em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> contra-baixo<span class="GapSpan" id="GapSpan4">
+         <input type="text" class="GapBox" id="Gap4" style="width: 2em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> O Tamandu&#x00E1;-Bandeira soprava o saxofone<span class="GapSpan" id="GapSpan5">
++        </span> O Tamandu&aacute;-Bandeira soprava o saxofone<span class="GapSpan" id="GapSpan5">
+         <input type="text" class="GapBox" id="Gap5" style="width: 1em;" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> A Raposa tocava violino<span class="GapSpan" id="GapSpan6">
+         <input type="text" class="GapBox" id="Gap6" style="width: 1em;" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> O Jacar&#x00E9;-Deixa-Estar fazia floreios no flautim<span class="GapSpan" id="GapSpan7">
++        </span> O Jacar&eacute;-Deixa-Estar fazia floreios no flautim<span class="GapSpan" id="GapSpan7">
+         <input type="text" class="GapBox" id="Gap7" style="width: 1em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> O Macaco-Patusco tomou conta da pancadaria<span class="GapSpan" id="GapSpan8">
+         <input type="text" class="GapBox" id="Gap8" style="width: 1em;" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> Havia um Lagarto violonista e a On&#x00E7;a-Malhada arranhava o banjo<span class="GapSpan" id="GapSpan9">
++        </span> Havia um Lagarto violonista e a On&ccedil;a-Malhada arranhava o banjo<span class="GapSpan" id="GapSpan9">
+         <input type="text" class="GapBox" id="Gap9" style="width: 1em;" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> <br /> Dan&#x00E7;aram tr&#x00EA;s dias sem parar<span class="GapSpan" id="GapSpan10">
++        </span> <br /> Dan&ccedil;aram tr&ecirc;s dias sem parar<span class="GapSpan" id="GapSpan10">
+         <input type="text" class="GapBox" id="Gap10" style="width: 1em;" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> Comeram e beberam<span class="GapSpan" id="GapSpan11">
+         <input type="text" class="GapBox" id="Gap11" style="width: 1em;" onfocus="TrackFocus(11)" onblur="LeaveGap()" size="2" maxlength="2" />
+@@ -1011,18 +1011,18 @@
+         <input type="text" class="GapBox" id="Gap15" style="width: 1em;" onfocus="TrackFocus(15)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> com as frutas<span class="GapSpan" id="GapSpan16">
+         <input type="text" class="GapBox" id="Gap16" style="width: 1em;" onfocus="TrackFocus(16)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> M&#x00E3;e-Ursa<span class="GapSpan" id="GapSpan17">
++        </span> M&atilde;e-Ursa<span class="GapSpan" id="GapSpan17">
+         <input type="text" class="GapBox" id="Gap17" style="width: 1em;" onfocus="TrackFocus(17)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> com suas comidas gostosas<span class="GapSpan" id="GapSpan18">
+         <input type="text" class="GapBox" id="Gap18" style="width: 1em;" onfocus="TrackFocus(18)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> O rio mandou a sua melhor &#x00E1;gua de presente para o rec&#x00E9;m-nascido<span class="GapSpan" id="GapSpan19">
++        </span> O rio mandou a sua melhor &aacute;gua de presente para o rec&eacute;m-nascido<span class="GapSpan" id="GapSpan19">
+         <input type="text" class="GapBox" id="Gap19" style="width: 1em;" onfocus="TrackFocus(19)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /> Foi uma festa muito bonita<span class="GapSpan" id="GapSpan20">
+         <input type="text" class="GapBox" id="Gap20" style="width: 1em;" onfocus="TrackFocus(20)" onblur="LeaveGap()" size="2" maxlength="2" />
+-        </span> At&#x00E9; hoje se fala nela com saudade no Bosque Perdido<span class="GapSpan" id="GapSpan21">
++        </span> At&eacute; hoje se fala nela com saudade no Bosque Perdido<span class="GapSpan" id="GapSpan21">
+         <input type="text" class="GapBox" id="Gap21" style="width: 1em;" onfocus="TrackFocus(21)" onblur="LeaveGap()" size="2" maxlength="2" />
+         </span> <br /><br /><br /><hr width=100% noshade />
+-        <font size="2">Autor: &#x00C9;rico Ver&#x00ED;ssimo<br />
++        <font size="2">Autor: &Eacute;rico Ver&iacute;ssimo<br />
+         Gente e bichos. Porto Alegre<br />
+         Ed. Globo - 1965<br />
+         </font> </div>

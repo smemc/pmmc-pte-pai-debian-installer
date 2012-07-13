@@ -1,0 +1,14 @@
+--- atividades/0102MAT001/0102MAT00101.htm	2012-06-22 14:49:55.815885505 -0300
++++ atividades/0102MAT001/0102MAT00101.htm.new	2012-06-22 14:53:12.783888465 -0300
+@@ -42,9 +42,9 @@
+   <!-- **************************** COLAR AQUI O CONTEUDO DO ARDORA ********************************** -->
+   <p style="text-align: center;"> 
+     <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="800" height="600">
+-      <param name="movie" value="Supermercado.swf" />
++      <param name="movie" value="supermercado.swf" />
+       <param name="quality" value="high" />
+-      <embed src="Supermercado.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="800" height="600"></embed></object>
++      <embed src="supermercado.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="800" height="600"></embed></object>
+   </p>
+ 
+ 	<!-- *********************************************************************************************** -->

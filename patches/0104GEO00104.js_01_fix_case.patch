@@ -1,0 +1,11 @@
+--- atividades/0104GEO001/0104GEO00104.js	2012-06-22 14:49:51.799885445 -0300
++++ atividades/0104GEO001/0104GEO00104.js.new	2012-06-22 15:07:37.419901457 -0300
+@@ -445,7 +445,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','Paraiba.gif','Sergipe.gif','Alagoas.gif','Bahia.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','paraiba.gif','sergipe.gif','alagoas.gif','bahia.gif','rodape.png');
+ 
+ 
+ 	SetUpItems(ShuffleQs,QsToShow);

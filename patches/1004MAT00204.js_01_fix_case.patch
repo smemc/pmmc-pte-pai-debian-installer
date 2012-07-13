@@ -1,0 +1,45 @@
+--- atividades/1004MAT002/1004MAT00204.js	2012-06-22 14:49:27.715885083 -0300
++++ atividades/1004MAT002/1004MAT00204.js.new	2012-06-22 15:10:38.643904180 -0300
+@@ -786,34 +786,34 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='<img src="imagens/1-2v2.JPG" width="154" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[0][0]='<img src="imagens/1-2v2.jpg" width="154" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='<img src="imagens/2-3v2.JPG" width="150" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[1][0]='<img src="imagens/2-3v2.jpg" width="150" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='<img src="imagens/1-4v2.JPG" width="152" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[2][0]='<img src="imagens/1-4v2.jpg" width="152" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[2][1] = 3;
+ F[3] = new Array();
+-F[3][0]='<img src="imagens/2-5v2.JPG" width="158" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[3][0]='<img src="imagens/2-5v2.jpg" width="158" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[3][1] = 4;
+ 
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<img src="imagens/2-4v2.JPG" width="149" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[0][0]='<img src="imagens/2-4v2.jpg" width="149" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='<img src="imagens/4-6v2.JPG" width="154" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[1][0]='<img src="imagens/4-6v2.jpg" width="154" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='<img src="imagens/2-8v2.JPG" width="151" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[2][0]='<img src="imagens/2-8v2.jpg" width="151" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ D[3] = new Array();
+-D[3][0]='<img src="imagens/4-10v2.JPG" width="153" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++D[3][0]='<img src="imagens/4-10v2.jpg" width="153" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ D[3][1] = 4;
+ D[3][2] = 0;
+ 

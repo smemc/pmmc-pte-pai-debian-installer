@@ -1,0 +1,63 @@
+--- atividades/0804MAT001/0804MAT00102.htm	2012-06-22 15:03:37.035897845 -0300
++++ atividades/0804MAT001/0804MAT00102.htm.new	2012-06-22 15:03:37.035897845 -0300
+@@ -6,8 +6,8 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+ <meta name="DC:Creator" content="Danilo Moraes" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="PROBLEMAS COM N&#x00DA;MEROS DECIMAIS" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
++<meta name="DC:Title" content="PROBLEMAS COM N&Uacute;MEROS DECIMAIS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -513,11 +513,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var Incorrect = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var Incorrect = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -909,14 +909,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PROBLEMAS COM N&#x00DA;MEROS DECIMAIS</h2>
++	<h2 class="ExerciseTitle">PROBLEMAS COM N&Uacute;MEROS DECIMAIS</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -936,7 +936,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>1. Carina gastou 0,25 de um tablete de margarina em um dia e 0,53 no outro dia. Quanto gastou do tablete de margarina?</td></tr><tr><td><b>Resposta:</b> Ela gastou <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do tablete de margarina</td></tr></tr><tr><td>&nbsp;</td></tr><tr><td>2. Comprei 15 laranjas. Dei 7 e usei 4,5 para fazer suco. Quantas laranjas restaram?</td></tr><tr><td><b>Resposta:</b> Restaram <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> laranjas</td></tr></tr><tr><td>&nbsp;</td></tr><tr><td>3. Comprei 5,80 metros de tecido azul e 2,40 metros de tecido vermelho. Quantos metros de tecido comprei ao todo?</td></tr><tr><td><b>Resposta:</b> Comprei <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> metros</td></tr></tr><tr><td>&nbsp;</td></tr><tr><td>4. Mam&#x00E3;e fez 0,186 de um croch&#x00EA; em dia; 0,28 no outro dia e 0,40 no outro. Que parte do croch&#x00EA; mam&#x00E3;e fez nos tr&#x00EA;s dias?</td></tr><tr><td><b>Resposta:</b> Ela fez <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do croch&#x00EA;</td></tr><tr><td>&nbsp;</td></tr><tr><td>5. Isabel precisa de 6,48 metros de renda, mas s&#x00F3; tem 4,75 metros. Quantos metros faltam?</td></tr><tr><td><b>Resposta:</b> Faltam <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> metros</td></tr><tr><td>&nbsp;</td></tr><tr><td>6. Papai comprou 47,55 metros de arame para fazer uma cerca. Gastou 30,85 metros. Quantos metros de arame ainda restam?</td></tr><tr><td><b>Resposta:</b> Restam <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> metros</td></tr><tr><td>&nbsp;</td></tr><tr><td>7. Marina fez um bolo. Deu 0,46 do bolo para a mam&#x00E3;e e 0,28 para a vov&#x00F3;. Quanto restou do bolo?</td></tr><tr><td><b>Resposta:</b> Restou <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do bolo</td></tr><tr><td>&nbsp;</td></tr><tr><td>8. Comi 0,24 de um bolo. Minha prima comeu 0,16. Quantos comemos do bolo?</td></tr><tr><td><b>Resposta:</b> Comemos <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do bolo</td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>1. Carina gastou 0,25 de um tablete de margarina em um dia e 0,53 no outro dia. Quanto gastou do tablete de margarina?</td></tr><tr><td><b>Resposta:</b> Ela gastou <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do tablete de margarina</td></tr></tr><tr><td>&nbsp;</td></tr><tr><td>2. Comprei 15 laranjas. Dei 7 e usei 4,5 para fazer suco. Quantas laranjas restaram?</td></tr><tr><td><b>Resposta:</b> Restaram <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> laranjas</td></tr></tr><tr><td>&nbsp;</td></tr><tr><td>3. Comprei 5,80 metros de tecido azul e 2,40 metros de tecido vermelho. Quantos metros de tecido comprei ao todo?</td></tr><tr><td><b>Resposta:</b> Comprei <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> metros</td></tr></tr><tr><td>&nbsp;</td></tr><tr><td>4. Mam&atilde;e fez 0,186 de um croch&ecirc; em dia; 0,28 no outro dia e 0,40 no outro. Que parte do croch&ecirc; mam&atilde;e fez nos tr&ecirc;s dias?</td></tr><tr><td><b>Resposta:</b> Ela fez <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do croch&ecirc;</td></tr><tr><td>&nbsp;</td></tr><tr><td>5. Isabel precisa de 6,48 metros de renda, mas s&oacute; tem 4,75 metros. Quantos metros faltam?</td></tr><tr><td><b>Resposta:</b> Faltam <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> metros</td></tr><tr><td>&nbsp;</td></tr><tr><td>6. Papai comprou 47,55 metros de arame para fazer uma cerca. Gastou 30,85 metros. Quantos metros de arame ainda restam?</td></tr><tr><td><b>Resposta:</b> Restam <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> metros</td></tr><tr><td>&nbsp;</td></tr><tr><td>7. Marina fez um bolo. Deu 0,46 do bolo para a mam&atilde;e e 0,28 para a vov&oacute;. Quanto restou do bolo?</td></tr><tr><td><b>Resposta:</b> Restou <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do bolo</td></tr><tr><td>&nbsp;</td></tr><tr><td>8. Comi 0,24 de um bolo. Minha prima comeu 0,16. Quantos comemos do bolo?</td></tr><tr><td><b>Resposta:</b> Comemos <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> do bolo</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

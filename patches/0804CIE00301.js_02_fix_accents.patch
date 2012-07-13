@@ -1,0 +1,28 @@
+--- atividades/0804CIE003/0804CIE00301.js	2012-06-22 15:08:45.287902476 -0300
++++ atividades/0804CIE003/0804CIE00301.js.new	2012-06-22 15:08:45.291902475 -0300
+@@ -636,9 +636,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = 'Parab&#x00E9;ns!';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas.';
+-var YourScoreIs = 'Sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = 'Parab&eacute;ns!';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas.';
++var YourScoreIs = 'Sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#FFFFFF';
+@@ -819,10 +819,10 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='Camada de &#x00E1;gua da Terra.';
++F[0][0]='Camada de &aacute;gua da Terra.';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='Camada s&#x00F3;lida da Terra';
++F[1][0]='Camada s&oacute;lida da Terra';
+ F[1][1] = 2;
+ F[2] = new Array();
+ F[2][0]='Camada de ar que envolve a Terra.';

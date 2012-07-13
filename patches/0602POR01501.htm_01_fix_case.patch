@@ -1,0 +1,29 @@
+--- atividades/0602POR015/0602POR01501.htm	2012-06-22 14:49:29.295885107 -0300
++++ atividades/0602POR015/0602POR01501.htm.new	2012-06-22 15:00:48.027895305 -0300
+@@ -494,7 +494,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','FORMIGUEIRO.gif','GUITARRA.gif','JEGUE.gif','REGUA.gif','FOGUETE.gif','FOGUEIRA.gif','AGUA.gif','AGUIA.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','formigueiro.gif','guitarra.gif','jegue.gif','regua.gif','foguete.gif','fogueira.gif','agua.gif','aguia.gif','rodape.png');
+ 
+ 
+ 
+@@ -856,7 +856,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"></h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue"><img src="FORMIGUEIRO.gif" width="83" height="74"></td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue"><img src="GUITARRA.gif" width="82" height="84"></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue"><img src="JEGUE.gif" width="85" height="85"></td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue"><img src="REGUA.gif" width="82" height="87"></td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue"><img src="formigueiro.gif" width="83" height="74"></td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue"><img src="guitarra.gif" width="82" height="84"></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue"><img src="jegue.gif" width="85" height="85"></td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue"><img src="regua.gif" width="82" height="87"></td></tr>
+ 
+ </tbody>
+ </table>
+@@ -869,7 +869,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel"></h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue"><img src="FOGUETE.gif" width="75" height="84"></td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="FOGUEIRA.gif" width="86" height="86"></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="AGUA.gif" width="84" height="81"></td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue"><img src="AGUIA.gif" width="85" height="85"></td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue"><img src="foguete.gif" width="75" height="84"></td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="fogueira.gif" width="86" height="86"></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="agua.gif" width="84" height="81"></td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue"><img src="aguia.gif" width="85" height="85"></td></tr>
+ 
+ </tbody>
+ </table>

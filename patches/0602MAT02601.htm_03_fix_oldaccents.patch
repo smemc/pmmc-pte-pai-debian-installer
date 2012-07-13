@@ -1,0 +1,62 @@
+--- atividades/0602MAT026/0602MAT02601.htm	2012-06-22 15:00:34.827895106 -0300
++++ atividades/0602MAT026/0602MAT02601.htm.new	2012-06-22 15:00:34.827895106 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="DESAFIOS MATEMÁTICOS" />
++<meta name="DC:Title" content="DESAFIOS MATEM&Aacute;TICOS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -875,7 +875,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">DESAFIOS MATEMÁTICOS</h2>
++	<h2 class="ExerciseTitle">DESAFIOS MATEM&Aacute;TICOS</h2>
+ 
+ 	<h3 class="ExerciseSubtitle"><br /></h3>
+ 
+@@ -884,7 +884,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -904,11 +904,11 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<B><br />1 - FILÓ, PINDUCA E TITA FORAM COLHER LARANJAS. CADA UMA COLHEU 250 FRUTAS. QUANTAS FRUTAS ELAS COLHERAM AO TODO?<br />RESPOSTA: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> FRUTAS.<br /><br />2 - UM LEÃO COME 165 QUILOS DE CARNE POR SEMANA. QUANTOS QUILOS DE CARNE ELE VAI COMER EM 4 SEMANAS?<br />RESPOSTA: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> QUILOS.<br /><br />3 - UMA GALINHA PÕE 38 OVOS POR SEMANA. QUANTOS OVOS ELA PÕE EM 7 SEMANAS?<br />RESPOSTA: <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> OVOS.<br /><br />4 - NUMA CAIXA CABEM 100 LARANJAS. QUANTAS LARANJAS CABEM EM 4 CAIXAS IGUAIS?<br />RESPOSTA: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;">
++<B><br />1 - FIL&Oacute;, PINDUCA E TITA FORAM COLHER LARANJAS. CADA UMA COLHEU 250 FRUTAS. QUANTAS FRUTAS ELAS COLHERAM AO TODO?<br />RESPOSTA: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> FRUTAS.<br /><br />2 - UM LE&Atilde;O COME 165 QUILOS DE CARNE POR SEMANA. QUANTOS QUILOS DE CARNE ELE VAI COMER EM 4 SEMANAS?<br />RESPOSTA: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> QUILOS.<br /><br />3 - UMA GALINHA P&Otilde;E 38 OVOS POR SEMANA. QUANTOS OVOS ELA P&Otilde;E EM 7 SEMANAS?<br />RESPOSTA: <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> OVOS.<br /><br />4 - NUMA CAIXA CABEM 100 LARANJAS. QUANTAS LARANJAS CABEM EM 4 CAIXAS IGUAIS?<br />RESPOSTA: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;">
+ </input></span> LARANJAS.<br />
+-<br />5 - DIOGO TEM UMA CENTENA DE CANETAS. SEU PRIMO TEM O TRIPLO. QUANTAS CANETAS TEM O PRIMO DE DIOGO?<br />RESPOSTA: <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> CANETAS.<br /><br />6 - MAMÃE FOI À FEIRA E COMPROU 13 DEZENAS DE LARANJAS. DIVIDIU-AS IGUALMENTE ENTRE 2 CESTAS. QUANTAS LARANJAS CABEM EM CADA CESTA?<br />RESPOSTA: <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> LARANJAS.<br /><br />
+-7 - PEDRINHO VAI REPARTIR IGUALMENTE 98 BISCOITOS ENTRE 6 CRIANÇAS. QUANTOS BISCOITOS VÃO SOBRAR?<br />
+-RESPOSTA: <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> BISCOITOS.<br /><br />8 - DISTRIBUÍ IGUALMENTE 105 FIGURINHAS ENTRE 5 COLEGAS. QUANTAS FIGURINHAS RECEBEU CADA UM?<br />RESPOSTA: <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> FIGURINHAS.<br /><br />9 - GOSTO DE PASSEAR PELO JARDIM E VER OS ANIMAIS. CONSEGUI VER 2 CASAIS DE PERIQUITOS E 3 PARES DE ROLINHAS. QUANTAS AVES EU VI AO TODO?<br />RESPOSTA: <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> AVES.<br /><br />10 - TENHO 75 PEIXES. HORÁCIO TEM O DOBRO. QUANTOS PEIXES ELE TEM?<br />RESPOSTA: <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> PEIXES.<br /></B>
++<br />5 - DIOGO TEM UMA CENTENA DE CANETAS. SEU PRIMO TEM O TRIPLO. QUANTAS CANETAS TEM O PRIMO DE DIOGO?<br />RESPOSTA: <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> CANETAS.<br /><br />6 - MAM&Atilde;E FOI &Agrave; FEIRA E COMPROU 13 DEZENAS DE LARANJAS. DIVIDIU-AS IGUALMENTE ENTRE 2 CESTAS. QUANTAS LARANJAS CABEM EM CADA CESTA?<br />RESPOSTA: <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> LARANJAS.<br /><br />
++7 - PEDRINHO VAI REPARTIR IGUALMENTE 98 BISCOITOS ENTRE 6 CRIAN&Ccedil;AS. QUANTOS BISCOITOS V&Atilde;O SOBRAR?<br />
++RESPOSTA: <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> BISCOITOS.<br /><br />8 - DISTRIBU&Iacute; IGUALMENTE 105 FIGURINHAS ENTRE 5 COLEGAS. QUANTAS FIGURINHAS RECEBEU CADA UM?<br />RESPOSTA: <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> FIGURINHAS.<br /><br />9 - GOSTO DE PASSEAR PELO JARDIM E VER OS ANIMAIS. CONSEGUI VER 2 CASAIS DE PERIQUITOS E 3 PARES DE ROLINHAS. QUANTAS AVES EU VI AO TODO?<br />RESPOSTA: <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> AVES.<br /><br />10 - TENHO 75 PEIXES. HOR&Aacute;CIO TEM O DOBRO. QUANTOS PEIXES ELE TEM?<br />RESPOSTA: <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> PEIXES.<br /></B>
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,11 @@
+--- atividades/0203GEO001/passaflash.htm	2012-06-22 14:55:04.755890146 -0300
++++ atividades/0203GEO001/passaflash.htm.new	2012-06-22 14:55:04.759890145 -0300
+@@ -438,7 +438,7 @@
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Você terminou os exercícios!';
++var Proximo = 'Voc&ecirc; terminou os exerc&iacute;cios!';
+ var ContinuousScoring = true;
+ var CorrectFirstTime = 'Quest&otilde;es respondidas corretamente na primeira tentativa: ';
+ var ShowCorrectFirstTime = true;

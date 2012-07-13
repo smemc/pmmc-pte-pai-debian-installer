@@ -1,0 +1,14 @@
+--- atividades/0601MAT053/0601MAT05308.htm	2012-06-22 14:57:41.519892503 -0300
++++ atividades/0601MAT053/0601MAT05308.htm.new	2012-06-22 14:57:41.519892503 -0300
+@@ -614,9 +614,9 @@
+ var Openers = '';
+ var CorrectResponse = 'CERTO!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var ThisMuchCorrect = 'ESTÁ PARTE ESTÁ CERTA';
++var ThisMuchCorrect = 'EST&Aacute; PARTE EST&Aacute; CERTA';
+ var TheseAnswersToo = 'These answers are also correct:';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var NextCorrect = 'The next correct part is:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

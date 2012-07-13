@@ -1,0 +1,50 @@
+--- atividades/0603POR087/0603POR08701.htm	2012-06-22 15:02:31.035896853 -0300
++++ atividades/0603POR087/0603POR08701.htm.new	2012-06-22 15:02:31.035896853 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="Destacar os verbos e escrever a forma como eles podem ser encontrados no dicionário:" />
++<meta name="DC:Title" content="Destacar os verbos e escrever a forma como eles podem ser encontrados no dicion&aacute;rio:" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -462,9 +462,9 @@
+ var CurrQNum = 0;
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var ContinuousScoring = true;
+-var CorrectFirstTime = 'Questões respondidas corretamente na primeira tentativa: ';
++var CorrectFirstTime = 'Quest&otilde;es respondidas corretamente na primeira tentativa: ';
+ var ShowCorrectFirstTime = true;
+ var ShuffleQs = false;
+ var ShuffleAs = false;
+@@ -848,11 +848,11 @@
+ 
+ var CaseSensitive = false;
+ var ShowAlsoCorrect = true;
+-var PleaseEnter = 'Por favor, digite uma hipótese.';
++var PleaseEnter = 'Por favor, digite uma hip&oacute;tese.';
+ var HybridTries = 2;
+-var PartlyIncorrect = 'Sua resposta está parcialmente incorreta: ';
++var PartlyIncorrect = 'Sua resposta est&aacute; parcialmente incorreta: ';
+ var CorrectList = 'Respostas corretas: ';
+-var NextCorrect = 'Próxima letra correta na resposta: ';
++var NextCorrect = 'Pr&oacute;xima letra correta na resposta: ';
+ var CurrBox = null;
+ 
+ function TrackFocus(BoxID){
+@@ -1235,9 +1235,9 @@
+ <ol class="QuizQuestions" id="Questions">
+ <li class="QuizQuestion" id="Q_0" style="display: none;"><p class="QuestionText">O pai deu uma bola de presente ao filho.<img src="esporte0011.gif" alt="esporte0011.gif" title="Esporte0011" width="62" height="61"></img></p><div class="ShortAnswer" id="Q_0_SA"><form method="post" action="" onsubmit="return false;"><div><input type="text" id="Q_0_Guess" onfocus="TrackFocus('Q_0_Guess')" onblur="LeaveGap()" class="ShortAnswerBox" size="9"></input><br /><br /><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckShortAnswer(0)">Verificar</button></div></form></div></li>
+ <li class="QuizQuestion" id="Q_1" style="display: none;"><p class="QuestionText">O garoto agradeceu ao pai.<img src="pessoas0173.gif" alt="pessoas0173.gif" title="Pessoas0173" width="128" height="96"></img></p><div class="ShortAnswer" id="Q_1_SA"><form method="post" action="" onsubmit="return false;"><div><input type="text" id="Q_1_Guess" onfocus="TrackFocus('Q_1_Guess')" onblur="LeaveGap()" class="ShortAnswerBox" size="9"></input><br /><br /><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckShortAnswer(1)">Verificar</button></div></form></div></li>
+-<li class="QuizQuestion" id="Q_2" style="display: none;"><p class="QuestionText">O pai não conseguiu a atenção do filho.<img src="pessoas0056.gif" alt="pessoas0056.gif" title="Pessoas0056" width="75" height="73"></img><img src="pessoas0057.gif" alt="pessoas0057.gif" title="Pessoas0057" width="75" height="56"></img></p><div class="ShortAnswer" id="Q_2_SA"><form method="post" action="" onsubmit="return false;"><div><input type="text" id="Q_2_Guess" onfocus="TrackFocus('Q_2_Guess')" onblur="LeaveGap()" class="ShortAnswerBox" size="9"></input><br /><br /><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckShortAnswer(2)">Verificar</button></div></form></div></li>
++<li class="QuizQuestion" id="Q_2" style="display: none;"><p class="QuestionText">O pai n&atilde;o conseguiu a aten&ccedil;&atilde;o do filho.<img src="pessoas0056.gif" alt="pessoas0056.gif" title="Pessoas0056" width="75" height="73"></img><img src="pessoas0057.gif" alt="pessoas0057.gif" title="Pessoas0057" width="75" height="56"></img></p><div class="ShortAnswer" id="Q_2_SA"><form method="post" action="" onsubmit="return false;"><div><input type="text" id="Q_2_Guess" onfocus="TrackFocus('Q_2_Guess')" onblur="LeaveGap()" class="ShortAnswerBox" size="9"></input><br /><br /><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckShortAnswer(2)">Verificar</button></div></form></div></li>
+ <li class="QuizQuestion" id="Q_3" style="display: none;"><p class="QuestionText">O pai sentiu-se chateado.<img src="pessoas0218.gif" alt="pessoas0218.gif" title="Pessoas0218" width="82" height="100"></img></p><div class="ShortAnswer" id="Q_3_SA"><form method="post" action="" onsubmit="return false;"><div><input type="text" id="Q_3_Guess" onfocus="TrackFocus('Q_3_Guess')" onblur="LeaveGap()" class="ShortAnswerBox" size="9"></input><br /><br /><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckShortAnswer(3)">Verificar</button></div></form></div></li>
+-<li class="QuizQuestion" id="Q_4" style="display: none;"><p class="QuestionText">Como é que liga?<img src="diverso0938.gif" alt="diverso0938.gif" title="Diverso0938" width="40" height="40"></img></p><div class="ShortAnswer" id="Q_4_SA"><form method="post" action="" onsubmit="return false;"><div><input type="text" id="Q_4_Guess" onfocus="TrackFocus('Q_4_Guess')" onblur="LeaveGap()" class="ShortAnswerBox" size="9"></input><br /><br /><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckShortAnswer(4)">Verificar</button></div></form></div></li></ol>
++<li class="QuizQuestion" id="Q_4" style="display: none;"><p class="QuestionText">Como &eacute; que liga?<img src="diverso0938.gif" alt="diverso0938.gif" title="Diverso0938" width="40" height="40"></img></p><div class="ShortAnswer" id="Q_4_SA"><form method="post" action="" onsubmit="return false;"><div><input type="text" id="Q_4_Guess" onfocus="TrackFocus('Q_4_Guess')" onblur="LeaveGap()" class="ShortAnswerBox" size="9"></input><br /><br /><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" onclick="CheckShortAnswer(4)">Verificar</button></div></form></div></li></ol>
+ 
+ 
+ 

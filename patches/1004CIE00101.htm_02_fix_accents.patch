@@ -1,0 +1,11 @@
+--- atividades/1004CIE001/1004CIE00101.htm	2012-06-22 15:05:09.395899232 -0300
++++ atividades/1004CIE001/1004CIE00101.htm.new	2012-06-22 15:05:09.399899231 -0300
+@@ -29,7 +29,7 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">Sistema &#211;sseo e Muscular</h2>
++	<h2 class="ExerciseTitle">Sistema &Oacute;sseo e Muscular</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 

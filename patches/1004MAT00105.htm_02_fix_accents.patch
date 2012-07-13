@@ -1,0 +1,53 @@
+--- atividades/1004MAT001/1004MAT00105.htm	2012-06-22 15:05:14.735899313 -0300
++++ atividades/1004MAT001/1004MAT00105.htm.new	2012-06-22 15:05:14.735899313 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson S. Freitas Jr." />
+-<meta name="DC:Title" content="Sistema de Numera&#x00E7;&#x00E3;o decimal" />
++<meta name="DC:Title" content="Sistema de Numera&ccedil;&atilde;o decimal" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -443,11 +443,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Correto parab&#x00E9;ns';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Preste aten&#x00E7;&#x00E3;o'; 
++var Correct = 'Correto parab&eacute;ns';
++var Incorrect = 'Algumas est&atilde;o erradas... Preste aten&ccedil;&atilde;o'; 
+ var GiveHint = 'Muito bem';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o próximo exercício.';
+ var Finished = false;
+ var Locked = false;
+@@ -849,7 +849,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">5 - Escreva os n&#x00FA;meros utilizando algarismos. Depois de conclu&#x00ED;do, cliqaue em "Verificar" para corrigir o exerc&#x00ED;cio:</p>
++	<p id="Instructions">5 - Escreva os n&uacute;meros utilizando algarismos. Depois de conclu&iacute;do, cliqaue em "Verificar" para corrigir o exerc&iacute;cio:</p>
+ </div>
+ 
+ 
+@@ -881,7 +881,7 @@
+             <td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr><tr>
+             <td bgcolor="#FFFFCC"><font size="4">Trezentos mil e nove</font></td>
+             <td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr><tr>
+-            <td bgcolor="#FFFFCC"><font size="4">Quarenta e tr&#x00EA;s mil e 
++            <td bgcolor="#FFFFCC"><font size="4">Quarenta e tr&ecirc;s mil e 
+               duzentos</font></td>
+             <td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span></td></tr><tr>
+             <td bgcolor="#FFFFCC"><font size="4">Vinte e seis mil, trezentos e 

@@ -1,0 +1,58 @@
+--- atividades/0603POR007/0603POR00701.htm	2012-06-22 15:02:28.087896809 -0300
++++ atividades/0603POR007/0603POR00701.htm.new	2012-06-22 15:02:28.091896807 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="CRUZADINHA DE LÍNGUA PORTUGUESA" />
++<meta name="DC:Title" content="CRUZADINHA DE L&Iacute;NGUA PORTUGUESA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -463,9 +463,9 @@
+ var AcrossCaption = '';
+ var DownCaption = '';
+ var Correct = 'Correto! Muito bem.';
+-var Incorrect = 'Algumas respostas estão incorretas. As respostas incorretas serão apagadas.'; 
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. As respostas incorretas ser&atilde;o apagadas.'; 
+ var GiveHint = 'Foi acrescentada uma letra correta.';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -841,14 +841,14 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">CRUZADINHA DE LÍNGUA PORTUGUESA</h2>
++	<h2 class="ExerciseTitle">CRUZADINHA DE L&Iacute;NGUA PORTUGUESA</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Complete a cruzadinha, então clique em "Verificar" para conferir as respostas. Clique em um número no quadro para ver uma pista para aquela palavra e preencher a palavra correta.</p>
++	<p id="Instructions">Complete a cruzadinha, ent&atilde;o clique em "Verificar" para conferir as respostas. Clique em um n&uacute;mero no quadro para ver uma pista para aquela palavra e preencher a palavra correta.</p>
+ </div>
+ 
+ 
+@@ -886,7 +886,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Locução adjetiva de carnaval</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Locução adjetiva de estudante</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">3ª pessoa do plural do verbo animar (futuro)</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">O adjetivo que caracteriza Brasil</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">3ª pessoa do singular do verbo escrever (pretérito)</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">1ª pessoa do plural do verbo fugir (presente)</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Locu&ccedil;&atilde;o adjetiva de carnaval</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Locu&ccedil;&atilde;o adjetiva de estudante</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">3Âª pessoa do plural do verbo animar (futuro)</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">O adjetivo que caracteriza Brasil</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">3Âª pessoa do singular do verbo escrever (pret&eacute;rito)</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">1Âª pessoa do plural do verbo fugir (presente)</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -899,7 +899,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Quem nasce em Brasília</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">O plural de cartaz</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">O adjetivo pátrio de Minas Gerais</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">O plural de fóssil</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Quem nasce em Bras&iacute;lia</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">O plural de cartaz</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">O adjetivo p&aacute;trio de Minas Gerais</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">O plural de f&oacute;ssil</td></tr>
+ 
+ </tbody>
+ </table>

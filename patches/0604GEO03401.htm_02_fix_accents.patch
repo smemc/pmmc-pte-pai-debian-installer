@@ -1,0 +1,20 @@
+--- atividades/0604GEO034/0604GEO03401.htm	2012-06-22 15:02:36.115896929 -0300
++++ atividades/0604GEO034/0604GEO03401.htm.new	2012-06-22 15:02:36.115896929 -0300
+@@ -166,7 +166,7 @@
+  valuation = new init_array(1);
+  valuation.length = 1;
+  valuation[0] = unescape(DecodeString(" 84106 83 93 77100"));
+- data = unescape("O PA%CDS ONDE MORO CHAMA-SE ");
++ data = unescape("O PA&Iacute;S ONDE MORO CHAMA-SE ");
+  this[0] = new AnsReport(choice,valuation,data,0);
+  pesi[2]=DecodeNumber(19,2,0,99);
+ 
+@@ -207,7 +207,7 @@
+  valuation = new init_array(1);
+  valuation.length = 1;
+  valuation[0] = unescape(DecodeString(" 84106 83 93 41 91 86100 91 75"));
+- data = unescape("A CAPITAL DO BRASIL %C9 ");
++ data = unescape("A CAPITAL DO BRASIL &Eacute; ");
+  this[0] = new AnsReport(choice,valuation,data,0);
+  pesi[3]=DecodeNumber(11,3,0,99);
+ 

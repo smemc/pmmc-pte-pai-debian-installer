@@ -1,0 +1,45 @@
+--- atividades/0202CIE001/0202CIE00101.htm	2012-06-22 14:53:59.775889169 -0300
++++ atividades/0202CIE001/0202CIE00101.htm.new	2012-06-22 14:53:59.775889169 -0300
+@@ -23,7 +23,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -437,10 +437,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o 2º Exercício!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -827,8 +827,8 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal -</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">&#x00C9; O PLANETA QUE EST&#x00C1; MAIS PR&#x00D3;XIMO DO SOL</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">PLANETA QUE POSSUI UM ANEL EM VOLTA DE SI</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">PLANETA EM QUE VIVEMOS</td></tr><tr><td class="ClueNum">6. </td>
+-                <td id="Clue_A_6" class="Clue">&#x00C9; O PLANETA AN&Atilde;O 
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">&Eacute; O PLANETA QUE EST&Aacute; MAIS PR&Oacute;XIMO DO SOL</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">PLANETA QUE POSSUI UM ANEL EM VOLTA DE SI</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">PLANETA EM QUE VIVEMOS</td></tr><tr><td class="ClueNum">6. </td>
++                <td id="Clue_A_6" class="Clue">&Eacute; O PLANETA AN&Atilde;O 
+                   MAIS CONHECIDO DO SISTEMA SOLAR</td>
+               </tr>
+ 
+@@ -843,7 +843,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical - </h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">&#x00C9; O MAIOR PLANETA DO SISTEMA SOLAR</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">PLANETA QUE FICA ENTRE URANO E PLUT&#x00C3;O</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">&Eacute; O MAIOR PLANETA DO SISTEMA SOLAR</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">PLANETA QUE FICA ENTRE URANO E PLUT&Atilde;O</td></tr>
+ 
+ </tbody>
+ </table>

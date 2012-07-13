@@ -1,0 +1,26 @@
+--- atividades/0804POR008/0804POR00802.js	2012-06-22 15:09:13.727902904 -0300
++++ atividades/0804POR008/0804POR00802.js.new	2012-06-22 15:09:13.731902904 -0300
+@@ -473,10 +473,10 @@
+ var CurrQNum = 0;
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+-var YourScoreIs = '</br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;';
++var YourScoreIs = '</br>A sua pontua&ccedil;&atilde;o &eacute;';
+ 
+ //New for 6.2.2.0
+-var CompletedSoFar = 'Perguntas respondidas at&#x00E9; o momento:';
++var CompletedSoFar = 'Perguntas respondidas at&eacute; o momento:';
+ var ExerciseCompleted = 'You have completed the exercise.';
+ var ShowCompletedSoFar = true;
+ 
+@@ -485,8 +485,8 @@
+ var ShowCorrectFirstTime = true;
+ var ShuffleQs = true;
+ var ShuffleAs = true;
+-var DefaultRight = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var DefaultWrong = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
++var DefaultRight = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var DefaultWrong = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!';
+ var QsToShow = 9;
+ var Score = 0;
+ var Finished = false;

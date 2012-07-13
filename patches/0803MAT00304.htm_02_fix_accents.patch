@@ -1,0 +1,37 @@
+--- atividades/0803MAT003/0803MAT00304.htm	2012-06-22 15:03:14.299897503 -0300
++++ atividades/0803MAT003/0803MAT00304.htm.new	2012-06-22 15:03:14.299897503 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="Efetuar as opera&#x00E7;&#x00F5;es" />
++<meta name="DC:Title" content="Efetuar as opera&ccedil;&otilde;es" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,14 +56,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Efetuar as opera&#x00E7;&#x00F5;es</h2>
++	<h2 class="ExerciseTitle">Efetuar as opera&ccedil;&otilde;es</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Resolva as adi&#x00E7;&#x00F5;es. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Resolva as adi&ccedil;&otilde;es. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

@@ -1,0 +1,56 @@
+--- atividades/0601POR034/0601POR03401.htm	2012-06-22 14:59:05.051893758 -0300
++++ atividades/0601POR034/0601POR03401.htm.new	2012-06-22 14:59:05.051893758 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="O FIO DA MEADA&#x003C;br&#x003E; Siga as linhas, preencha as lacunas com as letras correspondentes e descubra a palavra secreta." />
++<meta name="DC:Title" content="O FIO DA MEADA&lt;br&gt; Siga as linhas, preencha as lacunas com as letras correspondentes e descubra a palavra secreta." />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -529,10 +529,10 @@
+ 
+ function StartUp(){
+ 	
+-//*********** Acrescentado pelos Orientadores de Inform&#225;tica de Mogi das Cruzes ************
++//*********** Acrescentado pelos Orientadores de Inform&aacute;tica de Mogi das Cruzes ************
+ 	document.onkeyup = AvancaRetorna; //captura a tecla digitada
+ 	document.onmousedown=clicar; //captura o clique do mouse
+-	document.oncontextmenu = mensagem;//bloqueia o bot&#227;o direito no Firefox
++	document.oncontextmenu = mensagem;//bloqueia o bot&atilde;o direito no Firefox
+ //**** Fim ******
+ 
+ 	RemoveBottomNavBarForIE();
+@@ -829,10 +829,10 @@
+ 
+ 
+ 
+-//Fun&#231;&#227;o que permite o avan&#231;o e retorno de p&#225;ginas da atividade, sem que a mesma seja completada
+-//Adicionada pelos Orientadores de Inform&#225;tica da PMMC
++//Fun&ccedil;&atilde;o que permite o avan&ccedil;o e retorno de p&aacute;ginas da atividade, sem que a mesma seja completada
++//Adicionada pelos Orientadores de Inform&aacute;tica da PMMC
+ function AvancaRetorna(e) {
+-	if (!e) e = window.event; //necess&#225;rio para validar a tecla no IE
++	if (!e) e = window.event; //necess&aacute;rio para validar a tecla no IE
+ 	letra = String.fromCharCode(e.keyCode);
+ 	btn_alt = e['altKey'];
+ 	btn_ctrl = e['ctrlKey'];
+@@ -848,7 +848,7 @@
+ 	}
+ }
+ 
+-function clicar() { //fun&#231;&#227;o respons&#225;vel pelo tratamento do bot&#227;o direito do mouse no IE
++function clicar() { //fun&ccedil;&atilde;o respons&aacute;vel pelo tratamento do bot&atilde;o direito do mouse no IE
+     if (event.button==2) {
+      		mensagem;
+     }

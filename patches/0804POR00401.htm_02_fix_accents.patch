@@ -1,0 +1,20 @@
+--- atividades/0804POR004/0804POR00401.htm	2012-06-22 15:03:45.639897974 -0300
++++ atividades/0804POR004/0804POR00401.htm.new	2012-06-22 15:03:45.639897974 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -64,7 +64,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Observe as palavras do quadro com aten&#x00E7;&#x00E3;o. Agora, copie as palavras acrescentando o "S" . Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Observe as palavras do quadro com aten&ccedil;&atilde;o. Agora, copie as palavras acrescentando o "S" . Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

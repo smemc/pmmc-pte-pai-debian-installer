@@ -1,0 +1,74 @@
+--- atividades/1004MAT004/1004MAT00401.htm	2012-06-22 14:49:55.415885499 -0300
++++ atividades/1004MAT004/1004MAT00401.htm.new	2012-06-22 15:05:21.171899409 -0300
+@@ -105,7 +105,7 @@
+               <td><div align="center"><strong>N&uacute;mero</strong></div></td>
+             </tr>
+             <tr bgcolor="#CFE5B8"> 
+-              <td><strong>a)</strong> <img src="imagens/tresdecimos.JPG" width="72" height="74" align="middle"></img></td>
++              <td><strong>a)</strong> <img src="imagens/tresdecimos.jpg" width="72" height="74" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="12" maxlength="20"></input> 
+                 </span></td>
+@@ -114,7 +114,7 @@
+                 </span></td>
+             </tr>
+             <tr bgcolor="#99CCFF"> 
+-              <td><strong>b)</strong> <img src="imagens/trintaeoitocentesimos.JPG" width="72" height="74" align="middle"></img></td>
++              <td><strong>b)</strong> <img src="imagens/trintaeoitocentesimos.jpg" width="72" height="74" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="24" maxlength="30"></input> 
+                 </span></td>
+@@ -123,7 +123,7 @@
+                 </span></td>
+             </tr>
+             <tr bgcolor="#CFE5B8"> 
+-              <td><strong>c)</strong> <img src="imagens/cincomilesimos.JPG" width="72" height="74" align="middle"></img></td>
++              <td><strong>c)</strong> <img src="imagens/cincomilesimos.jpg" width="72" height="74" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="15" maxlength="20"></input> 
+                 </span></td>
+@@ -132,7 +132,7 @@
+                 </span></td>
+             </tr>
+             <tr bgcolor="#99CCFF"> 
+-              <td><strong>d)</strong> <img src="imagens/dozedecimos.JPG" width="72" height="74" align="middle"></img></td>
++              <td><strong>d)</strong> <img src="imagens/dozedecimos.jpg" width="72" height="74" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="12" maxlength="20"></input> 
+                 </span></td>
+@@ -141,7 +141,7 @@
+                 </span></td>
+             </tr>
+             <tr bgcolor="#CFE5B8"> 
+-              <td><strong>e)</strong> <img src="imagens/dezessetecentesimos.JPG" width="72" height="74" align="middle"></img></td>
++              <td><strong>e)</strong> <img src="imagens/dezessetecentesimos.jpg" width="72" height="74" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan8"> 
+                 <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="20" maxlength="30"></input> 
+                 </span></td>
+@@ -150,7 +150,7 @@
+                 </span></td>
+             </tr>
+             <tr bgcolor="#99CCFF"> 
+-              <td><strong>f)</strong> <img src="imagens/387milesimos.JPG" width="72" height="74" align="middle"></img></td>
++              <td><strong>f)</strong> <img src="imagens/387milesimos.jpg" width="72" height="74" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan10"> 
+                 <input type="text" class="GapBox" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="36" maxlength="40"></input> 
+                 </span></td>
+@@ -159,7 +159,7 @@
+                 </span></td>
+             </tr>
+             <tr bgcolor="#CFE5B8"> 
+-              <td><strong>g)</strong> <img src="imagens/58milesimos.JPG" width="72" height="74" align="middle"></img></td>
++              <td><strong>g)</strong> <img src="imagens/58milesimos.jpg" width="72" height="74" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan12"> 
+                 <input type="text" class="GapBox" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" size="26" maxlength="30"></input> 
+                 </span></td>
+@@ -168,7 +168,7 @@
+                 </span></td>
+             </tr>
+             <tr bgcolor="#99CCFF"> 
+-              <td><strong>h)</strong> <img src="imagens/4575centesimos.JPG" width="72" height="74" align="middle"></img></td>
++              <td><strong>h)</strong> <img src="imagens/4575centesimos.jpg" width="72" height="74" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan14"> 
+                 <input type="text" class="GapBox" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" size="51" maxlength="60"></input> 
+                 </span></td>

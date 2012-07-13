@@ -1,0 +1,98 @@
+--- atividades/0703GEO002/0703GEO00201.htm	2012-06-22 15:03:07.615897403 -0300
++++ atividades/0703GEO002/0703GEO00201.htm.new	2012-06-22 15:03:07.615897403 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Alex Soares da Silva" />
+-<meta name="DC:Title" content="PREENCHA AS LACUNAS COM O NOMES DAS CIDADES DA REGI&#x00C3;O DO ALTO TIET&#x00CA;" />
++<meta name="DC:Title" content="PREENCHA AS LACUNAS COM O NOMES DAS CIDADES DA REGI&Atilde;O DO ALTO TIET&Ecirc;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -49,12 +49,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../imagens/fim.htm'; return false;">=&gt;</button>-->
+ 
+@@ -65,16 +65,16 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PREENCHA AS LACUNAS COM O NOMES DAS CIDADES DA REGI&#x00C3;O DO ALTO TIET&#x00CA;</h2>
++	<h2 class="ExerciseTitle">PREENCHA AS LACUNAS COM O NOMES DAS CIDADES DA REGI&Atilde;O DO ALTO TIET&Ecirc;</h2>
+ 
+ 	
+-  <h3 class="ExerciseSubtitle">Aruj&#x00E1; - Biritiba Mirim - Ferraz de Vasconcelos 
+-    - Guararema - Itaquaquecetuba - Suzano - Mogi das Cruzes - Po&#x00E1; - Sales&#x00F3;polis 
++  <h3 class="ExerciseSubtitle">Aruj&aacute; - Biritiba Mirim - Ferraz de Vasconcelos 
++    - Guararema - Itaquaquecetuba - Suzano - Mogi das Cruzes - Po&aacute; - Sales&oacute;polis 
+     - Santa Isabel</h3>
+ 
+ 
+@@ -82,7 +82,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -102,7 +102,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<p style="text-align: center"><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>1</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td><td rowspan="10"><img src="imagens/mapa_alto_tiete.jpg" alt="Mapa do Alto Tiet&#x00EA;" title="Mapa Art&#x00ED;stico da Regi&#x00E3;o do Alto Tiet&#x00EA;" width="397" height="357" /></td></tr><tr><td>2</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>3</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>4</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>5</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>6</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>7</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>8</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>9</td><td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>10</td><td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr></tbody></table><br /></p>
++<p style="text-align: center"><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>1</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td><td rowspan="10"><img src="imagens/mapa_alto_tiete.jpg" alt="Mapa do Alto Tiet&ecirc;" title="Mapa Art&iacute;stico da Regi&atilde;o do Alto Tiet&ecirc;" width="397" height="357" /></td></tr><tr><td>2</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>3</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>4</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>5</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>6</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>7</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>8</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>9</td><td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr><tr><td>10</td><td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="22" maxlength="23"></input></span></td></tr></tbody></table><br /></p>
+ </div>
+ </form>
+ </div>
+@@ -127,12 +127,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../imagens/fim.htm'; return false;">=&gt;</button>-->
+ 
+@@ -147,7 +147,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

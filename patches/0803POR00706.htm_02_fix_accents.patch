@@ -1,0 +1,46 @@
+--- atividades/0803POR007/0803POR00706.htm	2012-06-22 15:03:22.551897627 -0300
++++ atividades/0803POR007/0803POR00706.htm.new	2012-06-22 15:03:22.555897627 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientador" />
+ <meta name="DC:Creator" content="Danilo Moraes" />
+-<meta name="DC:Title" content="D&#x00EA; o Singular da palavras" />
++<meta name="DC:Title" content="D&ecirc; o Singular da palavras" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -57,14 +57,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">D&#x00EA; o Singular da palavras</h2>
++	<h2 class="ExerciseTitle">D&ecirc; o Singular da palavras</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete os espa&#x00E7;os com o singular das palavras. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete os espa&ccedil;os com o singular das palavras. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -84,7 +84,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Pi&#x00F5;es</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td><td width="36" align="center">|</td><td>e) Len&#x00E7;&#x00F3;is</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td></tr><tr><td>b) Macarr&#x00F5;es</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td><td width="36" align="center">|</td><td>f) Carac&#x00F3;is</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td></tr><tr><td>c) Capit&#x00E3;es</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td><td width="36" align="center">|</td><td>g) Ju&#x00ED;zes</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td></tr><tr><td>d) An&#x00E9;is</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td><td width="36" align="center">|</td><td>h) Pa&#x00ED;ses</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Pi&otilde;es</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td><td width="36" align="center">|</td><td>e) Len&ccedil;&oacute;is</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td></tr><tr><td>b) Macarr&otilde;es</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td><td width="36" align="center">|</td><td>f) Carac&oacute;is</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td></tr><tr><td>c) Capit&atilde;es</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td><td width="36" align="center">|</td><td>g) Ju&iacute;zes</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td></tr><tr><td>d) An&eacute;is</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td><td width="36" align="center">|</td><td>h) Pa&iacute;ses</td><td><img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="12"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

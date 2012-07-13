@@ -1,0 +1,42 @@
+--- atividades/1302MAT001/1302MAT00101.htm	2012-06-22 15:06:46.791900696 -0300
++++ atividades/1302MAT001/1302MAT00101.htm.new	2012-06-22 15:06:46.791900696 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="N&#x00FA;meros Ordinais" />
++<meta name="DC:Title" content="N&uacute;meros Ordinais" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -584,9 +584,9 @@
+ 
+ 
+ 
+-var CorrectResponse = 'Muito bem, voc&#x00EA; acertou!';
+-var IncorrectResponse = 'Procure corrigir as quest&#x00F5;es, pois algumas delas est&#x00E3;o erradas.';
+-var YourScoreIs = 'Sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Muito bem, voc&ecirc; acertou!';
++var IncorrectResponse = 'Procure corrigir as quest&otilde;es, pois algumas delas est&atilde;o erradas.';
++var YourScoreIs = 'Sua pontua&ccedil;&atilde;o &eacute;:';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#ffffff';
+@@ -903,7 +903,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">N&#x00FA;meros Ordinais</h2>
++	<h2 class="ExerciseTitle">N&uacute;meros Ordinais</h2>
+ 
+ 	<h3 class="ExerciseSubtitle"><img src="saber.gif" /></h3>
+ 
+@@ -912,7 +912,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Voc&#x00EA; dever&#x00E1; arrastar a palavra e juntar com o n&#x00FA;mero ordinal correspondente.</p>
++	<p id="Instructions">Voc&ecirc; dever&aacute; arrastar a palavra e juntar com o n&uacute;mero ordinal correspondente.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

@@ -1,0 +1,29 @@
+--- atividades/1004POR017/1004POR01713.htm	2012-06-22 15:06:11.195900161 -0300
++++ atividades/1004POR017/1004POR01713.htm.new	2012-06-22 15:06:11.199900161 -0300
+@@ -74,7 +74,7 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Clique nos n&#x00FA;meros e leia as dicas para completar 
++  <div id="Instructions">Clique nos n&uacute;meros e leia as dicas para completar 
+     a cruzadinha com G. Depois de finalizar toda a cruzadinha clique em "Verificar" 
+     para corrigir.</div>
+ </div>
+@@ -114,7 +114,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Sin&#x00F4;nimo de revista em quadrinhos.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Que cont&#x00E9;m argila.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Usado para imobilizar membros fraturados.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Mam&#x00ED;fero com pesco&#x00E7;o comprido.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Filhos que nascem no mesmo parto.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">&#x00C1;gua em estado s&#x00F3;lido.</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Sin&ocirc;nimo de revista em quadrinhos.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Que cont&eacute;m argila.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Usado para imobilizar membros fraturados.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Mam&iacute;fero com pesco&ccedil;o comprido.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Filhos que nascem no mesmo parto.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">&Aacute;gua em estado s&oacute;lido.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -127,7 +127,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Verticais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Pote onde pode-se bater bolos.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Parte amarela do ovo.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Praticante de gin&#x00E1;stica.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Letra que se consegue ler com facilidade.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">Instrumento que marca as horas.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Pote onde pode-se bater bolos.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Parte amarela do ovo.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Praticante de gin&aacute;stica.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Letra que se consegue ler com facilidade.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">Instrumento que marca as horas.</td></tr>
+ 
+ </tbody>
+ </table>

@@ -1,0 +1,46 @@
+--- atividades/1003POR015/1003POR01501.htm	2012-06-22 15:04:46.779898892 -0300
++++ atividades/1003POR015/1003POR01501.htm.new	2012-06-22 15:04:46.779898892 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="SIN&#x00D4;NIMOS E ANT&#x00D4;NIMOS" />
++<meta name="DC:Title" content="SIN&Ocirc;NIMOS E ANT&Ocirc;NIMOS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -66,14 +66,14 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SIN&#x00D4;NIMOS E ANT&#x00D4;NIMOS</h2>
++	<h2 class="ExerciseTitle">SIN&Ocirc;NIMOS E ANT&Ocirc;NIMOS</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -111,7 +111,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Sin&#x00F4;nimo de achou</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Sin&#x00F4;nimo de aroma</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Sin&#x00F4;nimo de recordar</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Sin&#x00F4;nimo de desatento</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Sin&#x00F4;nimo de medo</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">Sin&#x00F4;nimo de corajoso</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Sin&ocirc;nimo de achou</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Sin&ocirc;nimo de aroma</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Sin&ocirc;nimo de recordar</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Sin&ocirc;nimo de desatento</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Sin&ocirc;nimo de medo</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">Sin&ocirc;nimo de corajoso</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -124,7 +124,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Sin&#x00F4;nimo de certa</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Sin&#x00F4;nimo de comil&#x00E3;o</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Sin&#x00F4;nimo de longe</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Sin&#x00F4;nimo de ligeiro</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Sin&ocirc;nimo de certa</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Sin&ocirc;nimo de comil&atilde;o</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Sin&ocirc;nimo de longe</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Sin&ocirc;nimo de ligeiro</td></tr>
+ 
+ </tbody>
+ </table>

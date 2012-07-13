@@ -1,0 +1,20 @@
+--- atividades/0203MAT003/0203MAT00305.htm	2012-06-22 14:55:15.431890308 -0300
++++ atividades/0203MAT003/0203MAT00305.htm.new	2012-06-22 14:55:15.435890308 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Informática - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -587,7 +587,7 @@
+ var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
+ var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

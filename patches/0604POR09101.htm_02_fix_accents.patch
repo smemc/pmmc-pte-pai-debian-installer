@@ -1,0 +1,54 @@
+--- atividades/0604POR091/0604POR09101.htm	2012-06-22 15:03:02.763897330 -0300
++++ atividades/0604POR091/0604POR09101.htm.new	2012-06-22 15:03:02.763897330 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Jeff Paula" />
+-<meta name="DC:Title" content="DESCUBRA SE AS PALAVRAS S&#x00C3;O ESCRITAS COM: &quot;C&quot;, &quot;&#x00C7;&quot;, &quot;S&quot; OU &quot;SS&quot;." />
++<meta name="DC:Title" content="DESCUBRA SE AS PALAVRAS S&Atilde;O ESCRITAS COM: &quot;C&quot;, &quot;&Ccedil;&quot;, &quot;S&quot; OU &quot;SS&quot;." />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -463,12 +463,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = '';
+ var CaseSensitive = false;
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -906,14 +906,14 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">DESCUBRA SE AS PALAVRAS S&#x00C3;O ESCRITAS COM: "C", "&#x00C7;", "S" OU "SS".</h2>
++	<h2 class="ExerciseTitle">DESCUBRA SE AS PALAVRAS S&Atilde;O ESCRITAS COM: "C", "&Ccedil;", "S" OU "SS".</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 

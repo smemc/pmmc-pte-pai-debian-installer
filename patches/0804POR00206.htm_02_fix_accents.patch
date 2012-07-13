@@ -1,0 +1,38 @@
+--- atividades/0804POR002/0804POR00206.htm	2012-06-22 15:03:43.507897942 -0300
++++ atividades/0804POR002/0804POR00206.htm.new	2012-06-22 15:03:43.507897942 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -63,7 +63,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para completar a Cruzadinha. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para completar a Cruzadinha. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -101,7 +101,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"><b>Horizontal:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">O sol n&#x00E3;o &#x00E9; verde, &#x00E9;</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O menino n&#x00E3;o &#x00E9; grande, &#x00E9;</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">A madeira n&#x00E3;o &#x00E9; fina, &#x00E9;</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">A folha da &#x00E1;rvore &#x00E9; de cor</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">O l&#x00E1;pis n&#x00E3;o &#x00E9; grosso, ele &#x00E9;</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Minha m&#x00E3;o n&#x00E3;o &#x00E9; pequena, ela &#x00E9;</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">O sol n&atilde;o &eacute; verde, &eacute;</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">O menino n&atilde;o &eacute; grande, &eacute;</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">A madeira n&atilde;o &eacute; fina, &eacute;</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">A folha da &aacute;rvore &eacute; de cor</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">O l&aacute;pis n&atilde;o &eacute; grosso, ele &eacute;</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Minha m&atilde;o n&atilde;o &eacute; pequena, ela &eacute;</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -114,7 +114,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel"><b>Vertical:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Minha classe n&#x00E3;o est&#x00E1; suja, est&#x00E1;</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Mam&#x00E3;e n&#x00E3;o &#x00E9; maldosa, ela &#x00E9;</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">O leite n&#x00E3;o est&#x00E1; frio, est&#x00E1;</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Minha classe n&atilde;o est&aacute; suja, est&aacute;</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Mam&atilde;e n&atilde;o &eacute; maldosa, ela &eacute;</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">O leite n&atilde;o est&aacute; frio, est&aacute;</td></tr>
+ 
+ </tbody>
+ </table>

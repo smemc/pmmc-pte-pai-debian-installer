@@ -1,0 +1,235 @@
+--- atividades/0704CIE003/0704CIE00301.js	2012-06-22 15:08:02.251901827 -0300
++++ atividades/0704CIE003/0704CIE00301.js.new	2012-06-22 15:08:02.255901829 -0300
+@@ -17,7 +17,7 @@
+ var qstHead = new init_array(12);
+ var pageWidth = 80;
+ var groups = new init_array(0,0,0,0,0,0,0,0,0,0,0,0);
+-var quizTitle="MARQUE A RESPOSTA CORRETA DE CADA QUESTÃO";
++var quizTitle="MARQUE A RESPOSTA CORRETA DE CADA QUEST&Atilde;O";
+ var maxtime=1800;
+ var keycode = new init_array(6);
+ var keyword = 'syskey';
+@@ -326,18 +326,18 @@
+ switch(giorno) {
+ case 0: nome = "Domingo"; break;
+ case 1: nome = "Segunda-feira"; break;
+-case 2: nome = "Terça-feira"; break;
++case 2: nome = "Ter&ccedil;a-feira"; break;
+ case 3: nome = "Quarta-feira"; break;
+ case 4: nome = "Quinta-feira"; break;
+ case 5: nome = "Sexta-feira"; break;
+-case 6: nome = "Sábado"; break;
++case 6: nome = "S&aacute;bado"; break;
+ }
+ strData = nome+", "+obj.getDate();
+ mese = obj.getMonth();
+ switch(mese) {
+ case 0: nome = "Janeiro";  break;
+ case 1: nome = "Fevereiro"; break;
+-case 2: nome = "Março"; break;
++case 2: nome = "Mar&ccedil;o"; break;
+ case 3: nome = "Abril"; break;
+ case 4: nome = "Maio"; break;
+ case 5: nome = "Junho"; break;
+@@ -797,7 +797,7 @@
+ }
+ }
+ else {
+-window.alert("Aviso: impossível calcular o resultado final");
++window.alert("Aviso: imposs&iacute;vel calcular o resultado final");
+ computeMarkErr = 1;
+ voto = 0;
+ }
+@@ -955,11 +955,11 @@
+ }
+ function DoneBefore()
+ {
+-window.alert("Ops!Você já respondeu à pergunta");
++window.alert("Ops!Voc&ecirc; j&aacute; respondeu &agrave; pergunta");
+ }
+ function IncompletedQuest()
+ {
+-window.alert("Resposta incompleta. Por favor, responda a todas as opções");
++window.alert("Resposta incompleta. Por favor, responda a todas as op&ccedil;&otilde;es");
+ }
+ function Retire()
+ {
+@@ -985,7 +985,7 @@
+ if (ns>1) msg+=ns+" Incorrecto  .";
+ if (ns==1) msg+=" apenas um incorrecto.";
+ if (ns==0) msg+=" nada incorrecto.";
+-msg+=" Você deve responder a ";
++msg+=" Voc&ecirc; deve responder a ";
+ if (nr>1) msg+=nr+" perguntas.";
+ else msg+=" um pergunta.";
+ window.status=msg;
+@@ -1094,23 +1094,23 @@
+ else if (valid[i]==-1)
+ documento.writeln("Resposta incorrecta<BR>");
+ else if (valid[i]==2)
+-documento.writeln("Pergunta não validada<BR>");
++documento.writeln("Pergunta n&atilde;o validada<BR>");
+ else if (valid[i]==3) {
+ if (typeOfQuest[i]==2)
+ documento.writeln("Respostas correctas "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ else if (typeOfQuest[i]==4)
+ documento.writeln("descubra as palavras "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ else if (typeOfQuest[i]==5)
+-documento.writeln("Fazer a correspondência "+nScore[i]+" em "+maxScore[i]+"<BR>");
++documento.writeln("Fazer a correspond&ecirc;ncia "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ }
+ else if (valid[i]==5) {
+-documento.write("pontuações "+nScore[i]);
++documento.write("pontua&ccedil;&otilde;es "+nScore[i]);
+ if (groups[i]==0)
+-documento.writeln(" (Pontuação "+maxScore[i]+")<BR>");
++documento.writeln(" (Pontua&ccedil;&atilde;o "+maxScore[i]+")<BR>");
+ else if (groups[i]==1)
+-documento.writeln("<BR>Resultado adicionado à pontuação anterior<BR>");
++documento.writeln("<BR>Resultado adicionado &agrave; pontua&ccedil;&atilde;o anterior<BR>");
+ else if (groups[i]==2)
+-documento.writeln("<BR>Pontuação (cálculos das respostas às perguntas seguintes): "+maxScore[i]+"<BR>");
++documento.writeln("<BR>Pontua&ccedil;&atilde;o (c&aacute;lculos das respostas &agrave;s perguntas seguintes): "+maxScore[i]+"<BR>");
+ }
+ documento.writeln("</I>");
+ if (valid[i]==2) {
+@@ -1327,18 +1327,18 @@
+ }
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+ }
+ function PrintOpenAnswer(n,outMsg) {
+-outMsg.value = "Questão respondida";
++outMsg.value = "Quest&atilde;o respondida";
+ end_test = CountAnswers();
+ PrintStatusBar();
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1366,7 +1366,7 @@
+ textField.value = "Resposta selecionada";
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1378,9 +1378,9 @@
+ end_test = CountAnswers();
+ PrintStatusBar();
+ if (silent==0) {
+-msg = "Pontuação : " + nScore[n];
++msg = "Pontua&ccedil;&atilde;o : " + nScore[n];
+ if (groups[n]==0) 
+-msg += " (Pontuação "+maxScore[n]+")";
++msg += " (Pontua&ccedil;&atilde;o "+maxScore[n]+")";
+ textField.value = msg;
+ if (getGuessAns(n)<getNumAns(n))
+ msg += "<BR>A resposta correcta era " + getListOfRightAns(n);
+@@ -1392,7 +1392,7 @@
+ textField.value = "Resposta selecionada";
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1415,8 +1415,8 @@
+ document.writeln (bodyTagFrame1);
+ document.writeln("<CENTER><FONT SIZE=6 FACE='Arial' COLOR='#FF0000'>Cuidado!</FONT><BR>");
+ document.writeln ("<FONT SIZE=+2>Password incorrecta</FONT><BR>");
+-document.writeln ("Não pode avançar no quiz<BR>");
+-document.writeln ("Para mais informação, contacte o autor do quiz<BR>");
++document.writeln ("N&atilde;o pode avan&ccedil;ar no quiz<BR>");
++document.writeln ("Para mais informa&ccedil;&atilde;o, contacte o autor do quiz<BR>");
+ document.writeln("<P><INPUT TYPE='BUTTON' VALUE='FECHAR' OnClick='top.close()'>");
+ document.writeln("</CENTER>");
+ document.writeln ("</body></html>");
+@@ -1430,9 +1430,9 @@
+ PrintOpenHTML(document,"",1);
+ document.writeln (bodyTagFrame1);
+ document.writeln("<CENTER><BR><BR><FONT SIZE=6 FACE='Arial' COLOR='#FF0000'>Cuidado!</FONT><BR>");
+-document.writeln ("<FONT SIZE=+2>É impossível reiniciar o quiz</FONT><BR>");
+-document.writeln ("É impossível iniciar o quiz<BR>");
+-document.writeln ("Para mais informação, contacte o autor do quiz<BR>");
++document.writeln ("<FONT SIZE=+2>&Eacute; imposs&iacute;vel reiniciar o quiz</FONT><BR>");
++document.writeln ("&Eacute; imposs&iacute;vel iniciar o quiz<BR>");
++document.writeln ("Para mais informa&ccedil;&atilde;o, contacte o autor do quiz<BR>");
+ document.writeln("<P><INPUT TYPE='BUTTON' VALUE='FECHAR' OnClick='top.close()'>");
+ document.writeln("</CENTER>");
+ document.writeln ("</body></html>");
+@@ -1613,7 +1613,7 @@
+   doc.writeln("<TABLE cellpadding=5 border=0 width=100%><TR><TD>");
+   doc.writeln("<B><FONT  COLOR='#000000' FACE='Arial' SIZE='3'>"+quizTitle+"</FONT></B>");
+   doc.writeln("</TD></TR></TABLE></TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Número de perguntas</FONT></B></TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;N&uacute;mero de perguntas</FONT></B></TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;"+(questions-invisibleQuests)+"</FONT></B></TD></TR>");
+   if (identityName!="") {
+   doc.writeln("<TR><TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Nome</FONT></B></TD>");
+@@ -1623,7 +1623,7 @@
+   doc.writeln("    <TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;"+nc+"</FONT></B></TD></TR>");
+   doc.writeln("<TR><TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Respostas incorrectas</FONT></B></TD>");
+   doc.writeln("    <TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;"+ns+"</FONT></B></TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Perguntas não respondidas</FONT></B></TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Perguntas n&atilde;o respondidas</FONT></B></TD>");
+   doc.writeln("    <TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;"+falseQuests+"</FONT></B></TD></TR>");
+   if (maxtime>0) {
+   doc.writeln("<TR><TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Tempo de preenchimento</FONT></B></TD>");
+@@ -1632,11 +1632,11 @@
+   doc.writeln("<TR><TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Data</FONT></B></TD>");
+   doc.writeln("    <TD bgcolor='#FFFFDD' nowrap><B><FONT  COLOR='#000000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;"+DataToStringa()+"</FONT></B></TD></TR>");
+   if (computeMarkErr==0) {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Pontuação</FONT></B></TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Pontua&ccedil;&atilde;o</FONT></B></TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;"+GetVoto(voto)+"</FONT></B></TD></TR>");
+   } else {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Pontuação</FONT></B></TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;sem pontuação</FONT></B></TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;Pontua&ccedil;&atilde;o</FONT></B></TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap><B><FONT  COLOR='#CC0000' FACE='Arial' SIZE='2'>&nbsp;&nbsp;sem pontua&ccedil;&atilde;o</FONT></B></TD></TR>");
+   }
+   doc.writeln("</TABLE></TD></TR></TABLE></TD></TABLE></center>");
+ }
+@@ -1674,18 +1674,18 @@
+  window.status='';
+ }
+ function initShortQuestion() {
+- qstHead[0]="1 - A água representa cerca de:";
+- qstHead[1]="2 - Além de usada para beber, cozinhar, nos divertir, produzir alimentos, no tra...";
+- qstHead[2]="3 - A água potável:";
+- qstHead[3]="4 - Um dos grandes problemas da contaminação da água é:";
+- qstHead[4]="5 - A poluição das águas é:";
+- qstHead[5]="6 - Nas nuvens encontramos a água no estado:";
+- qstHead[6]="7 - A maior parte da superfície da Terra é formada por:";
+- qstHead[7]="8 - O depósito de resíduos industriais nos rios:";
+- qstHead[8]="9 - Uma torneira pingando pode desperdiçar em média:";
+- qstHead[9]="10 - Para poupar água devemos:";
+- qstHead[10]="11 - Quanto tempo podemos ficar sem beber água?";
+- qstHead[11]="12 - 70% do nosso Planeta e formado por água. De toda esta água, apenas uma pequ...";
++ qstHead[0]="1 - A &aacute;gua representa cerca de:";
++ qstHead[1]="2 - Al&eacute;m de usada para beber, cozinhar, nos divertir, produzir alimentos, no tra...";
++ qstHead[2]="3 - A &aacute;gua pot&aacute;vel:";
++ qstHead[3]="4 - Um dos grandes problemas da contamina&ccedil;&atilde;o da &aacute;gua &eacute;:";
++ qstHead[4]="5 - A polui&ccedil;&atilde;o das &aacute;guas &eacute;:";
++ qstHead[5]="6 - Nas nuvens encontramos a &aacute;gua no estado:";
++ qstHead[6]="7 - A maior parte da superf&iacute;cie da Terra &eacute; formada por:";
++ qstHead[7]="8 - O dep&oacute;sito de res&iacute;duos industriais nos rios:";
++ qstHead[8]="9 - Uma torneira pingando pode desperdi&ccedil;ar em m&eacute;dia:";
++ qstHead[9]="10 - Para poupar &aacute;gua devemos:";
++ qstHead[10]="11 - Quanto tempo podemos ficar sem beber &aacute;gua?";
++ qstHead[11]="12 - 70% do nosso Planeta e formado por &aacute;gua. De toda esta &aacute;gua, apenas uma pequ...";
+ }
+ 
+ 

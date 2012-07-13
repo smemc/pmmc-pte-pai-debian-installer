@@ -1,0 +1,100 @@
+--- atividades/0202POR004/0202POR00402.htm	2012-06-22 14:54:34.291889688 -0300
++++ atividades/0202POR004/0202POR00402.htm.new	2012-06-22 14:54:34.295889689 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -841,8 +841,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -858,7 +858,7 @@
+ 
+  -->
+   <div align="left"><strong><font size="3">Complete as frases com substantivos 
+-    comuns que indiquem profiss&#x00E3;o:</font></strong> </div>
++    comuns que indiquem profiss&atilde;o:</font></strong> </div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+       <div class="ClozeBody"> 
+@@ -886,7 +886,7 @@
+           </tr>
+           <tr> 
+             <td bgcolor="#99CCCC">
+-<div align="center"><strong>Quem faz p&#x00E3;o &#x00E9; o&nbsp;<span class="GapSpan" id="GapSpan3"> 
++<div align="center"><strong>Quem faz p&atilde;o &eacute; o&nbsp;<span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="10" maxlength="10">
+                 </input> 
+                 </span>.</strong></div></td>
+@@ -896,7 +896,7 @@
+ <div align="center"><strong>O&nbsp;<span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="10" maxlength="10">
+                 </input> 
+-                </span>&nbsp;conserta cal&#x00E7;ados.</strong></div></td>
++                </span>&nbsp;conserta cal&ccedil;ados.</strong></div></td>
+           </tr>
+           <tr> 
+             <td bgcolor="#99CCCC">
+@@ -907,7 +907,7 @@
+           </tr>
+           <tr> 
+             <td bgcolor="#99CCCC">
+-<div align="center"><strong>Quem vende rem&#x00E9;dios &#x00E9; 
++<div align="center"><strong>Quem vende rem&eacute;dios &eacute; 
+                 o&nbsp;<span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="12" maxlength="12">
+                 </input> 
+@@ -915,7 +915,7 @@
+           </tr>
+           <tr> 
+             <td bgcolor="#99CCCC">
+-<div align="center"><strong>Quem examina os doentes &#x00E9; o&nbsp;<span class="GapSpan" id="GapSpan7"> 
++<div align="center"><strong>Quem examina os doentes &eacute; o&nbsp;<span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="10" maxlength="10">
+                 </input> 
+                 </span>.</strong></div></td>
+@@ -948,7 +948,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

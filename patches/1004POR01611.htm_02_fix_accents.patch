@@ -1,0 +1,20 @@
+--- atividades/1004POR016/1004POR01611.htm	2012-06-22 15:06:05.403900075 -0300
++++ atividades/1004POR016/1004POR01611.htm.new	2012-06-22 15:06:05.407900073 -0300
+@@ -72,7 +72,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de finalizar a cruzadinha clique em "Verificar" para corrigir.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de finalizar a cruzadinha clique em "Verificar" para corrigir.</div>
+ </div>
+ 
+ 
+@@ -110,7 +110,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Tirar o cansa&#x00E7;o</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Elemento principal em um cachorro-quente</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Animal domesticado, d&#x00F3;cil</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Ferramenta utilizada para serrar</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Letra que n&#x00E3;o &#x00E9; vogal</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Utilizada para aplicar inje&#x00E7;&#x00F5;es</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Troca de id&#x00E9;ias entre duas ou mais pessoas</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Tirar o cansa&ccedil;o</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Elemento principal em um cachorro-quente</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Animal domesticado, d&oacute;cil</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Ferramenta utilizada para serrar</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Letra que n&atilde;o &eacute; vogal</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Utilizada para aplicar inje&ccedil;&otilde;es</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Troca de id&eacute;ias entre duas ou mais pessoas</td></tr>
+ 
+ </tbody>
+ </table>

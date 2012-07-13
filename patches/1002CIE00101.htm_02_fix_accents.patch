@@ -1,0 +1,61 @@
+--- atividades/1002CIE001/1002CIE00101.htm	2012-06-22 15:04:03.571898243 -0300
++++ atividades/1002CIE001/1002CIE00101.htm.new	2012-06-22 15:04:03.571898243 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson S. Freitas Jr" />
+-<meta name="DC:Title" content="&#x003C;h2&#x003E;&#x003C;center&#x003E;Cruzadinha&#x003C;/center&#x003E;&#x003C;/h2&#x003E;" />
++<meta name="DC:Title" content="&lt;h2&gt;&lt;center&gt;Cruzadinha&lt;/center&gt;&lt;/h2&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -436,10 +436,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns! Bom Trabalho!';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Tente de novo!'; 
++var Correct = 'Parab&eacute;ns! Bom Trabalho!';
++var Incorrect = 'Algumas est&atilde;o erradas... Tente de novo!'; 
+ var GiveHint = 'Acertou a letra!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;
+@@ -801,7 +801,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+-  <p align="center" id="Instructions"><font size="3">Clique nos n&#x00FA;meros 
++  <p align="center" id="Instructions"><font size="3">Clique nos n&uacute;meros 
+     para abrir as perguntas. Complete toda a Cruzadinha e clique em "Verificar" 
+     para corrigir.</font></p>
+ </div>
+@@ -841,7 +841,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Inseto verde, carn&#x00ED;voro que quando pousa parece estar ajoelhado, rezando.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Inseto destruidor de plantas, de longas pernas traseiras que facilitam o salto.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Inseto que produz mel e cera.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Pequeno molusco de casca fina enrolada em espiral.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Vive na cris&#x00E1;lida antes de se transformar em borboleta.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">R&#x00E9;ptil que tem a habilidade de mudar de cor.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Inseto verde, carn&iacute;voro que quando pousa parece estar ajoelhado, rezando.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Inseto destruidor de plantas, de longas pernas traseiras que facilitam o salto.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Inseto que produz mel e cera.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Pequeno molusco de casca fina enrolada em espiral.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Vive na cris&aacute;lida antes de se transformar em borboleta.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">R&eacute;ptil que tem a habilidade de mudar de cor.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -854,7 +854,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Pequeno r&#x00E9;ptil que anda por paredes e muros e se alimenta de insetos.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Inseto min&#x00FA;sculo com fama de ser trabalhador.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Inseto colorido que passa por metamorfose.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Inseto de cabe&#x00E7;a larga cujo macho &#x00E9; conhecido pelo canto.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Pequeno r&eacute;ptil que anda por paredes e muros e se alimenta de insetos.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Inseto min&uacute;sculo com fama de ser trabalhador.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Inseto colorido que passa por metamorfose.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Inseto de cabe&ccedil;a larga cujo macho &eacute; conhecido pelo canto.</td></tr>
+ 
+ </tbody>
+ </table>

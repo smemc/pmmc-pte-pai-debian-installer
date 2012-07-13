@@ -1,0 +1,29 @@
+--- atividades/0803POR007/0803POR00707.htm	2012-06-22 15:03:22.887897631 -0300
++++ atividades/0803POR007/0803POR00707.htm.new	2012-06-22 15:03:22.887897631 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -64,7 +64,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Reescreva as frases abaixo, passando para o plural os termos destacados. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Reescreva as frases abaixo, passando para o plural os termos destacados. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -84,7 +84,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2" align="center"><tbody><tr><td>a) <b><u>O jovem fez uma viagem</u></b> de avi&#x00E3;o.</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>b) <b><u>No jardim</u></b> h&#x00E1; <b><u>muita folhagem</u></b>.</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>c) <b><u>No pomar</u></b> h&#x00E1; <b><u>muita fruta</u></b>.</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>d) <b><u>No cartaz diz</u></b>: "Cuidado, <b><u>animal feroz</u></b>".</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>e) <b><u>A crian&#x00E7;a comeu</u></b>: arroz, feij&#x00E3;o, batata e macarr&#x00E3;o.</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>f) <b><u>O jovem foi</u></b> ao cinema, ao parque e a praia.</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2" align="center"><tbody><tr><td>a) <b><u>O jovem fez uma viagem</u></b> de avi&atilde;o.</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>b) <b><u>No jardim</u></b> h&aacute; <b><u>muita folhagem</u></b>.</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>c) <b><u>No pomar</u></b> h&aacute; <b><u>muita fruta</u></b>.</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>d) <b><u>No cartaz diz</u></b>: "Cuidado, <b><u>animal feroz</u></b>".</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>e) <b><u>A crian&ccedil;a comeu</u></b>: arroz, feij&atilde;o, batata e macarr&atilde;o.</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr><tr><td>f) <b><u>O jovem foi</u></b> ao cinema, ao parque e a praia.</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="53"></input></span>.</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

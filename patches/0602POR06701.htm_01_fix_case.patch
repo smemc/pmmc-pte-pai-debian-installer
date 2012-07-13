@@ -1,0 +1,29 @@
+--- atividades/0602POR067/0602POR06701.htm	2012-06-22 14:49:37.815885235 -0300
++++ atividades/0602POR067/0602POR06701.htm.new	2012-06-22 15:01:11.771895662 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;Animal0033.gif&quot; width=&quot;192&quot; height=&quot;86&quot;&#x003E;&#x003C;/img&#x003E;A cigarra e as formigas&#x003C;img src=&quot;Animal0035.gif&quot; alt=&quot;Animal0035.gif&quot; title=&quot;Animal0035&quot; width=&quot;227&quot; height=&quot;11&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="&#x003C;img src=&quot;animal0033.gif&quot; width=&quot;192&quot; height=&quot;86&quot;&#x003E;&#x003C;/img&#x003E;A cigarra e as formigas&#x003C;img src=&quot;animal0035.gif&quot; alt=&quot;animal0035.gif&quot; title=&quot;Animal0035&quot; width=&quot;227&quot; height=&quot;11&quot;&#x003E;&#x003C;/img&#x003E;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -683,7 +683,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','Animal0033.gif','Animal0035.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','animal0033.gif','animal0035.gif','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -1003,7 +1003,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle"><img src="Animal0033.gif" width="192" height="86"></img>A cigarra e as formigas<img src="Animal0035.gif" alt="Animal0035.gif" title="Animal0035" width="227" height="11"></img></h2>
++	<h2 class="ExerciseTitle"><img src="animal0033.gif" width="192" height="86"></img>A cigarra e as formigas<img src="animal0035.gif" alt="animal0035.gif" title="Animal0035" width="227" height="11"></img></h2>
+ 
+ 
+ 

@@ -1,0 +1,37 @@
+--- atividades/1004HIS008/1004HIS00801.htm	2012-06-22 15:05:11.575899265 -0300
++++ atividades/1004HIS008/1004HIS00801.htm.new	2012-06-22 15:05:11.579899265 -0300
+@@ -6,7 +6,7 @@
+     <meta name="keywords" content="Ardora"></meta>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -34,7 +34,7 @@
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)--></p>
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)--></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">
+@@ -53,11 +53,11 @@
+     como:<br /><br />
+ 
+ 		<ul style="text-align: left; 0 20px 0 40px; text-indent: 20px; list-style: inside; font-size: 18px">
+-		  <li>Anonimato: quando o autor não aparece. </li>
+-		  <li>Aprovação coletiva: as pessoas aceitam os fatos e às vezes os modificam conforme seus hábitos.</li>
+-		  <li>Transmissão oral: por meio de “ouvi dizer”, imitação ou até mesmo de boca em boca.</li>
+-		  <li>Tradicionalismo: com os antepassados de gerações para gerações que prevalecem até os dias de hoje.</li>
+-		  <li>Funcionalidade: surge algum fato folclórico pela necessidade do povo.</li>
++		  <li>Anonimato: quando o autor n&atilde;o aparece. </li>
++		  <li>Aprova&ccedil;&atilde;o coletiva: as pessoas aceitam os fatos e &agrave;s vezes os modificam conforme seus h&aacute;bitos.</li>
++		  <li>Transmiss&atilde;o oral: por meio de Â“ouvi dizerÂ”, imita&ccedil;&atilde;o ou at&eacute; mesmo de boca em boca.</li>
++		  <li>Tradicionalismo: com os antepassados de gera&ccedil;&otilde;es para gera&ccedil;&otilde;es que prevalecem at&eacute; os dias de hoje.</li>
++		  <li>Funcionalidade: surge algum fato folcl&oacute;rico pela necessidade do povo.</li>
+ 		  <!-- *********************************************************************************************** -->
+ 		</ul>
+ 	<br />

@@ -1,0 +1,11 @@
+--- atividades/0203MAT004/0203MAT00407.htm	2012-06-22 14:49:53.215885466 -0300
++++ atividades/0203MAT004/0203MAT00407.htm.new	2012-06-22 14:55:21.919890405 -0300
+@@ -855,7 +855,7 @@
+     <p><strong><font size="3">Complete corretamente as frases com os dias da semana. 
+       Observe a figura abaixo:</font></strong></p>
+     <p>&nbsp;</p>
+-    <p align="center"><strong><font size="3"><img src="calendario.PNG" width="166" height="137" /></font></strong></p>
++    <p align="center"><strong><font size="3"><img src="calendario.png" width="166" height="137" /></font></strong></p>
+     <p align="center">&nbsp;</p>
+   </div>
+   <div id="ClozeDiv"> 

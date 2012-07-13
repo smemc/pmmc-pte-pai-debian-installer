@@ -1,0 +1,28 @@
+--- atividades/0601MAT073/0601MAT07323.htm	2012-06-22 14:58:05.187892858 -0300
++++ atividades/0601MAT073/0601MAT07323.htm.new	2012-06-22 14:58:05.191892858 -0300
+@@ -468,12 +468,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -829,7 +829,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">AO TERMINAR TODO O EXERCÍCIO CLIQUE NO BOTÃO VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">AO TERMINAR TODO O EXERC&Iacute;CIO CLIQUE NO BOT&Atilde;O VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 

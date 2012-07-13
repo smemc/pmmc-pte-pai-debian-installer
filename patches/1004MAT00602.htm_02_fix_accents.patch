@@ -1,0 +1,33 @@
+--- atividades/1004MAT006/1004MAT00602.htm	2012-06-22 15:05:27.227899500 -0300
++++ atividades/1004MAT006/1004MAT00602.htm.new	2012-06-22 15:05:27.227899500 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Informática" />
+-<meta name="DC:Title" content="Opera&#x00E7;&#x00F5;es com decimais" />
++<meta name="DC:Title" content="Opera&ccedil;&otilde;es com decimais" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -634,9 +634,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = '<br>Parab&#x00E9;ns! Bom trabalho. <br>Agora vamos para o pr&#x00F3;ximo exerc&#x00ED;cio.';
+-var IncorrectResponse = 'Algumas est&#x00E3;o incorretas. Tente novamente...';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = '<br>Parab&eacute;ns! Bom trabalho. <br>Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
++var IncorrectResponse = 'Algumas est&atilde;o incorretas. Tente novamente...';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#c5c5c5';
+@@ -979,7 +979,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Mova os resultado at&#x00E9; a opera&#x00E7;&#x00E3;o correta:</div>
++	<div id="Instructions">Mova os resultado at&eacute; a opera&ccedil;&atilde;o correta:</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

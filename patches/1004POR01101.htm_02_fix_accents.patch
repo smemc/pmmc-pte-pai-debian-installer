@@ -1,0 +1,97 @@
+--- atividades/1004POR011/1004POR01101.htm	2012-06-22 15:05:49.651899837 -0300
++++ atividades/1004POR011/1004POR01101.htm.new	2012-06-22 15:05:49.651899837 -0300
+@@ -1,7 +1,7 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Title" content="Pronomes Pessoais II" />
+@@ -17,7 +17,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -44,12 +44,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01102.htm'; return false;">=&gt;</button>-->
+ 
+@@ -60,7 +60,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -75,8 +75,8 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete com <strong><em>me</em></strong>, <strong><em>se</em></strong> 
+-    ou <em><strong>nos</strong></em>. Em seguida, clique no bot&#x00E3;o "Verificar" 
+-    para corrigir seu exerc&#x00ED;cio.</div>
++    ou <em><strong>nos</strong></em>. Em seguida, clique no bot&atilde;o "Verificar" 
++    para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -100,7 +100,7 @@
+         <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> arrumei para o passeio.<br />b) Ele <span class="GapSpan" id="GapSpan1">
+         <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> assustou com o barulho.<br />c) N&#x00F3;s <span class="GapSpan" id="GapSpan2">
++        </input></span> assustou com o barulho.<br />c) N&oacute;s <span class="GapSpan" id="GapSpan2">
+         <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> preparamos para a prova.<br />d) Elas <span class="GapSpan" id="GapSpan3">
+         <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="3" maxlength="3">
+@@ -110,7 +110,7 @@
+         <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> entendemos ontem.<br />g) Gabriela e Princys <span class="GapSpan" id="GapSpan6">
+         <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> conhecem h&#x00E1; anos.<br />h) Eu <span class="GapSpan" id="GapSpan7">
++        </input></span> conhecem h&aacute; anos.<br />h) Eu <span class="GapSpan" id="GapSpan7">
+         <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span> responsabilizo por meus atos.
+ </div>
+@@ -137,12 +137,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01102.htm'; return false;">=&gt;</button>-->
+ 
+@@ -157,7 +157,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

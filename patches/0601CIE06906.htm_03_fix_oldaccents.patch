@@ -1,0 +1,50 @@
+--- atividades/0601CIE069/0601CIE06906.htm	2012-06-22 14:57:21.355892200 -0300
++++ atividades/0601CIE069/0601CIE06906.htm.new	2012-06-22 14:57:21.359892200 -0300
+@@ -5,13 +5,13 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="QUEM É QUEM?" />
++<meta name="DC:Title" content="QUEM &Eacute; QUEM?" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <META HTTP-EQUIV="imagetoolbar" CONTENT="no"> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -589,7 +589,7 @@
+ 
+ var CorrectResponse = 'MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -784,11 +784,11 @@
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='VIVO NA ÁGUA E TENHO NADADEIRAS.';
++D[1][0]='VIVO NA &Aacute;GUA E TENHO NADADEIRAS.';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='TENHO PENAS E VÔO.';
++D[2][0]='TENHO PENAS E V&Ocirc;O.';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ D[3] = new Array();
+@@ -907,7 +907,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">QUEM É QUEM?</h2>
++	<h2 class="ExerciseTitle">QUEM &Eacute; QUEM?</h2>
+ 
+ 
+ 

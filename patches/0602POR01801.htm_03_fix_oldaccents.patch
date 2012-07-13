@@ -1,0 +1,50 @@
+--- atividades/0602POR018/0602POR01801.htm	2012-06-22 15:00:49.787895331 -0300
++++ atividades/0602POR018/0602POR01801.htm.new	2012-06-22 15:00:49.791895332 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -462,9 +462,9 @@
+ var AcrossCaption = '';
+ var DownCaption = '';
+ var Correct = 'CERTO!';
+-var Incorrect = 'ALGUMA RESPOSTA ESTÁ INCORRETA!'; 
++var Incorrect = 'ALGUMA RESPOSTA EST&Aacute; INCORRETA!'; 
+ var GiveHint = '';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -848,7 +848,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">CLIQUE NOS NÚMEROS PARA COMPLETAR A CRUZADINHA. EM SEGUIDA, CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">CLIQUE NOS N&Uacute;MEROS PARA COMPLETAR A CRUZADINHA. EM SEGUIDA, CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 
+@@ -886,7 +886,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">PESSOA QUE FAZ MASSAGEM</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">CALMO, TRANQUILO</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">PARTE DO CORPO QUE PODE QUEBRAR</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">LUGAR ONDE SE APRESENTA UM DESFILE DE MODA</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">AQUELE QUE ENSINA</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">FLÔR MUITO GRANDE.</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">57, 58, 59..</td></tr><tr><td class="ClueNum">14. </td><td id="Clue_A_14" class="Clue">PISO DE MADEIRA</td></tr><tr><td class="ClueNum">15. </td><td id="Clue_A_15" class="Clue">USA-SE PARA VARRER</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">PESSOA QUE FAZ MASSAGEM</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">CALMO, TRANQUILO</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">PARTE DO CORPO QUE PODE QUEBRAR</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">LUGAR ONDE SE APRESENTA UM DESFILE DE MODA</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">AQUELE QUE ENSINA</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">FL&Ocirc;R MUITO GRANDE.</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">57, 58, 59..</td></tr><tr><td class="ClueNum">14. </td><td id="Clue_A_14" class="Clue">PISO DE MADEIRA</td></tr><tr><td class="ClueNum">15. </td><td id="Clue_A_15" class="Clue">USA-SE PARA VARRER</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -902,7 +902,7 @@
+ <tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">APAVORADO</td></tr><tr><td class="ClueNum">3. </td>
+                 <td id="Clue_D_3" class="Clue">ANIMAL QUE FOI EXTINTO A MILHARES 
+                   DE ANOS</td>
+-              </tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">SALA DE AULA</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">BRINQUEDO QUE GIRA E ENCONTRAMOS NO PARQUE DE DIVERSÕES</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_D_11" class="Clue">O TEMPO QUE PASSOU</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_D_13" class="Clue">DAR ASSOBIO</td></tr>
++              </tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">SALA DE AULA</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">BRINQUEDO QUE GIRA E ENCONTRAMOS NO PARQUE DE DIVERS&Otilde;ES</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_D_11" class="Clue">O TEMPO QUE PASSOU</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_D_13" class="Clue">DAR ASSOBIO</td></tr>
+ 
+ </tbody>
+ </table>

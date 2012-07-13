@@ -1,0 +1,29 @@
+--- atividades/0803POR002/0803POR00201.htm	2012-06-22 15:03:16.751897540 -0300
++++ atividades/0803POR002/0803POR00201.htm.new	2012-06-22 15:03:16.751897540 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -66,7 +66,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco o feminino das frases abaixo. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco o feminino das frases abaixo. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -86,7 +86,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-O av&#x00F4; levou o neto ao dentista. <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="29"></input></span>.<br />O bar&#x00E3;o conversa com o cidad&#x00E3;o. <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="32"></input></span>. <br />O pr&#x00ED;ncipe recebe o conde. <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.<br />O cavalheiro visitou o marqu&#x00EA;s. <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="25"></input></span>.<br />O rei aplaudiu o ator. <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="25"></input></span>.<br />O escriv&#x00E3;o foi ver o tabeli&#x00E3;o. <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="27"></input></span>.<br />Vov&#x00F4; j&#x00E1; &#x00E9; anci&#x00E3;o. <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="15"></input></span>.<br />O padrinho de meu irm&#x00E3;o &#x00E9; bom. <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="30"></input></span>.<br />O padre deu a b&#x00EA;n&#x00E7;&#x00E3;o ao frei. <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="29"></input></span>.
++O av&ocirc; levou o neto ao dentista. <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="29"></input></span>.<br />O bar&atilde;o conversa com o cidad&atilde;o. <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="32"></input></span>. <br />O pr&iacute;ncipe recebe o conde. <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.<br />O cavalheiro visitou o marqu&ecirc;s. <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="25"></input></span>.<br />O rei aplaudiu o ator. <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="25"></input></span>.<br />O escriv&atilde;o foi ver o tabeli&atilde;o. <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="27"></input></span>.<br />Vov&ocirc; j&aacute; &eacute; anci&atilde;o. <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="15"></input></span>.<br />O padrinho de meu irm&atilde;o &eacute; bom. <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="30"></input></span>.<br />O padre deu a b&ecirc;n&ccedil;&atilde;o ao frei. <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="29"></input></span>.
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,11 @@
+--- atividades/1003POR001/1003POR00101.htm	2012-06-22 15:04:24.451898557 -0300
++++ atividades/1003POR001/1003POR00101.htm.new	2012-06-22 15:04:24.455898557 -0300
+@@ -439,7 +439,7 @@
+ var Incorrect = 'Algumas est&atilde;o erradas... Tente de novo!'; 
+ var GiveHint = 'Acertou a letra!';
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora Vamos para o próximo exercício';
++var Proximo = 'Agora Vamos para o pr&oacute;ximo exerc&iacute;cio';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

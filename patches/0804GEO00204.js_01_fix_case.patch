@@ -1,0 +1,11 @@
+--- atividades/0804GEO002/0804GEO00204.js	2012-06-22 14:49:40.655885277 -0300
++++ atividades/0804GEO002/0804GEO00204.js.new	2012-06-22 15:08:49.087902532 -0300
+@@ -561,7 +561,7 @@
+ 
+ 
+ 
+-	PreloadImages('imagens/ok.gif','imagens/no.gif','Imagens/rosa_dos_ventos.PNG');
++	PreloadImages('imagens/ok.gif','imagens/no.gif','imagens/rosa_dos_ventos.png');
+ 
+ 
+ 	var i = 0;

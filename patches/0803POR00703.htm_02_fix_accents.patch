@@ -1,0 +1,29 @@
+--- atividades/0803POR007/0803POR00703.htm	2012-06-22 15:03:21.543897612 -0300
++++ atividades/0803POR007/0803POR00703.htm.new	2012-06-22 15:03:21.547897612 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -64,7 +64,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Escreva as frases abaixo no plural. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Escreva as frases abaixo no plural. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -84,7 +84,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table width="15%" align="center" border="2" cellpadding="0" cellspacing="0" bordercolor="#003399"><tbody><tr align="center"><td class="ExerciseSubtitle"><b>&#x00C9; <img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16"></img> S&#x00E3;o</b></td></tr></tbody></table><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) A bolacha &#x00E9; gostosa.</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>b) O cisne &#x00E9; bonito.</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>c) O mosquito &#x00E9; nocivo.</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>d) A coelha &#x00E9; orelhuda.</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>e) O rato &#x00E9; esperto.</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>f) O macaco &#x00E9; mam&#x00ED;fero.</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>g) A folha &#x00E9; leve.</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>h) A ave &#x00E9; b&#x00ED;pede.</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr></tbody></table>
++<table width="15%" align="center" border="2" cellpadding="0" cellspacing="0" bordercolor="#003399"><tbody><tr align="center"><td class="ExerciseSubtitle"><b>&Eacute; <img src="imagens/seta.png" alt="seta.png" title="seta" width="31" height="16"></img> S&atilde;o</b></td></tr></tbody></table><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) A bolacha &eacute; gostosa.</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>b) O cisne &eacute; bonito.</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>c) O mosquito &eacute; nocivo.</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>d) A coelha &eacute; orelhuda.</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>e) O rato &eacute; esperto.</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>f) O macaco &eacute; mam&iacute;fero.</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>g) A folha &eacute; leve.</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr><tr><td>h) A ave &eacute; b&iacute;pede.</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="28"></input></span>.</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

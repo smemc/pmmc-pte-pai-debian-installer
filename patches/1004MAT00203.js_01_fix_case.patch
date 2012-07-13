@@ -1,0 +1,11 @@
+--- atividades/1004MAT002/1004MAT00203.js	2012-06-22 14:49:27.687885081 -0300
++++ atividades/1004MAT002/1004MAT00203.js.new	2012-06-22 15:10:37.647904163 -0300
+@@ -513,7 +513,7 @@
+ 
+ 
+ 
+-	PreloadImages('imagens/trezevinteecincoavos.JPG','imagens/seisquinzeavos.JPG','imagens/doissextos.JPG','imagens/quatroquartos.JPG','imagens/cincodecimos.JPG','imagens/cincosetimos.JPG','imagens/meio.JPG','imagens/tresnonos.JPG','imagens/tresoitavos.JPG','imagens/novedezoitoavos.JPG','imagens/doistercos.JPG','imagens/umquinto.JPG');
++	PreloadImages('imagens/trezevinteecincoavos.jpg','imagens/seisquinzeavos.jpg','imagens/doissextos.jpg','imagens/quatroquartos.jpg','imagens/cincodecimos.jpg','imagens/cincosetimos.jpg','imagens/meio.jpg','imagens/tresnonos.jpg','imagens/tresoitavos.jpg','imagens/novedezoitoavos.jpg','imagens/doistercos.jpg','imagens/umquinto.jpg');
+ 
+ 
+ 

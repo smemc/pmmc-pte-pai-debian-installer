@@ -1,0 +1,130 @@
+--- atividades/0203POR010/0203POR01002.htm	2012-06-22 14:55:46.727890778 -0300
++++ atividades/0203POR010/0203POR01002.htm.new	2012-06-22 14:55:46.727890778 -0300
+@@ -3,13 +3,13 @@
+        <html xmlns="http://www.w3.org/1999/xhtml"
+              xml:lang="en">
+ <head>
+-<meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++<meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -482,11 +482,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Você Terminou os Exercícios!';
+ var Finished = false;
+ var Locked = false;
+@@ -955,9 +955,9 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">
+-    <div align="left"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos espa&#x00E7;os 
+-      em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" 
+-      para corrigir seu exerc&#x00ED;cio.</div>
++    <div align="left"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos espa&ccedil;os 
++      em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" 
++      para corrigir seu exerc&iacute;cio.</div>
+   </div>
+ </div>
+ 
+@@ -978,26 +978,26 @@
+       <tr>
+         <td><div align="left">
+             <p><strong><font size="4">Quando falamos e sai um pouco de ar pelo 
+-              nariz, &#x00E9; porque estamos pronunciando sons nasais.<br />
++              nariz, &eacute; porque estamos pronunciando sons nasais.<br />
+               Nas vogais <font color="#FF0000" size="5">a</font> e <font color="#FF0000" size="5">o</font> 
+-              quando s&#x00E3;o nasais usamos o <font color="#FF0000" size="5">til (~)</font><br />
++              quando s&atilde;o nasais usamos o <font color="#FF0000" size="5">til (~)</font><br />
+               Ex.:</font></strong></p>
+           </div>
+           <table width="600" border="0" align="left" cellpadding="0" cellspacing="0">
+             <tr> 
+-              <td><font size="4"><strong>c&#x00E3;es</strong></font></td>
+-              <td><font size="4"><strong>ma&#x00E7;&#x00E3;</strong></font></td>
+-              <td><font size="4"><strong>&#x00F3;rf&#x00E3;o</strong></font></td>
++              <td><font size="4"><strong>c&atilde;es</strong></font></td>
++              <td><font size="4"><strong>ma&ccedil;&atilde;</strong></font></td>
++              <td><font size="4"><strong>&oacute;rf&atilde;o</strong></font></td>
+             </tr>
+             <tr> 
+-              <td><font size="4"><strong>port&#x00E3;o</strong></font></td>
+-              <td><font size="4"><strong>an&#x00E3;o</strong></font></td>
+-              <td><font size="4"><strong>amanh&#x00E3;</strong></font></td>
++              <td><font size="4"><strong>port&atilde;o</strong></font></td>
++              <td><font size="4"><strong>an&atilde;o</strong></font></td>
++              <td><font size="4"><strong>amanh&atilde;</strong></font></td>
+             </tr>
+             <tr> 
+-              <td><font size="4"><strong>rom&#x00E3;</strong></font></td>
+-              <td><font size="4"><strong>gr&#x00E3;o</strong></font></td>
+-              <td><font size="4"><strong>avi&#x00E3;o</strong></font></td>
++              <td><font size="4"><strong>rom&atilde;</strong></font></td>
++              <td><font size="4"><strong>gr&atilde;o</strong></font></td>
++              <td><font size="4"><strong>avi&atilde;o</strong></font></td>
+             </tr>
+           </table></td>
+       </tr>
+@@ -1016,7 +1016,7 @@
+             <td width="200" bgcolor="#99CC99">
+ <div align="center"><font size="4"><strong>COLOQUE 
+                 <font color="#FF0000" size="5">S</font> SE USAR TIL E <font color="#FF0000" size="5">N</font> 
+-                SE N&#x00C3;O USAR</strong></font></div></td>
++                SE N&Atilde;O USAR</strong></font></div></td>
+             <td width="200" bgcolor="#99CC33">
+ <div align="center"><font size="4"><strong>ESCREVA 
+                 A PALAVRA</strong></font></div></td>
+@@ -1065,7 +1065,7 @@
+           </tr>
+           <tr> 
+             <td width="200" bgcolor="#99FF99">
+-<div align="center"><strong>&#x00CD;MA</strong></div></td>
++<div align="center"><strong>&Iacute;MA</strong></div></td>
+             <td width="200" bgcolor="#99CC99">
+ <div align="center"><strong><span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="1" maxlength="1">
+@@ -1121,7 +1121,7 @@
+           </tr>
+           <tr> 
+             <td width="200" bgcolor="#99FF99">
+-<div align="center"><strong>REDA&#x00C7;AO</strong></div></td>
++<div align="center"><strong>REDA&Ccedil;AO</strong></div></td>
+             <td width="200" bgcolor="#99CC99">
+ <div align="center"><strong><span class="GapSpan" id="GapSpan14"> 
+                 <input type="text" class="GapBox" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" size="1" maxlength="1">
+@@ -1190,7 +1190,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

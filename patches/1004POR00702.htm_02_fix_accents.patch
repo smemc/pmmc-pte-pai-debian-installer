@@ -1,0 +1,61 @@
+--- atividades/1004POR007/1004POR00702.htm	2012-06-22 15:05:41.363899713 -0300
++++ atividades/1004POR007/1004POR00702.htm.new	2012-06-22 15:05:41.367899713 -0300
+@@ -17,7 +17,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -432,10 +432,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns! Bom Trabalho!';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Tente de novo!'; 
++var Correct = 'Parab&eacute;ns! Bom Trabalho!';
++var Incorrect = 'Algumas est&atilde;o erradas... Tente de novo!'; 
+ var GiveHint = 'Acertou a letra!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;
+@@ -812,7 +812,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Clique nos n&#x00FA;meros para abrir as perguntas. Complete a cruzadinha e clique em "Verificar" para corrigir.</p>
++	<p id="Instructions">Clique nos n&uacute;meros para abrir as perguntas. Complete a cruzadinha e clique em "Verificar" para corrigir.</p>
+ </div>
+ 
+ 
+@@ -871,7 +871,7 @@
+               </tr>
+               <tr>
+                 <td class="ClueNum">7. </td>
+-                <td id="Clue_A_7" class="Clue"><font size="4">Fazer demonstra&#x00E7;&#x00E3;o.</font></td>
++                <td id="Clue_A_7" class="Clue"><font size="4">Fazer demonstra&ccedil;&atilde;o.</font></td>
+               </tr>
+               <tr>
+                 <td class="ClueNum">8. </td>
+@@ -905,7 +905,7 @@
+               <tr>
+                 <td class="ClueNum">3. </td>
+                 <td id="Clue_D_3" class="Clue"><font size="4">Introduzir ar nos 
+-                  pulm&#x00F5;es.</font></td>
++                  pulm&otilde;es.</font></td>
+               </tr>
+               <tr>
+                 <td class="ClueNum">4. </td>
+@@ -913,7 +913,7 @@
+               </tr>
+               <tr>
+                 <td class="ClueNum">8. </td>
+-                <td id="Clue_D_8" class="Clue"><font size="4">Explica&#x00E7;&#x00E3;o 
++                <td id="Clue_D_8" class="Clue"><font size="4">Explica&ccedil;&atilde;o 
+                   de um jogo.</font></td>
+               </tr>
+             </tbody>

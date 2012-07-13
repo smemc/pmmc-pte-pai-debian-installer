@@ -1,0 +1,11 @@
+--- atividades/1004MAT004/1004MAT00401.js	2012-06-22 14:49:55.403885499 -0300
++++ atividades/1004MAT004/1004MAT00401.js.new	2012-06-22 15:10:43.799904257 -0300
+@@ -610,7 +610,7 @@
+ 
+ 
+ 
+-	PreloadImages('imagens/tresdecimos.JPG','imagens/trintaeoitocentesimos.JPG','imagens/cincomilesimos.JPG','imagens/dozedecimos.JPG','imagens/dezessetecentesimos.JPG','imagens/387milesimos.JPG','imagens/58milesimos.JPG','imagens/4575centesimos.JPG');
++	PreloadImages('imagens/tresdecimos.jpg','imagens/trintaeoitocentesimos.jpg','imagens/cincomilesimos.jpg','imagens/dozedecimos.jpg','imagens/dezessetecentesimos.jpg','imagens/387milesimos.jpg','imagens/58milesimos.jpg','imagens/4575centesimos.jpg');
+ 
+ 
+ 	var i = 0;

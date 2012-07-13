@@ -1,0 +1,50 @@
+--- atividades/0602POR017/0602POR01701.htm	2012-06-22 15:00:49.311895323 -0300
++++ atividades/0602POR017/0602POR01701.htm.new	2012-06-22 15:00:49.315895324 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -464,7 +464,7 @@
+ var Correct = '';
+ var Incorrect = ''; 
+ var GiveHint = '';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -846,7 +846,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">CLIQUE NOS NÚMEROS PARA COMPLETAR A CRUZADINHA. EM SEGUIDA, CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">CLIQUE NOS N&Uacute;MEROS PARA COMPLETAR A CRUZADINHA. EM SEGUIDA, CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 
+@@ -884,7 +884,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">OBRA DE ARTE QUE PENDURAMOS NA PAREDE, PINTURA</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">É O QUARTO DIA DA SEMANA</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">OBJETO USADO PARA ABANAR QUANDO ESTÁ CALOR</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">DIMINUTIVO DE ROSCA</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">COLETIVO DE NAVIO</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">PERÍODO DE 15 DIAS</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">ÁRVORE QUE DÁ COCO</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_A_13" class="Clue">UM DOS ESTADOS FÍSICOS DA ÁGUA</td></tr><tr><td class="ClueNum">14. </td><td id="Clue_A_14" class="Clue">LUGAR ONDE SE CRIAM PORCOS</td></tr><tr><td class="ClueNum">16. </td><td id="Clue_A_16" class="Clue">CÔMODO DA CASA ONDE DORMIMOS</td></tr><tr><td class="ClueNum">17. </td><td id="Clue_A_17" class="Clue">ALIMENTO RALADO QUE COMEMOS COM MACARRONADA</td></tr>
++<tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">OBRA DE ARTE QUE PENDURAMOS NA PAREDE, PINTURA</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">&Eacute; O QUARTO DIA DA SEMANA</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">OBJETO USADO PARA ABANAR QUANDO EST&Aacute; CALOR</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">DIMINUTIVO DE ROSCA</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">COLETIVO DE NAVIO</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">PER&Iacute;ODO DE 15 DIAS</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">&Aacute;RVORE QUE D&Aacute; COCO</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_A_13" class="Clue">UM DOS ESTADOS F&Iacute;SICOS DA &Aacute;GUA</td></tr><tr><td class="ClueNum">14. </td><td id="Clue_A_14" class="Clue">LUGAR ONDE SE CRIAM PORCOS</td></tr><tr><td class="ClueNum">16. </td><td id="Clue_A_16" class="Clue">C&Ocirc;MODO DA CASA ONDE DORMIMOS</td></tr><tr><td class="ClueNum">17. </td><td id="Clue_A_17" class="Clue">ALIMENTO RALADO QUE COMEMOS COM MACARRONADA</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -898,9 +898,9 @@
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">VERTICAIS</h3></td></tr>
+ 
+ <tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">LUGAR FEITO DE VIDRO PARA CRIAR PEIXES EM CATIVEIRO</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">USA-SE PARA JOGAR PING-PONG</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">O MESMO QUE PEGAR FOGO</td></tr><tr><td class="ClueNum">5. </td>
+-                <td id="Clue_D_5" class="Clue">NOME QUE SE DÁ A TODOS OS OSSOS 
++                <td id="Clue_D_5" class="Clue">NOME QUE SE D&Aacute; A TODOS OS OSSOS 
+                   DO CORPO</td>
+-              </tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">QUANTIDADE DE ESTAÇÕES DO ANO</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_D_11" class="Clue">INSETO QUE TRANSMITE A DENGUE</td></tr><tr><td class="ClueNum">15. </td><td id="Clue_D_15" class="Clue">ROEDOR QUE SOBE EM ÁRVORES E GOSTA DE NOZES</td></tr>
++              </tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">QUANTIDADE DE ESTA&Ccedil;&Otilde;ES DO ANO</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_D_11" class="Clue">INSETO QUE TRANSMITE A DENGUE</td></tr><tr><td class="ClueNum">15. </td><td id="Clue_D_15" class="Clue">ROEDOR QUE SOBE EM &Aacute;RVORES E GOSTA DE NOZES</td></tr>
+ 
+ </tbody>
+ </table>

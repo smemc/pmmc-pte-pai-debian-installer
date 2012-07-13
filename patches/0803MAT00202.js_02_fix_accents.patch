@@ -1,0 +1,17 @@
+--- atividades/0803MAT002/0803MAT00202.js	2012-06-22 15:08:09.635901939 -0300
++++ atividades/0803MAT002/0803MAT00202.js.new	2012-06-22 15:08:09.639901938 -0300
+@@ -481,11 +481,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var Incorrect = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var Incorrect = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte:';
+ var CaseSensitive = false;
+-var YourScoreIs = '</br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;';
++var YourScoreIs = '</br>A sua pontua&ccedil;&atilde;o &eacute;';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

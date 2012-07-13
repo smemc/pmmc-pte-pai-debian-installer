@@ -1,0 +1,46 @@
+--- atividades/1003POR024/1003POR02403.htm	2012-06-22 15:05:08.499899219 -0300
++++ atividades/1003POR024/1003POR02403.htm.new	2012-06-22 15:05:08.499899219 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Informática" />
+-<meta name="DC:Title" content="PALAVRAS COM C E &#x00C7;" />
++<meta name="DC:Title" content="PALAVRAS COM C E &Ccedil;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -64,14 +64,14 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C E &#x00C7;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C E &Ccedil;</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -109,7 +109,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Trabalha com a ci&#x00EA;ncia</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Equipamento de seguran&#x00E7;a dos motoqueiros</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Contr&#x00E1;rio de &#x00E1;spero</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Telefone m&#x00F3;vel</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Usada para temperar alimentos</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Diminutivo de on&#x00E7;a</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Trabalha com a ci&ecirc;ncia</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Equipamento de seguran&ccedil;a dos motoqueiros</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Contr&aacute;rio de &aacute;spero</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Telefone m&oacute;vel</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Usada para temperar alimentos</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Diminutivo de on&ccedil;a</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -122,7 +122,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Marca na pele ap&#x00F3;s machucada</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Nas f&#x00E1;bulas, esse inseto gosta de cantar</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Meio de transporte com duas rodas</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Onde se assiste a filmes in&#x00E9;ditos</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Marca na pele ap&oacute;s machucada</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Nas f&aacute;bulas, esse inseto gosta de cantar</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Meio de transporte com duas rodas</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Onde se assiste a filmes in&eacute;ditos</td></tr>
+ 
+ </tbody>
+ </table>

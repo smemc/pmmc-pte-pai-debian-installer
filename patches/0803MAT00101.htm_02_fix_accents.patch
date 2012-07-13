@@ -1,0 +1,46 @@
+--- atividades/0803MAT001/0803MAT00101.htm	2012-06-22 15:03:11.739897464 -0300
++++ atividades/0803MAT001/0803MAT00101.htm.new	2012-06-22 15:03:11.739897464 -0300
+@@ -7,7 +7,7 @@
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+ <meta name="DC:Creator" content="Orientador" />
+ <meta name="DC:Creator" content="Danilo Moraes" />
+-<meta name="DC:Title" content="Resolva as opera&#x00E7;&#x00F5;es e escreva o que se pede" />
++<meta name="DC:Title" content="Resolva as opera&ccedil;&otilde;es e escreva o que se pede" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -58,14 +58,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Resolva as opera&#x00E7;&#x00F5;es e escreva o que se pede</h2>
++	<h2 class="ExerciseTitle">Resolva as opera&ccedil;&otilde;es e escreva o que se pede</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete os espa&#x00E7;os em branco com a resposta correta. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete os espa&ccedil;os em branco com a resposta correta. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) O sucessor de 65 + 12 &#x00E9;: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> </td></tr><tr><td>b) O antecessor de 37 + 3 &#x00E9;: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> </td></tr><tr><td>c) O antecessor de 50 - 10 &#x00E9;: <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> </td></tr><tr><td>d) O sucessor de 400 + 15 &#x00E9;: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> </td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) O sucessor de 65 + 12 &eacute;: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> </td></tr><tr><td>b) O antecessor de 37 + 3 &eacute;: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> </td></tr><tr><td>c) O antecessor de 50 - 10 &eacute;: <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> </td></tr><tr><td>d) O sucessor de 400 + 15 &eacute;: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> </td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

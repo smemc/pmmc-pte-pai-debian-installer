@@ -1,0 +1,38 @@
+--- atividades/0603GEO089/0603GEO08901.htm	2012-06-22 15:02:04.491896454 -0300
++++ atividades/0603GEO089/0603GEO08901.htm.new	2012-06-22 15:02:04.495896454 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientador" />
+-<meta name="DC:Title" content="MOGI DAS CRUZES - MAPA ART&#x00CD;STICO" />
++<meta name="DC:Title" content="MOGI DAS CRUZES - MAPA ART&Iacute;STICO" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,7 +56,7 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">MOGI DAS CRUZES - MAPA ART&#x00CD;STICO </h2>
++	<h2 class="ExerciseTitle">MOGI DAS CRUZES - MAPA ART&Iacute;STICO </h2>
+ 
+ 
+ 
+@@ -83,7 +83,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<iframe src="fundo.htm" name="fundo" width="95%" height="350" align="center" scrolling="auto" frameborder="0"></iframe><br /><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>1 - MIRANTE LOCALIZADO NA SERRA DO ITAPETI:</td></tr><tr><td>RESPOSTA: PICO DO <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>2 - LOCALIZADO NA ESTRADA DO NAGAO:</td></tr><tr><td>RESPOSTA: CASAR&#x00C3;O DO <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>3 - RIO QUE CORTA A CIDADE:</td></tr><tr><td>RESPOSTA: RIO <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>4 - VILA TAQUARUSS&#x00DA;:</td></tr><tr><td>RESPOSTA: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>5 - COCUERA, ESTRADA MOGI-SALES&#x00D3;POLIS:</td></tr><tr><td>RESPOSTA: CRIA&#x00C7;&#x00C3;O DE <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>6 - NA REGI&#x00C3;O CENTRAL:</td></tr><tr><td>RESPOSTA:TEATRO E CASAR&#x00C3;O DO <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>7 - ESTA&#x00C7;&#x00D5;ES DE TREM ANTIGAS:</td></tr><tr><td>RESPOSTA: <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> E C&#x00C9;SAR DE <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> . </td></tr></tbody></table>
++<iframe src="fundo.htm" name="fundo" width="95%" height="350" align="center" scrolling="auto" frameborder="0"></iframe><br /><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>1 - MIRANTE LOCALIZADO NA SERRA DO ITAPETI:</td></tr><tr><td>RESPOSTA: PICO DO <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>2 - LOCALIZADO NA ESTRADA DO NAGAO:</td></tr><tr><td>RESPOSTA: CASAR&Atilde;O DO <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>3 - RIO QUE CORTA A CIDADE:</td></tr><tr><td>RESPOSTA: RIO <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>4 - VILA TAQUARUSS&Uacute;:</td></tr><tr><td>RESPOSTA: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>5 - COCUERA, ESTRADA MOGI-SALES&Oacute;POLIS:</td></tr><tr><td>RESPOSTA: CRIA&Ccedil;&Atilde;O DE <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>6 - NA REGI&Atilde;O CENTRAL:</td></tr><tr><td>RESPOSTA:TEATRO E CASAR&Atilde;O DO <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="12"></input></span>.</td></tr><tr><td>7 - ESTA&Ccedil;&Otilde;ES DE TREM ANTIGAS:</td></tr><tr><td>RESPOSTA: <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> E C&Eacute;SAR DE <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="12"></input></span> . </td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

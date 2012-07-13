@@ -1,0 +1,46 @@
+--- atividades/0601POR079/0601POR07901.htm	2012-06-22 14:59:33.107894179 -0300
++++ atividades/0601POR079/0601POR07901.htm.new	2012-06-22 14:59:33.107894179 -0300
+@@ -6,12 +6,12 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="Leia o Texto e Pontue - Exercício 1" />
++<meta name="DC:Title" content="Leia o Texto e Pontue - Exerc&iacute;cio 1" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -444,9 +444,9 @@
+ var Feedback = '';
+ var Correct = 'Certo! Muito bem!';
+ var Incorrect = 'Alguma resposta esta errada!'; 
+-var GiveHint = 'Próxima letra correta adicionada.';
++var GiveHint = 'Pr&oacute;xima letra correta adicionada.';
+ var CaseSensitive = true;
+-var YourScoreIs = 'A sua pontuação é:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -830,12 +830,12 @@
+ 
+ <div id="MainDiv" class="StdDiv">
+ 	<div id="ClozeDiv">
+-  		<span class="style7"><font face="Geneva, Arial, Helvetica, sans-serif"><span style="font-family: Verdana; color:#000000"> É noite...</span></font></p>
+-  		<p class="style7" style="text-align:justify"> <font face="Geneva, Arial, Helvetica, sans-serif"><span style="font-family: Verdana; color:#000000"> Ângelo pega o violão e canta uma canção. A serenata é para Vanda, 
++  		<span class="style7"><font face="Geneva, Arial, Helvetica, sans-serif"><span style="font-family: Verdana; color:#000000"> &Eacute; noite...</span></font></p>
++  		<p class="style7" style="text-align:justify"> <font face="Geneva, Arial, Helvetica, sans-serif"><span style="font-family: Verdana; color:#000000"> &Acirc;ngelo pega o viol&atilde;o e canta uma can&ccedil;&atilde;o. A serenata &eacute; para Vanda, 
+   sua namorada.</span></font></p>
+-		<p class="style7" style="text-align:justify"> <font face="Geneva, Arial, Helvetica, sans-serif"><span style="font-family: Verdana; color:#000000"> Lá da janela Vanda ouve o canto e, sorrindo meio encabulada, 
++		<p class="style7" style="text-align:justify"> <font face="Geneva, Arial, Helvetica, sans-serif"><span style="font-family: Verdana; color:#000000"> L&aacute; da janela Vanda ouve o canto e, sorrindo meio encabulada, 
+   fala:</span></font></p>
+-		<p class="style7" style="text-align:justify"> <font face="Geneva, Arial, Helvetica, sans-serif"><span style="font-family: Verdana; color:#000000"> - Ângelo, a serenata está linda!</span></font></p>
++		<p class="style7" style="text-align:justify"> <font face="Geneva, Arial, Helvetica, sans-serif"><span style="font-family: Verdana; color:#000000"> - &Acirc;ngelo, a serenata est&aacute; linda!</span></font></p>
+ 		<p class="ExerciseTitle"><b><a href="0601POR07902.htm"><font color="#FF0000" size="2">Clique 
+   aqui para responder ao teste!</font></a></b></p>
+   </div>

@@ -1,0 +1,41 @@
+--- atividades/0602POR074/0602POR07401.htm	2012-06-22 15:01:26.279895880 -0300
++++ atividades/0602POR074/0602POR07401.htm.new	2012-06-22 15:01:26.283895880 -0300
+@@ -10,7 +10,7 @@
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -462,9 +462,9 @@
+ var AcrossCaption = '';
+ var DownCaption = '';
+ var Correct = 'CERTO MUITO BEM !';
+-var Incorrect = 'aLGUMAS RESPOSTA AINDA NÃO ESTÃO CORRETAS.'; 
++var Incorrect = 'aLGUMAS RESPOSTA AINDA N&Atilde;O EST&Atilde;O CORRETAS.'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -874,7 +874,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">CARNE ASSADA NO ESPETO</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">INUNDAÇÃO.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">DERRAMAR LÁGRIMAS.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">SANDÁLIA DE DEDOS PARA SE USAR EM CASA.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">TEM NO PIQUENIQUE.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">QUE SE MACHUCOU.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">CARNE ASSADA NO ESPETO</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">INUNDA&Ccedil;&Atilde;O.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">DERRAMAR L&Aacute;GRIMAS.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">SAND&Aacute;LIA DE DEDOS PARA SE USAR EM CASA.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">TEM NO PIQUENIQUE.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">QUE SE MACHUCOU.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -887,7 +887,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">VERTICAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">LUGAR ONDE SE CRIAM PORCOS.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">DUAS CAMAS QUE FICAM UMA SOBRE A OUTRA.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">CALÇADO COM TRAVAS PARA SE JOGAR FUTEBOL.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">CONTRÁRIO DE FÊMEA.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">PONTAPÉ NA BOLA.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">LUGAR ONDE SE CRIAM PORCOS.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">DUAS CAMAS QUE FICAM UMA SOBRE A OUTRA.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">CAL&Ccedil;ADO COM TRAVAS PARA SE JOGAR FUTEBOL.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">CONTR&Aacute;RIO DE F&Ecirc;MEA.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">PONTAP&Eacute; NA BOLA.</td></tr>
+ 
+ </tbody>
+ </table>

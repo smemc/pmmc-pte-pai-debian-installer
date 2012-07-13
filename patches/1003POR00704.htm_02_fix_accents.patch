@@ -1,0 +1,13 @@
+--- atividades/1003POR007/1003POR00704.htm	2012-06-22 15:04:31.047898656 -0300
++++ atividades/1003POR007/1003POR00704.htm.new	2012-06-22 15:04:31.051898656 -0300
+@@ -29,8 +29,8 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">Ca&#231;a-palavras com T ou D</h2>
+-	<h3 class="ExerciseSubtitle">Encontre as palavras no ca&#231;a-palavras na lista ao lado: </h3>
++	<h2 class="ExerciseTitle">Ca&ccedil;a-palavras com T ou D</h2>
++	<h3 class="ExerciseSubtitle">Encontre as palavras no ca&ccedil;a-palavras na lista ao lado: </h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">

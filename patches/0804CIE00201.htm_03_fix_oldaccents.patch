@@ -1,0 +1,20 @@
+--- atividades/0804CIE002/0804CIE00201.htm	2012-06-22 15:03:32.911897783 -0300
++++ atividades/0804CIE002/0804CIE00201.htm.new	2012-06-22 15:03:32.911897783 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.3 Release 0 Build 3 -->
+ 
+@@ -125,7 +125,7 @@
+ <table class="ClueList">
+ <tbody id="banco">
+ <tr><td><h3 class="ExerciseSubtitle" id="CluesDownLabel"><b>Banco de Palavras</b></h3></td></tr>
+-<tr><td class="Clue">Sólida, Água, Atmosfera, Litosfera, Hidrosfera, Solo, Oceanos, Azul, Gases, Gasosa, Camada de ar, Crosta Terrestre</td></tr>
++<tr><td class="Clue">S&oacute;lida, &Aacute;gua, Atmosfera, Litosfera, Hidrosfera, Solo, Oceanos, Azul, Gases, Gasosa, Camada de ar, Crosta Terrestre</td></tr>
+ </tbody>
+ </table>
+ </tbody>

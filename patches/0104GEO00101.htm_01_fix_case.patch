@@ -1,0 +1,29 @@
+--- atividades/0104GEO001/0104GEO00101.htm	2012-06-22 14:49:51.827885445 -0300
++++ atividades/0104GEO001/0104GEO00101.htm.new	2012-06-22 14:53:15.147888500 -0300
+@@ -93,22 +93,22 @@
+ <form id="QForm" method="post" action="" onsubmit="return false;">
+ <table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">
+ 
+-<tr><td class="LeftItem"><img src="imagens/Amazonas.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
++<tr><td class="LeftItem"><img src="imagens/amazonas.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
+ <option value="2">Amap&#x00E1; (AP)</option>
+ <option value="3">Par&#x00E1; (PA)</option>
+ <option value="1">Roraima (RR)</option>
+ <option value="0">Amazonas (AM)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Roraima.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/roraima.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
+ <option value="2">Amap&#x00E1; (AP)</option>
+ <option value="3">Par&#x00E1; (PA)</option>
+ <option value="1">Roraima (RR)</option>
+ <option value="0">Amazonas (AM)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Amapa.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/amapa.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
+ <option value="2">Amap&#x00E1; (AP)</option>
+ <option value="3">Par&#x00E1; (PA)</option>
+ <option value="1">Roraima (RR)</option>
+ <option value="0">Amazonas (AM)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Para.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s3_3"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/para.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s3_3"><option value="x"></option>
+ <option value="2">Amap&#x00E1; (AP)</option>
+ <option value="3">Par&#x00E1; (PA)</option>
+ <option value="1">Roraima (RR)</option>

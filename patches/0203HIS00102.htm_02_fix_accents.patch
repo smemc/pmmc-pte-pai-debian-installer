@@ -1,0 +1,67 @@
+--- atividades/0203HIS001/0203HIS00102.htm	2012-06-22 14:55:05.747890162 -0300
++++ atividades/0203HIS001/0203HIS00102.htm.new	2012-06-22 14:55:05.747890162 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE HIST&#x00D3;RIA" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE HIST&Oacute;RIA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -576,9 +576,9 @@
+ 
+ 
+ 
+-var CorrectResponse = 'Parab&#x00E9;ns. Bom trabalho!';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Você terminou os exercícios!';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+@@ -755,10 +755,10 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='Tiet&#x00EA;';
++F[0][0]='Tiet&ecirc;';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='Anhangaba&#x00FA;';
++F[1][0]='Anhangaba&uacute;';
+ F[1][1] = 2;
+ F[2] = new Array();
+ F[2][0]='Itapecerica';
+@@ -789,7 +789,7 @@
+ D[3][1] = 4;
+ D[3][2] = 0;
+ D[4] = new Array();
+-D[4][0]='Rio que j&#x00E1; foi mata';
++D[4][0]='Rio que j&aacute; foi mata';
+ D[4][1] = 5;
+ D[4][2] = 0;
+ 
+@@ -911,15 +911,15 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#000000">PROJETO: &#x00CD;NDIO - UMA 
+-    HIST&#x00D3;RIA PARA CONTAR</font></h2>
++  <h2 class="ExerciseTitle"><font color="#000000">PROJETO: &Iacute;NDIO - UMA 
++    HIST&Oacute;RIA PARA CONTAR</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Arraste o item 
+-    da direita at&#x00E9; ficar ao lado da op&#x00E7;&#x00E3;o correta do lado 
+-    esquerdo. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu 
+-    exerc&#x00ED;cio.</p>
++    da direita at&eacute; ficar ao lado da op&ccedil;&atilde;o correta do lado 
++    esquerdo. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu 
++    exerc&iacute;cio.</p>
+   <p>&nbsp;</p>
+   <p><strong><font size="3"> Descubra o significado das palavras fazendo a correspond&ecirc;ncia:</font></strong></p>
+ </div>

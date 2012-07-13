@@ -1,0 +1,11 @@
+--- atividades/0202GEO001/0202GEO00101.htm	2012-06-22 14:54:05.075889249 -0300
++++ atividades/0202GEO001/0202GEO00101.htm.new	2012-06-22 14:54:05.075889249 -0300
+@@ -442,7 +442,7 @@
+ var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

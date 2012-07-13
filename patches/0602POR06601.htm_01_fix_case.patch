@@ -1,0 +1,29 @@
+--- atividades/0602POR066/0602POR06601.htm	2012-06-22 14:49:33.211885164 -0300
++++ atividades/0602POR066/0602POR06601.htm.new	2012-06-22 15:01:11.259895654 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;Animal1098.gif&quot; alt=&quot;Animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;&#x003C;img src=&quot;Animal1098.gif&quot; alt=&quot;Animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;&#x003C;img src=&quot;Animal1098.gif&quot; alt=&quot;Animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;O PASTORZINHO E O LOBO&#x003C;img src=&quot;Animal0427.gif&quot; alt=&quot;Animal0427.gif&quot; title=&quot;Animal0427&quot; width=&quot;141&quot; height=&quot;113&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="&#x003C;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;&#x003C;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;&#x003C;img src=&quot;animal1098.gif&quot; alt=&quot;animal1098.gif&quot; title=&quot;Animal1098&quot; width=&quot;40&quot; height=&quot;40&quot;&#x003E;&#x003C;/img&#x003E;O PASTORZINHO E O LOBO&#x003C;img src=&quot;animal0427.gif&quot; alt=&quot;animal0427.gif&quot; title=&quot;Animal0427&quot; width=&quot;141&quot; height=&quot;113&quot;&#x003E;&#x003C;/img&#x003E;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -665,7 +665,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','Animal1098.gif','Animal0427.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','animal1098.gif','animal0427.gif','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -985,7 +985,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle"><img src="Animal1098.gif" alt="Animal1098.gif" title="Animal1098" width="40" height="40"></img><img src="Animal1098.gif" alt="Animal1098.gif" title="Animal1098" width="40" height="40"></img><img src="Animal1098.gif" alt="Animal1098.gif" title="Animal1098" width="40" height="40"></img>O PASTORZINHO E O LOBO<img src="Animal0427.gif" alt="Animal0427.gif" title="Animal0427" width="141" height="113"></img></h2>
++	<h2 class="ExerciseTitle"><img src="animal1098.gif" alt="animal1098.gif" title="Animal1098" width="40" height="40"></img><img src="animal1098.gif" alt="animal1098.gif" title="Animal1098" width="40" height="40"></img><img src="animal1098.gif" alt="animal1098.gif" title="Animal1098" width="40" height="40"></img>O PASTORZINHO E O LOBO<img src="animal0427.gif" alt="animal0427.gif" title="Animal0427" width="141" height="113"></img></h2>
+ 
+ 
+ 

@@ -1,0 +1,19 @@
+--- atividades/1002POR004/1002POR00406.js	2012-06-22 14:49:36.015885207 -0300
++++ atividades/1002POR004/1002POR00406.js.new	2012-06-22 15:09:22.623903037 -0300
+@@ -786,13 +786,13 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='<img src="Imagens/balao.jpg" width="56" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[0][0]='<img src="imagens/balao.jpg" width="56" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='<img src="Imagens/abacate.jpg" width="88" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[1][0]='<img src="imagens/abacate.jpg" width="88" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='<img src="Imagens/bau.jpg" width="139" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[2][0]='<img src="imagens/bau.jpg" width="139" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[2][1] = 3;
+ 
+ 

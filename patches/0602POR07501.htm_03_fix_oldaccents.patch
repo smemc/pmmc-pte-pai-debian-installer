@@ -1,0 +1,32 @@
+--- atividades/0602POR075/0602POR07501.htm	2012-06-22 15:01:26.747895887 -0300
++++ atividades/0602POR075/0602POR07501.htm.new	2012-06-22 15:01:26.751895887 -0300
+@@ -10,7 +10,7 @@
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -460,9 +460,9 @@
+ var AcrossCaption = '';
+ var DownCaption = '';
+ var Correct = 'CERTO MUITO BEM !';
+-var Incorrect = 'ALGUMAS RESPOSTA AINDA NÃO ESTÃO CORRETAS.'; 
++var Incorrect = 'ALGUMAS RESPOSTA AINDA N&Atilde;O EST&Atilde;O CORRETAS.'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -830,7 +830,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><DIV ALIGN="CENTER">OBSERVE ESTAS PALAVRAS:<B><BR><BR><U> TRABALHO - AMARELO - ABELHA - ORELHA - TIJOLO - MOLHO - MODELO - JOELHO - CANELA - BARALHO.</U><BR><BR></B>AGORA CLIQUE NOS NÚMEROS PARA PREENCHER A CRUZADINHA ABAIXO<BR>COLOCANDO O DIMINUTIVO DE CADA UMA DESTAS PALAVRAS CORRETAMENTE.</DIV></p>
++	<p id="Instructions"><DIV ALIGN="CENTER">OBSERVE ESTAS PALAVRAS:<B><BR><BR><U> TRABALHO - AMARELO - ABELHA - ORELHA - TIJOLO - MOLHO - MODELO - JOELHO - CANELA - BARALHO.</U><BR><BR></B>AGORA CLIQUE NOS N&Uacute;MEROS PARA PREENCHER A CRUZADINHA ABAIXO<BR>COLOCANDO O DIMINUTIVO DE CADA UMA DESTAS PALAVRAS CORRETAMENTE.</DIV></p>
+ </div>
+ 
+ 

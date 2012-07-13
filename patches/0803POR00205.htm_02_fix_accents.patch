@@ -1,0 +1,47 @@
+--- atividades/0803POR002/0803POR00205.htm	2012-06-22 15:03:17.691897554 -0300
++++ atividades/0803POR002/0803POR00205.htm.new	2012-06-22 15:03:17.691897554 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientador" />
+-<meta name="DC:Title" content="N&#x00FA;mero do Substantivo" />
++<meta name="DC:Title" content="N&uacute;mero do Substantivo" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,7 +56,7 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">N&#x00FA;mero do Substantivo</h2>
++	<h2 class="ExerciseTitle">N&uacute;mero do Substantivo</h2>
+ 
+ 	<h3 class="ExerciseSubtitle">Passe para o plural</h3>
+ 
+@@ -65,7 +65,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco o plural dos substantivos abaixo. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco o plural dos substantivos abaixo. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>Altar:</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Cruz:</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Capit&#x00E3;o:</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Anel:</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Pastel:</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Farol:</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Fregu&#x00EA;s:</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Chin&#x00EA;s:</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Barril:</td><td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>O &#x00F4;nibus:</td><td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>O peixe:</td><td><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Bot&#x00E3;o:</td><td><span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Bombom:</td><td><span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Homem:</td><td><span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Funil:</td><td><span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Im&#x00F3;vel:</td><td><span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>Altar:</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Cruz:</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Capit&atilde;o:</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Anel:</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Pastel:</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Farol:</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Fregu&ecirc;s:</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Chin&ecirc;s:</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Barril:</td><td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>O &ocirc;nibus:</td><td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>O peixe:</td><td><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Bot&atilde;o:</td><td><span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Bombom:</td><td><span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Homem:</td><td><span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr><tr><td>Funil:</td><td><span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td><td>&nbsp;&nbsp;</td><td>Im&oacute;vel:</td><td><span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,11 @@
+--- atividades/0802POR001/0802POR00101.htm	2012-06-22 14:49:43.103885314 -0300
++++ atividades/0802POR001/0802POR00101.htm.new	2012-06-22 15:03:10.355897441 -0300
+@@ -112,7 +112,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical - </h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="imagens/ninho.jpg" alt="ninho.jpg" title="ninho" width="175" height="150"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="imagens/galinha.JPG" alt="galinha.JPG" title="galinha" width="149" height="150"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue"><img src="imagens/caminhao.png" alt="caminhao.png" title="caminhao" width="135" height="150"></img></td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue"><img src="imagens/ninho.jpg" alt="ninho.jpg" title="ninho" width="175" height="150"></img></td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue"><img src="imagens/galinha.jpg" alt="galinha.jpg" title="galinha" width="149" height="150"></img></td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue"><img src="imagens/caminhao.png" alt="caminhao.png" title="caminhao" width="135" height="150"></img></td></tr>
+ 
+ </tbody>
+ </table>

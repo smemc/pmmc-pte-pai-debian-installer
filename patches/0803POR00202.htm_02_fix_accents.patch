@@ -1,0 +1,33 @@
+--- atividades/0803POR002/0803POR00202.htm	2012-06-22 15:03:17.067897544 -0300
++++ atividades/0803POR002/0803POR00202.htm.new	2012-06-22 15:03:17.067897544 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -65,7 +65,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco o masculino das frases abaixo. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco o masculino das frases abaixo. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -85,9 +85,9 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-A comadre conversou com a poetisa. <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="32"></input></span>.<br />A autora visitou a mestra. <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="24"></input></span>.<br />A madrasta da &#x00F3;rf&#x00E3; &#x00E9; atenciosa. <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="31"></input></span>.<br />
+-A plebeia &#x00E9; ateia. <span class="GapSpan" id="GapSpan3">
+-<input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="15"></input></span>.<br />A consulesa &#x00E9; amiga da duquesa. <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="25"></input></span>.<br />A estudante foi v&#x00ED;tima do desastre. <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="33"></input></span>.<br />
++A comadre conversou com a poetisa. <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="32"></input></span>.<br />A autora visitou a mestra. <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="24"></input></span>.<br />A madrasta da &oacute;rf&atilde; &eacute; atenciosa. <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="31"></input></span>.<br />
++A plebeia &eacute; ateia. <span class="GapSpan" id="GapSpan3">
++<input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="15"></input></span>.<br />A consulesa &eacute; amiga da duquesa. <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="25"></input></span>.<br />A estudante foi v&iacute;tima do desastre. <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="33"></input></span>.<br />
+ </div>
+ </form>
+ </div>

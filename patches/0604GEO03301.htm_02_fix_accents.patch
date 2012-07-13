@@ -1,0 +1,20 @@
+--- atividades/0604GEO033/0604GEO03301.htm	2012-06-22 15:02:35.643896922 -0300
++++ atividades/0604GEO033/0604GEO03301.htm.new	2012-06-22 15:02:35.647896922 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="MOGI DAS CRUZES - QUE FOTO SÃO ESTAS?&#x003C;BR&#x003E;IDENTIFIQUE AS FOTOS ABAIXO" />
++<meta name="DC:Title" content="MOGI DAS CRUZES - QUE FOTO SÃO ESTAS?&lt;BR&gt;IDENTIFIQUE AS FOTOS ABAIXO" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -23,7 +23,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
