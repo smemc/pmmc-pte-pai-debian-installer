@@ -1,0 +1,38 @@
+--- atividades/2101POR001/2101POR00102.htm	2012-06-22 14:49:38.503885245 -0300
++++ atividades/2101POR001/2101POR00102.htm.new	2012-06-22 15:07:14.631901114 -0300
+@@ -455,7 +455,7 @@
+ if (document.getElementById('CharacterKeypad') != null){
+ document.getElementById('CharacterKeypad').style.display = 'block';
+ }
+-PreloadImages('IMAGENS/ALIMENTOS/LARANJA.GIF','IMAGENS/ALIMENTOS/MACA.GIF','IMAGENS/ALIMENTOS/MILHO.GIF');
++PreloadImages('imagens/alimentos/laranja.gif','imagens/alimentos/maca.gif','imagens/alimentos/milho.gif');
+ var i = 0;
+ State.length = 0;
+ for (i=0; i<I.length; i++){
+@@ -728,7 +728,7 @@
+ 
+       <tr>
+ 
+-        <td><img src="IMAGENS/ALIMENTOS/LARANJA.GIF" alt="LARANJA.GIF" title="LARANJA" height="137" width="137"></td>
++        <td><img src="imagens/alimentos/laranja.gif" alt="laranja.gif" title="LARANJA" height="137" width="137"></td>
+ 
+         <td style="background-color: rgb(255, 255, 204); font-weight: bold;">L<span class="GapSpan" id="GapSpan0">
+                 <input type="text" class="GapBox" id="Gap0" style="width: 2em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="2" maxlength="1">
+@@ -745,7 +745,7 @@
+ 
+       <tr>
+ 
+-        <td><img src="IMAGENS/ALIMENTOS/MACA.GIF" alt="MACA.GIF" title="MACA" height="137" width="137"></td>
++        <td><img src="imagens/alimentos/maca.gif" alt="maca.gif" title="MACA" height="137" width="137"></td>
+ 
+         <td style="background-color: rgb(255, 255, 204);"><br>
+ 
+@@ -764,7 +764,7 @@
+ 
+       <tr>
+ 
+-        <td><img src="IMAGENS/ALIMENTOS/MILHO.GIF" alt="MILHO.GIF" title="MILHO" height="137" width="137"></td>
++        <td><img src="imagens/alimentos/milho.gif" alt="milho.gif" title="MILHO" height="137" width="137"></td>
+ 
+         <td style="font-weight: bold; background-color: rgb(255, 255, 204);">MILH<span class="GapSpan" id="GapSpan2">
+                 <input type="text" class="GapBox" id="Gap2" style="width: 2em;" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="2" maxlength="1">

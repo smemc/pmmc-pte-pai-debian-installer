@@ -1,0 +1,29 @@
+--- atividades/0804GEO001/0804GEO00103.htm	2012-06-22 15:03:34.339897804 -0300
++++ atividades/0804GEO001/0804GEO00103.htm.new	2012-06-22 15:03:34.343897804 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -58,7 +58,7 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle"></h2>
+ 
+-	<h3 class="ExerciseSubtitle">Observe o Mapa-mundi abaixo com aten&#x00E7;&#x00E3;o, em seguida, fa&#x00E7;a o que se pede.</h3>
++	<h3 class="ExerciseSubtitle">Observe o Mapa-mundi abaixo com aten&ccedil;&atilde;o, em seguida, fa&ccedil;a o que se pede.</h3>
+ 
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr> <td>7. Escreva o nome do Continente onde o Brasil est&#x00E1; localizado.</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="50" maxlength="51"></input></span></td> </tr> <tr> <td>8. Em que Continente est&#x00E1; localizado o Jap&#x00E3;o?</td> <tr> <tr> <td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="50" maxlength="51"></input></span></td> </tr> <tr> <td>9. Qual o nome da Am&#x00E9;rica onde se localiza o Brasil?</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="50" maxlength="51"></input></span></td> </tr></tbody></table><br />
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr> <td>7. Escreva o nome do Continente onde o Brasil est&aacute; localizado.</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="50" maxlength="51"></input></span></td> </tr> <tr> <td>8. Em que Continente est&aacute; localizado o Jap&atilde;o?</td> <tr> <tr> <td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="50" maxlength="51"></input></span></td> </tr> <tr> <td>9. Qual o nome da Am&eacute;rica onde se localiza o Brasil?</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="50" maxlength="51"></input></span></td> </tr></tbody></table><br />
+ </div>
+ </form>
+ </div>

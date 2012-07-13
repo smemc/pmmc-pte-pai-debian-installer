@@ -1,0 +1,38 @@
+--- atividades/2101POR001/2101POR00110.htm	2012-06-22 14:49:38.487885242 -0300
++++ atividades/2101POR001/2101POR00110.htm.new	2012-06-22 15:07:22.651901235 -0300
+@@ -473,7 +473,7 @@
+ if (document.getElementById('CharacterKeypad') != null){
+ document.getElementById('CharacterKeypad').style.display = 'block';
+ }
+-PreloadImages('IMAGENS/OBJETOS/BOLA.jpg','IMAGENS/OBJETOS/CADEIRA.GIF','IMAGENS/OBJETOS/CAMISETA.GIF');
++PreloadImages('imagens/objetos/bola.jpg','imagens/objetos/cadeira.gif','imagens/objetos/camiseta.gif');
+ var i = 0;
+ State.length = 0;
+ for (i=0; i<I.length; i++){
+@@ -746,7 +746,7 @@
+ 
+       <tr>
+ 
+-        <td style="text-align: center;"><img src="IMAGENS/OBJETOS/BOLA.jpg" alt="BOLA.jpg" title="BOLA" height="137" width="137"></td>
++        <td style="text-align: center;"><img src="imagens/objetos/bola.jpg" alt="bola.jpg" title="BOLA" height="137" width="137"></td>
+ 
+         <td style="text-align: center; font-weight: bold; background-color: rgb(255, 255, 204);">B<span class="GapSpan" id="GapSpan0">
+                 <input type="text" class="GapBox" id="Gap0" style="width: 2em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="2" maxlength="1">
+@@ -763,7 +763,7 @@
+ 
+       <tr>
+ 
+-        <td style="text-align: center;"><img src="IMAGENS/OBJETOS/CADEIRA.GIF" alt="CADEIRA.GIF" title="CADEIRA" height="86" width="137"></td>
++        <td style="text-align: center;"><img src="imagens/objetos/cadeira.gif" alt="cadeira.gif" title="CADEIRA" height="86" width="137"></td>
+ 
+         <td style="background-color: rgb(255, 255, 204);"><br>
+ 
+@@ -786,7 +786,7 @@
+ 
+       <tr>
+ 
+-        <td style="text-align: center;"><img src="IMAGENS/OBJETOS/CAMISETA.GIF" alt="CAMISETA.GIF" title="CAMISETA" height="137" width="137"></td>
++        <td style="text-align: center;"><img src="imagens/objetos/camiseta.gif" alt="camiseta.gif" title="CAMISETA" height="137" width="137"></td>
+ 
+         <td style="text-align: center; font-weight: bold; background-color: rgb(255, 255, 204);">C<span class="GapSpan" id="GapSpan3">
+                 <input type="text" class="GapBox" id="Gap3" style="width: 2em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="2" maxlength="1">

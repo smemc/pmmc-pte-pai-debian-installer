@@ -1,0 +1,11 @@
+--- atividades/0603GEO084/0603GEO08402.htm	2012-06-22 15:02:03.055896432 -0300
++++ atividades/0603GEO084/0603GEO08402.htm.new	2012-06-22 15:02:03.055896432 -0300
+@@ -34,7 +34,7 @@
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)-->
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)-->
+     <img src="1.jpg" width="45%" /><img src="2.jpg" width="45%" /></p>
+   </div>
+ 

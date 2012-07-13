@@ -1,0 +1,48 @@
+--- atividades/0803MAT004/0803MAT00401.htm	2012-06-22 15:03:14.803897511 -0300
++++ atividades/0803MAT004/0803MAT00401.htm.new	2012-06-22 15:03:14.807897511 -0300
+@@ -5,13 +5,13 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="Tabelas e Gr&#x00E1;ficos" />
++<meta name="DC:Title" content="Tabelas e Gr&aacute;ficos" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+ <title>
+-Tabelas e Gr&#x00E1;ficos
++Tabelas e Gr&aacute;ficos
+ </title>
+ 
+ <!-- Made with executable version 6.3 Release 0 Build 3 -->
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -49,9 +49,9 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Tabelas e Gr&#x00E1;ficos</h2>
++	<h2 class="ExerciseTitle">Tabelas e Gr&aacute;ficos</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Os quartos anos resolveram escolher um representante. Os concorrentes eram Luan, Emilly, Fl&#x00E1;via e Paulo. Observe o resultado da vota&#x00E7;&#x00E3;o e responda:</h3>
++	<h3 class="ExerciseSubtitle">Os quartos anos resolveram escolher um representante. Os concorrentes eram Luan, Emilly, Fl&aacute;via e Paulo. Observe o resultado da vota&ccedil;&atilde;o e responda:</h3>
+ 
+ 
+ 
+@@ -78,7 +78,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="1" bordercolor="#0000ff" rules="none" cellpadding="4" cellspacing="4"><tbody><tr><td>&nbsp;Luan</td><td><img src="imagens/luan.png" alt="luan.png" title="luan" width="220" height="40"></img></td><td width="10"></td><td>&nbsp;Fl&#x00E1;via</td><td><img src="imagens/flavia.png" alt="flavia.png" title="flavia" width="220" height="40"></img></td></tr><tr><td>&nbsp;Emilly</td><td><img src="imagens/emilly.png" alt="emilly.png" title="emilly" width="220" height="44"></img></td><td width="10"></td><td>&nbsp;Paulo</td><td><img src="imagens/paulo.png" alt="paulo.png" title="paulo" width="220" height="44"></img></td></tr></tbody></table><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td colspan="2">a) Quantos votos representa cada quadradinho?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td></tr><tr><td colspan="2">b) Quantos votos recebeu cada candidato?</td></tr><tr><td width="180">Luan <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td><td width="180">Fl&#x00E1;via <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td></tr><tr><td width="180">Emilly <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td><td width="180">Paulo <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td></tr><td colspan="2">c) Quantas pessoas votaram nessa elei&#x00E7;&#x00E3;o?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> pessoas</td></tr><tr><td colspan="2">d) Quem foi eleito representante dos Quartos anos?</td></tr><tr><td>R: Foi <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr><tr><td colspan="2">e) Complete o quadro seguindo a ordem de coloca&#x00E7;&#x00E3;o:</td></tr><tr align="center"><td bgcolor="#016561"><font color="#ffffff"><b>Classifica&#x00E7;&#x00E3;o</b></font></td><td bgcolor="#035f8a"><font color="#ffffff"><b>Concorrentes</b></font></td></tr><tr align="center"><td bgcolor="#aeeba9">1&#x00BA;</td><td bgcolor="#a9d6eb"><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr><tr align="center"><td bgcolor="#aeeba9">2&#x00BA;</td><td bgcolor="#a9d6eb"><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr><tr align="center"><td bgcolor="#aeeba9">3&#x00BA;</td><td bgcolor="#a9d6eb"><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr><tr align="center"><td bgcolor="#aeeba9">4&#x00BA;</td><td bgcolor="#a9d6eb"><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr></tbody></table>
++<table border="1" bordercolor="#0000ff" rules="none" cellpadding="4" cellspacing="4"><tbody><tr><td>&nbsp;Luan</td><td><img src="imagens/luan.png" alt="luan.png" title="luan" width="220" height="40"></img></td><td width="10"></td><td>&nbsp;Fl&aacute;via</td><td><img src="imagens/flavia.png" alt="flavia.png" title="flavia" width="220" height="40"></img></td></tr><tr><td>&nbsp;Emilly</td><td><img src="imagens/emilly.png" alt="emilly.png" title="emilly" width="220" height="44"></img></td><td width="10"></td><td>&nbsp;Paulo</td><td><img src="imagens/paulo.png" alt="paulo.png" title="paulo" width="220" height="44"></img></td></tr></tbody></table><br /><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td colspan="2">a) Quantos votos representa cada quadradinho?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td></tr><tr><td colspan="2">b) Quantos votos recebeu cada candidato?</td></tr><tr><td width="180">Luan <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td><td width="180">Fl&aacute;via <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td></tr><tr><td width="180">Emilly <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td><td width="180">Paulo <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> votos</td></tr><td colspan="2">c) Quantas pessoas votaram nessa elei&ccedil;&atilde;o?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> pessoas</td></tr><tr><td colspan="2">d) Quem foi eleito representante dos Quartos anos?</td></tr><tr><td>R: Foi <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr><tr><td colspan="2">e) Complete o quadro seguindo a ordem de coloca&ccedil;&atilde;o:</td></tr><tr align="center"><td bgcolor="#016561"><font color="#ffffff"><b>Classifica&ccedil;&atilde;o</b></font></td><td bgcolor="#035f8a"><font color="#ffffff"><b>Concorrentes</b></font></td></tr><tr align="center"><td bgcolor="#aeeba9">1&ordm;</td><td bgcolor="#a9d6eb"><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr><tr align="center"><td bgcolor="#aeeba9">2&ordm;</td><td bgcolor="#a9d6eb"><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr><tr align="center"><td bgcolor="#aeeba9">3&ordm;</td><td bgcolor="#a9d6eb"><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr><tr align="center"><td bgcolor="#aeeba9">4&ordm;</td><td bgcolor="#a9d6eb"><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

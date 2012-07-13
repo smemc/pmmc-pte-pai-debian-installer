@@ -1,0 +1,16 @@
+--- atividades/0804POR003/0804POR00303.js	2012-06-22 15:09:05.011902770 -0300
++++ atividades/0804POR003/0804POR00303.js.new	2012-06-22 15:09:05.011902770 -0300
+@@ -474,10 +474,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var Incorrect = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var Incorrect = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte:';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

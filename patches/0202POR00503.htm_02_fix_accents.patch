@@ -1,0 +1,56 @@
+--- atividades/0202POR005/0202POR00503.htm	2012-06-22 14:54:37.059889731 -0300
++++ atividades/0202POR005/0202POR00503.htm.new	2012-06-22 14:54:37.059889731 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -588,13 +588,13 @@
+ var Punctuation = '\u002E';
+ 
+ var Openers = '';
+-var CorrectResponse = 'Parab&#x00E9;ns. Bom trabalho!';
+-var IncorrectResponse = 'Sua resposta est&#x00E1; incorreta. Tente outra vez!';
+-var ThisMuchCorrect = 'Esta parte da sua resposta est&#x00E1; correta:';
+-var TheseAnswersToo = 'Estas respostas tamb&#x00E9;m est&#x00E3;o corretas:';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
++var IncorrectResponse = 'Sua resposta est&aacute; incorreta. Tente outra vez!';
++var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
++var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o corretas:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para a Próxima Frase!';
+-var NextCorrect = 'Pr&#x00F3;xima letra correta adicionada:';
++var NextCorrect = 'Pr&oacute;xima letra correta adicionada:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+ var PageBGColor = '#ffffff';
+@@ -1136,13 +1136,13 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#000000">ORDENA&#x00C7;&#x00C3;O DE FRASES</font></h2>
++  <h2 class="ExerciseTitle"><font color="#000000">ORDENA&Ccedil;&Atilde;O DE FRASES</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Coloque as palavras 
+     em ordem para formar uma frase. Quando terminar, clique em VERIFICAR para 
+-    corrigir seu exerc&#x00ED;cio.</p>
++    corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

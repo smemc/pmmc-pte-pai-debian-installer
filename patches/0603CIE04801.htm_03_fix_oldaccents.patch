@@ -1,0 +1,31 @@
+--- atividades/0603CIE048/0603CIE04801.htm	2012-06-22 15:02:01.791896413 -0300
++++ atividades/0603CIE048/0603CIE04801.htm.new	2012-06-22 15:02:01.791896413 -0300
+@@ -4,7 +4,7 @@
+   <head>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -27,7 +27,7 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">PARQUE ESTADUAL DA NASCENTE DO TIETÊ</h2>
++	<h2 class="ExerciseTitle">PARQUE ESTADUAL DA NASCENTE DO TIET&Ecirc;</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 
+@@ -51,8 +51,8 @@
+ </p>
+ 	
+   <p style="text-align: justify; font-family: Arial; font-weight: 700; margin: 0 20px 0 20px;  font-size: 20px;">As 
+-    visitas na área são monitoradas e devem ser agendadas com antecedência. O 
+-    telefone para contato é (011) 4696-1165 </p>
++    visitas na &aacute;rea s&atilde;o monitoradas e devem ser agendadas com anteced&ecirc;ncia. O 
++    telefone para contato &eacute; (011) 4696-1165 </p>
+   <p style="text-align: justify; font-family: Arial; font-weight: 700; margin: 0 20px 0 20px;  font-size: 20px;">
+     <!-- *********************************************************************************************** -->
+   </p>

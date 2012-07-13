@@ -1,0 +1,64 @@
+--- atividades/0804CIE003/0804CIE00302.js	2012-06-22 15:08:45.767902483 -0300
++++ atividades/0804CIE003/0804CIE00302.js.new	2012-06-22 15:08:45.767902483 -0300
+@@ -636,9 +636,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = 'Parab&#x00E9;ns!';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas.';
+-var YourScoreIs = 'Sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = 'Parab&eacute;ns!';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas.';
++var YourScoreIs = 'Sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#FFFFFF';
+@@ -819,16 +819,16 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='&#x00C9; a press&#x00E3;o que o ar exerce sobre a Terra.';
++F[0][0]='&Eacute; a press&atilde;o que o ar exerce sobre a Terra.';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='Aparelho que mede a press&#x00E3;o atmosf&#x00E9;rica.';
++F[1][0]='Aparelho que mede a press&atilde;o atmosf&eacute;rica.';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='&#x00C9; o ar em movimento.';
++F[2][0]='&Eacute; o ar em movimento.';
+ F[2][1] = 3;
+ F[3] = new Array();
+-F[3][0]='Aparelhos que indicam a dire&#x00E7;&#x00E3;o do vento.';
++F[3][0]='Aparelhos que indicam a dire&ccedil;&atilde;o do vento.';
+ F[3][1] = 4;
+ F[4] = new Array();
+ F[4][0]='Aparelho que mede a velocidade do vento.';
+@@ -840,11 +840,11 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='Press&#x00E3;o atmosf&#x00E9;rica';
++D[0][0]='Press&atilde;o atmosf&eacute;rica';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='Bar&#x00F4;metro';
++D[1][0]='Bar&ocirc;metro';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+@@ -856,11 +856,11 @@
+ D[3][1] = 4;
+ D[3][2] = 0;
+ D[4] = new Array();
+-D[4][0]='Anem&#x00F4;metro';
++D[4][0]='Anem&ocirc;metro';
+ D[4][1] = 5;
+ D[4][2] = 0;
+ D[5] = new Array();
+-D[5][0]='Term&#x00F4;metro';
++D[5][0]='Term&ocirc;metro';
+ D[5][1] = 6;
+ D[5][2] = 0;
+ 

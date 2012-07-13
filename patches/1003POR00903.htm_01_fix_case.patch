@@ -1,0 +1,20 @@
+--- atividades/1003POR009/1003POR00903.htm	2012-06-22 14:49:26.671885067 -0300
++++ atividades/1003POR009/1003POR00903.htm.new	2012-06-22 15:04:35.267898720 -0300
+@@ -52,7 +52,7 @@
+ 
+ <!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
+ 
+-<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003por00904.htm'; return false;">=&gt;</button>-->
++<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003POR00904.htm'; return false;">=&gt;</button>-->
+ 
+ 
+ </div>
+@@ -263,7 +263,7 @@
+ 
+ <!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
+ 
+-<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003por00904.htm'; return false;">=&gt;</button>-->
++<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003POR00904.htm'; return false;">=&gt;</button>-->
+ 
+ 
+ </div>

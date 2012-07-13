@@ -1,0 +1,11 @@
+--- atividades/0202CIE003/0202CIE00302.htm	2012-06-22 14:54:03.123889219 -0300
++++ atividades/0202CIE003/0202CIE00302.htm.new	2012-06-22 14:54:03.123889219 -0300
+@@ -600,7 +600,7 @@
+   </div>
+   																				<!--         Ajout G.Q.           -->
+    <div class="Titles">
+-	<h2 class="ExerciseTitle">ANIMAIS TERRESTRES E AQU&#x00C1;TICOS</h2>
++	<h2 class="ExerciseTitle">ANIMAIS TERRESTRES E AQU&Aacute;TICOS</h2>
+ 	<h3 class="ExerciseSubtitle"><strong>Classifique estes animais em terrestres ou aquáticos:</strong></h3>
+   </div>
+  

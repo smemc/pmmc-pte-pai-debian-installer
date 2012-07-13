@@ -1,0 +1,29 @@
+--- atividades/0804MAT004/0804MAT00401.htm	2012-06-22 15:03:38.667897869 -0300
++++ atividades/0804MAT004/0804MAT00401.htm.new	2012-06-22 15:03:38.667897869 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientador" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="Descubra o numeral resolvendo a adi&#x00E7;&#x00E3;o" />
++<meta name="DC:Title" content="Descubra o numeral resolvendo a adi&ccedil;&atilde;o" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -57,7 +57,7 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Descubra o numeral resolvendo a adi&#x00E7;&#x00E3;o</h2>
++	<h2 class="ExerciseTitle">Descubra o numeral resolvendo a adi&ccedil;&atilde;o</h2>
+ 
+ 
+ 

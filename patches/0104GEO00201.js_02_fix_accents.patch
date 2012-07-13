@@ -1,0 +1,19 @@
+--- atividades/0104GEO002/0104GEO00201.js	2012-06-22 15:07:40.347901501 -0300
++++ atividades/0104GEO002/0104GEO00201.js.new	2012-06-22 15:07:40.347901501 -0300
+@@ -435,12 +435,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

@@ -1,0 +1,109 @@
+--- atividades/0204POR007/0204POR00709.htm	2012-06-22 14:56:55.815891816 -0300
++++ atividades/0204POR007/0204POR00709.htm.new	2012-06-22 14:56:55.815891816 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -835,8 +835,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    &quot;Verificar&quot; para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    &quot;Verificar&quot; para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -851,16 +851,16 @@
+ 
+ 
+  -->
+-  <div align="left"><strong><font size="3">D&#x00EA; o adjetivo correspondente 
++  <div align="left"><strong><font size="3">D&ecirc; o adjetivo correspondente 
+     a: </font></strong></div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+       <div class="ClozeBody"> 
+         <table width="600" border="1" align="center" cellpadding="0" cellspacing="0">
+           <tr> 
+-            <td width="300" height="25" bgcolor="#FFCCCC"> <div align="center"><font size="3"><strong>c&#x00E9;u 
++            <td width="300" height="25" bgcolor="#FFCCCC"> <div align="center"><font size="3"><strong>c&eacute;u 
+                 cheio de estrelas</strong></font></div></td>
+-            <td width="300" bgcolor="#FFCC99"> <div align="center"><font size="3"><strong>c&#x00E9;u 
++            <td width="300" bgcolor="#FFCC99"> <div align="center"><font size="3"><strong>c&eacute;u 
+                 <font color="#FF0000" size="4">estrelado</font></strong></font></div></td>
+           </tr>
+           <tr> 
+@@ -873,9 +873,9 @@
+                 </span></strong></font></div></td>
+           </tr>
+           <tr> 
+-            <td width="300" bgcolor="#FFCCCC"> <div align="center"><font size="3"><strong>p&#x00E1;ssaro 
++            <td width="300" bgcolor="#FFCCCC"> <div align="center"><font size="3"><strong>p&aacute;ssaro 
+                 da noite</strong></font></div></td>
+-            <td width="300" bgcolor="#FFCC99"> <div align="center"><font size="3"><strong>p&#x00E1;ssaro 
++            <td width="300" bgcolor="#FFCC99"> <div align="center"><font size="3"><strong>p&aacute;ssaro 
+                 <span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="10" maxlength="10">
+                 </input> 
+@@ -892,7 +892,7 @@
+           </tr>
+           <tr> 
+             <td width="300" bgcolor="#FFCCCC"> <div align="center"><font size="3"><strong>hino 
+-                da It&#x00E1;lia</strong></font></div></td>
++                da It&aacute;lia</strong></font></div></td>
+             <td width="300" bgcolor="#FFCC99"> <div align="center"><font size="3"><strong>hino 
+                 <span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="10" maxlength="10">
+@@ -900,9 +900,9 @@
+                 </span></strong></font></div></td>
+           </tr>
+           <tr> 
+-            <td width="300" bgcolor="#FFCCCC"> <div align="center"><font size="3"><strong>sal&#x00E1;rio 
+-                do m&#x00EA;s</strong></font></div></td>
+-            <td width="300" bgcolor="#FFCC99"> <div align="center"><font size="3"><strong>sal&#x00E1;rio 
++            <td width="300" bgcolor="#FFCCCC"> <div align="center"><font size="3"><strong>sal&aacute;rio 
++                do m&ecirc;s</strong></font></div></td>
++            <td width="300" bgcolor="#FFCC99"> <div align="center"><font size="3"><strong>sal&aacute;rio 
+                 <span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="10" maxlength="10">
+                 </input> 
+@@ -954,7 +954,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

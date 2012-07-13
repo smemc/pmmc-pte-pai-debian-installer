@@ -1,0 +1,65 @@
+--- atividades/0201POR003/0201POR00303.htm	2012-06-22 14:53:54.247889085 -0300
++++ atividades/0201POR003/0201POR00303.htm.new	2012-06-22 14:53:54.247889085 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIO DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIO DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Você Terminou os Exercícios!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -778,7 +778,7 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#333399">CRUZADA DO TR&#x00C2;NSITO</font></h2>
++  <h2 class="ExerciseTitle"><font color="#333399">CRUZADA DO TR&Acirc;NSITO</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+@@ -828,10 +828,10 @@
+ <tr><td class="ClueNum">2. </td>
+                 <td id="Clue_A_2" class="Clue">Pessoas que transitam nas ruas:<img src="pedestre.gif" width="80" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">4. </td>
+-                <td id="Clue_A_4" class="Clue">Pessoas que dirigem os ve&#x00ED;culos:<img src="motorista.gif" width="106" height="100" align="absmiddle" /></td>
++                <td id="Clue_A_4" class="Clue">Pessoas que dirigem os ve&iacute;culos:<img src="motorista.gif" width="106" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">5. </td>
+                 <td id="Clue_A_5" class="Clue">Devemos respeitar os ______<img src="sinais_transito.gif" width="120" height="100" align="absmiddle" /> 
+-                  de tr&#x00E2;nsito.</td>
++                  de tr&acirc;nsito.</td>
+               </tr>
+ 
+ </tbody>
+@@ -849,7 +849,7 @@
+                 <td id="Clue_D_1" class="Clue">Devemos atravessar a rua na faixa 
+                   de ____________<img src="faixa_de_pedestres.gif" width="125" height="100" align="absmiddle" /></td>
+               </tr><tr><td class="ClueNum">3. </td>
+-                <td id="Clue_D_3" class="Clue">Local que trafegam os ve&#x00ED;culos:<img src="ruas.gif" width="100" height="100" align="absmiddle" /></td>
++                <td id="Clue_D_3" class="Clue">Local que trafegam os ve&iacute;culos:<img src="ruas.gif" width="100" height="100" align="absmiddle" /></td>
+               </tr>
+ 
+ </tbody>

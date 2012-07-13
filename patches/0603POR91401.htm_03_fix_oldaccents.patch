@@ -1,0 +1,20 @@
+--- atividades/0603POR914/0603POR91401.htm	2012-06-22 15:02:32.531896875 -0300
++++ atividades/0603POR914/0603POR91401.htm.new	2012-06-22 15:02:32.535896874 -0300
+@@ -3,7 +3,7 @@
+ <head>
+ <meta http-equiv="Content-Language" content="pt-br">
+ <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ </head>
+ 
+@@ -23,7 +23,7 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">CRIE UM TEXTO UTILIZANDO OS DESENHOS ABAIXO. DÊ-LHE UM TÍTULO BEM LEGAL.</h2>
++	<h2 class="ExerciseTitle">CRIE UM TEXTO UTILIZANDO OS DESENHOS ABAIXO. D&Ecirc;-LHE UM T&Iacute;TULO BEM LEGAL.</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+ </div>
+ 

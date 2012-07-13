@@ -1,0 +1,27 @@
+--- atividades/1003POR017/1003POR01702.htm	2012-06-22 15:04:52.023898971 -0300
++++ atividades/1003POR017/1003POR01702.htm.new	2012-06-22 15:04:52.023898971 -0300
+@@ -6,7 +6,7 @@
+     <meta name="keywords" content="Ardora"></meta>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -29,13 +29,13 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">CAÇA-PALAVRAS</h2>
++	<h2 class="ExerciseTitle">CA&Ccedil;A-PALAVRAS</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+ 	<p id="Instructions"><span class="ArdoraEnunciado"><font color="#000000" size="3">Encontre 
+-    no caça-palavras as palavras listadas abaixo: </font></span></p>
++    no ca&ccedil;a-palavras as palavras listadas abaixo: </font></span></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">

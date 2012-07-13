@@ -1,0 +1,11 @@
+--- atividades/1002POR001/1002POR00101.htm	2012-06-22 15:04:05.071898266 -0300
++++ atividades/1002POR001/1002POR00101.htm.new	2012-06-22 15:04:05.071898266 -0300
+@@ -29,7 +29,7 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">Ca&#231;a-palavras com J</h2>
++	<h2 class="ExerciseTitle">Ca&ccedil;a-palavras com J</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 

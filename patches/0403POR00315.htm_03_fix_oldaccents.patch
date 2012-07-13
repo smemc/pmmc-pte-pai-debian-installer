@@ -1,0 +1,37 @@
+--- atividades/0403POR003/0403POR00315.htm	2012-06-22 14:57:16.755892131 -0300
++++ atividades/0403POR003/0403POR00315.htm.new	2012-06-22 14:57:16.755892131 -0300
+@@ -3,7 +3,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+ <meta name="DC:Creator" content="Gustavo Firveda">
+-<meta name="DC:Title" content="Complete o quadro com os números que faltam">
++<meta name="DC:Title" content="Complete o quadro com os n&uacute;meros que faltam">
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+@@ -14,7 +14,7 @@
+ 
+ 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title><!-- Made with executable version 6.2 Release 4 Build 2 --><!-- The following insertion allows you to add your own code directly to this head tag from the configuration screen --><link href="../estilos/estilos.css" rel="stylesheet" type="text/css"><!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title><!-- Made with executable version 6.2 Release 4 Build 2 --><!-- The following insertion allows you to add your own code directly to this head tag from the configuration screen --><link href="../estilos/estilos.css" rel="stylesheet" type="text/css"><!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,14 +56,14 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png"></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Complete o quadro com os números que faltam</h2>
++	<h2 class="ExerciseTitle">Complete o quadro com os n&uacute;meros que faltam</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

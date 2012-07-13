@@ -1,0 +1,29 @@
+--- atividades/1004POR010/1004POR01011.htm	2012-06-22 15:05:48.975899827 -0300
++++ atividades/1004POR010/1004POR01011.htm.new	2012-06-22 15:05:48.975899827 -0300
+@@ -74,7 +74,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Em todas as palavras da cruzadinha, o X tem som de S. Depois de finalizar a cruzadinha clique em "Verificar" para corrigir.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Em todas as palavras da cruzadinha, o X tem som de S. Depois de finalizar a cruzadinha clique em "Verificar" para corrigir.</div>
+ </div>
+ 
+ 
+@@ -112,7 +112,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontais</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">O que &#x00E9; de outro planeta</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Pontua&#x00E7;&#x00E3;o utilizada para exclamar</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Foi mandado embora</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Sin&#x00F4;nimo de perto</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Acontece com as bombas</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Na escola &#x00E9; sempre lido</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">O que &eacute; de outro planeta</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Pontua&ccedil;&atilde;o utilizada para exclamar</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Foi mandado embora</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Sin&ocirc;nimo de perto</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Acontece com as bombas</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Na escola &eacute; sempre lido</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -125,7 +125,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Verticais</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Ato de experimentar</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Ato de expor</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">&#x00D3;timo, maravilhoso</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Ant&#x00F4;nimo de m&#x00ED;nimo</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Ato de experimentar</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Ato de expor</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">&Oacute;timo, maravilhoso</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Ant&ocirc;nimo de m&iacute;nimo</td></tr>
+ 
+ </tbody>
+ </table>

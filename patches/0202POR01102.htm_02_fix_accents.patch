@@ -1,0 +1,13 @@
+--- atividades/0202POR011/0202POR01102.htm	2012-06-22 14:55:02.531890114 -0300
++++ atividades/0202POR011/0202POR01102.htm.new	2012-06-22 14:55:02.535890114 -0300
+@@ -29,8 +29,8 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">CA&#199;A-PALAVRAS - FESTA JUNINA</h2>
+-	<h3 class="ExerciseSubtitle">Encontre no diagrama 8 palavras relacionadas &#224; Festa Junina </h3>
++	<h2 class="ExerciseTitle">CA&Ccedil;A-PALAVRAS - FESTA JUNINA</h2>
++	<h3 class="ExerciseSubtitle">Encontre no diagrama 8 palavras relacionadas &agrave; Festa Junina </h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">

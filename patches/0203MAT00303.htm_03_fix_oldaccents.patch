@@ -1,0 +1,20 @@
+--- atividades/0203MAT003/0203MAT00303.htm	2012-06-22 14:55:14.403890292 -0300
++++ atividades/0203MAT003/0203MAT00303.htm.new	2012-06-22 14:55:14.403890292 -0300
+@@ -438,7 +438,7 @@
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var ContinuousScoring = true;
+ var CorrectFirstTime = 'Quest&otilde;es respondidas corretamente na primeira tentativa: ';
+ var ShowCorrectFirstTime = true;
+@@ -531,7 +531,7 @@
+ 	
+ //Now hide all except the first item
+ 	for (i=1; i<QArray.length; i++){
+-		// Comentei este comando porque eu quero que apareça todas as questões - Marlon Militani
++		// Comentei este comando porque eu quero que apare&ccedil;a todas as quest&otilde;es - Marlon Militani
+ 	    // QArray[i].style.display = 'none';
+ 		QArray[i].style.display = '';
+ 	}		

@@ -1,0 +1,29 @@
+--- atividades/0804MAT002/0804MAT00203.js	2012-06-22 15:08:50.879902560 -0300
++++ atividades/0804MAT002/0804MAT00203.js.new	2012-06-22 15:08:50.879902560 -0300
+@@ -474,20 +474,20 @@
+ var CurrQNum = 0;
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = ':-(';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ 
+ //New for 6.2.2.0
+-var CompletedSoFar = 'Perguntas respondidas at&#x00E9; ao momento:';
+-var ExerciseCompleted = 'Completou o exerc&#x00ED;cio.';
++var CompletedSoFar = 'Perguntas respondidas at&eacute; ao momento:';
++var ExerciseCompleted = 'Completou o exerc&iacute;cio.';
+ var ShowCompletedSoFar = true;
+ 
+ var ContinuousScoring = false;
+-var CorrectFirstTime = '<br>Perguntas respondidas corretamente &#x00E0; primeira: ';
++var CorrectFirstTime = '<br>Perguntas respondidas corretamente &agrave; primeira: ';
+ var ShowCorrectFirstTime = false;
+ var ShuffleQs = false;
+ var ShuffleAs = false;
+-var DefaultRight = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var DefaultWrong = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
++var DefaultRight = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var DefaultWrong = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!';
+ var QsToShow = 6;
+ var Score = 0;
+ var Finished = false;

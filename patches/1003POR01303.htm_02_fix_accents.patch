@@ -1,0 +1,46 @@
+--- atividades/1003POR013/1003POR01303.htm	2012-06-22 15:04:44.603898860 -0300
++++ atividades/1003POR013/1003POR01303.htm.new	2012-06-22 15:04:44.607898860 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="&quot;R&quot;, &quot;S&quot; E &quot;L&quot; NO FINAL DA S&#x00CD;LABA" />
++<meta name="DC:Title" content="&quot;R&quot;, &quot;S&quot; E &quot;L&quot; NO FINAL DA S&Iacute;LABA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -65,14 +65,14 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">"R", "S" E "L" NO FINAL DA S&#x00CD;LABA</h2>
++	<h2 class="ExerciseTitle">"R", "S" E "L" NO FINAL DA S&Iacute;LABA</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -110,7 +110,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Seu trabalho &#x00E9; costurar</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Coloca-se na janela para diminuir a claridade</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Recobre o corpo dos peixes</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Animal que vive na selva</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Contr&#x00E1;rio de bondade</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">Refei&#x00E7;&#x00E3;o servida por volta do meio-dia</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Seu trabalho &eacute; costurar</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Coloca-se na janela para diminuir a claridade</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Recobre o corpo dos peixes</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Animal que vive na selva</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Contr&aacute;rio de bondade</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">Refei&ccedil;&atilde;o servida por volta do meio-dia</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -123,7 +123,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Animal com fama de lento</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Contr&#x00E1;rio de mentira</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Brilha no c&#x00E9;u</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Vive da pesca</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Animal com fama de lento</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Contr&aacute;rio de mentira</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Brilha no c&eacute;u</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Vive da pesca</td></tr>
+ 
+ </tbody>
+ </table>

@@ -1,0 +1,20 @@
+--- atividades/1003POR020/1003POR02002.htm	2012-06-22 15:04:57.727899057 -0300
++++ atividades/1003POR020/1003POR02002.htm.new	2012-06-22 15:04:57.731899057 -0300
+@@ -72,7 +72,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -110,7 +110,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Onde se faz churrasco</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Chuva muito fina</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Tem nos carros para iluminar o caminho</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Que oferece perigo</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">&#x00C9; colocada nas patas dos cavalos</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Metal dourado e valioso</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Onde se faz churrasco</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Chuva muito fina</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Tem nos carros para iluminar o caminho</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Que oferece perigo</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">&Eacute; colocada nas patas dos cavalos</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Metal dourado e valioso</td></tr>
+ 
+ </tbody>
+ </table>

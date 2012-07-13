@@ -1,0 +1,29 @@
+--- atividades/0803POR019/0803POR01904.htm	2012-06-22 15:03:30.911897753 -0300
++++ atividades/0803POR019/0803POR01904.htm.new	2012-06-22 15:03:30.915897751 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -58,7 +58,7 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">Atividade sobre o folclore</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Separe em s&#x00ED;labas as palavras do exerc&#x00ED;cio anterior</h3>
++	<h3 class="ExerciseSubtitle">Separe em s&iacute;labas as palavras do exerc&iacute;cio anterior</h3>
+ 
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>Boitat&#x00E1;</td><td></td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td>Saci</td><td></td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td>Curupira</td><td></td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td>Mula</td><td></td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>Boitat&aacute;</td><td></td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td>Saci</td><td></td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td>Curupira</td><td></td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td>Mula</td><td></td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,11 @@
+--- atividades/0203HIS001/0203HIS00102.htm	2012-06-22 14:55:05.751890162 -0300
++++ atividades/0203HIS001/0203HIS00102.htm.new	2012-06-22 14:55:05.755890162 -0300
+@@ -579,7 +579,7 @@
+ var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
+ var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Você terminou os exercícios!';
++var Proximo = 'Voc&ecirc; terminou os exerc&iacute;cios!';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

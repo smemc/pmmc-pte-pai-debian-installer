@@ -1,0 +1,32 @@
+--- atividades/0804POR002/0804POR00203.htm	2012-06-22 15:03:42.467897926 -0300
++++ atividades/0804POR002/0804POR00203.htm.new	2012-06-22 15:03:42.467897926 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientador" />
+-<meta name="DC:Title" content="Ligue os ant&#x00F4;nimos" />
++<meta name="DC:Title" content="Ligue os ant&ocirc;nimos" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -54,9 +54,9 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Ligue os ant&#x00F4;nimos</h2>
++	<h2 class="ExerciseTitle">Ligue os ant&ocirc;nimos</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Arraste os ant&#x00F4;nimos</h3>
++	<h3 class="ExerciseSubtitle">Arraste os ant&ocirc;nimos</h3>
+ 
+ 
+ 

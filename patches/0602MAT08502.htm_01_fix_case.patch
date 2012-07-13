@@ -1,0 +1,29 @@
+--- atividades/0602MAT085/0602MAT08502.htm	2012-06-22 14:49:46.943885371 -0300
++++ atividades/0602MAT085/0602MAT08502.htm.new	2012-06-22 15:00:45.847895272 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="&#x003C;img src=&quot;PONTOS.gif&quot; width=&quot;602&quot; height=&quot;201&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="&#x003C;img src=&quot;pontos.gif&quot; width=&quot;602&quot; height=&quot;201&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&#x003E;&#x003C;/img&#x003E;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -720,7 +720,7 @@
+ 
+ 	
+ 
+-	PreloadImages('../imagens/logo.png','PONTOS.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','pontos.gif','rodape.png');
+ 
+ 	
+ 	CompleteEmptyFeedback();
+@@ -1057,7 +1057,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle"><img src="PONTOS.gif" width="602" height="201" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></h2>
++	<h2 class="ExerciseTitle"><img src="pontos.gif" width="602" height="201" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></h2>
+ 
+ 
+ 

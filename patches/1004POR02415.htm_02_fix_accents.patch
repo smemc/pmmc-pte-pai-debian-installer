@@ -1,0 +1,96 @@
+--- atividades/1004POR024/1004POR02415.htm	2012-06-22 15:06:32.007900471 -0300
++++ atividades/1004POR024/1004POR02415.htm.new	2012-06-22 15:06:32.007900471 -0300
+@@ -1,10 +1,10 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Title" content="PALAVRAS COM H INICIAL" />
+ 
+ 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -45,12 +45,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -61,7 +61,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+@@ -74,7 +74,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Reescreva as palavras em ordem alfab&eacute;tica. Em 
+-    seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -95,10 +95,10 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table align="center" border="1" cellpadding="2" cellspacing="2"><tbody><tr>
+-              <td bgcolor="#FFFFFF"><div align="center"><strong>HORTALI&#x00C7;A 
+-                  - HABITA&#x00C7;&#x00C3;O - HABILIDADE - HOLAND&#x00CA;S </p><br />
+-                  H&#x00C1;LITO - HEX&#x00C1;GONO - HORT&#x00CA;NSIA - HOLOFOTE</p><br />
+-                  HIDRATANTE - HEPATITE - HORROROSO - HIST&#x00D3;RIA</strong></div></td>
++              <td bgcolor="#FFFFFF"><div align="center"><strong>HORTALI&Ccedil;A 
++                  - HABITA&Ccedil;&Atilde;O - HABILIDADE - HOLAND&Ecirc;S </p><br />
++                  H&Aacute;LITO - HEX&Aacute;GONO - HORT&Ecirc;NSIA - HOLOFOTE</p><br />
++                  HIDRATANTE - HEPATITE - HORROROSO - HIST&Oacute;RIA</strong></div></td>
+             </tr></tbody></table><br />
+         <table align="center" cellpadding="2" cellspacing="2">
+           <tbody>
+@@ -212,12 +212,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -229,7 +229,7 @@
+ <!-- EndBottomNavButtons -->
+ <!-- BeginSubmissionForm -->
+ <!-- EndSubmissionForm -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body>
+ 
+ </html>

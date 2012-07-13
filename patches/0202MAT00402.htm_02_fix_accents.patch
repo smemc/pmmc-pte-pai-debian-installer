@@ -1,0 +1,91 @@
+--- atividades/0202MAT004/0202MAT00402.htm	2012-06-22 14:54:14.747889396 -0300
++++ atividades/0202MAT004/0202MAT00402.htm.new	2012-06-22 14:54:14.747889396 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE MATEM&#x00C1;TICA" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE MATEM&Aacute;TICA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -812,13 +812,13 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#333399">N&#x00DA;MEROS PARES E &#x00CD;MPARES</font></h2>
++  <h2 class="ExerciseTitle"><font color="#333399">N&Uacute;MEROS PARES E &Iacute;MPARES</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -841,20 +841,20 @@
+           <tr>
+             <td width="250" bgcolor="#CCCCFF"> 
+               <div align="center"><strong><font size="3"><img src="criancas.gif" width="235" height="174" align="top" /><br>
+-                2 CRIAN&#x00C7;AS FORMAM 1 PAR.</font></strong></div></td>
++                2 CRIAN&Ccedil;AS FORMAM 1 PAR.</font></strong></div></td>
+             <td width="350" bgcolor="#FFCCCC"><div align="center"><strong>2 PARES 
+-                DE CRIAN&#x00C7;AS TEM&nbsp;<span class="GapSpan" id="GapSpan0"> 
++                DE CRIAN&Ccedil;AS TEM&nbsp;<span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="1" maxlength="2"></input> 
+-                </span>&nbsp;CRIAN&#x00C7;AS.<br />
+-                3 PARES DE CRIAN&#x00C7;AS TEM&nbsp;<span class="GapSpan" id="GapSpan1"> 
++                </span>&nbsp;CRIAN&Ccedil;AS.<br />
++                3 PARES DE CRIAN&Ccedil;AS TEM&nbsp;<span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="1" maxlength="2"></input> 
+-                </span>&nbsp;CRIAN&#x00C7;AS.<br />
+-                4 PARES DE CRIAN&#x00C7;AS TEM&nbsp;<span class="GapSpan" id="GapSpan2"> 
++                </span>&nbsp;CRIAN&Ccedil;AS.<br />
++                4 PARES DE CRIAN&Ccedil;AS TEM&nbsp;<span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="1" maxlength="2"></input> 
+-                </span>&nbsp;CRIAN&#x00C7;AS.<br />
+-                5 PARES DE CRIAN&#x00C7;AS TEM&nbsp;<span class="GapSpan" id="GapSpan3"> 
++                </span>&nbsp;CRIAN&Ccedil;AS.<br />
++                5 PARES DE CRIAN&Ccedil;AS TEM&nbsp;<span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="1" maxlength="2"></input> 
+-                </span>&nbsp;CRIAN&#x00C7;AS.</strong></div></td>
++                </span>&nbsp;CRIAN&Ccedil;AS.</strong></div></td>
+           </tr>
+         </table>
+ </div>
+@@ -884,7 +884,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

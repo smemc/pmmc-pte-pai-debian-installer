@@ -1,0 +1,117 @@
+--- atividades/0202MAT002/0202MAT00202.htm	2012-06-22 14:54:09.899889324 -0300
++++ atividades/0202MAT002/0202MAT00202.htm.new	2012-06-22 14:54:09.899889324 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE MATEM&#x00C1;TICA" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE MATEM&Aacute;TICA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -586,9 +586,9 @@
+ 
+ 
+ 
+-var CorrectResponse = 'Parab&#x00E9;ns. Bom trabalho!';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+@@ -765,51 +765,51 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='30&#x00BA;';
++F[0][0]='30&ordm;';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='16&#x00BA;';
++F[1][0]='16&ordm;';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='29&#x00BA;';
++F[2][0]='29&ordm;';
+ F[2][1] = 3;
+ F[3] = new Array();
+-F[3][0]='18&#x00BA;';
++F[3][0]='18&ordm;';
+ F[3][1] = 4;
+ F[4] = new Array();
+-F[4][0]='10&#x00BA;';
++F[4][0]='10&ordm;';
+ F[4][1] = 5;
+ F[5] = new Array();
+-F[5][0]='15&#x00BA;';
++F[5][0]='15&ordm;';
+ F[5][1] = 6;
+ F[6] = new Array();
+-F[6][0]='9&#x00BA;';
++F[6][0]='9&ordm;';
+ F[6][1] = 7;
+ 
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='trig&#x00E9;simo';
++D[0][0]='trig&eacute;simo';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='d&#x00E9;cimo sexto';
++D[1][0]='d&eacute;cimo sexto';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='vig&#x00E9;simo nono';
++D[2][0]='vig&eacute;simo nono';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ D[3] = new Array();
+-D[3][0]='d&#x00E9;cimo oitavo';
++D[3][0]='d&eacute;cimo oitavo';
+ D[3][1] = 4;
+ D[3][2] = 0;
+ D[4] = new Array();
+-D[4][0]='d&#x00E9;cimo';
++D[4][0]='d&eacute;cimo';
+ D[4][1] = 5;
+ D[4][2] = 0;
+ D[5] = new Array();
+-D[5][0]='d&#x00E9;cimo quinto';
++D[5][0]='d&eacute;cimo quinto';
+ D[5][1] = 6;
+ D[5][2] = 0;
+ D[6] = new Array();
+@@ -927,14 +927,14 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#333399">N&#x00DA;MEROS ORDINAIS</font></h2>
++  <h2 class="ExerciseTitle"><font color="#333399">N&Uacute;MEROS ORDINAIS</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Arraste o item 
+-    da direita at&#x00E9; ficar ao lado da op&#x00E7;&#x00E3;o correta do lado 
+-    esquerdo. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu 
+-    exerc&#x00ED;cio.</p>
++    da direita at&eacute; ficar ao lado da op&ccedil;&atilde;o correta do lado 
++    esquerdo. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu 
++    exerc&iacute;cio.</p>
+   <p>&nbsp;</p>
+   <p><strong><font size="3"> Fa&ccedil;a a correspond&ecirc;ncia:</font></strong></p>
+ </div>

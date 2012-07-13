@@ -1,0 +1,11 @@
+--- atividades/0604MAT040/0604MAT04001.htm	2012-06-22 15:02:59.175897273 -0300
++++ atividades/0604MAT040/0604MAT04001.htm.new	2012-06-22 15:02:59.179897274 -0300
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

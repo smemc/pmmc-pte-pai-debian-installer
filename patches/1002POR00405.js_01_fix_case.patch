@@ -1,0 +1,23 @@
+--- atividades/1002POR004/1002POR00405.js	2012-06-22 14:49:35.995885208 -0300
++++ atividades/1002POR004/1002POR00405.js.new	2012-06-22 15:09:21.771903025 -0300
+@@ -786,16 +786,16 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='<img src="Imagens/lobo.gif" width="126" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[0][0]='<img src="imagens/lobo.gif" width="126" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='<img src="Imagens/oculos.gif" width="133" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[1][0]='<img src="imagens/oculos.gif" width="133" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='<img src="Imagens/bebe.gif" width="133" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[2][0]='<img src="imagens/bebe.gif" width="133" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[2][1] = 3;
+ F[3] = new Array();
+-F[3][0]='<img src="Imagens/cabide.jpg" width="151" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[3][0]='<img src="imagens/cabide.jpg" width="151" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[3][1] = 4;
+ 
+ 

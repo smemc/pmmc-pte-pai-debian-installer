@@ -1,0 +1,39 @@
+--- atividades/0601POR087/0601POR08714.htm	2012-06-22 15:00:02.171894616 -0300
++++ atividades/0601POR087/0601POR08714.htm.new	2012-06-22 15:00:02.175894616 -0300
+@@ -5,13 +5,13 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="ORDENE AS SÍLABAS" />
++<meta name="DC:Title" content="ORDENE AS S&Iacute;LABAS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -615,9 +615,9 @@
+ var Openers = '';
+ var CorrectResponse = 'CERTO!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var ThisMuchCorrect = 'ESTÁ PARTE ESTÁ CERTA';
++var ThisMuchCorrect = 'EST&Aacute; PARTE EST&Aacute; CERTA';
+ var TheseAnswersToo = 'These answers are also correct:';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var NextCorrect = 'The next correct part is:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -1166,7 +1166,7 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions">Arraste as s&iacute;labas em cima da linha para formar 
+-    a palavra corretamente. Quando você achar que a sua resposta está correta, 
++    a palavra corretamente. Quando voc&ecirc; achar que a sua resposta est&aacute; correta, 
+     clique em VERIFICAR para corrigir.</p>
+ </div>
+ 

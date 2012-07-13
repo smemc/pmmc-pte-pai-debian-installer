@@ -1,0 +1,38 @@
+--- atividades/0804POR003/0804POR00303.js	2012-06-22 15:09:05.019902773 -0300
++++ atividades/0804POR003/0804POR00303.js.new	2012-06-22 15:09:05.023902774 -0300
+@@ -498,10 +498,10 @@
+ 
+ function StartUp(){
+ 
+-//*********** Acrescentado pelos Orientadores de Informática de Mogi das Cruzes ************
++//*********** Acrescentado pelos Orientadores de Inform&aacute;tica de Mogi das Cruzes ************
+ 	document.onkeyup = AvancaRetorna; //captura a tecla digitada
+ 	document.onmousedown=clicar; //captura o clique do mouse
+-	document.oncontextmenu = mensagem;//bloqueia o botão direito no Firefox
++	document.oncontextmenu = mensagem;//bloqueia o bot&atilde;o direito no Firefox
+ //**** Fim ******
+ 
+ 	RemoveBottomNavBarForIE();
+@@ -816,10 +816,10 @@
+ 
+ 
+ 
+-//Função que permite o avanço e retorno de páginas da atividade, sem que a mesma seja completada
+-//Adicionada pelos Orientadores de Informática da PMMC
++//Fun&ccedil;&atilde;o que permite o avan&ccedil;o e retorno de p&aacute;ginas da atividade, sem que a mesma seja completada
++//Adicionada pelos Orientadores de Inform&aacute;tica da PMMC
+ function AvancaRetorna(e) {
+-	if (!e) e = window.event; //necessário para validar a tecla no IE
++	if (!e) e = window.event; //necess&aacute;rio para validar a tecla no IE
+ 	letra = String.fromCharCode(e.keyCode);
+ 	btn_alt = e['altKey'];
+ 	btn_ctrl = e['ctrlKey'];
+@@ -836,7 +836,7 @@
+ }
+ 
+ 
+-function clicar() { //função responsável pelo tratamento do botão direito do mouse no IE
++function clicar() { //fun&ccedil;&atilde;o respons&aacute;vel pelo tratamento do bot&atilde;o direito do mouse no IE
+     if (event.button==2) {
+      		mensagem;
+     }

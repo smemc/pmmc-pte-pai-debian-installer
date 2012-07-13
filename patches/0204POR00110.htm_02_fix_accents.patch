@@ -1,0 +1,136 @@
+--- atividades/0204POR001/0204POR00110.htm	2012-06-22 14:56:26.627891377 -0300
++++ atividades/0204POR001/0204POR00110.htm.new	2012-06-22 14:56:26.631891376 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Você Terminou os Exercícios!';
+ var Finished = false;
+ var Locked = false;
+@@ -853,8 +853,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -878,7 +878,7 @@
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+ <div align="center"><font color="#FF0000"><strong>A 
+-                mo&#x00E7;a piscou para o rapaz.</strong></font></div></td>
++                mo&ccedil;a piscou para o rapaz.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="40" maxlength="40">
+@@ -898,7 +898,7 @@
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+ <div align="center"><font color="#FF0000"><strong>O 
+-                dia est&#x00E1; quente.</strong></font></div></td>
++                dia est&aacute; quente.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="40" maxlength="40">
+@@ -908,7 +908,7 @@
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+ <div align="center"><font color="#FF0000"><strong>O 
+-                velho rei &#x00E9; bom.</strong></font></div></td>
++                velho rei &eacute; bom.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="40" maxlength="40">
+@@ -918,7 +918,7 @@
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+ <div align="center"><font color="#FF0000"><strong>O 
+-                pr&#x00ED;ncipe salvou a vida da mo&#x00E7;a.</strong></font></div></td>
++                pr&iacute;ncipe salvou a vida da mo&ccedil;a.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="40" maxlength="40">
+@@ -928,7 +928,7 @@
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+ <div align="center"><font color="#FF0000"><strong>A 
+-                crian&#x00E7;a subiu no telhado.</strong></font></div></td>
++                crian&ccedil;a subiu no telhado.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan5"> 
+                 <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="40" maxlength="40">
+@@ -938,7 +938,7 @@
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+ <div align="center"><font color="#FF0000"><strong>O 
+-                palha&#x00E7;o &#x00E9; engra&#x00E7;ado.</strong></font></div></td>
++                palha&ccedil;o &eacute; engra&ccedil;ado.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="40" maxlength="40">
+@@ -948,7 +948,7 @@
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+ <div align="center"><font color="#FF0000"><strong>Aquele 
+-                pr&#x00E9;dio &#x00E9; alto.</strong></font></div></td>
++                pr&eacute;dio &eacute; alto.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="40" maxlength="40">
+@@ -958,7 +958,7 @@
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+ <div align="center"><font color="#FF0000"><strong>O 
+-                meu livro est&#x00E1; encapado.</strong></font></div></td>
++                meu livro est&aacute; encapado.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan8"> 
+                 <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="40" maxlength="40">
+@@ -967,7 +967,7 @@
+           </tr>
+           <tr> 
+             <td width="290" bgcolor="#FFFFCC">
+-<div align="center"><font color="#FF0000"><strong>Vov&#x00F3; 
++<div align="center"><font color="#FF0000"><strong>Vov&oacute; 
+                 chupou o pirulito.</strong></font></div></td>
+             <td width="360" bgcolor="#66CCCC"> 
+               <div align="center"><span class="GapSpan" id="GapSpan9"> 
+@@ -1003,7 +1003,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

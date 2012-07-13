@@ -1,0 +1,11 @@
+--- atividades/0204POR001/0204POR00109.htm	2012-06-22 14:49:53.123885465 -0300
++++ atividades/0204POR001/0204POR00109.htm.new	2012-06-22 14:56:25.671891363 -0300
+@@ -428,7 +428,7 @@
+ 		Frm.detail.value = Detail;
+ 		Frm.submit();
+ 	}
+-	parent.location.href="0204por00110.htm";
++	parent.location.href="0204POR00110.htm";
+ }
+ 
+ 

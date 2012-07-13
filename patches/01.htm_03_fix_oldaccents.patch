@@ -1,0 +1,22 @@
+--- atividades/0604HIS028/01.htm	2012-06-22 15:02:37.175896945 -0300
++++ atividades/0604HIS028/01.htm.new	2012-06-22 15:02:37.175896945 -0300
+@@ -24,7 +24,7 @@
+   <o:Created>2002-09-13T15:39:16Z</o:Created>
+   <o:LastSaved>2006-09-25T16:40:23Z</o:LastSaved>
+   <o:Words>900</o:Words>
+-  <o:PresentationFormat>Apresentação na tela</o:PresentationFormat>
++  <o:PresentationFormat>Apresenta&ccedil;&atilde;o na tela</o:PresentationFormat>
+   <o:Company>Microsoft</o:Company>
+   <o:Bytes>580684</o:Bytes>
+   <o:Paragraphs>126</o:Paragraphs>
+@@ -64,8 +64,8 @@
+ 
+ //--></script><font face=Arial size=2><b>
+ 
+-<p>Esta apresentação contém conteúdo que o seu navegador pode não ser capaz de
+-mostrar corretamente e foi otimizada para versões mais recentes do Microsoft
++<p>Esta apresenta&ccedil;&atilde;o cont&eacute;m conte&uacute;do que o seu navegador pode n&atilde;o ser capaz de
++mostrar corretamente e foi otimizada para vers&otilde;es mais recentes do Microsoft
+ Internet Explorer.</p>
+ 
+ <p>Se desejar continuar assim mesmo, clique <a

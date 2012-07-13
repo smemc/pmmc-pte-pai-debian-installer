@@ -1,0 +1,84 @@
+--- atividades/0703GEO001/0703GEO00101.htm	2012-06-22 15:03:07.407897398 -0300
++++ atividades/0703GEO001/0703GEO00101.htm.new	2012-06-22 15:03:07.407897398 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -49,12 +49,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../imagens/fim.htm'; return false;">=&gt;</button>-->
+ 
+@@ -65,21 +65,21 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">PREENCHA AS LACUNAS USANDO OS DISTRITOS DE MOGI DAS CRUZES</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Braz Cubas - Biritiba Ussu - Cezar de Souza - Jundiapeba - Quatinga - Rio Tiet&#x00EA; - Saba&#x00FA;na - Sede - Serra do Itapety - Serra do Mar - Taia&#x00E7;upeba</h3>
++	<h3 class="ExerciseSubtitle">Braz Cubas - Biritiba Ussu - Cezar de Souza - Jundiapeba - Quatinga - Rio Tiet&ecirc; - Saba&uacute;na - Sede - Serra do Itapety - Serra do Mar - Taia&ccedil;upeba</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -99,7 +99,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<p style="text-align: center"><br /><table border="0" cellpadding="2" cellspacing="2"><br /><tbody><tr><td>1</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td><td rowspan="10"><img src="imagens/mapa_mogi_cruzes.jpg" alt="Mapa do Alto Tiet&#x00EA;" title="Mapa Art&#x00ED;stico da Cidade de Mogi das Cruzes" /></td></tr><tr><td>2</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>3</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>4</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>5</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>6</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>7</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>8</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>9</td><td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>10</td><td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><td>11</td><td><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr></tbody></table><br /></p>
++<p style="text-align: center"><br /><table border="0" cellpadding="2" cellspacing="2"><br /><tbody><tr><td>1</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td><td rowspan="10"><img src="imagens/mapa_mogi_cruzes.jpg" alt="Mapa do Alto Tiet&ecirc;" title="Mapa Art&iacute;stico da Cidade de Mogi das Cruzes" /></td></tr><tr><td>2</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>3</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>4</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>5</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>6</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>7</td><td><span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>8</td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>9</td><td><span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><tr><td>10</td><td><span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr><td>11</td><td><span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="16" maxlength="17"></input></span></td></tr></tbody></table><br /></p>
+ </div>
+ </form>
+ </div>
+@@ -124,12 +124,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../imagens/fim.htm'; return false;">=&gt;</button>-->
+ 
+@@ -144,7 +144,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

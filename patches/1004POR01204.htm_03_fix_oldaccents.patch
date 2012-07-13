@@ -1,0 +1,75 @@
+--- atividades/1004POR012/1004POR01204.htm	2012-06-22 15:05:52.623899882 -0300
++++ atividades/1004POR012/1004POR01204.htm.new	2012-06-22 15:05:52.627899882 -0300
+@@ -1,10 +1,10 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Informática."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Informática" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Title" content="Verbos" />
+ 
+ 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Informática - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -353,7 +353,7 @@
+ 	}
+ 	return InArray;
+ }
+-<!-- Orientadores de Informática - Comentado para que não exibe o resultado no enunciado da atividade -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para que n&atilde;o exibe o resultado no enunciado da atividade -->
+ function WriteToInstructions(Feedback) {
+ 	<!-- document.getElementById('InstructionsDiv').innerHTML = Feedback; -->
+ 
+@@ -469,7 +469,7 @@
+ 		Frm.submit();
+ 	}
+ 
+-  	//Orientadores de Informática - Código que exibir o próximo arquivo
++  	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir o pr&oacute;ximo arquivo
+ 	parent.location.href="1004POR01205.htm";
+ 
+ }
+@@ -950,12 +950,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Informática - Comentado para não exibir o botão Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Informática - Comentado pra não exibir o botão próximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01205.htm'; return false;">=&gt;</button>-->
+ 
+@@ -966,7 +966,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Informática - Comando incluído para exibir a imagem de cabeçalho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -1019,7 +1019,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Informática - Comando incluído para exibir o crédito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

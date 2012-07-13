@@ -1,0 +1,37 @@
+--- atividades/0803POR019/0803POR01902.htm	2012-06-22 15:03:30.375897745 -0300
++++ atividades/0803POR019/0803POR01902.htm.new	2012-06-22 15:03:30.379897745 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -58,14 +58,14 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">Atividade sobre o folclore</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Escreva na coluna certa, os nomes dos personagens abaixo, de acordo com o n&#x00FA;mero de s&#x00ED;labas:</h3>
++	<h3 class="ExerciseSubtitle">Escreva na coluna certa, os nomes dos personagens abaixo, de acordo com o n&uacute;mero de s&iacute;labas:</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Observe as palavras do quadro com aten&#x00E7;&#x00E3;o. Agora, copie as palavras na coluna correta de acordo com o n&#x00FA;mero de s&#x00ED;labas . Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Observe as palavras do quadro com aten&ccedil;&atilde;o. Agora, copie as palavras na coluna correta de acordo com o n&uacute;mero de s&iacute;labas . Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="1" bordercolor="#000099" cellpadding="0" cellspacing="0" width="400"><tbody><tr align="center"><td width="25%">Lobisomem</td><td width="25%">Iara</td><td width="25%">Saci</td><td width="25%">Curupira</td></tr></tbody></table><br /><table border="1" cellpadding="0" cellspacing="0" width="400"><tbody><tr align="center"><td><b>2 s&#x00ED;labas</b></td><td><b>3 s&#x00ED;labas</b></td><td><b>4 s&#x00ED;labas</b></td></tr><tr align="center"><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td><td><span class="GapSpan" id="GapSpan2"><input typ="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td></tr><tr align="center"><td><input type="text" disabled="disabled" size="9" /></td><td><input type="text" disabled="disabled" size="9" /></td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td></tr></tbody></table>
++<table border="1" bordercolor="#000099" cellpadding="0" cellspacing="0" width="400"><tbody><tr align="center"><td width="25%">Lobisomem</td><td width="25%">Iara</td><td width="25%">Saci</td><td width="25%">Curupira</td></tr></tbody></table><br /><table border="1" cellpadding="0" cellspacing="0" width="400"><tbody><tr align="center"><td><b>2 s&iacute;labas</b></td><td><b>3 s&iacute;labas</b></td><td><b>4 s&iacute;labas</b></td></tr><tr align="center"><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td><td><span class="GapSpan" id="GapSpan2"><input typ="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td></tr><tr align="center"><td><input type="text" disabled="disabled" size="9" /></td><td><input type="text" disabled="disabled" size="9" /></td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="9"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,119 @@
+--- atividades/0203POR009/0203POR00902.htm	2012-06-22 14:55:44.083890738 -0300
++++ atividades/0203POR009/0203POR00902.htm.new	2012-06-22 14:55:44.087890738 -0300
+@@ -3,13 +3,13 @@
+        <html xmlns="http://www.w3.org/1999/xhtml"
+              xml:lang="en">
+ <head>
+-<meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++<meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <!-- The following insertion allows you to add your own code directly to this head tag from the configuration screen -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS -->
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS -->
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+@@ -475,11 +475,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -864,9 +864,9 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">
+-    <div align="left"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos espa&#x00E7;os 
+-      em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" 
+-      para corrigir seu exerc&#x00ED;cio.</div>
++    <div align="left"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos espa&ccedil;os 
++      em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" 
++      para corrigir seu exerc&iacute;cio.</div>
+   </div>
+ </div>
+ 
+@@ -883,7 +883,7 @@
+ 
+  -->
+  <div id="ClozeDiv">
+-  <div align="left"><strong><font size="3">Coloque a pontua&#x00E7;&#x00E3;o correta 
++  <div align="left"><strong><font size="3">Coloque a pontua&ccedil;&atilde;o correta 
+     no final da frase (? ou !): </font></strong> </div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+@@ -891,7 +891,7 @@
+         <table width="600" border="1" align="center" cellpadding="1" cellspacing="0">
+           <tr> 
+             <td bgcolor="#FFCCFF">
+-<div align="center"><font size="5"><strong>Voc&#x00EA; viu a minha 
++<div align="center"><font size="5"><strong>Voc&ecirc; viu a minha 
+                 pasta<span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+@@ -899,7 +899,7 @@
+           </tr>
+           <tr> 
+             <td bgcolor="#FFCCFF">
+-<div align="center"><font size="5"><strong>Com quem voc&#x00EA; 
++<div align="center"><font size="5"><strong>Com quem voc&ecirc; 
+                 saiu<span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+@@ -907,7 +907,7 @@
+           </tr>
+           <tr> 
+             <td bgcolor="#FFCCFF">
+-<div align="center"><font size="5"><strong>Que mo&#x00E7;a linda<span class="GapSpan" id="GapSpan2"> 
++<div align="center"><font size="5"><strong>Que mo&ccedil;a linda<span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+                 </span></strong></font></div></td>
+@@ -921,7 +921,7 @@
+           </tr>
+           <tr> 
+             <td bgcolor="#FFCCFF">
+-<div align="center"><font size="5"><strong>Onde est&#x00E1; o 
++<div align="center"><font size="5"><strong>Onde est&aacute; o 
+                 seu livro<span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+@@ -929,7 +929,7 @@
+           </tr>
+           <tr> 
+             <td bgcolor="#FFCCFF">
+-<div align="center"><font size="5"><strong>Voc&#x00EA; foi &#x00E0; 
++<div align="center"><font size="5"><strong>Voc&ecirc; foi &agrave; 
+                 escola ontem<span class="GapSpan" id="GapSpan5"> 
+                 <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+@@ -965,7 +965,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

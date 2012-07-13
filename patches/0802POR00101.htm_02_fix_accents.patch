@@ -1,0 +1,20 @@
+--- atividades/0802POR001/0802POR00101.htm	2012-06-22 15:03:10.451897445 -0300
++++ atividades/0802POR001/0802POR00101.htm.new	2012-06-22 15:03:10.451897445 -0300
+@@ -19,7 +19,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -61,7 +61,7 @@
+ 
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">CLIQUE NOS N&#x00DA;MEROS PARA ABRIR AS PERGUNTAS. COMPLETE A CRUZADINHA E CLIQUE EM VERIFICAR PARA CORRIGIR.</div>
++	<div id="Instructions">CLIQUE NOS N&Uacute;MEROS PARA ABRIR AS PERGUNTAS. COMPLETE A CRUZADINHA E CLIQUE EM VERIFICAR PARA CORRIGIR.</div>
+ </div>
+ 
+ 

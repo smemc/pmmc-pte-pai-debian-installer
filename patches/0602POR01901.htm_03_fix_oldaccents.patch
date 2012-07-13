@@ -1,0 +1,47 @@
+--- atividades/0602POR019/0602POR01901.htm	2012-06-22 15:00:50.259895337 -0300
++++ atividades/0602POR019/0602POR01901.htm.new	2012-06-22 15:00:50.259895337 -0300
+@@ -10,7 +10,7 @@
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -464,7 +464,7 @@
+ var Correct = '';
+ var Incorrect = ''; 
+ var GiveHint = '';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -840,7 +840,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">CLIQUE NOS NÚMEROS PARA COMPLETAR A CRUZADINHA. EM SEGUIDA, CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">CLIQUE NOS N&Uacute;MEROS PARA COMPLETAR A CRUZADINHA. EM SEGUIDA, CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 
+@@ -878,7 +878,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">A PESSOA QUE ESTÁ NO PRESÍDIO.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">TRAÇAR UM DESENHO</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">QUEM NÃO ESTÁ PRESENTE</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">AQUELA QUE FAZ CONFUSÃO</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">INSETO QUE VOA EM VOLTA DA LÂMPADA</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">VENTO SUAVE</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">A PESSOA QUE EST&Aacute; NO PRES&Iacute;DIO.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">TRA&Ccedil;AR UM DESENHO</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">QUEM N&Atilde;O EST&Aacute; PRESENTE</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">AQUELA QUE FAZ CONFUS&Atilde;O</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">INSETO QUE VOA EM VOLTA DA L&Acirc;MPADA</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">VENTO SUAVE</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -891,7 +891,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">VERTICAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">AQUELA QUE NASCE NO BRASIL</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">ACIDENTE EM GRANDE ESCALA</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">PEÇA DO VESTUÁRIO FEMININO USADO PARA DORMIR</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">AQUELA QUE NASCE NO BRASIL</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">ACIDENTE EM GRANDE ESCALA</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">PE&Ccedil;A DO VESTU&Aacute;RIO FEMININO USADO PARA DORMIR</td></tr>
+ 
+ </tbody>
+ </table>

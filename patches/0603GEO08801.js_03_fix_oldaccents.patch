@@ -1,0 +1,229 @@
+--- atividades/0603GEO088/0603GEO08801.js	2012-06-22 15:07:49.627901640 -0300
++++ atividades/0603GEO088/0603GEO08801.js.new	2012-06-22 15:07:49.627901640 -0300
+@@ -17,7 +17,7 @@
+ var qstHead = new init_array(10);
+ var pageWidth = 80;
+ var groups = new init_array(0,0,0,0,0,0,0,0,0,0);
+-var quizTitle="FICHA DE AVALIAÇÃO DO PEDESTRE:";
++var quizTitle="FICHA DE AVALIA&Ccedil;&Atilde;O DO PEDESTRE:";
+ var maxtime=1800;
+ var keycode = new init_array(6);
+ var keyword = 'syskey';
+@@ -326,18 +326,18 @@
+ switch(giorno) {
+ case 0: nome = "Domingo"; break;
+ case 1: nome = "Segunda-feira"; break;
+-case 2: nome = "Terça-feira"; break;
++case 2: nome = "Ter&ccedil;a-feira"; break;
+ case 3: nome = "Quarta-feira"; break;
+ case 4: nome = "Quinta-feira"; break;
+ case 5: nome = "Sexta-feira"; break;
+-case 6: nome = "Sábado"; break;
++case 6: nome = "S&aacute;bado"; break;
+ }
+ strData = nome+", "+obj.getDate();
+ mese = obj.getMonth();
+ switch(mese) {
+ case 0: nome = "Janeiro";  break;
+ case 1: nome = "Fevereiro"; break;
+-case 2: nome = "Março"; break;
++case 2: nome = "Mar&ccedil;o"; break;
+ case 3: nome = "Abril"; break;
+ case 4: nome = "Maio"; break;
+ case 5: nome = "Junho"; break;
+@@ -797,7 +797,7 @@
+ }
+ }
+ else {
+-window.alert("Aviso: impossível calcular o resultado final");
++window.alert("Aviso: imposs&iacute;vel calcular o resultado final");
+ computeMarkErr = 1;
+ voto = 0;
+ }
+@@ -955,11 +955,11 @@
+ }
+ function DoneBefore()
+ {
+-window.alert("Ops!Você já respondeu à pergunta");
++window.alert("Ops!Voc&ecirc; j&aacute; respondeu &agrave; pergunta");
+ }
+ function IncompletedQuest()
+ {
+-window.alert("Resposta incompleta. Por favor, responda a todas as opções");
++window.alert("Resposta incompleta. Por favor, responda a todas as op&ccedil;&otilde;es");
+ }
+ function Retire()
+ {
+@@ -985,7 +985,7 @@
+ if (ns>1) msg+=ns+" Incorreto  .";
+ if (ns==1) msg+=" apenas um incorreto.";
+ if (ns==0) msg+=" nada incorreto.";
+-msg+=" Você deve responder a ";
++msg+=" Voc&ecirc; deve responder a ";
+ if (nr>1) msg+=nr+" perguntas.";
+ else msg+=" um pergunta.";
+ window.status=msg;
+@@ -1094,23 +1094,23 @@
+ else if (valid[i]==-1)
+ documento.writeln("Resposta incorreta<BR>");
+ else if (valid[i]==2)
+-documento.writeln("Pergunta não validada<BR>");
++documento.writeln("Pergunta n&atilde;o validada<BR>");
+ else if (valid[i]==3) {
+ if (typeOfQuest[i]==2)
+ documento.writeln("Respostas corretas "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ else if (typeOfQuest[i]==4)
+ documento.writeln("descubra as palavras "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ else if (typeOfQuest[i]==5)
+-documento.writeln("Fazer a correspondência "+nScore[i]+" em "+maxScore[i]+"<BR>");
++documento.writeln("Fazer a correspond&ecirc;ncia "+nScore[i]+" em "+maxScore[i]+"<BR>");
+ }
+ else if (valid[i]==5) {
+-documento.write("pontuações "+nScore[i]);
++documento.write("pontua&ccedil;&otilde;es "+nScore[i]);
+ if (groups[i]==0)
+-documento.writeln(" (Pontuação "+maxScore[i]+")<BR>");
++documento.writeln(" (Pontua&ccedil;&atilde;o "+maxScore[i]+")<BR>");
+ else if (groups[i]==1)
+-documento.writeln("<BR>Resultado adicionado à pontuação anterior<BR>");
++documento.writeln("<BR>Resultado adicionado &agrave; pontua&ccedil;&atilde;o anterior<BR>");
+ else if (groups[i]==2)
+-documento.writeln("<BR>Pontuação (cálculos das respostas às perguntas seguintes): "+maxScore[i]+"<BR>");
++documento.writeln("<BR>Pontua&ccedil;&atilde;o (c&aacute;lculos das respostas &agrave;s perguntas seguintes): "+maxScore[i]+"<BR>");
+ }
+ documento.writeln("</I>");
+ if (valid[i]==2) {
+@@ -1327,18 +1327,18 @@
+ }
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+ }
+ function PrintOpenAnswer(n,outMsg) {
+-outMsg.value = "Questão respondida";
++outMsg.value = "Quest&atilde;o respondida";
+ end_test = CountAnswers();
+ PrintStatusBar();
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1366,7 +1366,7 @@
+ textField.value = "Resposta selecionada";
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1378,9 +1378,9 @@
+ end_test = CountAnswers();
+ PrintStatusBar();
+ if (silent==0) {
+-msg = "Pontuação : " + nScore[n];
++msg = "Pontua&ccedil;&atilde;o : " + nScore[n];
+ if (groups[n]==0) 
+-msg += " (Pontuação "+maxScore[n]+")";
++msg += " (Pontua&ccedil;&atilde;o "+maxScore[n]+")";
+ textField.value = msg;
+ if (getGuessAns(n)<getNumAns(n))
+ msg += "<BR>A resposta correta era " + getListOfRightAns(n);
+@@ -1392,7 +1392,7 @@
+ textField.value = "Resposta selecionada";
+ if (end_test==1) {
+ window.status = "";
+-window.alert("Já respondeu a todas as perguntas");
++window.alert("J&aacute; respondeu a todas as perguntas");
+ EndQuiz();
+ }
+ return end_test;
+@@ -1415,8 +1415,8 @@
+ document.writeln (bodyTagFrame1);
+ document.writeln("<CENTER><FONT SIZE=6 FACE='Arial' COLOR='#FF0000'>Cuidado!</FONT><BR>");
+ document.writeln ("<FONT SIZE=+2>Password incorreta</FONT><BR>");
+-document.writeln ("Não pode avançar no quiz<BR>");
+-document.writeln ("Para mais informação, contacte o autor do quiz<BR>");
++document.writeln ("N&atilde;o pode avan&ccedil;ar no quiz<BR>");
++document.writeln ("Para mais informa&ccedil;&atilde;o, contacte o autor do quiz<BR>");
+ document.writeln("<P><INPUT TYPE='BUTTON' VALUE='FECHAR' OnClick='top.close()'>");
+ document.writeln("</CENTER>");
+ document.writeln ("</body></html>");
+@@ -1430,9 +1430,9 @@
+ PrintOpenHTML(document,"",1);
+ document.writeln (bodyTagFrame1);
+ document.writeln("<CENTER><BR><BR><FONT SIZE=6 FACE='Arial' COLOR='#FF0000'>Cuidado!</FONT><BR>");
+-document.writeln ("<FONT SIZE=+2>É impossível reiniciar o quiz</FONT><BR>");
+-document.writeln ("É impossível iniciar o quiz<BR>");
+-document.writeln ("Para mais informação, contacte o autor do quiz<BR>");
++document.writeln ("<FONT SIZE=+2>&Eacute; imposs&iacute;vel reiniciar o quiz</FONT><BR>");
++document.writeln ("&Eacute; imposs&iacute;vel iniciar o quiz<BR>");
++document.writeln ("Para mais informa&ccedil;&atilde;o, contacte o autor do quiz<BR>");
+ document.writeln("<P><INPUT TYPE='BUTTON' VALUE='FECHAR' OnClick='top.close()'>");
+ document.writeln("</CENTER>");
+ document.writeln ("</body></html>");
+@@ -1605,7 +1605,7 @@
+   doc.writeln("<TABLE cellpadding=5 border=0 width=100%><TR><TD>");
+   doc.writeln(""+quizTitle+"");
+   doc.writeln("</TD></TR></TABLE></TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Número de perguntas</TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;N&uacute;mero de perguntas</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+(questions-invisibleQuests)+"</TD></TR>");
+   if (identityName!="") {
+   doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Nome</TD>");
+@@ -1615,7 +1615,7 @@
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+nc+"</TD></TR>");
+   doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Respostas incorretas</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+ns+"</TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Perguntas não respondidas</TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Perguntas n&atilde;o respondidas</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+falseQuests+"</TD></TR>");
+   if (maxtime>0) {
+   doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Tempo de preenchimento</TD>");
+@@ -1624,11 +1624,11 @@
+   doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Data</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+DataToStringa()+"</TD></TR>");
+   if (computeMarkErr==0) {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontuação</TD>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontua&ccedil;&atilde;o</TD>");
+   doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+GetVoto(voto)+"</TD></TR>");
+   } else {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontuação</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;sem pontuação</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontua&ccedil;&atilde;o</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;sem pontua&ccedil;&atilde;o</TD></TR>");
+   }
+   doc.writeln("</TABLE></TD></TR></TABLE></TD></TABLE></center>");
+ }
+@@ -1666,15 +1666,15 @@
+  window.status='';
+ }
+ function initShortQuestion() {
+- qstHead[0]="CONHEÇO A SINALIZAÇÃO DA MINHA ESCOLA?";
+- qstHead[1]="OBEDEÇO À SINALIZAÇÃO EXISTENTE?";
+- qstHead[2]="USO MINHA BICICLETA COM SEGURANÇA";
+- qstHead[3]="OBEDEÇO AO POLICIAL DE TRÂNSITO";
+- qstHead[4]="COLABORO NA CONSERVAÇÃO DAS PLACAS DE SINALIZAÇÃO";
+- qstHead[5]="COLABORO COM SEGURANÇA DO TRÂNSITO NÃO ME ARRISCANDO A ATRAVESSAR AS VIAS";
+- qstHead[6]="TENHO CUIDADO QUANDO ANDO DE ÔNIBUS OU DE CARRO";
+- qstHead[7]="SÓ ATRAVESSO NAS FAIXAS DE SEGURANÇA";
+- qstHead[8]="SÓ ATRAVESSO AS VIAS DEPOIS DE OLHAR COM BASTANTE ATENÇÃO";
++ qstHead[0]="CONHE&Ccedil;O A SINALIZA&Ccedil;&Atilde;O DA MINHA ESCOLA?";
++ qstHead[1]="OBEDE&Ccedil;O &Agrave; SINALIZA&Ccedil;&Atilde;O EXISTENTE?";
++ qstHead[2]="USO MINHA BICICLETA COM SEGURAN&Ccedil;A";
++ qstHead[3]="OBEDE&Ccedil;O AO POLICIAL DE TR&Acirc;NSITO";
++ qstHead[4]="COLABORO NA CONSERVA&Ccedil;&Atilde;O DAS PLACAS DE SINALIZA&Ccedil;&Atilde;O";
++ qstHead[5]="COLABORO COM SEGURAN&Ccedil;A DO TR&Acirc;NSITO N&Atilde;O ME ARRISCANDO A ATRAVESSAR AS VIAS";
++ qstHead[6]="TENHO CUIDADO QUANDO ANDO DE &Ocirc;NIBUS OU DE CARRO";
++ qstHead[7]="S&Oacute; ATRAVESSO NAS FAIXAS DE SEGURAN&Ccedil;A";
++ qstHead[8]="S&Oacute; ATRAVESSO AS VIAS DEPOIS DE OLHAR COM BASTANTE ATEN&Ccedil;&Atilde;O";
+  qstHead[9]="ATRAVESSO DEPRESSA SEM CORRER";
+ }
+ 

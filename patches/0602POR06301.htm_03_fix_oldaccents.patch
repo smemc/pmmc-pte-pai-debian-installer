@@ -1,0 +1,44 @@
+--- atividades/0602POR063/0602POR06301.htm	2012-06-22 15:01:10.119895637 -0300
++++ atividades/0602POR063/0602POR06301.htm.new	2012-06-22 15:01:10.119895637 -0300
+@@ -3,7 +3,7 @@
+ <head>
+ <meta http-equiv="Content-Language" content="pt-br">
+ <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ </head>
+ 
+@@ -23,12 +23,12 @@
+   </div>
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">PERDIDO NO ESPAÇO</h2>
++	<h2 class="ExerciseTitle">PERDIDO NO ESPA&Ccedil;O</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><b><font face="Arial" color="#000080">Você foi até a padaria comprar pão e leite e se perdeu.</font></b></p>
++	<p id="Instructions"><b><font face="Arial" color="#000080">Voc&ecirc; foi at&eacute; a padaria comprar p&atilde;o e leite e se perdeu.</font></b></p>
+   </div>
+ 
+ <div id="MainDiv" class="StdDiv">
+@@ -36,7 +36,7 @@
+ 
+ <form method="POST" action="--WEBBOT-SELF--">
+ 	<p align="left" style="margin-top: 0; margin-bottom: 0"><b>
+-	<font face="Arial" color="#000080">O que você faz?</font></b></p>
++	<font face="Arial" color="#000080">O que voc&ecirc; faz?</font></b></p>
+ 	<div style="border-style: solid; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
+ 	<p align="left" style="margin-top: 0; margin-bottom: 0">
+ 	<textarea rows="3" name="S1" cols="99"></textarea></p>
+@@ -60,7 +60,7 @@
+ </form>
+ <form method="POST" action="--WEBBOT-SELF--">
+ 	<p align="left" style="margin-top: 0; margin-bottom: 0"><b>
+-	<font face="Arial" color="#000080">Qual a solução encontrada por você?</font></b></p>
++	<font face="Arial" color="#000080">Qual a solu&ccedil;&atilde;o encontrada por voc&ecirc;?</font></b></p>
+ 	<div style="border-style: solid; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
+ 	<p align="left" style="margin-top: 0; margin-bottom: 0">
+ 	<textarea rows="3" name="S4" cols="99"></textarea></p>

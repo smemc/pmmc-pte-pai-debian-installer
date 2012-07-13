@@ -1,0 +1,11 @@
+--- atividades/1003POR004/1003POR00401.htm	2012-06-22 15:04:26.995898595 -0300
++++ atividades/1003POR004/1003POR00401.htm.new	2012-06-22 15:04:26.999898595 -0300
+@@ -448,7 +448,7 @@
+ var GiveHint = 'Muito bem';
+ var CaseSensitive = true;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo= 'Agora vamos para o próximo exercício';
++var Proximo= 'Agora vamos para o pr&oacute;ximo exerc&iacute;cio';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

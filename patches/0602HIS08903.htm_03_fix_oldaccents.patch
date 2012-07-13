@@ -1,0 +1,26 @@
+--- atividades/0602HIS089/0602HIS08903.htm	2012-06-22 15:00:33.071895079 -0300
++++ atividades/0602HIS089/0602HIS08903.htm.new	2012-06-22 15:00:33.071895079 -0300
+@@ -23,7 +23,7 @@
+  </div>
+   
+    <div class="Titles">
+-	<h2 class="ExerciseTitle">COMPLETE A HISTÓRIA DE ACORDO COM A SUA REALIDADE</h2>
++	<h2 class="ExerciseTitle">COMPLETE A HIST&Oacute;RIA DE ACORDO COM A SUA REALIDADE</h2>
+    </div>
+    
+    <div id="MainDiv" class="StdDiv">
+@@ -34,12 +34,12 @@
+ <span class="GapSpan" id="GapSpan1">_____</input></span> e dos<img src="filhos.gif" width="107" height="79"></img> 
+ <span class="GapSpan" id="GapSpan2">_____</input></span>, mas precisa trabalhar.<br />Diferente da minha<img src="avo.gif" width="74" height="99"></img> 
+ <span class="GapSpan" id="GapSpan3">_____</input></span>, ela frequentou a<img src="escola.gif" width="79" height="120"></img> 
+-<span class="GapSpan" id="GapSpan4">_____</input></span> e tem uma profissão.
++<span class="GapSpan" id="GapSpan4">_____</input></span> e tem uma profiss&atilde;o.
+ </font></b></p>
+ <p align="center">&nbsp;</p>
+ <form method="POST" action="--WEBBOT-SELF--">
+ 	<!--webbot bot="SaveResults" U-File="C:\Documents and Settings\Administrador\Desktop\PACK\VOVO\_private\form_results.csv" S-Format="TEXT/CSV" S-Label-Fields="TRUE" -->
+-	<p align="center"><textarea rows="10" name="S1" cols="99">A MINHA MÃE...</textarea></p>
++	<p align="center"><textarea rows="10" name="S1" cols="99">A MINHA M&Atilde;E...</textarea></p>
+ </form>
+ <p align="center">&nbsp;</p>
+ </td></tr></table>

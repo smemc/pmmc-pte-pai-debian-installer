@@ -1,0 +1,123 @@
+--- atividades/1004POR026/1004POR02603.htm	2012-06-22 15:06:33.115900490 -0300
++++ atividades/1004POR026/1004POR02603.htm.new	2012-06-22 15:06:33.115900490 -0300
+@@ -1,10 +1,10 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Title" content="PALAVRAS COM E - EI - O - OU" />
+ 
+ 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -45,12 +45,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -61,7 +61,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+@@ -75,7 +75,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete as frases com as palavras adequadas e copie-as. 
+-    Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -98,34 +98,34 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table border="1" align="center" cellpadding="2" cellspacing="2"><tbody><tr>
+-              <td bgcolor="#FFFFFF"><div align="center"><strong>REQUEIJ&#x00C3;O 
++              <td bgcolor="#FFFFFF"><div align="center"><strong>REQUEIJ&Atilde;O 
+                   - BANDEJA - CARANGUEJO</p><br />
+-                  VASSOURA - BESOURO - A&#x00C7;OUGUE</strong></div></td></tr></tbody></table><br />
++                  VASSOURA - BESOURO - A&Ccedil;OUGUE</strong></div></td></tr></tbody></table><br />
+         <table align="center" cellpadding="2" cellspacing="2">
+           <tbody><tr>
+-              <td bgcolor="#cfe5b8">&#x00C0; tarde eu comi um p&#x00E3;o com <span class="GapSpan" id="GapSpan0">
++              <td bgcolor="#cfe5b8">&Agrave; tarde eu comi um p&atilde;o com <span class="GapSpan" id="GapSpan0">
+ <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="9"></input></span> e tomei suco.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan1">
+ <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="50"></input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">No <span class="GapSpan" id="GapSpan2">
+-<input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> do meu bairro a carne &#x00E9; de qualidade.</td></tr><tr>
++<input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> do meu bairro a carne &eacute; de qualidade.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan3">
+ <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="48"></input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">No filme, a empregada chegou com uma <span class="GapSpan" id="GapSpan4">
+ <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> cheia de comidas gostosas.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan5">
+ <input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="71"></input></span></td></tr><tr>
+-              <td bgcolor="#cfe5b8">H&#x00E1; pessoas que gostam de comer a carne 
++              <td bgcolor="#cfe5b8">H&aacute; pessoas que gostam de comer a carne 
+                 do <span class="GapSpan" id="GapSpan6">
+ <input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10"></input></span>.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan7">
+ <input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="53"></input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">Um <span class="GapSpan" id="GapSpan8">
+-<input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> pousou no bra&#x00E7;o da menina e ela se assustou.</td></tr><tr>
++<input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="7"></input></span> pousou no bra&ccedil;o da menina e ela se assustou.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan9">
+ <input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="55"></input></span></td></tr><tr>
+               <td bgcolor="#cfe5b8">Passe a <span class="GapSpan" id="GapSpan10">
+-<input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> devagar para n&#x00E3;o levantar muita poeira.</td></tr><tr>
++<input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> devagar para n&atilde;o levantar muita poeira.</td></tr><tr>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan11">
+ <input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="56"></input></span></td></tr></tbody></table>
+ </div>
+@@ -152,12 +152,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -169,7 +169,7 @@
+ <!-- EndBottomNavButtons -->
+ <!-- BeginSubmissionForm -->
+ <!-- EndSubmissionForm -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body>
+ 
+ </html>

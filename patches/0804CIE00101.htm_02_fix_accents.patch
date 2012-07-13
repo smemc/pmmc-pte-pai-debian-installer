@@ -1,0 +1,28 @@
+--- atividades/0804CIE001/0804CIE00101.htm	2012-06-22 15:03:32.131897771 -0300
++++ atividades/0804CIE001/0804CIE00101.htm.new	2012-06-22 15:03:32.131897771 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,14 +56,14 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">Sentidos</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Combine os Sentidos com os &#x00F3;rg&#x00E3;os correspondentes</h3>
++	<h3 class="ExerciseSubtitle">Combine os Sentidos com os &oacute;rg&atilde;os correspondentes</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Arraste os &#x00F3;rg&#x00E3;os at&#x00E9; os sentidos correspondentes. Em seguida, clique em Verificar para corrigir o seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Arraste os &oacute;rg&atilde;os at&eacute; os sentidos correspondentes. Em seguida, clique em Verificar para corrigir o seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

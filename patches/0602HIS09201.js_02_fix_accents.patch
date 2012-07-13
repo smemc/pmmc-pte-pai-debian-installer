@@ -1,0 +1,14 @@
+--- atividades/0602HIS092/0602HIS09201.js	2012-06-22 15:07:47.923901613 -0300
++++ atividades/0602HIS092/0602HIS09201.js.new	2012-06-22 15:07:47.927901614 -0300
+@@ -453,9 +453,9 @@
+ var AcrossCaption = '';
+ var DownCaption = '';
+ var Correct = 'Correto! Muito bem.';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

@@ -1,0 +1,11 @@
+--- atividades/0204MAT002/0204MAT00204.htm	2012-06-22 14:55:56.439890924 -0300
++++ atividades/0204MAT002/0204MAT00204.htm.new	2012-06-22 14:55:56.443890924 -0300
+@@ -580,7 +580,7 @@
+ var CorrectResponse = 'Parab&eacute;ns. Bom trabalho!';
+ var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

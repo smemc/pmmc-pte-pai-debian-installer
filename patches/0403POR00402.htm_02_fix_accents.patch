@@ -1,0 +1,11 @@
+--- atividades/0403POR004/0403POR00402.htm	2012-06-22 14:57:17.515892142 -0300
++++ atividades/0403POR004/0403POR00402.htm.new	2012-06-22 14:57:17.519892142 -0300
+@@ -50,7 +50,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Instru&#x00E7;&#x00F5;es: Clique no n&#x00FA;mero dentro do quadrinho para ver a pista da palavra. Digite a resposta no ret&#x00E2;ngulo ao lado da pista e clique no bot&#x00E3;o RESPONDER. Quando terminar de preencher todas as palavras, clique no bot&#x00E3;o VERIFICAR para conferir suas respostas.</div>
++	<div id="Instructions">Instru&ccedil;&otilde;es: Clique no n&uacute;mero dentro do quadrinho para ver a pista da palavra. Digite a resposta no ret&acirc;ngulo ao lado da pista e clique no bot&atilde;o RESPONDER. Quando terminar de preencher todas as palavras, clique no bot&atilde;o VERIFICAR para conferir suas respostas.</div>
+ </div>
+ 
+ 

@@ -1,0 +1,92 @@
+--- atividades/0704CIE002/0704CIE00201.htm	2012-06-22 15:03:08.007897407 -0300
++++ atividades/0704CIE002/0704CIE00201.htm.new	2012-06-22 15:03:08.011897408 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Alex Soares da Silva" />
+-<meta name="DC:Title" content="Numere a 2&#x00AA; coluna de acordo com a 1&#x00AA;" />
++<meta name="DC:Title" content="Numere a 2&ordf; coluna de acordo com a 1&ordf;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -50,12 +50,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../imagens/fim.htm'; return false;">=&gt;</button>-->
+ 
+@@ -66,12 +66,12 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Numere a 2&#x00AA; coluna de acordo com a 1&#x00AA;</h2>
++	<h2 class="ExerciseTitle">Numere a 2&ordf; coluna de acordo com a 1&ordf;</h2>
+ 
+ 	<h3 class="ExerciseSubtitle"><br /></h3>
+ 
+@@ -80,7 +80,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -100,7 +100,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-( 1 ) Lixo &#x00E9;:<br />( 2 ) Por que a utilidade do lixo depende do contexto social?<br />( 3 ) Assim a natureza se desfaz do lixo:<br />( 4 ) Decomposi&#x00E7;&#x00E3;o &#x00E9;:<br />( 5 ) Tempo x lixo:<br />( 6 ) Problemas causados pelo lixo:<br />( 7 ) Risco que o lixo oferece a sa&#x00FA;de:<br /><br />( <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) A natureza digere o lixo por meio dos processos de decomposi&#x00E7;&#x00E3;o.<br />( <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) &#x00C9; o resto de todas as nossas atividades, que &#x00E9; descartado para o ambiente. &#x00C9; o resto de nossas vidas.<br />( <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) Muitas doen&#x00E7;as podem estar associadas a forma como o lixo est&#x00E1; depositado no ambiente, pois ele &#x00E9; alimento, fonte de &#x00E1;gua e abrigo para uma infinidade de organismos nocivos a sa&#x00FA;de humana.<br />( <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) A decomposi&#x00E7;&#x00E3;o demora um certo tempo para acontecer, portanto, o lixo para ser decomposto, precisa de tempo.<br />( <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) &#x00C9; o nome que se da a digest&#x00E3;o dos restos dos animais, plantas e materiais inertes.<br />( <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) Porque o que &#x00E9; lixo para alguns pode ter utilidade para outros.<br />( <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) Problemas ambientais, sociais e de sa&#x00FA;de.
++( 1 ) Lixo &eacute;:<br />( 2 ) Por que a utilidade do lixo depende do contexto social?<br />( 3 ) Assim a natureza se desfaz do lixo:<br />( 4 ) Decomposi&ccedil;&atilde;o &eacute;:<br />( 5 ) Tempo x lixo:<br />( 6 ) Problemas causados pelo lixo:<br />( 7 ) Risco que o lixo oferece a sa&uacute;de:<br /><br />( <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) A natureza digere o lixo por meio dos processos de decomposi&ccedil;&atilde;o.<br />( <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) &Eacute; o resto de todas as nossas atividades, que &eacute; descartado para o ambiente. &Eacute; o resto de nossas vidas.<br />( <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) Muitas doen&ccedil;as podem estar associadas a forma como o lixo est&aacute; depositado no ambiente, pois ele &eacute; alimento, fonte de &aacute;gua e abrigo para uma infinidade de organismos nocivos a sa&uacute;de humana.<br />( <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) A decomposi&ccedil;&atilde;o demora um certo tempo para acontecer, portanto, o lixo para ser decomposto, precisa de tempo.<br />( <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) &Eacute; o nome que se da a digest&atilde;o dos restos dos animais, plantas e materiais inertes.<br />( <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) Porque o que &eacute; lixo para alguns pode ter utilidade para outros.<br />( <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="2" maxlength="2" maxlength="3" maxlength="3"></input></span> ) Problemas ambientais, sociais e de sa&uacute;de.
+ </div>
+ </form>
+ </div>
+@@ -125,12 +125,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../imagens/fim.htm'; return false;">=&gt;</button>-->
+ 
+@@ -145,7 +145,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

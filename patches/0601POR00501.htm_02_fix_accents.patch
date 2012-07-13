@@ -1,0 +1,20 @@
+--- atividades/0601POR005/0601POR00501.htm	2012-06-22 14:59:00.471893689 -0300
++++ atividades/0601POR005/0601POR00501.htm.new	2012-06-22 14:59:00.475893689 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="QUAL A DIFERENÇA ENTRE O &#x003C;img src=&quot;carro.gif&quot; width=&quot;50&quot; height=&quot;22&quot;&#x003E;&#x003C;/img&#x003E; E O &#x003C;img src=&quot;sol.gif&quot; width=&quot;56&quot; height=&quot;53&quot;&#x003E;&#x003C;/img&#x003E;?" />
++<meta name="DC:Title" content="QUAL A DIFERENÇA ENTRE O &lt;img src=&quot;carro.gif&quot; width=&quot;50&quot; height=&quot;22&quot;&gt;&lt;/img&gt; E O &lt;img src=&quot;sol.gif&quot; width=&quot;56&quot; height=&quot;53&quot;&gt;&lt;/img&gt;?" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

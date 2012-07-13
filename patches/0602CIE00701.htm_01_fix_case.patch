@@ -1,0 +1,11 @@
+--- atividades/0602CIE007/0602CIE00701.htm	2012-06-22 14:49:53.087885462 -0300
++++ atividades/0602CIE007/0602CIE00701.htm.new	2012-06-22 15:00:29.299895021 -0300
+@@ -33,7 +33,7 @@
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+ 	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)-->
+-    <img src="MEIO.gif" alt="" width="449" height="172" /></p>
++    <img src="meio.gif" alt="" width="449" height="172" /></p>
+   </div>
+ 
+   <div id="MainDiv" class="StdDiv">

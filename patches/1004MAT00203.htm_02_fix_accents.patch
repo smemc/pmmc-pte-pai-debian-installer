@@ -1,0 +1,20 @@
+--- atividades/1004MAT002/1004MAT00203.htm	2012-06-22 15:05:17.363899352 -0300
++++ atividades/1004MAT002/1004MAT00203.htm.new	2012-06-22 15:05:17.367899352 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson S. Freitas Jr" />
+-<meta name="DC:Title" content="Cruzadinha - Fra&#x00E7;&#x00F5;es" />
++<meta name="DC:Title" content="Cruzadinha - Fra&ccedil;&otilde;es" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -72,7 +72,7 @@
+   <p class="ExerciseTitle">&nbsp;</p>
+ </div>
+ <div id="InstructionsDiv" class="StdDiv">
+-<div id="Instructions">Clique nos n&#x00FA;meros para mostrar as dicas. Complete a cruzadinha e clique em "Verificar" para corrigir.</div>
++<div id="Instructions">Clique nos n&uacute;meros para mostrar as dicas. Complete a cruzadinha e clique em "Verificar" para corrigir.</div>
+ </div>
+ 
+ 

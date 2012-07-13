@@ -1,0 +1,37 @@
+--- atividades/1003POR001/1003POR00101.htm	2012-06-22 15:04:24.439898557 -0300
++++ atividades/1003POR001/1003POR00101.htm.new	2012-06-22 15:04:24.443898557 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -435,10 +435,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns! Bom Trabalho!';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Tente de novo!'; 
++var Correct = 'Parab&eacute;ns! Bom Trabalho!';
++var Incorrect = 'Algumas est&atilde;o erradas... Tente de novo!'; 
+ var GiveHint = 'Acertou a letra!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora Vamos para o próximo exercício';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -842,9 +842,9 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Homem do mar, marujo</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">T&#x00ED;mido, retra&#x00ED;do</td></tr><tr><td class="ClueNum">5. </td>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Homem do mar, marujo</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">T&iacute;mido, retra&iacute;do</td></tr><tr><td class="ClueNum">5. </td>
+                 <td id="Clue_A_5" class="Clue">Pessoa sem nenhuma companhia</td>
+-              </tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Pessoa que usa preferencialmente a m&#x00E3;o esquerda</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Dengosa</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">O sexto m&#x00EA;s do ano</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">Ter sonhos</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">Fio colocado na agulha para costurar</td></tr>
++              </tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Pessoa que usa preferencialmente a m&atilde;o esquerda</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Dengosa</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">O sexto m&ecirc;s do ano</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">Ter sonhos</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">Fio colocado na agulha para costurar</td></tr>
+ 
+ </tbody>
+ </table>

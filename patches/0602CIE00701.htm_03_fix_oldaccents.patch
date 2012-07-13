@@ -1,0 +1,44 @@
+--- atividades/0602CIE007/0602CIE00701.htm	2012-06-22 15:00:29.359895025 -0300
++++ atividades/0602CIE007/0602CIE00701.htm.new	2012-06-22 15:00:29.363895025 -0300
+@@ -4,7 +4,7 @@
+   <head>
+     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-    <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++    <title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+   </head>
+@@ -27,12 +27,12 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">CHUVA ÁCIDA - RESPONDA</h2>
++	<h2 class="ExerciseTitle">CHUVA &Aacute;CIDA - RESPONDA</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions"><!-- Coloque aqui as instruçoes da atividades (se necessario)-->
++	<p id="Instructions"><!-- Coloque aqui as instru&ccedil;oes da atividades (se necessario)-->
+     <img src="meio.gif" alt="" width="449" height="172" /></p>
+   </div>
+ 
+@@ -41,7 +41,7 @@
+ 	<form method="POST" action="--WEBBOT-SELF--">
+ 		<!--webbot bot="SaveResults" U-File="C:\Documents and Settings\Administrador\Desktop\PACK\VOVO\_private\form_results.csv" S-Format="TEXT/CSV" S-Label-Fields="TRUE" -->
+ 		<p style="text-align: center">
+-			<strong>As indústrias contribuem muito para a poluição do ar e das águas. Você sabe explicar como isso acontece?</strong>
++			<strong>As ind&uacute;strias contribuem muito para a polui&ccedil;&atilde;o do ar e das &aacute;guas. Voc&ecirc; sabe explicar como isso acontece?</strong>
+ 			<textarea rows="6" name="S1" cols="83"></textarea>
+ 		</p>
+ 	</form>
+@@ -50,7 +50,7 @@
+ 	<form method="POST" action="--WEBBOT-SELF--">
+ 		<!--webbot bot="SaveResults" U-File="C:\Documents and Settings\Administrador\Desktop\PACK\VOVO\_private\form_results.csv" S-Format="TEXT/CSV" S-Label-Fields="TRUE" -->
+ 		<p  style="text-align: center">
+-			<strong>Na sua opinião o que o governo deveria fazer para que as indústrias não poluíssem tanto?</strong>
++			<strong>Na sua opini&atilde;o o que o governo deveria fazer para que as ind&uacute;strias n&atilde;o polu&iacute;ssem tanto?</strong>
+ 			<textarea rows="6" name="S2" cols="83"></textarea>
+ 		</p>
+ 	</form>  

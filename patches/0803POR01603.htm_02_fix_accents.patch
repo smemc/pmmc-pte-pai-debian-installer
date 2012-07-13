@@ -1,0 +1,46 @@
+--- atividades/0803POR016/0803POR01603.htm	2012-06-22 15:03:28.739897720 -0300
++++ atividades/0803POR016/0803POR01603.htm.new	2012-06-22 15:03:28.743897720 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="Ligue as s&#x00ED;labas para formar palavras" />
++<meta name="DC:Title" content="Ligue as s&iacute;labas para formar palavras" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,14 +56,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Ligue as s&#x00ED;labas para formar palavras</h2>
++	<h2 class="ExerciseTitle">Ligue as s&iacute;labas para formar palavras</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Ligue as s&#x00ED;labas para formar as palavras. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Ligue as s&iacute;labas para formar as palavras. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -83,7 +83,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td></td><td rowspan="3"><img src="imagens/indicador.png" alt="indicador.png" title="indicador" width="58" height="69"></img></td><td>tru&#x00E7;&#x00E3;o</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td><td width="20"></td><td></td><td rowspan="3"><img src="imagens/indicador.png" alt="indicador.png" title="indicador" width="58" height="69"></img></td><td>tante</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td style="border:solid">&nbsp;cons&nbsp;</td><td>tante</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td><td width="20"></td><td style="border:solid">&nbsp;ins&nbsp;</td><td>pirar</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td></td><td>trutor</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td><td width="20"></td><td></td><td>trumento</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td></td><td rowspan="3"><img src="imagens/indicador.png" alt="indicador.png" title="indicador" width="58" height="69"></img></td><td>tru&ccedil;&atilde;o</td><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td><td width="20"></td><td></td><td rowspan="3"><img src="imagens/indicador.png" alt="indicador.png" title="indicador" width="58" height="69"></img></td><td>tante</td><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td style="border:solid">&nbsp;cons&nbsp;</td><td>tante</td><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td><td width="20"></td><td style="border:solid">&nbsp;ins&nbsp;</td><td>pirar</td><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr><tr><td></td><td>trutor</td><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td><td width="20"></td><td></td><td>trumento</td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="11"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

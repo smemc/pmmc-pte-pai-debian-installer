@@ -1,0 +1,20 @@
+--- atividades/0601POR034/0101POR00102.htm	2012-06-22 14:59:01.143893699 -0300
++++ atividades/0601POR034/0101POR00102.htm.new	2012-06-22 14:59:01.143893699 -0300
+@@ -623,7 +623,7 @@
+ 
+ }
+ 		function AvancaRetorna(e) {
+-			if (!e) e = window.event; //necessário para validar a tecla no IE
++			if (!e) e = window.event; //necess&aacute;rio para validar a tecla no IE
+ 			letra = String.fromCharCode(e.keyCode);
+ 			btn_alt = e['altKey'];
+ 			btn_ctrl = e['ctrlKey'];
+@@ -638,7 +638,7 @@
+ 				}
+ 			}
+ 		}
+-		function clicar() { //função responsável pelo tratamento do botão direito do mouse no IE
++		function clicar() { //fun&ccedil;&atilde;o respons&aacute;vel pelo tratamento do bot&atilde;o direito do mouse no IE
+       		if (event.button==2) {
+         		mensagem;
+       		}

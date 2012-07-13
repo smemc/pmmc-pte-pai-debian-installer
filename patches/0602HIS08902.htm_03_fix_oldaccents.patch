@@ -1,0 +1,58 @@
+--- atividades/0602HIS089/0602HIS08902.htm	2012-06-22 15:00:32.811895076 -0300
++++ atividades/0602HIS089/0602HIS08902.htm.new	2012-06-22 15:00:32.815895077 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="SOB NOVA DIREÇÃO&lt;BR&gt;&lt;BR&gt;MAMÃE" />
++<meta name="DC:Title" content="SOB NOVA DIRE&Ccedil;&Atilde;O&lt;BR&gt;&lt;BR&gt;MAM&Atilde;E" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -849,7 +849,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SOB NOVA DIREÇÃO<BR><BR>MAMÃE</h2>
++	<h2 class="ExerciseTitle">SOB NOVA DIRE&Ccedil;&Atilde;O<BR><BR>MAM&Atilde;E</h2>
+ 
+ 	<h3 class="ExerciseSubtitle"><br /></h3>
+ 
+@@ -858,7 +858,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -878,9 +878,9 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-Ao longo do tempo a vida das mulheres mudou. Antigamente as coisas eram diferentes...<br />Observe os desenhos e interprete a história.<br /><br />A minha <img src="mae.gif" width="91" height="94"></img> <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> gosta de cuidar da<img src="casa.gif" width="127" height="128"></img> <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> e dos<img src="filhos.gif" width="142" height="105"></img> <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, mas precisa trabalhar.<br />Diferente da minha<img src="avo.gif" width="74" height="99"></img> <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;">
++Ao longo do tempo a vida das mulheres mudou. Antigamente as coisas eram diferentes...<br />Observe os desenhos e interprete a hist&oacute;ria.<br /><br />A minha <img src="mae.gif" width="91" height="94"></img> <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> gosta de cuidar da<img src="casa.gif" width="127" height="128"></img> <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> e dos<img src="filhos.gif" width="142" height="105"></img> <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span>, mas precisa trabalhar.<br />Diferente da minha<img src="avo.gif" width="74" height="99"></img> <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;">
+ </input></span>, ela frequentou a<img src="escola.gif" width="79" height="120"></img> <span class="GapSpan" id="GapSpan4">
+-<input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> e tem uma profissão.
++<input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="6"></input></span> e tem uma profiss&atilde;o.
+ </div>
+ </form>
+ </div>

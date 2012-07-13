@@ -1,0 +1,20 @@
+--- atividades/1004POR005/1004POR00504.htm	2012-06-22 15:05:40.199899695 -0300
++++ atividades/1004POR005/1004POR00504.htm.new	2012-06-22 15:05:40.199899695 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+@@ -440,7 +440,7 @@
+ var GiveHint = 'Muito bem';
+ var CaseSensitive = false;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o próximo exercício.';
++var Proximo = 'Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

@@ -1,0 +1,31 @@
+--- atividades/0203MAT001/0203MAT00101.htm	2012-06-22 14:55:06.311890171 -0300
++++ atividades/0203MAT001/0203MAT00101.htm.new	2012-06-22 14:55:06.311890171 -0300
+@@ -443,8 +443,8 @@
+ var ShowCorrectFirstTime = true;
+ var ShuffleQs = false;
+ var ShuffleAs = false;
+-var Proximo = 'Agora vamos para o 2º Exercício!';
+-var DefaultRight = 'Parab&eacute;ns. Você acertou!';
++var Proximo = 'Agora vamos para o 2Âº Exerc&iacute;cio!';
++var DefaultRight = 'Parab&eacute;ns. Voc&ecirc; acertou!';
+ var DefaultWrong = 'Resposta incorreta ! Tente novamente !';
+ var QsToShow = 4;
+ var Score = 0;
+@@ -461,7 +461,7 @@
+ 
+ //The following variable can be used to add a message explaining that
+ //the question is finished, so no further marking will take place.
+-var strQuestionFinished = 'Responda a próxima questão.';
++var strQuestionFinished = 'Responda a pr&oacute;xima quest&atilde;o.';
+ 
+ function CompleteEmptyFeedback(){
+ 	var QNum, ANum;
+@@ -531,7 +531,7 @@
+ 	
+ //Now hide all except the first item
+ 	for (i=1; i<QArray.length; i++){
+-// Comentei este comando porque eu quero que apareça todas as questões - Marlon Militani
++// Comentei este comando porque eu quero que apare&ccedil;a todas as quest&otilde;es - Marlon Militani
+ //		QArray[i].style.display = 'none';
+ 	QArray[i].style.display = '';
+ 	}		

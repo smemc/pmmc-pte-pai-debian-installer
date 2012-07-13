@@ -1,0 +1,13 @@
+--- atividades/1004POR007/1004POR00701.htm	2012-06-22 15:05:40.835899705 -0300
++++ atividades/1004POR007/1004POR00701.htm.new	2012-06-22 15:05:40.839899705 -0300
+@@ -29,8 +29,8 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">Ca&#231;a-palavras </h2>
+-	<h3 class="ExerciseSubtitle">Procure no ca&#231;a-palavras o plural das palavras da listagem abaixo:</h3>
++	<h2 class="ExerciseTitle">Ca&ccedil;a-palavras </h2>
++	<h3 class="ExerciseSubtitle">Procure no ca&ccedil;a-palavras o plural das palavras da listagem abaixo:</h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">

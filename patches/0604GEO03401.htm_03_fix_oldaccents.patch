@@ -1,0 +1,188 @@
+--- atividades/0604GEO034/0604GEO03401.htm	2012-06-22 15:02:36.123896929 -0300
++++ atividades/0604GEO034/0604GEO03401.htm.new	2012-06-22 15:02:36.123896929 -0300
+@@ -109,7 +109,7 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio002000.checked==true);
+- answer = "ÁGUA";
++ answer = "&Aacute;GUA";
+  remark = "";
+  valuation = DecodeNumber(25,1,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -137,14 +137,14 @@
+ <A NAME='qstAnchor1'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 2</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>NO NOSSO PLANETA HÁ MAIS:</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>NO NOSSO PLANETA H&Aacute; MAIS:</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio002000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>ÁGUA</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>&Aacute;GUA</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio002001'></TD>
+@@ -188,11 +188,11 @@
+ <A NAME='qstAnchor2'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 3</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>QUAL O NOME DO PAÍS ONDE VOCÊ MORA?</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>QUAL O NOME DO PA&Iacute;S ONDE VOC&Ecirc; MORA?</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%><TD>
+-<FONT FACE='Arial' SIZE='2'>O PAÍS ONDE MORO CHAMA-SE </FONT> <INPUT TYPE='text' NAME='gap003000' SIZE=8> <FONT FACE='Arial' SIZE='2'>&nbsp;</FONT> </TD></TABLE></CENTER>
++<FONT FACE='Arial' SIZE='2'>O PA&Iacute;S ONDE MORO CHAMA-SE </FONT> <INPUT TYPE='text' NAME='gap003000' SIZE=8> <FONT FACE='Arial' SIZE='2'>&nbsp;</FONT> </TD></TABLE></CENTER>
+ <P><CENTER>
+ <INPUT TYPE='button' VALUE='OK' onClick="Domanda3()"><INPUT TYPE='TEXT' SIZE=35 NAME='out3' VALUE='para verificar a resposta  '>
+ </CENTER>
+@@ -233,7 +233,7 @@
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%><TD>
+-<FONT FACE='Arial' SIZE='2'>A CAPITAL DO BRASIL É </FONT> <INPUT TYPE='text' NAME='gap004000' SIZE=8> <FONT FACE='Arial' SIZE='2'>&nbsp;</FONT> </TD></TABLE></CENTER>
++<FONT FACE='Arial' SIZE='2'>A CAPITAL DO BRASIL &Eacute; </FONT> <INPUT TYPE='text' NAME='gap004000' SIZE=8> <FONT FACE='Arial' SIZE='2'>&nbsp;</FONT> </TD></TABLE></CENTER>
+ <P><CENTER>
+ <INPUT TYPE='button' VALUE='OK' onClick="Domanda4()"><INPUT TYPE='TEXT' SIZE=35 NAME='out4' VALUE='para verificar a resposta  '>
+ </CENTER>
+@@ -245,12 +245,12 @@
+  this.length = 2;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio005000.checked==true);
+- answer = "SÓLIDA DA TERRA.";
++ answer = "S&Oacute;LIDA DA TERRA.";
+  remark = "";
+  valuation = DecodeNumber(5,4,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio005001.checked==true);
+- answer = "LÍQUIDA DA TERRA.";
++ answer = "L&Iacute;QUIDA DA TERRA.";
+  remark = "";
+  valuation = DecodeNumber(3,4,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -280,12 +280,12 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio005000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>SÓLIDA DA TERRA.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>S&Oacute;LIDA DA TERRA.</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio005001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>LÍQUIDA DA TERRA.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>L&Iacute;QUIDA DA TERRA.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -299,7 +299,7 @@
+  this.length = 3;
+  var choice,valuation,remark,data,answer;
+  choice = (document.domanda.radio006000.checked==true);
+- answer = "NA AMÉRICA DO SUL";
++ answer = "NA AM&Eacute;RICA DO SUL";
+  remark = "";
+  valuation = DecodeNumber(25,5,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -309,7 +309,7 @@
+  valuation = DecodeNumber(23,5,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio006002.checked==true);
+- answer = "NA AMÉRICA DO NORTE";
++ answer = "NA AM&Eacute;RICA DO NORTE";
+  remark = "";
+  valuation = DecodeNumber(23,5,-100,100);
+  this[2] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -332,14 +332,14 @@
+ <A NAME='qstAnchor5'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 6</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>O BRASIL ESTÁ LOCALIZADO...</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>O BRASIL EST&Aacute; LOCALIZADO...</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> A </FONT><INPUT TYPE='checkbox' NAME='radio006000'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NA AMÉRICA DO SUL</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>NA AM&Eacute;RICA DO SUL</FONT></TD>
+ <TR>
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio006001'></TD>
+@@ -349,7 +349,7 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> C </FONT><INPUT TYPE='checkbox' NAME='radio006002'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NA AMÉRICA DO NORTE</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>NA AM&Eacute;RICA DO NORTE</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -388,7 +388,7 @@
+ <A NAME='qstAnchor6'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 7</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>VOCÊ ESTUDA EM QUAL CIDADE?</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>VOC&Ecirc; ESTUDA EM QUAL CIDADE?</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <CENTER><TABLE WIDTH=80%><TD>
+@@ -451,7 +451,7 @@
+ }
+ 
+ function Domanda9() {
+- if (valid[8]!=0) { window.alert("Essa resposta já foi corrigida"); return ; }
++ if (valid[8]!=0) { window.alert("Essa resposta j&aacute; foi corrigida"); return ; }
+  allAnsReport[8] = new initValuate9();
+  doValuate(8);
+  PrintOpenAnswer(8,document.domanda.out9);
+@@ -464,7 +464,7 @@
+ <A NAME='qstAnchor8'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 9</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>DOIS PAÍSES DA AMÉRICA DO SUL NÃO FAZEM FRONTEIRA COM O BRASIL. QUAIS SÃO ELES?</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>DOIS PA&Iacute;SES DA AM&Eacute;RICA DO SUL N&Atilde;O FAZEM FRONTEIRA COM O BRASIL. QUAIS S&Atilde;O ELES?</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -485,7 +485,7 @@
+  valuation = DecodeNumber(9,9,-100,100);
+  this[0] = new AnsReport(choice,valuation,remark,0,answer);
+  choice = (document.domanda.radio010001.checked==true);
+- answer = "NO PAÍS INTEIRO.";
++ answer = "NO PA&Iacute;S INTEIRO.";
+  remark = "";
+  valuation = DecodeNumber(11,9,-100,100);
+  this[1] = new AnsReport(choice,valuation,remark,0,answer);
+@@ -520,7 +520,7 @@
+ <TD ALIGN='CENTER'  WIDTH='10%'>
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> B </FONT><INPUT TYPE='checkbox' NAME='radio010001'></TD>
+ <TD ALIGN='LEFT'  WIDTH=90%>
+-<FONT  FACE='Arial' SIZE='2'>NO PAÍS INTEIRO.</FONT></TD>
++<FONT  FACE='Arial' SIZE='2'>NO PA&Iacute;S INTEIRO.</FONT></TD>
+ <TR>
+ </TABLE></CENTER>
+ <P><CENTER>
+@@ -540,7 +540,7 @@
+ }
+ 
+ function Domanda11() {
+- if (valid[10]!=0) { window.alert("Essa resposta já foi corrigida"); return ; }
++ if (valid[10]!=0) { window.alert("Essa resposta j&aacute; foi corrigida"); return ; }
+  allAnsReport[10] = new initValuate11();
+  doValuate(10);
+  PrintOpenAnswer(10,document.domanda.out11);
+@@ -553,7 +553,7 @@
+ <A NAME='qstAnchor10'>
+ </A>
+ <B><FONT  FACE='Arial' SIZE='3'>Pergunta 11</FONT></B><P>
+-<B><FONT  FACE='Arial' SIZE='2'>SE PUDESSE ESCOLHER, EM QUE PAÍS GOSTARIA DE MORAR? POR QUÊ?</FONT></B>
++<B><FONT  FACE='Arial' SIZE='2'>SE PUDESSE ESCOLHER, EM QUE PA&Iacute;S GOSTARIA DE MORAR? POR QU&Ecirc;?</FONT></B>
+ <P>
+ </TABLE></CENTER>
+ <P><CENTER>

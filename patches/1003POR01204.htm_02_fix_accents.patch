@@ -1,0 +1,66 @@
+--- atividades/1003POR012/1003POR01204.htm	2012-06-22 15:04:39.727898787 -0300
++++ atividades/1003POR012/1003POR01204.htm.new	2012-06-22 15:04:39.731898785 -0300
+@@ -1,10 +1,10 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Title" content="ORTOGRAFIA: &quot;F&quot; OU &quot;V&quot;" />
+ 
+ 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -42,12 +42,12 @@
+ </script>
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003POR01203.htm'; return false;">=&gt;</button>-->
+ 
+@@ -58,7 +58,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -70,7 +70,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Arraste as s&#x00ED;labas e coloque-as na ordem. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Arraste as s&iacute;labas e coloque-as na ordem. Depois de conclu&iacute;do, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">
+@@ -114,7 +114,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <p style="text-align: center;">&nbsp;</p>
+ <p style="text-align: center;">&nbsp;</p>
+ <p style="text-align: center;">&nbsp;</p>

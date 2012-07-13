@@ -1,0 +1,70 @@
+--- atividades/0602POR209/0602POR20901.htm	2012-06-22 15:01:40.967896101 -0300
++++ atividades/0602POR209/0602POR20901.htm.new	2012-06-22 15:01:40.971896099 -0300
+@@ -1,11 +1,11 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to M&#225;rcio Godoi."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to M&aacute;rcio Godoi."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="M&#225;rcio Godoi" />
+-<meta name="DC:Title" content="G&#x00CA;NERO DO SUBSTANTIVO" />
++<meta name="DC:Creator" content="M&aacute;rcio Godoi" />
++<meta name="DC:Title" content="G&Ecirc;NERO DO SUBSTANTIVO" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var Proximo = 'Vamos ao Pr&#243;ximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -875,7 +875,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">G&#x00CA;NERO DO SUBSTANTIVO</h2>
++	<h2 class="ExerciseTitle">G&Ecirc;NERO DO SUBSTANTIVO</h2>
+ 
+ 	<h3 class="ExerciseSubtitle"><br /></h3>
+ 
+@@ -884,7 +884,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -904,7 +904,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#AFEEEE"><br /><img src="meupai.jpg" alt="meu-pai.jpg" title="meu-pai" width="650" height="400" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br /><br></td></tr><tr><td bgcolor="#FFB6C1"><br /><p style="text-align: center;"><STRONG>ESTE TEXTO FALA DE UM PAI. MAS COMO SERIA SE ELE FALASSE DE UMA M&#x00C3;E?</STRONG></p><br /><p style="text-align: center;"><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> </p></td></tr><tr><td bgcolor="#FFB6C1"><br /><p style="text-align: justify;"><DD><strong>Todos os dias, quando <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> volta do trabalho, traz um sonho de padaria para mim. No come&#x00E7;o eu adorava o sonho. Agora j&#x00E1; enjoei, mas n&#x00E3;o digo nada para <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span>, porque fico cheia de alegria, quando <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> vejo apontando na esquina, com o embrulhinho de sonho pendurado no dedo.<br /><DD><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> entende tudo que eu sinto e cuida sempre da minha alegria. <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> &#x00E9; <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> melhor <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> do mundo. Eu sempre achei isto e um dia, descobri que as outras pessoas tamb&#x00E9;m achavam. Senti um orgulho t&#x00E3;o grande <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> que jamais vou esquecer.</strong></p><br><br></td></tr></tbody></table>
++<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#AFEEEE"><br /><img src="meupai.jpg" alt="meu-pai.jpg" title="meu-pai" width="650" height="400" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br /><br></td></tr><tr><td bgcolor="#FFB6C1"><br /><p style="text-align: center;"><STRONG>ESTE TEXTO FALA DE UM PAI. MAS COMO SERIA SE ELE FALASSE DE UMA M&Atilde;E?</STRONG></p><br /><p style="text-align: center;"><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> </p></td></tr><tr><td bgcolor="#FFB6C1"><br /><p style="text-align: justify;"><DD><strong>Todos os dias, quando <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> volta do trabalho, traz um sonho de padaria para mim. No come&ccedil;o eu adorava o sonho. Agora j&aacute; enjoei, mas n&atilde;o digo nada para <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span>, porque fico cheia de alegria, quando <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> vejo apontando na esquina, com o embrulhinho de sonho pendurado no dedo.<br /><DD><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> entende tudo que eu sinto e cuida sempre da minha alegria. <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> &eacute; <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> melhor <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> do mundo. Eu sempre achei isto e um dia, descobri que as outras pessoas tamb&eacute;m achavam. Senti um orgulho t&atilde;o grande <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="10" maxlength="10"></input></span> que jamais vou esquecer.</strong></p><br><br></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

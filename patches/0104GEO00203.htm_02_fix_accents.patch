@@ -1,0 +1,29 @@
+--- atividades/0104GEO002/0104GEO00203.htm	2012-06-22 14:53:19.315888563 -0300
++++ atividades/0104GEO002/0104GEO00203.htm.new	2012-06-22 14:53:19.315888563 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -67,7 +67,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ <div id="InstructionsDiv" class="Titles">
+ 	<p align="center" id="Instructions"><img src="imagens/mapa_migra_3.gif" alt="" /></p>
+@@ -89,7 +89,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-Oi, eu sou o Jos&#x00E9;. Minha m&#x00E3;e &#x00E9; bi&#x00F3;loga e estuda a fauna em Pernambuco, que fica na regi&#x00E3;o (1) <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> do pa&#x00ED;s. Para tentar descobrir novas esp&#x00E9;cies animais, nos mudamos para o estado do (2) <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span>. Depois de alguns anos, nos mudamos para o estado do (3) <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span>, onde minha m&#x00E3;e estuda outros animais da floresta amaz&#x00F4;nica. Finalmente, no final da pequisa, voltamos para nosso estado natal, o Rio Grande do Sul, que fica na regi&#x00E3;o (4) <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> do Brasil.
++Oi, eu sou o Jos&eacute;. Minha m&atilde;e &eacute; bi&oacute;loga e estuda a fauna em Pernambuco, que fica na regi&atilde;o (1) <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> do pa&iacute;s. Para tentar descobrir novas esp&eacute;cies animais, nos mudamos para o estado do (2) <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span>. Depois de alguns anos, nos mudamos para o estado do (3) <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span>, onde minha m&atilde;e estuda outros animais da floresta amaz&ocirc;nica. Finalmente, no final da pequisa, voltamos para nosso estado natal, o Rio Grande do Sul, que fica na regi&atilde;o (4) <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> do Brasil.
+ </div>
+ </form>
+ </div>

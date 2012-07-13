@@ -1,0 +1,20 @@
+--- atividades/1004MAT005/1004MAT00504.htm	2012-06-22 14:49:37.191885225 -0300
++++ atividades/1004MAT005/1004MAT00504.htm.new	2012-06-22 15:05:24.731899463 -0300
+@@ -98,13 +98,13 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table align="center" cellpadding="0" cellspacing="0"><tbody><tr>
+-              <td><strong>a)</strong> <img src="imagens/0,45.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>a)</strong> <img src="imagens/0,45.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span></td></tr><tr>
+-              <td><strong>b)</strong> <img src="imagens/0,18.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>b)</strong> <img src="imagens/0,18.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span></td></tr><tr>
+-              <td><strong>c)</strong> <img src="imagens/0,74.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>c)</strong> <img src="imagens/0,74.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span></td></tr><tr>
+-              <td><strong>d)</strong> <img src="imagens/0,92.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>d)</strong> <img src="imagens/0,92.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input></span></td></tr></tbody></table>
+ </div>
+ </form>

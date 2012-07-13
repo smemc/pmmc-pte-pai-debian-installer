@@ -1,0 +1,15 @@
+--- atividades/1004MAT009/1004MAT00901.js	2012-06-22 15:10:54.371904416 -0300
++++ atividades/1004MAT009/1004MAT00901.js.new	2012-06-22 15:10:54.371904416 -0300
+@@ -606,9 +606,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = 'Correto. Parab&#x00E9;ns! <br> Agora vamos para o pr&#x00F3;ximo exerc&#x00ED;cio.';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas...tente novamente!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = 'Correto. Parab&eacute;ns! <br> Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas...tente novamente!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#c5c5c5';

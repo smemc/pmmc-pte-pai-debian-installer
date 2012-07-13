@@ -1,0 +1,11 @@
+--- atividades/1004MAT005/1004MAT00504.js	2012-06-22 14:49:37.223885223 -0300
++++ atividades/1004MAT005/1004MAT00504.js.new	2012-06-22 15:10:48.567904329 -0300
+@@ -538,7 +538,7 @@
+ 
+ 
+ 
+-	PreloadImages('imagens/0,45.PNG','imagens/0,18.PNG','imagens/0,74.PNG','imagens/0,92.PNG');
++	PreloadImages('imagens/0,45.png','imagens/0,18.png','imagens/0,74.png','imagens/0,92.png');
+ 
+ 
+ 	var i = 0;

@@ -1,0 +1,140 @@
+--- atividades/1003POR015/1003POR01502.htm	2012-06-22 15:04:47.027898896 -0300
++++ atividades/1003POR015/1003POR01502.htm.new	2012-06-22 15:04:47.027898896 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="SIN&#x00D4;NIMOS E ANT&#x00D4;NIMOS" />
++<meta name="DC:Title" content="SIN&Ocirc;NIMOS E ANT&Ocirc;NIMOS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -46,12 +46,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -62,11 +62,11 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SIN&#x00D4;NIMOS E ANT&#x00D4;NIMOS</h2>
++	<h2 class="ExerciseTitle">SIN&Ocirc;NIMOS E ANT&Ocirc;NIMOS</h2>
+ 
+ 
+ 
+@@ -75,8 +75,8 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Mude o sentido das frases. Escreva-as novamente trocando 
+-    cada palavra em destaque por seu ant&#x00F4;nimo. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    cada palavra em destaque por seu ant&ocirc;nimo. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -98,7 +98,7 @@
+ <div class="ClozeBody">
+ <table border="1" align="center" bgcolor="white" cellpadding="2" cellspacing="2"><tbody><tr>
+               <td><div align="center"><strong><font size="4" face="Arial, Helvetica, sans-serif">ESTREITO 
+-                  - VAZIO - DEPRESSA - DIF&#x00CD;CIL</font></strong> </div>
++                  - VAZIO - DEPRESSA - DIF&Iacute;CIL</font></strong> </div>
+                 <p align="center"><font size="4" face="Arial, Helvetica, sans-serif"><strong><br />
+                   PRESENTE - VERDE - TERMINAR - DOCE</strong></font></td></tr></tbody></table>
+         <font color="#FF0000"><strong>Importante:</strong></font> As frases sempre 
+@@ -119,8 +119,8 @@
+             </tr>
+             <tr bgcolor="#cfe5b8"> 
+               <td><font face="Arial, Helvetica, sans-serif">b)</font></td>
+-              <td><font face="Arial, Helvetica, sans-serif">Se <font color="#FF0000"><strong>come&#x00E7;ar</strong></font> 
+-                a li&#x00E7;&#x00E3;o, poder&#x00E1; brincar.</font></td>
++              <td><font face="Arial, Helvetica, sans-serif">Se <font color="#FF0000"><strong>come&ccedil;ar</strong></font> 
++                a li&ccedil;&atilde;o, poder&aacute; brincar.</font></td>
+             </tr>
+             <tr bgcolor="#99ccff"> 
+               <td>b)</td>
+@@ -142,7 +142,7 @@
+             <tr bgcolor="#cfe5b8"> 
+               <td><font face="Arial, Helvetica, sans-serif">d)</font></td>
+               <td><font face="Arial, Helvetica, sans-serif">O abacate que eu colhi 
+-                est&#x00E1; <font color="#FF0000"><strong>maduro</strong></font>.</font></td>
++                est&aacute; <font color="#FF0000"><strong>maduro</strong></font>.</font></td>
+             </tr>
+             <tr bgcolor="#99ccff"> 
+               <td>d)</td>
+@@ -153,7 +153,7 @@
+             <tr bgcolor="#cfe5b8"> 
+               <td><font face="Arial, Helvetica, sans-serif">e)</font></td>
+               <td><font face="Arial, Helvetica, sans-serif">O rio que corta a 
+-                cidade &#x00E9; <font color="#FF0000"><strong>largo</strong></font>.</font></td>
++                cidade &eacute; <font color="#FF0000"><strong>largo</strong></font>.</font></td>
+             </tr>
+             <tr bgcolor="#99ccff"> 
+               <td>e)</td>
+@@ -164,7 +164,7 @@
+             <tr bgcolor="#cfe5b8"> 
+               <td><font face="Arial, Helvetica, sans-serif">f)</font></td>
+               <td><font face="Arial, Helvetica, sans-serif">O vidro do perfume 
+-                est&#x00E1; <font color="#FF0000"><strong>cheio</strong></font>.</font></td>
++                est&aacute; <font color="#FF0000"><strong>cheio</strong></font>.</font></td>
+             </tr>
+             <tr bgcolor="#99ccff"> 
+               <td>f)</td>
+@@ -174,7 +174,7 @@
+             </tr>
+             <tr bgcolor="#cfe5b8"> 
+               <td><font face="Arial, Helvetica, sans-serif">g)</font></td>
+-              <td><font face="Arial, Helvetica, sans-serif">O aluno est&#x00E1; 
++              <td><font face="Arial, Helvetica, sans-serif">O aluno est&aacute; 
+                 <font color="#FF0000"><strong>ausente</strong></font> na sala.</font></td>
+             </tr>
+             <tr bgcolor="#99ccff"> 
+@@ -209,12 +209,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -226,7 +226,7 @@
+ <!-- EndBottomNavButtons -->
+ <!-- BeginSubmissionForm -->
+ <!-- EndSubmissionForm -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body>
+ 
+ </html>

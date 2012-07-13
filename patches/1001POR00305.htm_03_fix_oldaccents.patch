@@ -1,0 +1,11 @@
+--- atividades/1001POR003/1001POR00305.htm	2012-06-22 15:04:02.171898222 -0300
++++ atividades/1001POR003/1001POR00305.htm.new	2012-06-22 15:04:02.175898222 -0300
+@@ -586,7 +586,7 @@
+ var CorrectResponse = 'Correto! Parab&eacute;ns!.';
+ var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas... tente novamente!';
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o próximo exercício.';
++var Proximo = 'Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

@@ -1,0 +1,29 @@
+--- atividades/0804POR005/0804POR00502.htm	2012-06-22 15:03:48.891898023 -0300
++++ atividades/0804POR005/0804POR00502.htm.new	2012-06-22 15:03:48.891898023 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -65,7 +65,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Reescreva a frase, substituindo pelo pronome pessoal adequado. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Reescreva a frase, substituindo pelo pronome pessoal adequado. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Leonora tomou refrigerante de ma&#x00E7;&#x00E3;.</td></tr><tr><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr><tr><td>b) C&#x00E9;sar e Caetano gostam de viajar de avi&#x00E3;o.</td></tr><tr><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr><tr><td>c) Edu e Adriana visitaram o Jardim Zool&#x00F3;gico.</td></tr><tr><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr><tr><td>d) Marlene e Eliana chegar&#x00E3;o s&#x00E1;bado &#x00E0; noite.</td></tr><tr><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr><tr><td>e) Eu e Artur fomos ao museu no feriado.</td></tr><tr><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Leonora tomou refrigerante de ma&ccedil;&atilde;.</td></tr><tr><td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr><tr><td>b) C&eacute;sar e Caetano gostam de viajar de avi&atilde;o.</td></tr><tr><td><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr><tr><td>c) Edu e Adriana visitaram o Jardim Zool&oacute;gico.</td></tr><tr><td><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr><tr><td>d) Marlene e Eliana chegar&atilde;o s&aacute;bado &agrave; noite.</td></tr><tr><td><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr><tr><td>e) Eu e Artur fomos ao museu no feriado.</td></tr><tr><td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="34"></input></span>.</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

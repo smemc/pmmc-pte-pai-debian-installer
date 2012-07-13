@@ -1,0 +1,11 @@
+--- atividades/0202GEO001/0202GEO00103.htm	2012-06-22 14:54:06.019889265 -0300
++++ atividades/0202GEO001/0202GEO00103.htm.new	2012-06-22 14:54:06.019889265 -0300
+@@ -451,7 +451,7 @@
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Você Terminou os Exercícios!';
++var Proximo = 'Voc&ecirc; Terminou os Exerc&iacute;cios!';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

@@ -1,0 +1,11 @@
+--- atividades/0104GEO001/0104GEO00106.js	2012-06-22 15:07:39.147901483 -0300
++++ atividades/0104GEO001/0104GEO00106.js.new	2012-06-22 15:07:39.151901483 -0300
+@@ -424,7 +424,7 @@
+ 
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var CorrectResponse = 'MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+ var TotalUnfixedLeftItems = 0;

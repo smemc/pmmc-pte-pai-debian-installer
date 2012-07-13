@@ -1,0 +1,24 @@
+--- atividades/1004POR012/1004POR01202.htm	2012-06-22 15:05:51.499899865 -0300
++++ atividades/1004POR012/1004POR01202.htm.new	2012-06-22 15:05:51.499899865 -0300
+@@ -634,9 +634,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = '<br>Parab&#x00E9;ns! Bom trabalho. <br>Agora vamos para o pr&#x00F3;ximo exerc&#x00ED;cio.';
+-var IncorrectResponse = 'Algumas est&#x00E3;o incorretas. Tente novamente...';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = '<br>Parab&eacute;ns! Bom trabalho. <br>Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
++var IncorrectResponse = 'Algumas est&atilde;o incorretas. Tente novamente...';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#ffffff';
+@@ -979,7 +979,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Mova os verbos at&#x00E9; as pessoas com as quais eles combinam. Depois clique em "Verificar" para corrigir o exerc&#x00ED;cio.</div>
++	<div id="Instructions">Mova os verbos at&eacute; as pessoas com as quais eles combinam. Depois clique em "Verificar" para corrigir o exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

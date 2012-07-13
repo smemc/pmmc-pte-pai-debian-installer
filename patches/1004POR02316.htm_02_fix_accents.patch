@@ -1,0 +1,49 @@
+--- atividades/1004POR023/1004POR02316.htm	2012-06-22 15:06:25.391900374 -0300
++++ atividades/1004POR023/1004POR02316.htm.new	2012-06-22 15:06:25.391900374 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Orientadores de Informática" />
+-<meta name="DC:Title" content="PALAVRAS COM C OU &#x00C7;" />
++<meta name="DC:Title" content="PALAVRAS COM C OU &Ccedil;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -65,14 +65,14 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C OU &#x00C7;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C OU &Ccedil;</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -111,9 +111,9 @@
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+ <tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Jogador de futebol que atua no ataque</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_A_3" class="Clue">Seis centenas</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Sucessor de 49</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Trabalha a madeira com arte</td></tr><tr><td class="ClueNum">7. </td>
+-                <td id="Clue_A_7" class="Clue">Equipamento de seguran&#x00E7;a 
++                <td id="Clue_A_7" class="Clue">Equipamento de seguran&ccedil;a 
+                   para ciclistas e motociclistas</td>
+-              </tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Raiz comest&#x00ED;vel de cor alaranjada</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">O contr&#x00E1;rio de errado</td></tr>
++              </tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Raiz comest&iacute;vel de cor alaranjada</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">O contr&aacute;rio de errado</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -126,7 +126,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Fazer a sele&#x00E7;&#x00E3;o, a escolha</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Quem nasce no Cear&#x00E1;</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Fazer a sele&ccedil;&atilde;o, a escolha</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Quem nasce no Cear&aacute;</td></tr>
+ 
+ </tbody>
+ </table>

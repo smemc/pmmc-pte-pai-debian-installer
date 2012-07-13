@@ -1,0 +1,135 @@
+--- atividades/1004POR023/1004POR02302.htm	2012-06-22 15:06:18.963900275 -0300
++++ atividades/1004POR023/1004POR02302.htm.new	2012-06-22 15:06:18.967900277 -0300
+@@ -1,11 +1,11 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="PALAVRAS COM C OU &#x00C7;" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
++<meta name="DC:Title" content="PALAVRAS COM C OU &Ccedil;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -45,12 +45,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR02303.htm'; return false;">=&gt;</button>-->
+ 
+@@ -61,11 +61,11 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">PALAVRAS COM C OU &#x00C7;</h2>
++	<h2 class="ExerciseTitle">PALAVRAS COM C OU &Ccedil;</h2>
+ 
+ 
+ 
+@@ -73,8 +73,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Separe as palavras em s&#x00ED;labas. Em seguida, clique 
+-    no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Separe as palavras em s&iacute;labas. Em seguida, clique 
++    no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -97,7 +97,7 @@
+         <table align="center" cellpadding="2" cellspacing="2">
+           <tbody>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>cadar&#x00E7;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>cadar&ccedil;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" style="width: 3em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan1"> 
+@@ -107,7 +107,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>endere&#x00E7;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>endere&ccedil;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" style="width: 3em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan4"> 
+@@ -119,7 +119,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>comunica&#x00E7;&#x00E3;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>comunica&ccedil;&atilde;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" style="width: 3em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan8"> 
+@@ -133,7 +133,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>educa&#x00E7;&#x00E3;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>educa&ccedil;&atilde;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan12"> 
+                 <input type="text" class="GapBox" id="Gap12" style="width: 3em;" onfocus="TrackFocus(12)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan13"> 
+@@ -145,7 +145,7 @@
+                 </span></td>
+             </tr>
+             <tr> 
+-              <td bgcolor="#FFFFCC"><strong>refei&#x00E7;&#x00E3;o</strong></td>
++              <td bgcolor="#FFFFCC"><strong>refei&ccedil;&atilde;o</strong></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan16"> 
+                 <input type="text" class="GapBox" id="Gap16" style="width: 3em;" onfocus="TrackFocus(16)" onblur="LeaveGap()" size="3" maxlength="4"></input> 
+                 </span> <span class="GapSpan" id="GapSpan17"> 
+@@ -180,12 +180,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR02303.htm'; return false;">=&gt;</button>-->
+ 
+@@ -197,7 +197,7 @@
+ <!-- EndBottomNavButtons -->
+ <!-- BeginSubmissionForm -->
+ <!-- EndSubmissionForm -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body>
+ 
+ </html>

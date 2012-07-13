@@ -1,0 +1,11 @@
+--- atividades/0102POR002/0102POR00202.htm	2012-06-22 14:53:14.043888484 -0300
++++ atividades/0102POR002/0102POR00202.htm.new	2012-06-22 14:53:14.047888484 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

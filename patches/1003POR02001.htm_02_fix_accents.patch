@@ -1,0 +1,89 @@
+--- atividades/1003POR020/1003POR02001.htm	2012-06-22 15:04:57.487899053 -0300
++++ atividades/1003POR020/1003POR02001.htm.new	2012-06-22 15:04:57.491899054 -0300
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -45,12 +45,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003POR02002.htm'; return false;">=&gt;</button>-->
+ 
+@@ -60,7 +60,7 @@
+ 
+ 
+ <!-- EndTopNavButtons -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+@@ -73,7 +73,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Complete as palavras com R ou RR e copie-as. Em seguida, 
+-    clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -100,9 +100,9 @@
+                 <div align="center">ho<span class="GapSpan" id="GapSpan0"> 
+                   <input type="text" class="GapBox" id="Gap0" style="width: 2em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="2" maxlength="2">
+                   </input> 
+-                  </span>&#x00ED;vel</div></td>
++                  </span>&iacute;vel</div></td>
+               <td> 
+-                <div align="center">herb&#x00ED;vo<span class="GapSpan" id="GapSpan1"> 
++                <div align="center">herb&iacute;vo<span class="GapSpan" id="GapSpan1"> 
+                   <input type="text" class="GapBox" id="Gap1" style="width: 2em;" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="2" maxlength="2">
+                   </input> 
+                   </span>o</div></td>
+@@ -272,7 +272,7 @@
+                 <div align="center">ga<span class="GapSpan" id="GapSpan33"> 
+                   <input type="text" class="GapBox" id="Gap33" style="width: 2em;" onfocus="TrackFocus(33)" onblur="LeaveGap()" size="2" maxlength="2">
+                   </input> 
+-                  </span>af&#x00E3;o</div></td>
++                  </span>af&atilde;o</div></td>
+               <td> 
+                 <div align="center">bobei<span class="GapSpan" id="GapSpan34"> 
+                   <input type="text" class="GapBox" id="Gap34" style="width: 2em;" onfocus="TrackFocus(34)" onblur="LeaveGap()" size="2" maxlength="2">
+@@ -332,12 +332,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003POR02002.htm'; return false;">=&gt;</button>-->
+ 
+@@ -349,7 +349,7 @@
+ <!-- EndBottomNavButtons -->
+ <!-- BeginSubmissionForm -->
+ <!-- EndSubmissionForm -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body>
+ 
+ </html>

@@ -1,0 +1,41 @@
+--- atividades/0202CIE003/0202CIE00304.htm	2012-06-22 14:54:04.039889235 -0300
++++ atividades/0202CIE003/0202CIE00304.htm.new	2012-06-22 14:54:04.043889235 -0300
+@@ -308,7 +308,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Parabéns. Bom trabalho! Agora vamos para o Próximo Exercício!');
++		alert('Parab&eacute;ns. Bom trabalho! Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!');
+ 		parent.location.href="0202CIE00305.htm";		
+ 	}
+ 	
+@@ -636,17 +636,17 @@
+ 
+ <li id="node8" groupId="box3">COBRA</li>
+ 
+-<li id="node9" groupId="box3">JACARÉ</li>
++<li id="node9" groupId="box3">JACAR&Eacute;</li>
+ 
+ <li id="node10" groupId="box4">SAPO</li>
+ 
+-<li id="node11" groupId="box4">RÃ</li>
++<li id="node11" groupId="box4">R&Atilde;</li>
+ 
+ <li id="node12" groupId="box4">PERERECA</li>
+ 
+ <li id="node13" groupId="box5">SARDINHA</li>
+ 
+-<li id="node14" groupId="box5">TUBARÃO</li>
++<li id="node14" groupId="box5">TUBAR&Atilde;O</li>
+ 
+ <li id="node15" groupId="box5">BACALHAU</li>
+ 
+@@ -659,7 +659,7 @@
+ 	</div>	
+ 	<div id="dhtmlgoodies_mainContainer">
+ 		<!-- ONE <UL> for each "room" -->
+-		<div><p>MAMÍFEROS</p><ul id="box1"></ul> </div><div><p>AVES</p><ul id="box2"></ul> </div><div><p>RÉPTEIS</p><ul id="box3"></ul> </div><div><p>ANFÍBIOS</p><ul id="box4"></ul> </div><div><p>PEIXES</p><ul id="box5"></ul> </div>
++		<div><p>MAM&Iacute;FEROS</p><ul id="box1"></ul> </div><div><p>AVES</p><ul id="box2"></ul> </div><div><p>R&Eacute;PTEIS</p><ul id="box3"></ul> </div><div><p>ANF&Iacute;BIOS</p><ul id="box4"></ul> </div><div><p>PEIXES</p><ul id="box5"></ul> </div>
+ 		
+ 	</div>
+ </div>

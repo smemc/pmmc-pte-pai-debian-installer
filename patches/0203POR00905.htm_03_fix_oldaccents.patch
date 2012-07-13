@@ -1,0 +1,61 @@
+--- atividades/0203POR009/0203POR00905.htm	2012-06-22 14:55:45.571890759 -0300
++++ atividades/0203POR009/0203POR00905.htm.new	2012-06-22 14:55:45.575890760 -0300
+@@ -2,7 +2,7 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1"/>
+ <meta http-equiv="Content-Style-Type" content="text/css"/>
+@@ -306,7 +306,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Parabéns! Você terminou os exercícios!');
++		alert('Parab&eacute;ns! Voc&ecirc; terminou os exerc&iacute;cios!');
+ 		parent.location.href="../imagens/fim.htm";		
+ 	}
+ 	
+@@ -616,11 +616,11 @@
+ 		<div>
+ 			<p>PALAVRAS</p>		
+ 		<ul id="allItems">
+-			<li id="node1" groupId="box1">relógio</li>
++			<li id="node1" groupId="box1">rel&oacute;gio</li>
+ 
+ <li id="node2" groupId="box1">meninada</li>
+ 
+-<li id="node3" groupId="box1">abóbora</li>
++<li id="node3" groupId="box1">ab&oacute;bora</li>
+ 
+ <li id="node4" groupId="box1">nariz</li>
+ 
+@@ -630,7 +630,7 @@
+ 
+ <li id="node7" groupId="box1">cachorro</li>
+ 
+-<li id="node8" groupId="box1">maçã</li>
++<li id="node8" groupId="box1">ma&ccedil;&atilde;</li>
+ 
+ <li id="node9" groupId="box1">estojo</li>
+ 
+@@ -654,7 +654,7 @@
+ 
+ <li id="node19" groupId="box2">Mogi das Cruzes</li>
+ 
+-<li id="node20" groupId="box2">Pelé</li>
++<li id="node20" groupId="box2">Pel&eacute;</li>
+ 
+ 
+ 		
+@@ -665,7 +665,7 @@
+ 	</div>	
+ 	<div id="dhtmlgoodies_mainContainer">
+ 		<!-- ONE <UL> for each "room" -->
+-		<div><p>SUBSTANTIVOS COMUNS</p><ul id="box1"></ul> </div><div><p>SUBSTANTIVOS PRÓPRIOS</p><ul id="box2"></ul> </div>
++		<div><p>SUBSTANTIVOS COMUNS</p><ul id="box1"></ul> </div><div><p>SUBSTANTIVOS PR&Oacute;PRIOS</p><ul id="box2"></ul> </div>
+ 		
+ 	</div>
+ </div>

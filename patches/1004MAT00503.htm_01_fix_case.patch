@@ -1,0 +1,56 @@
+--- atividades/1004MAT005/1004MAT00503.htm	2012-06-22 14:49:37.183885225 -0300
++++ atividades/1004MAT005/1004MAT00503.htm.new	2012-06-22 15:05:24.055899453 -0300
+@@ -100,45 +100,45 @@
+         <table align="center" cellpadding="0" cellspacing="0">
+           <tbody>
+             <tr>
+-              <td><strong>a) </strong><img src="imagens/0,6.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>a) </strong><img src="imagens/0,6.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan0">
+                 <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input>
+                 </span></td>
+               <td width="20">&nbsp;</td>
+-              <td><strong>b)</strong> <img src="imagens/0,3.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>b)</strong> <img src="imagens/0,3.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan1">
+                 <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input>
+                 </span></td>
+             </tr>
+             <tr>
+-              <td><strong>c)</strong> <img src="imagens/0,4.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>c)</strong> <img src="imagens/0,4.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan2">
+                 <input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input>
+                 </span></td>
+               <td>&nbsp;</td>
+-              <td><strong>d)</strong> <img src="imagens/0,9.PNG" width="100" height="100" align="absmiddle"></img></td>
++              <td><strong>d)</strong> <img src="imagens/0,9.png" width="100" height="100" align="absmiddle"></img></td>
+               <td><span class="GapSpan" id="GapSpan3">
+                 <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input>
+                 </span></td>
+             </tr>
+             <tr>
+-              <td><strong>e)</strong> <img src="imagens/0,5.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>e)</strong> <img src="imagens/0,5.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan4">
+                 <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input>
+                 </span></td>
+               <td>&nbsp;</td>
+-              <td><strong>f)</strong> <img src="imagens/0,7.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>f)</strong> <img src="imagens/0,7.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan5">
+                 <input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input>
+                 </span></td>
+             </tr>
+             <tr>
+-              <td><strong>g)</strong> <img src="imagens/0,24.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>g)</strong> <img src="imagens/0,24.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan6">
+                 <input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input>
+                 </span></td>
+               <td>&nbsp;</td>
+-              <td><strong>h)</strong> <img src="imagens/0,32.PNG" width="100" height="100" align="middle"></img></td>
++              <td><strong>h)</strong> <img src="imagens/0,32.png" width="100" height="100" align="middle"></img></td>
+               <td><span class="GapSpan" id="GapSpan7">
+                 <input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="4" style="width: 4em;"></input>
+                 </span></td>

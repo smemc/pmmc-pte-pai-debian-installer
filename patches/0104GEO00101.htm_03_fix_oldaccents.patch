@@ -1,0 +1,11 @@
+--- atividades/0104GEO001/0104GEO00101.htm	2012-06-22 14:53:15.243888500 -0300
++++ atividades/0104GEO001/0104GEO00101.htm.new	2012-06-22 14:53:15.247888499 -0300
+@@ -79,7 +79,7 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions">Clique no Estado correspondente de cada bandeira. Depois 
+-    de concluído toda a atividade, clique em "Verificar" para corrigir o exercício.</p>
++    de conclu&iacute;do toda a atividade, clique em "Verificar" para corrigir o exerc&iacute;cio.</p>
+ </div>
+ 
+ 

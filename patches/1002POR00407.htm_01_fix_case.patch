@@ -1,0 +1,47 @@
+--- atividades/1002POR004/1002POR00407.htm	2012-06-22 14:49:35.979885206 -0300
++++ atividades/1002POR004/1002POR00407.htm.new	2012-06-22 15:04:15.351898420 -0300
+@@ -52,7 +52,7 @@
+ 
+ <!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
+ 
+-<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1002por00408.htm'; return false;">=&gt;</button>-->
++<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1002POR00408.htm'; return false;">=&gt;</button>-->
+ 
+ 
+ </div>
+@@ -94,7 +94,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table align="center" border =1 ><tr><td><center><img src="Imagens/bala.jpg" width="100" height="100"></img></center></td><td><center><img src="Imagens/batata.jpg" width="143" height="100"></img></center></td><td><center><img src="Imagens/cama.jpg" width="117" height="100"></img></center></td><td><center><img src="Imagens/bone.jpg" width="114" height="100"></img></center></td></tr><tr><td><center><span class="GapSpan" id="GapSpan0">
++<table align="center" border =1 ><tr><td><center><img src="imagens/bala.jpg" width="100" height="100"></img></center></td><td><center><img src="imagens/batata.jpg" width="143" height="100"></img></center></td><td><center><img src="imagens/cama.jpg" width="117" height="100"></img></center></td><td><center><img src="imagens/bone.jpg" width="114" height="100"></img></center></td></tr><tr><td><center><span class="GapSpan" id="GapSpan0">
+                 <input type="text" class="GapBox" id="Gap0" style="width: 2em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="3" maxlength="3">
+                 </input></span>la</center></td><td><center><span class="GapSpan" id="GapSpan1">
+                 <input type="text" class="GapBox" id="Gap1" style="width: 2em;" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="3" maxlength="3">
+@@ -102,7 +102,7 @@
+                 <input type="text" class="GapBox" id="Gap2" style="width: 2em;" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="3" maxlength="3">
+                 </input></span>ma</center></td><td><center><span class="GapSpan" id="GapSpan3">
+                 <input type="text" class="GapBox" id="Gap3" style="width: 2em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="3" maxlength="3">
+-                </input></span>n&#x00E9;</center></td></tr><tr><td><center><img src="Imagens/baleia.jpg" width="115" height="100"></img></center></td><td><center><img src="Imagens/bode.gif" width="133" height="100"></img></center></td><td><center><img src="Imagens/botao.jpg" width="89" height="89"></img></center></td><td><center><img src="Imagens/cubo.gif" width="100" height="100"></img></center></td></tr><tr><td><center><span class="GapSpan" id="GapSpan4">
++                </input></span>n&#x00E9;</center></td></tr><tr><td><center><img src="imagens/baleia.jpg" width="115" height="100"></img></center></td><td><center><img src="imagens/bode.gif" width="133" height="100"></img></center></td><td><center><img src="imagens/botao.jpg" width="89" height="89"></img></center></td><td><center><img src="imagens/cubo.gif" width="100" height="100"></img></center></td></tr><tr><td><center><span class="GapSpan" id="GapSpan4">
+                 <input type="text" class="GapBox" id="Gap4" style="width: 2em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="3" maxlength="3">
+                 </input></span>leia</center></td><td><center><span class="GapSpan" id="GapSpan5">
+                 <input type="text" class="GapBox" id="Gap5" style="width: 2em;" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="3" maxlength="3">
+@@ -110,7 +110,7 @@
+                 <input type="text" class="GapBox" id="Gap6" style="width: 2em;" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="3" maxlength="3">
+                 </input></span>t&#x00E3;o</center></td><td><center>cu<span class="GapSpan" id="GapSpan7">
+                 <input type="text" class="GapBox" id="Gap7" style="width: 2em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="3" maxlength="3">
+-                </input></span></center></td></tr><tr><td><center><img src="Imagens/bola.jpg" width="112" height="100"></img></center></td><td><center><img src="Imagens/navio.jpg" width="86" height="100"></img></center></td><td><center><img src="Imagens/macaco.jpg" width="73" height="100"></img></center></td><td><center><img src="Imagens/bule.jpg" width="100" height="100"></img></center></td></tr><tr><td><center><span class="GapSpan" id="GapSpan8">
++                </input></span></center></td></tr><tr><td><center><img src="imagens/bola.jpg" width="112" height="100"></img></center></td><td><center><img src="imagens/navio.jpg" width="86" height="100"></img></center></td><td><center><img src="imagens/macaco.jpg" width="73" height="100"></img></center></td><td><center><img src="imagens/bule.jpg" width="100" height="100"></img></center></td></tr><tr><td><center><span class="GapSpan" id="GapSpan8">
+                 <input type="text" class="GapBox" id="Gap8" style="width: 2em;" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="3" maxlength="3">
+                 </input></span>la</center></td><td><center><span class="GapSpan" id="GapSpan9">
+                 <input type="text" class="GapBox" id="Gap9" style="width: 2em;" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="3" maxlength="3">
+@@ -150,7 +150,7 @@
+ 
+ <!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
+ 
+-<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1002por00408.htm'; return false;">=&gt;</button>-->
++<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1002POR00408.htm'; return false;">=&gt;</button>-->
+ 
+ 
+ </div>

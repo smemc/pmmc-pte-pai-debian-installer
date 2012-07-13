@@ -1,0 +1,37 @@
+--- atividades/0603POR088/0603POR08801.htm	2012-06-22 15:02:31.455896859 -0300
++++ atividades/0603POR088/0603POR08801.htm.new	2012-06-22 15:02:31.459896859 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="DIGITE AS LETRAS QUE EST&#x00C3;O FALTANDO" />
++<meta name="DC:Title" content="DIGITE AS LETRAS QUE EST&Atilde;O FALTANDO" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,14 +56,14 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">DIGITE AS LETRAS QUE EST&#x00C3;O FALTANDO</h2>
++	<h2 class="ExerciseTitle">DIGITE AS LETRAS QUE EST&Atilde;O FALTANDO</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

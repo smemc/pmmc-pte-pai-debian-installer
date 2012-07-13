@@ -1,0 +1,29 @@
+--- atividades/0603POR084/0603POR08401.htm	2012-06-22 14:49:37.567885231 -0300
++++ atividades/0603POR084/0603POR08401.htm.new	2012-06-22 15:02:28.979896822 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="INTERPRETAÇÃO DE TEXTOS&#x003C;BR&#x003E;&#x003C;BR&#x003E;O TEXTO A SEGUIR É UM TRECHO DA APRESENTAÇÃO DE UM LIVRO PARA CRIANÇAS. VAMOS LER?&#x003C;BR&#x003E;&#x003C;BR&#x003E;&#x003C;img src=&quot;TEXTO.gif&quot; width=&quot;626&quot; height=&quot;410&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="INTERPRETAÇÃO DE TEXTOS&#x003C;BR&#x003E;&#x003C;BR&#x003E;O TEXTO A SEGUIR É UM TRECHO DA APRESENTAÇÃO DE UM LIVRO PARA CRIANÇAS. VAMOS LER?&#x003C;BR&#x003E;&#x003C;BR&#x003E;&#x003C;img src=&quot;texto.gif&quot; width=&quot;626&quot; height=&quot;410&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&#x003E;&#x003C;/img&#x003E;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -704,7 +704,7 @@
+ 
+ 	
+ 
+-	PreloadImages('../imagens/logo.png','TEXTO.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','texto.gif','rodape.png');
+ 
+ 	
+ 	CompleteEmptyFeedback();
+@@ -1044,7 +1044,7 @@
+ 	<h2 class="ExerciseTitle">INTERPRETAÇÃO DE TEXTO<BR>
+   <BR>O TEXTO A SEGUIR É UM TRECHO DA APRESENTAÇÃO DE UM LIVRO PARA CRIANÇAS. <br />
+     VAMOS LER?<BR>
+-  <BR><img src="TEXTO.gif" width="626" height="410" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></h2>
++  <BR><img src="texto.gif" width="626" height="410" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></h2>
+ 
+ 
+ 

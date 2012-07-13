@@ -1,0 +1,37 @@
+--- atividades/0601MAT080/0601MAT08018.htm	2012-06-22 14:58:25.147893158 -0300
++++ atividades/0601MAT080/0601MAT08018.htm.new	2012-06-22 14:58:25.151893158 -0300
+@@ -11,7 +11,7 @@
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ <META HTTP-EQUIV="imagetoolbar" CONTENT="no">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -468,12 +468,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -871,7 +871,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 

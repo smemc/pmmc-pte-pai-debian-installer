@@ -1,0 +1,29 @@
+--- atividades/0601POR083/0601POR08305.htm	2012-06-22 14:59:44.363894348 -0300
++++ atividades/0601POR083/0601POR08305.htm.new	2012-06-22 14:59:44.367894349 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="ARRASTANDO SÍLABAS" />
++<meta name="DC:Title" content="ARRASTANDO S&Iacute;LABAS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -588,7 +588,7 @@
+ 
+ var CorrectResponse = 'MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -1018,7 +1018,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">ARRASTANDO SÍLABAS</h2>
++	<h2 class="ExerciseTitle">ARRASTANDO S&Iacute;LABAS</h2>
+ 
+ 
+ 

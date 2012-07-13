@@ -1,0 +1,20 @@
+--- atividades/0803POR015/0803POR01506.htm	2012-06-22 15:03:27.687897702 -0300
++++ atividades/0803POR015/0803POR01506.htm.new	2012-06-22 15:03:27.687897702 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -63,7 +63,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete com <b>r</b> ou <b>rr</b> as palavras. Em seguida clique no bot&#x00E3;o verificar para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete com <b>r</b> ou <b>rr</b> as palavras. Em seguida clique no bot&atilde;o verificar para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 

@@ -1,0 +1,20 @@
+--- atividades/0204MAT004/0204MAT00411.htm	2012-06-22 14:56:13.899891186 -0300
++++ atividades/0204MAT004/0204MAT00411.htm.new	2012-06-22 14:56:13.899891186 -0300
+@@ -451,7 +451,7 @@
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -824,7 +824,7 @@
+       <div class="ClozeBody"> 
+         <table width="600" border="1" align="center" cellpadding="0" cellspacing="0">
+           <tr bgcolor="#CCFFCC"> 
+-            <td width="300"> <div align="center"><strong><font color="#FF0000" size="4">CÁLCULO</font></strong><br />
++            <td width="300"> <div align="center"><strong><font color="#FF0000" size="4">C&Aacute;LCULO</font></strong><br />
+                 <span class="GapSpan" id="GapSpan10"> 
+                 <textarea name="text" cols="20" rows="10" class="GapBox" id="text" onfocus="TrackFocus(0)" onblur="LeaveGap()"></textarea>
+                 </span></div></td>

@@ -1,0 +1,38 @@
+--- atividades/0804POR003/0804POR00303.htm	2012-06-22 15:03:45.295897966 -0300
++++ atividades/0804POR003/0804POR00303.htm.new	2012-06-22 15:03:45.299897967 -0300
+@@ -23,7 +23,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -57,7 +57,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para completar a Cruzadinha. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para completar a Cruzadinha. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -95,7 +95,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel"><b>Horizontal:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Conjunto de qualidades de um indiv&#x00ED;duo.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Criar ra&#x00ED;zes.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Dif&#x00ED;cil de ser encontrado.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Criar rugas na pele.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">S&#x00FA;plica religiosa, reza.</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">Conjunto de qualidades de um indiv&iacute;duo.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Criar ra&iacute;zes.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Dif&iacute;cil de ser encontrado.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Criar rugas na pele.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">S&uacute;plica religiosa, reza.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -108,7 +108,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel"><b>Vertical:</b></h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">P&#x00E1;ssaro que fala. &#x00C9; parecido com papagaio.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Produzir sons semelhantes aos dos p&#x00E1;ssaros.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Espa&#x00E7;o de tempo que leva sessenta minutos.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">P&#x00E1;ssaro de plumagem preta e bico amarelo.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Eu era, tu eras, ele...</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">P&aacute;ssaro que fala. &Eacute; parecido com papagaio.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Produzir sons semelhantes aos dos p&aacute;ssaros.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Espa&ccedil;o de tempo que leva sessenta minutos.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">P&aacute;ssaro de plumagem preta e bico amarelo.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Eu era, tu eras, ele...</td></tr>
+ 
+ </tbody>
+ </table>

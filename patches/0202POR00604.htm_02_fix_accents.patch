@@ -1,0 +1,68 @@
+--- atividades/0202POR006/0202POR00604.htm	2012-06-22 14:54:45.447889857 -0300
++++ atividades/0202POR006/0202POR00604.htm.new	2012-06-22 14:54:45.451889857 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -437,14 +437,14 @@
+ var CurrQNum = 0;
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var ContinuousScoring = true;
+-var CorrectFirstTime = 'Quest&#x00F5;es respondidas corretamente na primeira tentativa: ';
++var CorrectFirstTime = 'Quest&otilde;es respondidas corretamente na primeira tentativa: ';
+ var ShowCorrectFirstTime = true;
+ var ShuffleQs = false;
+ var ShuffleAs = false;
+ var Proximo = 'Você Terminou os Exercícios!';
+-var DefaultRight = 'Parab&#x00E9;ns. Voc&#x00EA; Acertou!';
++var DefaultRight = 'Parab&eacute;ns. Voc&ecirc; Acertou!';
+ var DefaultWrong = 'Resposta incorreta ! Tente novamente !';
+ var QsToShow = 5;
+ var Score = 0;
+@@ -1006,12 +1006,12 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#000000">SIN&#x00D4;NIMOS</font></h2>
++  <h2 class="ExerciseTitle"><font color="#000000">SIN&Ocirc;NIMOS</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Clique no quadrinho 
+-    com o ponto de interroga&#x00E7;&#x00E3;o ao lado da alternativa que julgar 
++    com o ponto de interroga&ccedil;&atilde;o ao lado da alternativa que julgar 
+     correta.</p>
+ </div>
+ 
+@@ -1044,11 +1044,11 @@
+ <ol class="QuizQuestions" id="Questions">
+ <li class="QuizQuestion" id="Q_0" style="display: none;">
+       <p class="QuestionText"><strong>Roberto ficou muito <font color="#FF0000" size="4">FELIZ</font> 
+-        com a not&#x00ED;cia.</strong></p>
++        com a not&iacute;cia.</strong></p>
+       <ol class="MCAnswers"><li id="Q_0_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_0_Btn" onclick="CheckMCAnswer(0,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;TRISTE</li><li id="Q_0_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_1_Btn" onclick="CheckMCAnswer(0,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;CONTENTE</li><li id="Q_0_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_2_Btn" onclick="CheckMCAnswer(0,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;ASSUSTADO</li></ol></li>
+ <li class="QuizQuestion" id="Q_1" style="display: none;">
+-      <p class="QuestionText"><strong>A escola onde Gabriela estuda &#x00E9; <font color="#FF0000" size="4">GRANDE</font>.</strong></p>
+-      <ol class="MCAnswers"><li id="Q_1_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_0_Btn" onclick="CheckMCAnswer(1,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;LINDA</li><li id="Q_1_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_1_Btn" onclick="CheckMCAnswer(1,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;PEQUENA</li><li id="Q_1_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_2_Btn" onclick="CheckMCAnswer(1,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;ESPA&#x00C7;OSA</li></ol></li>
++      <p class="QuestionText"><strong>A escola onde Gabriela estuda &eacute; <font color="#FF0000" size="4">GRANDE</font>.</strong></p>
++      <ol class="MCAnswers"><li id="Q_1_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_0_Btn" onclick="CheckMCAnswer(1,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;LINDA</li><li id="Q_1_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_1_Btn" onclick="CheckMCAnswer(1,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;PEQUENA</li><li id="Q_1_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_1_2_Btn" onclick="CheckMCAnswer(1,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;ESPA&Ccedil;OSA</li></ol></li>
+ <li class="QuizQuestion" id="Q_2" style="display: none;">
+       <p class="QuestionText"><strong>Depois da lavagem, as roupas ficaram bem 
+         <font color="#FF0000" size="4">CLARAS</font>.</strong></p>

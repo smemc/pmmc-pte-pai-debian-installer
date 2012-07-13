@@ -1,0 +1,64 @@
+--- atividades/0203MAT003/0203MAT00303.htm	2012-06-22 14:55:14.391890292 -0300
++++ atividades/0203MAT003/0203MAT00303.htm.new	2012-06-22 14:55:14.395890292 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE MATEM&#x00C1;TICA" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE MATEM&Aacute;TICA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -437,14 +437,14 @@
+ var CurrQNum = 0;
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var ContinuousScoring = true;
+-var CorrectFirstTime = 'Quest&#x00F5;es respondidas corretamente na primeira tentativa: ';
++var CorrectFirstTime = 'Quest&otilde;es respondidas corretamente na primeira tentativa: ';
+ var ShowCorrectFirstTime = true;
+ var ShuffleQs = false;
+ var ShuffleAs = false;
+-var DefaultRight = 'Parab&#x00E9;ns. Voc&#x00EA; Acertou!';
++var DefaultRight = 'Parab&eacute;ns. Voc&ecirc; Acertou!';
+ var DefaultWrong = 'Resposta incorreta ! Tente novamente !';
+ var QsToShow = 5;
+ var Score = 0;
+@@ -991,12 +991,12 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#000000">MULTIPLICA&#x00C7;&#x00C3;O</font></h2>
++  <h2 class="ExerciseTitle"><font color="#000000">MULTIPLICA&Ccedil;&Atilde;O</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Clique no quadrinho 
+-    com o ponto de interroga&#x00E7;&#x00E3;o ao lado da alternativa que julgar 
++    com o ponto de interroga&ccedil;&atilde;o ao lado da alternativa que julgar 
+     correta.</p>
+ </div>
+ 
+@@ -1027,8 +1027,8 @@
+ <ol class="QuizQuestions" id="Questions">
+ <li class="QuizQuestion" id="Q_0" style="display: none;">
+       <p class="QuestionText"><strong><font size="3">Ana comprou <font color="#FF0000" size="5">3</font> 
+-        caixas de l&#x00E1;pis de cor com <font color="#FF0000" size="5">12</font> l&#x00E1;pis 
+-        cada. Quantos l&#x00E1;pis Ana tem?</font></strong></p>
++        caixas de l&aacute;pis de cor com <font color="#FF0000" size="5">12</font> l&aacute;pis 
++        cada. Quantos l&aacute;pis Ana tem?</font></strong></p>
+       <ol class="MCAnswers"><li id="Q_0_0"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_0_Btn" onclick="CheckMCAnswer(0,0,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;34</li><li id="Q_0_1"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_1_Btn" onclick="CheckMCAnswer(0,1,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;36</li><li id="Q_0_2"><button class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)"  onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOut(this)" id="Q_0_2_Btn" onclick="CheckMCAnswer(0,2,this)">&nbsp;&nbsp;?&nbsp;&nbsp;</button>&nbsp;&nbsp;38</li></ol></li></ol>
+ 
+ 

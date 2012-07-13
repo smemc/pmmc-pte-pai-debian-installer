@@ -1,0 +1,20 @@
+--- atividades/0602HIS089/0602HIS08901.htm	2012-06-22 15:00:32.243895068 -0300
++++ atividades/0602HIS089/0602HIS08901.htm.new	2012-06-22 15:00:32.247895068 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="SOB NOVA DIREÇÃO&#x003C;BR&#x003E;&#x003C;BR&#x003E;VOVÓ" />
++<meta name="DC:Title" content="SOB NOVA DIREÇÃO&lt;BR&gt;&lt;BR&gt;VOVÓ" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

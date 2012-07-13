@@ -1,0 +1,37 @@
+--- atividades/0602MAT085/0602MAT08501.htm	2012-06-22 15:00:45.703895270 -0300
++++ atividades/0602MAT085/0602MAT08501.htm.new	2012-06-22 15:00:45.707895270 -0300
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -860,7 +860,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -880,7 +880,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<img src="quadro.gif" width="602" height="432" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"><br /><table align="center" border="1" cellpadding="2" cellspacing="2"><tbody><tr><td colspan="6" align="center"><B>DIGITE ABAIXO QUANTOS PONTOS CADA CRIANÇA FEZ.</B></td></tr><td ALIGN="CENTER"><B>ANA</B></td><td ALIGN="CENTER"><B>LUIZ</B></td><td ALIGN="CENTER"><B>JOSÉ</B></td><td ALIGN="CENTER"><B>LÍDIA</B></td><td ALIGN="CENTER"><B>BIA</B></td><td ALIGN="CENTER"><B>CAIO</B></td></tr><tr><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td></tr></tbody></table>
++<img src="quadro.gif" width="602" height="432" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"><br /><table align="center" border="1" cellpadding="2" cellspacing="2"><tbody><tr><td colspan="6" align="center"><B>DIGITE ABAIXO QUANTOS PONTOS CADA CRIAN&Ccedil;A FEZ.</B></td></tr><td ALIGN="CENTER"><B>ANA</B></td><td ALIGN="CENTER"><B>LUIZ</B></td><td ALIGN="CENTER"><B>JOS&Eacute;</B></td><td ALIGN="CENTER"><B>L&Iacute;DIA</B></td><td ALIGN="CENTER"><B>BIA</B></td><td ALIGN="CENTER"><B>CAIO</B></td></tr><tr><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td><td ALIGN="CENTER"><B><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="10"></input></span></B></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

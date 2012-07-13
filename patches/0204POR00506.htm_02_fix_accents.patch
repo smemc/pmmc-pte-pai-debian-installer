@@ -1,0 +1,127 @@
+--- atividades/0204POR005/0204POR00506.htm	2012-06-22 14:56:43.951891636 -0300
++++ atividades/0204POR005/0204POR00506.htm.new	2012-06-22 14:56:43.951891636 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Você Terminou os Exercícios!';
+ var Finished = false;
+ var Locked = false;
+@@ -859,13 +859,13 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#000000">PONTUA&#x00C7;&#x00C3;O</font></h2>
++  <h2 class="ExerciseTitle"><font color="#000000">PONTUA&Ccedil;&Atilde;O</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -881,30 +881,30 @@
+ 
+  -->
+   <div align="left"><strong><font size="3">Complete o texto, colocando os sinais 
+-    de pontua&#x00E7;&#x00E3;o escritos entre par&#x00EA;nteses: </font></strong></div>
++    de pontua&ccedil;&atilde;o escritos entre par&ecirc;nteses: </font></strong></div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+       <div class="ClozeBody"> 
+         <table width="600" border="1" align="center" cellpadding="0" cellspacing="0">
+           <tr>
+             <td bgcolor="#99CCFF"> 
+-              <div align="center"><strong>Um&nbsp;menino&nbsp;da&nbsp;cidade&nbsp;foi&nbsp;visitar&nbsp;seu&nbsp;amigo&nbsp;no&nbsp;s&#x00ED;tio<span class="GapSpan" id="GapSpan0"> 
++              <div align="center"><strong>Um&nbsp;menino&nbsp;da&nbsp;cidade&nbsp;foi&nbsp;visitar&nbsp;seu&nbsp;amigo&nbsp;no&nbsp;s&iacute;tio<span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+-                </span>&nbsp;<font color="#FF0000">(ponto final)</font>&nbsp;L&#x00E1;&nbsp;ele&nbsp;viu&nbsp;o&nbsp;cavalo,&nbsp;que&nbsp;o&nbsp;entregador&nbsp;de&nbsp;leite&nbsp;utiliza,&nbsp;fazendo&nbsp;xixi<span class="GapSpan" id="GapSpan1"> 
++                </span>&nbsp;<font color="#FF0000">(ponto final)</font>&nbsp;L&aacute;&nbsp;ele&nbsp;viu&nbsp;o&nbsp;cavalo,&nbsp;que&nbsp;o&nbsp;entregador&nbsp;de&nbsp;leite&nbsp;utiliza,&nbsp;fazendo&nbsp;xixi<span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+-                </span>&nbsp;<font color="#FF0000">(ponto final)</font>&nbsp;Ent&#x00E3;o,&nbsp;curioso,&nbsp;o&nbsp;menino&nbsp;perguntou&nbsp;ao&nbsp;entregador<span class="GapSpan" id="GapSpan2"> 
++                </span>&nbsp;<font color="#FF0000">(ponto final)</font>&nbsp;Ent&atilde;o,&nbsp;curioso,&nbsp;o&nbsp;menino&nbsp;perguntou&nbsp;ao&nbsp;entregador<span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+                 </span>&nbsp;<font color="#FF0000">(dois pontos)</font><br />
+                 <span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+-                </span>&nbsp;<font color="#FF0000">(travess&#x00E3;o)</font>&nbsp;Voc&#x00EA;&nbsp;tem&nbsp;muitas&nbsp;entregas&nbsp;pra&nbsp;fazer&nbsp;ainda&nbsp;hoje<span class="GapSpan" id="GapSpan4"> 
++                </span>&nbsp;<font color="#FF0000">(travess&atilde;o)</font>&nbsp;Voc&ecirc;&nbsp;tem&nbsp;muitas&nbsp;entregas&nbsp;pra&nbsp;fazer&nbsp;ainda&nbsp;hoje<span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+-                </span>&nbsp;<font color="#FF0000">(ponto de interroga&#x00E7;&#x00E3;o)</font><br />
++                </span>&nbsp;<font color="#FF0000">(ponto de interroga&ccedil;&atilde;o)</font><br />
+                 O&nbsp;entregador&nbsp;falou<span class="GapSpan" id="GapSpan5"> 
+                 <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+@@ -912,10 +912,10 @@
+                 <span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+-                </span>&nbsp;<font color="#FF0000">(travess&#x00E3;o)</font>&nbsp;Por&nbsp;qu&#x00EA;,&nbsp;garoto<span class="GapSpan" id="GapSpan7"> 
++                </span>&nbsp;<font color="#FF0000">(travess&atilde;o)</font>&nbsp;Por&nbsp;qu&ecirc;,&nbsp;garoto<span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+-                </span>&nbsp;<font color="#FF0000">(ponto de interroga&#x00E7;&#x00E3;o)</font><br />
++                </span>&nbsp;<font color="#FF0000">(ponto de interroga&ccedil;&atilde;o)</font><br />
+                 O&nbsp;menino&nbsp;respondeu<span class="GapSpan" id="GapSpan8"> 
+                 <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input></span>&nbsp;
+@@ -923,13 +923,13 @@
+                 <span class="GapSpan" id="GapSpan9"> 
+                 <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+-                </span>&nbsp;<font color="#FF0000">(travess&#x00E3;o)</font>&nbsp;Porque&nbsp;voc&#x00EA;&nbsp;n&#x00E3;o&nbsp;conseguir&#x00E1;&nbsp;ir&nbsp;muito&nbsp;longe<span class="GapSpan" id="GapSpan10"> 
++                </span>&nbsp;<font color="#FF0000">(travess&atilde;o)</font>&nbsp;Porque&nbsp;voc&ecirc;&nbsp;n&atilde;o&nbsp;conseguir&aacute;&nbsp;ir&nbsp;muito&nbsp;longe<span class="GapSpan" id="GapSpan10"> 
+                 <input type="text" class="GapBox" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+                 </span>&nbsp;<font color="#FF0000">(ponto final)</font>&nbsp;Seu&nbsp;cavalo&nbsp;acabou&nbsp;de&nbsp;derramar&nbsp;toda&nbsp;a&nbsp;gasolina<span class="GapSpan" id="GapSpan11"> 
+                 <input type="text" class="GapBox" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" size="1" maxlength="1">
+                 </input> 
+-                </span>&nbsp;<font color="#FF0000">(ponto de exclama&#x00E7;&#x00E3;o)</font></strong></div></td>
++                </span>&nbsp;<font color="#FF0000">(ponto de exclama&ccedil;&atilde;o)</font></strong></div></td>
+           </tr>
+         </table>
+ </div>
+@@ -959,7 +959,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

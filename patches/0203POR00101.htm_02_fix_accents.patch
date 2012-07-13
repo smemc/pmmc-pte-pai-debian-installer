@@ -1,0 +1,45 @@
+--- atividades/0203POR001/0203POR00101.htm	2012-06-22 14:55:22.795890418 -0300
++++ atividades/0203POR001/0203POR00101.htm.new	2012-06-22 14:55:22.799890418 -0300
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -834,7 +834,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">O mesmo que tranq&#x00FC;ilo.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Que n&#x00E3;o &#x00E9; fino.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Que se assustou.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Fazer massagem.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Relativo &#x00E0; pessoa.</td></tr>
++<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">O mesmo que tranq&uuml;ilo.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Que n&atilde;o &eacute; fino.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Que se assustou.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Fazer massagem.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Relativo &agrave; pessoa.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -848,8 +848,8 @@
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+ <tr><td class="ClueNum">1. </td>
+-                <td id="Clue_D_1" class="Clue">Que &#x00E9; muito ruim.</td>
+-              </tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Ato de tossir.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Ant&#x00F4;nimo de devagar.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">&#x00C9; utilizada para varrer.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Aquilo que assou.</td></tr>
++                <td id="Clue_D_1" class="Clue">Que &eacute; muito ruim.</td>
++              </tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Ato de tossir.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Ant&ocirc;nimo de devagar.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">&Eacute; utilizada para varrer.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Aquilo que assou.</td></tr>
+ 
+ </tbody>
+ </table>

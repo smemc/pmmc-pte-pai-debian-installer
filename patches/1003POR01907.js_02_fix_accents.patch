@@ -1,0 +1,36 @@
+--- atividades/1003POR019/1003POR01907.js	2012-06-22 15:10:09.739903745 -0300
++++ atividades/1003POR019/1003POR01907.js.new	2012-06-22 15:10:09.739903745 -0300
+@@ -325,7 +325,7 @@
+ 	}
+ 	return InArray;
+ }
+-<!-- Orientadores de Inform&#225;tica - Comentado para que n&#227;o exibe o resultado no enunciado da atividade -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para que n&atilde;o exibe o resultado no enunciado da atividade -->
+ function WriteToInstructions(Feedback) {
+ 	<!-- document.getElementById('InstructionsDiv').innerHTML = Feedback; -->
+ 
+@@ -441,7 +441,7 @@
+ 		Frm.submit();
+ 	}
+ 
+-  	//Orientadores de Inform&#225;tica - C&#243;digo que exibir o pr&#243;ximo arquivo
++  	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir o pr&oacute;ximo arquivo
+ 	parent.location.href="1003POR01908.htm";
+ 
+ }
+@@ -608,11 +608,11 @@
+ var Punctuation = '';
+ 
+ var Openers = '';
+-var CorrectResponse = 'Correto. Parab&#x00E9;ns!';
+-var IncorrectResponse = 'Algumas est&#x00E3;o incorretas...tente novamente';
+-var ThisMuchCorrect = 'Esta parte da sua resposta est&#x00E1; correta:';
++var CorrectResponse = 'Correto. Parab&eacute;ns!';
++var IncorrectResponse = 'Algumas est&atilde;o incorretas...tente novamente';
++var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
+ var TheseAnswersToo = 'These answers are also correct:';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var NextCorrect = 'The next correct part is: ';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';

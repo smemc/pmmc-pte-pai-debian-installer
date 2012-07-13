@@ -1,0 +1,11 @@
+--- atividades/0601CIE070/0601CIE07004.htm	2012-06-22 14:57:24.251892243 -0300
++++ atividades/0601CIE070/0601CIE07004.htm.new	2012-06-22 14:57:24.255892244 -0300
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

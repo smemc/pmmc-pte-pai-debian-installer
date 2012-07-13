@@ -1,0 +1,50 @@
+--- atividades/0602POR020/0602POR02001.htm	2012-06-22 15:00:50.715895343 -0300
++++ atividades/0602POR020/0602POR02001.htm.new	2012-06-22 15:00:50.715895343 -0300
+@@ -9,7 +9,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -461,9 +461,9 @@
+ var AcrossCaption = '';
+ var DownCaption = '';
+ var Correct = 'CERTO!';
+-var Incorrect = 'ALGUMA RESPOSTA ESTÁ INCORRETA!'; 
++var Incorrect = 'ALGUMA RESPOSTA EST&Aacute; INCORRETA!'; 
+ var GiveHint = '';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -833,7 +833,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">CLIQUE NOS NÚMEROS PARA COMPLETAR A CRUZADINHA. DEPOIS DE PREENCHER TUDO CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">CLIQUE NOS N&Uacute;MEROS PARA COMPLETAR A CRUZADINHA. DEPOIS DE PREENCHER TUDO CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 
+@@ -871,7 +871,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">AQUELA QUE TEM PREGUIÇA.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">SABOROSO.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">FEMININO DE PRÍNCIPE.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">DENGOSO, CHEIO DE MANHA.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">A FÊMEA DO RAPOSO.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">PEÇA DO VESTUÁRIO MASCULINO</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">AQUELA QUE TEM PREGUI&Ccedil;A.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">SABOROSO.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">FEMININO DE PR&Iacute;NCIPE.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">DENGOSO, CHEIO DE MANHA.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">A F&Ecirc;MEA DO RAPOSO.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">PE&Ccedil;A DO VESTU&Aacute;RIO MASCULINO</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -884,7 +884,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">VERTICAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">A FLOR DA ROSEIRA.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">COMBUSTÍVEL PARA CARROS.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">INSTRUMENTO UTILIZADO PARA CORTAR TECIDO, PAPEL...</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">AUMENTATIVO DE BLUSA.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">A FLOR DA ROSEIRA.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">COMBUST&Iacute;VEL PARA CARROS.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">INSTRUMENTO UTILIZADO PARA CORTAR TECIDO, PAPEL...</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">AUMENTATIVO DE BLUSA.</td></tr>
+ 
+ </tbody>
+ </table>

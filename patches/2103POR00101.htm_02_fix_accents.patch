@@ -1,0 +1,97 @@
+--- atividades/2103POR001/2103POR00101.htm	2012-06-22 15:07:31.471901367 -0300
++++ atividades/2103POR001/2103POR00101.htm.new	2012-06-22 15:07:31.471901367 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+ <meta name="DC:Creator" content="Claudio Souza" />
+-<meta name="DC:Title" content="DESCUBRA AS PALAVRAS COM &#x00C7;." />
++<meta name="DC:Title" content="DESCUBRA AS PALAVRAS COM &Ccedil;." />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -67,7 +67,7 @@
+ </p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">DESCUBRA AS PALAVRAS COM &#x00C7;.</h2>
++	<h2 class="ExerciseTitle">DESCUBRA AS PALAVRAS COM &Ccedil;.</h2>
+ 
+ 
+ 
+@@ -76,7 +76,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois 
+-    de completo, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++    de completo, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -117,7 +117,7 @@
+               </tr>
+               <tr> 
+                 <td class="ClueNum">2. </td>
+-                <td id="Clue_A_2" class="Clue"><strong>O ca&#x00E7;ador procura 
++                <td id="Clue_A_2" class="Clue"><strong>O ca&ccedil;ador procura 
+                   sua...</strong></td>
+               </tr>
+               <tr> 
+@@ -131,16 +131,16 @@
+               </tr>
+               <tr> 
+                 <td class="ClueNum">6. </td>
+-                <td id="Clue_A_6" class="Clue"><strong>Onde guardamos a&#x00E7;&#x00FA;car...</strong></td>
++                <td id="Clue_A_6" class="Clue"><strong>Onde guardamos a&ccedil;&uacute;car...</strong></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">8. </td>
+                 <td id="Clue_A_8" class="Clue"><strong>Fio que usamos para amarrar 
+-                  o t&#x00EA;nis...</strong></td>
++                  o t&ecirc;nis...</strong></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">9. </td>
+-                <td id="Clue_A_9" class="Clue"><strong>2 + 2 &#x00E9; uma conta 
++                <td id="Clue_A_9" class="Clue"><strong>2 + 2 &eacute; uma conta 
+                   do tipo...</strong></td>
+               </tr>
+               <tr> 
+@@ -162,7 +162,7 @@
+               </tr>
+               <tr> 
+                 <td class="ClueNum">1. </td>
+-                <td id="Clue_D_1" class="Clue"><strong>Material que &#x00E9; feito 
++                <td id="Clue_D_1" class="Clue"><strong>Material que &eacute; feito 
+                   o prego.</strong></td>
+               </tr>
+               <tr> 
+@@ -172,7 +172,7 @@
+               </tr>
+               <tr> 
+                 <td class="ClueNum">3. </td>
+-                <td id="Clue_D_3" class="Clue"><strong>2 - 2 &#x00E9; uma conta 
++                <td id="Clue_D_3" class="Clue"><strong>2 - 2 &eacute; uma conta 
+                   do tipo...</strong></td>
+               </tr>
+               <tr> 
+@@ -185,17 +185,17 @@
+               </tr>
+               <tr> 
+                 <td class="ClueNum">7. </td>
+-                <td id="Clue_D_7" class="Clue"><strong>Dia 12 de Outubro &#x00E9; 
++                <td id="Clue_D_7" class="Clue"><strong>Dia 12 de Outubro &eacute; 
+                   o dia das...</strong></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">9. </td>
+-                <td id="Clue_D_9" class="Clue"><strong>O que usamos para ado&#x00E7;ar.</strong></td>
++                <td id="Clue_D_9" class="Clue"><strong>O que usamos para ado&ccedil;ar.</strong></td>
+               </tr>
+               <tr> 
+                 <td class="ClueNum">10. </td>
+                 <td id="Clue_D_10" class="Clue"><strong>Buraco que cavamos para 
+-                  encontrar &#x00E1;gua.</strong></td>
++                  encontrar &aacute;gua.</strong></td>
+               </tr>
+             </tbody>
+           </table>

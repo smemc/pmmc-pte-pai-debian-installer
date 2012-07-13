@@ -1,0 +1,51 @@
+--- atividades/0803MAT005/0803MAT00501.htm	2012-06-22 15:03:15.031897514 -0300
++++ atividades/0803MAT005/0803MAT00501.htm.new	2012-06-22 15:03:15.031897514 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="O dia, a semana, o m&#x00EA;s e o ano..." />
++<meta name="DC:Title" content="O dia, a semana, o m&ecirc;s e o ano..." />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,17 +56,17 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">O dia, a semana, o m&#x00EA;s e o ano...</h2>
++	<h2 class="ExerciseTitle">O dia, a semana, o m&ecirc;s e o ano...</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Voc&#x00EA; j&#x00E1; sabe que podemos medir o tempo em horas, minutos e segundos.<br />
+-	Outras unidades de medida de tempo s&#x00E3;o as semanas, os meses, os anos, as d&#x00E9;cadas, os s&#x00E9;culos, os mil&#x00EA;nios.</h3>
++	<h3 class="ExerciseSubtitle">Voc&ecirc; j&aacute; sabe que podemos medir o tempo em horas, minutos e segundos.<br />
++	Outras unidades de medida de tempo s&atilde;o as semanas, os meses, os anos, as d&eacute;cadas, os s&eacute;culos, os mil&ecirc;nios.</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Digite nos espa&#x00E7;os em brancos as respostas das perguntas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Digite nos espa&ccedil;os em brancos as respostas das perguntas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -86,7 +86,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Quantos dias t&#x00EA;m uma semana? <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> dias</td></tr><tr><td>b) Qual &#x00E9; o primeiro dia da semana? <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>. E o &#x00FA;ltimo? <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Quantos dias t&ecirc;m uma semana? <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span> dias</td></tr><tr><td>b) Qual &eacute; o primeiro dia da semana? <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="7"></input></span>. E o &uacute;ltimo? <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="6"></input></span></td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

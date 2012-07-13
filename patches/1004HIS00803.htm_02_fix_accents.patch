@@ -1,0 +1,101 @@
+--- atividades/1004HIS008/1004HIS00803.htm	2012-06-22 15:05:11.955899271 -0300
++++ atividades/1004HIS008/1004HIS00803.htm.new	2012-06-22 15:05:11.959899271 -0300
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -46,12 +46,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -62,7 +62,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -74,7 +74,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -94,25 +94,25 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table align="center" border="1" bgcolor="white"><tbody><tr><td><table cellpadding="2" cellspacing="8"><tbody><tr><td><center>ANONIMATO</center></td><td><center>CRENDICES</center></td><td><center>CULTURA</center></td><td><center>FOLCLORE</center></td><td><center>GERA&#x00C7;&#x00D5;ES</center></td></tr><tr><td><center>H&#x00C1;BITOS</center></td><td><center>LENDAS</center></td><td><center>NECESSIDADE</center></td><td><center>PROV&#x00C9;RBIOS</center></td><td><center>SUPERSTI&#x00C7;&#x00D5;ES</center></td></tr></tbody></table></tr></td></tbody></table><br /><br />1) O <span class="GapSpan" id="GapSpan0">
++<table align="center" border="1" bgcolor="white"><tbody><tr><td><table cellpadding="2" cellspacing="8"><tbody><tr><td><center>ANONIMATO</center></td><td><center>CRENDICES</center></td><td><center>CULTURA</center></td><td><center>FOLCLORE</center></td><td><center>GERA&Ccedil;&Otilde;ES</center></td></tr><tr><td><center>H&Aacute;BITOS</center></td><td><center>LENDAS</center></td><td><center>NECESSIDADE</center></td><td><center>PROV&Eacute;RBIOS</center></td><td><center>SUPERSTI&Ccedil;&Otilde;ES</center></td></tr></tbody></table></tr></td></tbody></table><br /><br />1) O <span class="GapSpan" id="GapSpan0">
+         <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="8" maxlength="9">
+-        </input></span> constitui-se de costumes e tradi&#x00E7;&#x00F5;es.<br />2) Esses costumes referem-se a <span class="GapSpan" id="GapSpan1">
++        </input></span> constitui-se de costumes e tradi&ccedil;&otilde;es.<br />2) Esses costumes referem-se a <span class="GapSpan" id="GapSpan1">
+         <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="7" maxlength="8">
+         </input></span> de um povo.<br />3) As <span class="GapSpan" id="GapSpan2">
+         <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="12" maxlength="13">
+-        </input></span> tamb&#x00E9;m fazem parte do folclore.<br />4) As <span class="GapSpan" id="GapSpan3">
++        </input></span> tamb&eacute;m fazem parte do folclore.<br />4) As <span class="GapSpan" id="GapSpan3">
+         <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="6" maxlength="7">
+-        </input></span> folcl&#x00F3;ricas s&#x00E3;o hist&#x00F3;rias inventadas pelo povo.<br />5) Todos os povos t&#x00EA;m sua cultura popular, atrav&#x00E9;s de suas <span class="GapSpan" id="GapSpan4">
++        </input></span> folcl&oacute;ricas s&atilde;o hist&oacute;rias inventadas pelo povo.<br />5) Todos os povos t&ecirc;m sua cultura popular, atrav&eacute;s de suas <span class="GapSpan" id="GapSpan4">
+         <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="9" maxlength="10">
+-        </input></span> e seu modo de viver.<br />6) As manifesta&#x00E7;&#x00F5;es folcl&#x00F3;ricas surgem de caracter&#x00ED;sticas como o <span class="GapSpan" id="GapSpan5">
++        </input></span> e seu modo de viver.<br />6) As manifesta&ccedil;&otilde;es folcl&oacute;ricas surgem de caracter&iacute;sticas como o <span class="GapSpan" id="GapSpan5">
+         <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="9" maxlength="10">
+         </input></span>.<br />7) As pessoas modificam os fatos conforme seus <span class="GapSpan" id="GapSpan6">
+         <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="7" maxlength="8">
+         </input></span>.<br />8) Os <span class="GapSpan" id="GapSpan7">
+         <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="10" maxlength="11">
+-        </input></span> s&#x00E3;o ditos populares.<br />9) As hist&#x00F3;rias s&#x00E3;o transmitidas atrav&#x00E9;s de <span class="GapSpan" id="GapSpan8">
++        </input></span> s&atilde;o ditos populares.<br />9) As hist&oacute;rias s&atilde;o transmitidas atrav&eacute;s de <span class="GapSpan" id="GapSpan8">
+         <input type="text" class="GapBox" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="8" maxlength="9">
+-        </input></span>.<br />10) O fato folcl&#x00F3;rico surge da <span class="GapSpan" id="GapSpan9">
++        </input></span>.<br />10) O fato folcl&oacute;rico surge da <span class="GapSpan" id="GapSpan9">
+         <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="11" maxlength="12">
+         </input></span> do povo.
+ </div>
+@@ -139,12 +139,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -159,7 +159,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

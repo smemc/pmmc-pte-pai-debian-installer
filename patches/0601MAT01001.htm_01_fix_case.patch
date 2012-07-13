@@ -1,0 +1,20 @@
+--- atividades/0601MAT010/0601MAT01001.htm	2012-06-22 14:49:39.827885265 -0300
++++ atividades/0601MAT010/0601MAT01001.htm.new	2012-06-22 14:57:26.631892279 -0300
+@@ -513,7 +513,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','PRATELEIRA.png','rodape.png');
++	PreloadImages('../imagens/logo.png','prateleira.png','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -860,7 +860,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<img src="PRATELEIRA.png" alt="PRATELEIRA.png" title="PRATELEIRA" width="526" height="127"></img><br /><br />CARRINHOS AZUIS = <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> <br />CARRINHOS VERMELHOS = <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> <br />CARRINHOS AMARELOS = <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span>
++<img src="prateleira.png" alt="prateleira.png" title="PRATELEIRA" width="526" height="127"></img><br /><br />CARRINHOS AZUIS = <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> <br />CARRINHOS VERMELHOS = <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> <br />CARRINHOS AMARELOS = <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span>
+ </div>
+ </form>
+ </div>

@@ -1,0 +1,129 @@
+--- atividades/0204POR008/0204POR00806.htm	2012-06-22 14:56:59.367891869 -0300
++++ atividades/0204POR008/0204POR00806.htm.new	2012-06-22 14:56:59.367891869 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -837,8 +837,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -854,12 +854,12 @@
+ 
+  -->
+   <div align="left">
+-    <p><strong><font size="3">Fa&#x00E7;a como o exemplo:</font></strong></p>
++    <p><strong><font size="3">Fa&ccedil;a como o exemplo:</font></strong></p>
+     <table width="400" border="1" cellspacing="0" cellpadding="1">
+       <tr>
+         <td bgcolor="#33CCCC"> 
+           <div align="center"><strong><font color="#FFFFFF" size="5">Quem pratica 
+-            corrida &#x00E9;</font><font size="5"> <font color="#FF0000">corredor</font></font></strong></div></td>
++            corrida &eacute;</font><font size="5"> <font color="#FF0000">corredor</font></font></strong></div></td>
+       </tr>
+     </table>
+   </div>
+@@ -869,50 +869,50 @@
+         <table width="600" border="1" align="center" cellpadding="1" cellspacing="0">
+           <tr> 
+             <td bgcolor="#CCCCFF"> 
+-              <div align="center"><strong><font size="3">ciclismo &#x00E9;&nbsp;<span class="GapSpan" id="GapSpan0"> 
++              <div align="center"><strong><font size="3">ciclismo &eacute;&nbsp;<span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="15" maxlength="15">
+                 </input> 
+                 </span></font></strong></div></td>
+           </tr>
+           <tr> 
+             <td bgcolor="#CCCCFF"> 
+-              <div align="center"><strong><font size="3">t&#x00EA;nis &#x00E9;&nbsp;<span class="GapSpan" id="GapSpan1"> 
++              <div align="center"><strong><font size="3">t&ecirc;nis &eacute;&nbsp;<span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="15" maxlength="15">
+                 </input> 
+                 </span></font></strong></div></td>
+           </tr>
+           <tr> 
+             <td bgcolor="#CCCCFF"> 
+-              <div align="center"><strong><font size="3">surfe &#x00E9;&nbsp;<span class="GapSpan" id="GapSpan2"> 
++              <div align="center"><strong><font size="3">surfe &eacute;&nbsp;<span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="15" maxlength="15">
+                 </input> 
+                 </span></font></strong></div></td>
+           </tr>
+           <tr> 
+             <td bgcolor="#CCCCFF"> 
+-              <div align="center"><strong><font size="3">automobilismo &#x00E9;&nbsp;<span class="GapSpan" id="GapSpan3"> 
++              <div align="center"><strong><font size="3">automobilismo &eacute;&nbsp;<span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="15" maxlength="15">
+                 </input> 
+                 </span></font></strong></div></td>
+           </tr>
+           <tr> 
+             <td bgcolor="#CCCCFF"> 
+-              <div align="center"><strong><font size="3">nata&#x00E7;&#x00E3;o 
+-                &#x00E9;&nbsp;<span class="GapSpan" id="GapSpan4"> 
++              <div align="center"><strong><font size="3">nata&ccedil;&atilde;o 
++                &eacute;&nbsp;<span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="15" maxlength="15">
+                 </input> 
+                 </span></font></strong></div></td>
+           </tr>
+           <tr> 
+             <td bgcolor="#CCCCFF"> 
+-              <div align="center"><strong><font size="3">remo &#x00E9;&nbsp;<span class="GapSpan" id="GapSpan5"> 
++              <div align="center"><strong><font size="3">remo &eacute;&nbsp;<span class="GapSpan" id="GapSpan5"> 
+                 <input type="text" class="GapBox" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" size="15" maxlength="15">
+                 </input> 
+                 </span></font></strong></div></td>
+           </tr>
+           <tr> 
+             <td bgcolor="#CCCCFF"> 
+-              <div align="center"><strong><font size="3">esporte &#x00E9;&nbsp;<span class="GapSpan" id="GapSpan6"> 
++              <div align="center"><strong><font size="3">esporte &eacute;&nbsp;<span class="GapSpan" id="GapSpan6"> 
+                 <input type="text" class="GapBox" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" size="15" maxlength="15">
+                 </input> 
+                 </span></font></strong></div></td>
+@@ -945,7 +945,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

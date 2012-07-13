@@ -1,0 +1,20 @@
+--- atividades/1004CIE001/1004CIE00103.htm	2012-06-22 15:05:10.155899244 -0300
++++ atividades/1004CIE001/1004CIE00103.htm.new	2012-06-22 15:05:10.159899244 -0300
+@@ -9,7 +9,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 23 -->
+ 
+@@ -939,7 +939,7 @@
+ 
+ 
+   <div class="Titles">
+-	<h2 class="ExerciseTitle">SISTEMA ÓSSEO E MUSCULAR</h2>
++	<h2 class="ExerciseTitle">SISTEMA &Oacute;SSEO E MUSCULAR</h2>
+ 	<h3 class="ExerciseSubtitle"><!-- Coloque aqui um subtitulo (se necessario) --></h3>
+   </div>
+ 

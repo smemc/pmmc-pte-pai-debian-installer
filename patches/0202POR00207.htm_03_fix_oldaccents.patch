@@ -1,0 +1,20 @@
+--- atividades/0202POR002/0202POR00207.htm	2012-06-22 14:54:28.535889603 -0300
++++ atividades/0202POR002/0202POR00207.htm.new	2012-06-22 14:54:28.539889603 -0300
+@@ -13,7 +13,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ <script type="text/javascript">
+@@ -434,7 +434,7 @@
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Parabéns! Você conseguiu terminar os Exercícios!';
++var Proximo = 'Parab&eacute;ns! Voc&ecirc; conseguiu terminar os Exerc&iacute;cios!';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

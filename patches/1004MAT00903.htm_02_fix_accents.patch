@@ -1,0 +1,28 @@
+--- atividades/1004MAT009/1004MAT00903.htm	2012-06-22 15:05:32.707899583 -0300
++++ atividades/1004MAT009/1004MAT00903.htm.new	2012-06-22 15:05:32.707899583 -0300
+@@ -4,7 +4,7 @@
+              xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to UNREGISTERED."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Title" content="FRA&#x00C7;&#x00D5;ES" />
++<meta name="DC:Title" content="FRA&Ccedil;&Otilde;ES" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -62,14 +62,14 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">FRA&#x00C7;&#x00D5;ES</h2>
++	<h2 class="ExerciseTitle">FRA&Ccedil;&Otilde;ES</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Arraste as fra&#x00E7;&#x00F5;es ao lado das figuras correspondentes. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir o exerc&#x00ED;cio.</div>
++	<div id="Instructions">Arraste as fra&ccedil;&otilde;es ao lado das figuras correspondentes. Depois de conclu&iacute;do, clique em "Verificar" para corrigir o exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

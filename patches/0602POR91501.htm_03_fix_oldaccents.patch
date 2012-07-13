@@ -1,0 +1,47 @@
+--- atividades/0602POR915/0602POR91501.htm	2012-06-22 15:02:00.083896388 -0300
++++ atividades/0602POR915/0602POR91501.htm.new	2012-06-22 15:02:00.087896388 -0300
+@@ -9,7 +9,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -463,7 +463,7 @@
+ var Correct = '';
+ var Incorrect = ''; 
+ var GiveHint = '';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -827,7 +827,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">CLIQUE NOS NÚMEROS PARA COMPLETAR A CRUZADINHA. EM SEGUIDA, CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
++	<p id="Instructions">CLIQUE NOS N&Uacute;MEROS PARA COMPLETAR A CRUZADINHA. EM SEGUIDA, CLIQUE EM VERIFICAR PARA CORRIGIR.</p>
+ </div>
+ 
+ 
+@@ -866,7 +866,7 @@
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">TINTA ESCOLAR PARA PINTAR SOBRE O PAPEL</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">INSTRUMENTO MUSICAL USADO NAS BANDAS DE ROCK</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">LOCAL ONDE VIVEM AS FORMIGAS</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">LUGAR ONDE SE COMPRA CARNE</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">ÁRVORE QUE DÁ MANGAS</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">LÍQUIDO QUE BEBEMOS QUANDO ESTAMOS COM SEDE</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">O QUE CIRCULA NAS VEIAS DO CORPO</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">TINTA ESCOLAR PARA PINTAR SOBRE O PAPEL</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">INSTRUMENTO MUSICAL USADO NAS BANDAS DE ROCK</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">LOCAL ONDE VIVEM AS FORMIGAS</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">LUGAR ONDE SE COMPRA CARNE</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">&Aacute;RVORE QUE D&Aacute; MANGAS</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">L&Iacute;QUIDO QUE BEBEMOS QUANDO ESTAMOS COM SEDE</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">O QUE CIRCULA NAS VEIAS DO CORPO</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -879,7 +879,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">VERTICAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">BARRA DE DIREÇÃO DA BICICLETA</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">MÁQUINA DE CORTAR PAPEL</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">FÊMEA DO CAVALO</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">TEM FOGO E VEMOS NAS FESTAS JUNINAS</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">O MESMO QUE NAVE ESPACIAL</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">SERVIR DE GUIA, ORIENTAR</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">BARRA DE DIRE&Ccedil;&Atilde;O DA BICICLETA</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">M&Aacute;QUINA DE CORTAR PAPEL</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">F&Ecirc;MEA DO CAVALO</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">TEM FOGO E VEMOS NAS FESTAS JUNINAS</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">O MESMO QUE NAVE ESPACIAL</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">SERVIR DE GUIA, ORIENTAR</td></tr>
+ 
+ </tbody>
+ </table>

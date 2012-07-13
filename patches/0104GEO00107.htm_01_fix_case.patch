@@ -1,0 +1,21 @@
+--- atividades/0104GEO001/0104GEO00107.htm	2012-06-22 14:49:51.803885445 -0300
++++ atividades/0104GEO001/0104GEO00107.htm.new	2012-06-22 14:53:18.503888551 -0300
+@@ -95,15 +95,15 @@
+ <form id="QForm" method="post" action="" onsubmit="return false;">
+ <table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">
+ 
+-<tr><td class="LeftItem"><img src="imagens/Parana.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
++<tr><td class="LeftItem"><img src="imagens/parana.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
+ <option value="0">Paran&#x00E1; (PR)</option>
+ <option value="2">Rio Grande do Sul (RS)</option>
+ <option value="1">Santa Catarina (SC)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Santa_Catarina.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/santa_catarina.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
+ <option value="0">Paran&#x00E1; (PR)</option>
+ <option value="2">Rio Grande do Sul (RS)</option>
+ <option value="1">Santa Catarina (SC)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Rio_Grande_do_Sul.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/rio_grande_do_sul.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
+ <option value="0">Paran&#x00E1; (PR)</option>
+ <option value="2">Rio Grande do Sul (RS)</option>
+ <option value="1">Santa Catarina (SC)</option>

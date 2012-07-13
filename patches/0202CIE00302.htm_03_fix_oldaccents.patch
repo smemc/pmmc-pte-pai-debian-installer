@@ -1,0 +1,38 @@
+--- atividades/0202CIE003/0202CIE00302.htm	2012-06-22 14:54:03.131889221 -0300
++++ atividades/0202CIE003/0202CIE00302.htm.new	2012-06-22 14:54:03.135889222 -0300
+@@ -308,7 +308,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Parabéns. Bom trabalho! Agora vamos para o Próximo Exercício!');
++		alert('Parab&eacute;ns. Bom trabalho! Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!');
+ 		parent.location.href="0202CIE00303.htm";		
+ 	}
+ 	
+@@ -601,7 +601,7 @@
+   																				<!--         Ajout G.Q.           -->
+    <div class="Titles">
+ 	<h2 class="ExerciseTitle">ANIMAIS TERRESTRES E AQU&Aacute;TICOS</h2>
+-	<h3 class="ExerciseSubtitle"><strong>Classifique estes animais em terrestres ou aquáticos:</strong></h3>
++	<h3 class="ExerciseSubtitle"><strong>Classifique estes animais em terrestres ou aqu&aacute;ticos:</strong></h3>
+   </div>
+  
+  <div id="MainDiv" class="StdDiv">
+@@ -621,7 +621,7 @@
+ 
+ <li id="node2" groupId="box2">GOLFINHO</li>
+ 
+-<li id="node3" groupId="box2">CAMARÃO</li>
++<li id="node3" groupId="box2">CAMAR&Atilde;O</li>
+ 
+ <li id="node4" groupId="box1">ELEFANTE</li>
+ 
+@@ -638,7 +638,7 @@
+ 	</div>	
+ 	<div id="dhtmlgoodies_mainContainer">
+ 		<!-- ONE <UL> for each "room" -->
+-		<div><p>TERRESTRES</p><ul id="box1"></ul> </div><div><p>AQUÁTICOS</p><ul id="box2"></ul> </div>
++		<div><p>TERRESTRES</p><ul id="box1"></ul> </div><div><p>AQU&Aacute;TICOS</p><ul id="box2"></ul> </div>
+ 		
+ 	</div>
+ </div>

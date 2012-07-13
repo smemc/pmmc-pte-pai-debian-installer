@@ -1,0 +1,39 @@
+--- atividades/1301POR001/1301POR00103.htm	2012-06-22 15:06:41.759900620 -0300
++++ atividades/1301POR001/1301POR00103.htm.new	2012-06-22 15:06:41.759900620 -0300
+@@ -19,7 +19,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -585,7 +585,7 @@
+ 
+ var CorrectResponse = 'CERTO! MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -773,15 +773,15 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<br /><center><img src="vassoura.gif" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="50" height="60"></img><br /><br />Vassoura';
++D[0][0]='<br /><center><img src="vassoura.gif" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="50" height="60"></img><br /><br />Vassoura';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='<br /><center><img src="garrafa.gif" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="80" height="80"></img><br />Garrafa';
++D[1][0]='<br /><center><img src="garrafa.gif" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="80" height="80"></img><br />Garrafa';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='<br /><center><img src="pao.gif" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="80 height="80"></img><br />P&atilde;o';
++D[2][0]='<br /><center><img src="pao.gif" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="80 height="80"></img><br />P&atilde;o';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ 

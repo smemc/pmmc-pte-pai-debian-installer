@@ -1,0 +1,43 @@
+--- atividades/1003POR007/1003POR00705.htm	2012-06-22 15:04:31.555898664 -0300
++++ atividades/1003POR007/1003POR00705.htm.new	2012-06-22 15:04:31.559898664 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -436,10 +436,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns! Bom Trabalho!';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Tente de novo!'; 
++var Correct = 'Parab&eacute;ns! Bom Trabalho!';
++var Incorrect = 'Algumas est&atilde;o erradas... Tente de novo!'; 
+ var GiveHint = 'Acertou a letra!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;
+@@ -802,7 +802,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Clique nos n&#x00FA;meros para abrir as perguntas.Complete a cruzadinha e clique em "Verificar" para corrigir.</p>
++	<p id="Instructions">Clique nos n&uacute;meros para abrir as perguntas.Complete a cruzadinha e clique em "Verificar" para corrigir.</p>
+ </div>
+ 
+ 
+@@ -853,7 +853,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Golpe dado com a pata</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Conjunto de dentes artificiais</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Mordida</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Cheio de &#x00E2;nimo</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">Local onde ligamos os aparelhos el&#x00E9;tricos</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Golpe dado com a pata</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Conjunto de dentes artificiais</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Mordida</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Cheio de &acirc;nimo</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">Local onde ligamos os aparelhos el&eacute;tricos</td></tr>
+ 
+ </tbody>
+ </table>

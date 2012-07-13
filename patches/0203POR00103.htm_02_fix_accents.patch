@@ -1,0 +1,52 @@
+--- atividades/0203POR001/0203POR00103.htm	2012-06-22 14:55:24.003890436 -0300
++++ atividades/0203POR001/0203POR00103.htm.new	2012-06-22 14:55:24.003890436 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Você terminou os Exercícios!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -839,7 +839,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Higiene; limpeza.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Cada linha do poema.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Numeral que representa seis dezenas.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Ato de crian&#x00E7;a travessa; peraltice.</td></tr>
++<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Higiene; limpeza.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Cada linha do poema.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Numeral que representa seis dezenas.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Ato de crian&ccedil;a travessa; peraltice.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -852,7 +852,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">O mesmo que bracelete.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Quem se cansou est&#x00E1;...</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Trocar id&#x00E9;ias; falar.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Fazer parar; acabar.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">O mesmo que bracelete.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Quem se cansou est&aacute;...</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Trocar id&eacute;ias; falar.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Fazer parar; acabar.</td></tr>
+ 
+ </tbody>
+ </table>

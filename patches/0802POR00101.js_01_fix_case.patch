@@ -1,0 +1,11 @@
+--- atividades/0802POR001/0802POR00101.js	2012-06-22 14:49:43.095885314 -0300
++++ atividades/0802POR001/0802POR00101.js.new	2012-06-22 15:08:05.207901874 -0300
+@@ -507,7 +507,7 @@
+ 
+ 
+ 
+-	PreloadImages('imagens/ok.gif','imagens/no.gif','imagens/unha.gif','imagens/banho.jpg','imagens/joaninha.jpg','imagens/minhoca.jpg','imagens/ninho.jpg','imagens/galinha.JPG','imagens/caminhao.png');
++	PreloadImages('imagens/ok.gif','imagens/no.gif','imagens/unha.gif','imagens/banho.jpg','imagens/joaninha.jpg','imagens/minhoca.jpg','imagens/ninho.jpg','imagens/galinha.jpg','imagens/caminhao.png');
+ 
+ 
+ 

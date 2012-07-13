@@ -1,0 +1,87 @@
+--- atividades/1004MAT005/1004MAT00502.htm	2012-06-22 14:49:37.203885224 -0300
++++ atividades/1004MAT005/1004MAT00502.htm.new	2012-06-22 15:05:23.363899442 -0300
+@@ -99,64 +99,64 @@
+ <div class="ClozeBody">
+         <table align="center" cellpadding="5" cellspacing="0">
+           <tbody><tr>
+-              <td bgcolor="#cfe5b8"><img src="imagens/4-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/4-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan0">
+ <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#99ccff"><img src="imagens/3-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/3-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan1">
+ <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#cfe5b8"><img src="imagens/5-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/5-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan2">
+ <input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#99ccff"><img src="imagens/4-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/4-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan3">
+ <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr><tr>
+-              <td bgcolor="#99ccff"><img src="imagens/6-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/6-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan4">
+ <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#cfe5b8"><img src="imagens/43-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/43-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan5">
+ <input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#99ccff"><img src="imagens/1-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/1-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan6">
+ <input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#cfe5b8"><img src="imagens/9-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/9-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan7">
+ <input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr><tr>
+-              <td bgcolor="#cfe5b8"><img src="imagens/58-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/58-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan8">
+ <input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#99ccff"><img src="imagens/8-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/8-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan9">
+ <input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#cfe5b8"><img src="imagens/3-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/3-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan10">
+ <input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#99ccff"><img src="imagens/34-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/34-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan11">
+ <input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr><tr>
+-              <td bgcolor="#99ccff"><img src="imagens/7-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/7-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan12">
+ <input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#cfe5b8"><img src="imagens/9-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/9-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan13">
+ <input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#99ccff"><img src="imagens/73-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/73-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan14">
+ <input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#cfe5b8"><img src="imagens/2-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/2-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan15">
+ <input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr><tr>
+-              <td bgcolor="#cfe5b8"><img src="imagens/12-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/12-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan16">
+ <input type="text" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#99ccff"><img src="imagens/6-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/6-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan17">
+ <input type="text" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#cfe5b8"><img src="imagens/5-10.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#cfe5b8"><img src="imagens/5-10.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#cfe5b8"><span class="GapSpan" id="GapSpan18">
+ <input type="text" id="Gap18" onfocus="TrackFocus(18)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td>
+-              <td bgcolor="#99ccff"><img src="imagens/28-100.JPG" width="72" height="74"></img></td>
++              <td bgcolor="#99ccff"><img src="imagens/28-100.jpg" width="72" height="74"></img></td>
+               <td bgcolor="#99ccff"><span class="GapSpan" id="GapSpan19">
+ <input type="text" id="Gap19" onfocus="TrackFocus(19)" onblur="LeaveGap()" class="GapBox" size="5" style="width: 5em;"></input></span></td></tr></tbody></table>
+ </div>

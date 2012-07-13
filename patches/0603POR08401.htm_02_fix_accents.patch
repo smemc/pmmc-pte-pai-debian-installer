@@ -1,0 +1,20 @@
+--- atividades/0603POR084/0603POR08401.htm	2012-06-22 15:02:29.387896828 -0300
++++ atividades/0603POR084/0603POR08401.htm.new	2012-06-22 15:02:29.387896828 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="INTERPRETAÇÃO DE TEXTOS&#x003C;BR&#x003E;&#x003C;BR&#x003E;O TEXTO A SEGUIR É UM TRECHO DA APRESENTAÇÃO DE UM LIVRO PARA CRIANÇAS. VAMOS LER?&#x003C;BR&#x003E;&#x003C;BR&#x003E;&#x003C;img src=&quot;texto.gif&quot; width=&quot;626&quot; height=&quot;410&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&#x003E;&#x003C;/img&#x003E;" />
++<meta name="DC:Title" content="INTERPRETAÇÃO DE TEXTOS&lt;BR&gt;&lt;BR&gt;O TEXTO A SEGUIR É UM TRECHO DA APRESENTAÇÃO DE UM LIVRO PARA CRIANÇAS. VAMOS LER?&lt;BR&gt;&lt;BR&gt;&lt;img src=&quot;texto.gif&quot; width=&quot;626&quot; height=&quot;410&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; text-align: center;&quot;&gt;&lt;/img&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

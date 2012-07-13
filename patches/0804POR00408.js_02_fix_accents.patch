@@ -1,0 +1,21 @@
+--- atividades/0804POR004/0804POR00408.js	2012-06-22 15:09:08.763902829 -0300
++++ atividades/0804POR004/0804POR00408.js.new	2012-06-22 15:09:08.767902829 -0300
+@@ -638,12 +638,12 @@
+ var Punctuation = '\u002C\u002E';
+ 
+ var Openers = '';
+-var CorrectResponse = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var IncorrectResponse = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var ThisMuchCorrect = 'Esta parte da sua resposta est&#x00E1; correta:';
+-var TheseAnswersToo = 'Estas respostas tamb&#x00E9;m est&#x00E3;o corretas';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var NextCorrect = 'Pr&#x00F3;xima letra correta adicionada:';
++var CorrectResponse = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var IncorrectResponse = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
++var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o corretas';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var NextCorrect = 'Pr&oacute;xima letra correta adicionada:';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+ var PageBGColor = '#ffffff';

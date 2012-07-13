@@ -1,0 +1,64 @@
+--- atividades/1003POR008/1003POR00805.htm	2012-06-22 15:04:34.491898708 -0300
++++ atividades/1003POR008/1003POR00805.htm.new	2012-06-22 15:04:34.491898708 -0300
+@@ -427,10 +427,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns! Bom Trabalho!';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Tente de novo!'; 
++var Correct = 'Parab&eacute;ns! Bom Trabalho!';
++var Incorrect = 'Algumas est&atilde;o erradas... Tente de novo!'; 
+ var GiveHint = 'Acertou a letra!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o próximo exercício.'
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -778,7 +778,7 @@
+   <h3 class="ExerciseSubtitle">&nbsp;</h3>
+ </div>
+ <div id="InstructionsDiv" class="StdDiv">
+-<p id="Instructions">Clique nos n&#x00FA;meros para abrir as perguntas. Complete toda a Cruzadinha e clique em "Verificar" para corrigir.</p>
++<p id="Instructions">Clique nos n&uacute;meros para abrir as perguntas. Complete toda a Cruzadinha e clique em "Verificar" para corrigir.</p>
+ </div>
+ 
+ 
+@@ -823,7 +823,7 @@
+               </tr>
+               <tr>
+                 <td class="ClueNum">5. </td>
+-                <td id="Clue_A_5" class="Clue"><font size="4">Relativo &#x00E0; 
++                <td id="Clue_A_5" class="Clue"><font size="4">Relativo &agrave; 
+                   pessoa</font></td>
+               </tr>
+               <tr>
+@@ -836,7 +836,7 @@
+               </tr>
+               <tr>
+                 <td class="ClueNum">10. </td>
+-                <td id="Clue_A_10" class="Clue"><font size="4">Que &#x00E9; muito 
++                <td id="Clue_A_10" class="Clue"><font size="4">Que &eacute; muito 
+                   ruim</font></td>
+               </tr>
+             </tbody>
+@@ -857,17 +857,17 @@
+               </tr>
+               <tr>
+                 <td class="ClueNum">3. </td>
+-                <td id="Clue_D_3" class="Clue"><font size="4">Ant&#x00F4;nimo 
++                <td id="Clue_D_3" class="Clue"><font size="4">Ant&ocirc;nimo 
+                   de devagar</font></td>
+               </tr>
+               <tr>
+                 <td class="ClueNum">4. </td>
+-                <td id="Clue_D_4" class="Clue"><font size="4">&#x00C9; utilizada 
++                <td id="Clue_D_4" class="Clue"><font size="4">&Eacute; utilizada 
+                   para varrer</font></td>
+               </tr>
+               <tr>
+                 <td class="ClueNum">6. </td>
+-                <td id="Clue_D_6" class="Clue"><font size="4">Que n&#x00E3;o &#x00E9; 
++                <td id="Clue_D_6" class="Clue"><font size="4">Que n&atilde;o &eacute; 
+                   fino</font></td>
+               </tr>
+               <tr>

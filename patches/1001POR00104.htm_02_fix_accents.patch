@@ -1,0 +1,33 @@
+--- atividades/1001POR001/1001POR00104.htm	2012-06-22 15:03:54.699898109 -0300
++++ atividades/1001POR001/1001POR00104.htm.new	2012-06-22 15:03:54.699898109 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -584,9 +584,9 @@
+ 
+ 
+ 
+-var CorrectResponse = 'Correto! Parab&#x00E9;ns!.';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas... tente novamente!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Correto! Parab&eacute;ns!.';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas... tente novamente!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -903,7 +903,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Arraste as palavras &#x00E0; esquerda ao lado da figura correspondente</p>
++	<p id="Instructions">Arraste as palavras &agrave; esquerda ao lado da figura correspondente</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

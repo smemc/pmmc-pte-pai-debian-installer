@@ -1,0 +1,83 @@
+--- atividades/0204MAT004/0204MAT00404.htm	2012-06-22 14:56:10.023891128 -0300
++++ atividades/0204MAT004/0204MAT00404.htm.new	2012-06-22 14:56:10.027891128 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE MATEM&#x00C1;TICA" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE MATEM&Aacute;TICA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -796,14 +796,14 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#000000">OPERA&#x00C7;&#x00D5;ES COM 
+-    N&#x00DA;MEROS NATURAIS - SUBTRA&#x00C7;&#x00C3;O</font></h2>
++  <h2 class="ExerciseTitle"><font color="#000000">OPERA&Ccedil;&Otilde;ES COM 
++    N&Uacute;MEROS NATURAIS - SUBTRA&Ccedil;&Atilde;O</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -818,8 +818,8 @@
+ 
+ 
+  -->
+-  <div align="left"><strong><font size="4">4- A soma de dois n&#x00FA;meros &#x00E9; 
+-    igual a 4.690. Se um dos n&#x00FA;meros &#x00E9; 1.592, qual &#x00E9; o outro? 
++  <div align="left"><strong><font size="4">4- A soma de dois n&uacute;meros &eacute; 
++    igual a 4.690. Se um dos n&uacute;meros &eacute; 1.592, qual &eacute; o outro? 
+     </font></strong></div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+@@ -834,7 +834,7 @@
+             <td width="300"> 
+               <div align="center"><font color="#FF0000" size="4"><strong>RESPOSTA:</strong></font><br />
+                 <br />
+-                <strong><font size="3">O outro n&#x00FA;mero &#x00E9;&nbsp;<span class="GapSpan" id="GapSpan0"> 
++                <strong><font size="3">O outro n&uacute;mero &eacute;&nbsp;<span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="6" maxlength="6">
+                 </input> 
+                 </span>.</font></strong></div></td>
+@@ -867,7 +867,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

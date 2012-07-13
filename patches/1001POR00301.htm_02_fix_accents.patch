@@ -1,0 +1,44 @@
+--- atividades/1001POR003/1001POR00301.htm	2012-06-22 15:03:59.211898178 -0300
++++ atividades/1001POR003/1001POR00301.htm.new	2012-06-22 15:03:59.211898178 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -465,11 +465,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Correto parab&#x00E9;ns';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Preste aten&#x00E7;&#x00E3;o'; 
++var Correct = 'Correto parab&eacute;ns';
++var Incorrect = 'Algumas est&atilde;o erradas... Preste aten&ccedil;&atilde;o'; 
+ var GiveHint = 'Muito bem';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o próximo exercício.';
+ var Finished = false;
+ var Locked = false;
+@@ -589,7 +589,7 @@
+ 
+ 
+ 
+-	PreloadImages('bala.jpg','banana.gif','abacaxi.gif','bolo.jpg','bico.jpg','bola.gif','baleia.jpg','bon&#x00E9;.jpg','barco.jpg','bule.jpg','boca.jpg','abelha.gif');
++	PreloadImages('bala.jpg','banana.gif','abacaxi.gif','bolo.jpg','bico.jpg','bola.gif','baleia.jpg','bon&eacute;.jpg','barco.jpg','bule.jpg','boca.jpg','abelha.gif');
+ 
+ 
+ 	var i = 0;
+@@ -957,7 +957,7 @@
+             <td><img src="bone.jpg" width="114" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td>
+             <td><div align="center"><span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" style="width: 2em;" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="2" maxlength="2"></input> 
+-                </span><font size="4">n&#x00E9;</font></div></td>
++                </span><font size="4">n&eacute;</font></div></td>
+             <td><img src="barco.jpg" width="116" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td>
+             <td><div align="center"><span class="GapSpan" id="GapSpan8"> 
+                 <input type="text" class="GapBox" id="Gap8" style="width: 2em;" onfocus="TrackFocus(8)" onblur="LeaveGap()" size="2" maxlength="2"></input> 

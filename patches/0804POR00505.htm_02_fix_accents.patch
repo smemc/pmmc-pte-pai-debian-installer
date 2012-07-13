@@ -1,0 +1,29 @@
+--- atividades/0804POR005/0804POR00505.htm	2012-06-22 15:03:49.739898035 -0300
++++ atividades/0804POR005/0804POR00505.htm.new	2012-06-22 15:03:49.743898036 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -65,7 +65,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Observe as palavras do quadro com aten&#x00E7;&#x00E3;o. Agora, complete as frases com as palavras do quadro. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Observe as palavras do quadro com aten&ccedil;&atilde;o. Agora, complete as frases com as palavras do quadro. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -86,7 +86,7 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table border="1" bordercolor="#0000ff" cellpadding="0" cellspacing="0" width="450" align="center"><tbody><tr align="center">
+-  <td><b>oscilar - disciplina - crescente - des&#x00E7;o - decrescente - des&#x00E7;a</b></td></tr></tbody></table><br /><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>a) Quem &#x00E9; disciplinado, tem <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>b) Quando vou para cima, eu subo. Quando volto, eu <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>c) Balan&#x00E7;ar &#x00E9; sin&#x00F4;nimo de <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>d) Os numerais 15, 14, 13, 12, est&#x00E3;o em ordem <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>e) Suba &#x00E9; ant&#x00F4;nimo de <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>f) Depois da Lua Nova, vem a Lua <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr></tbody></table>
++  <td><b>oscilar - disciplina - crescente - des&ccedil;o - decrescente - des&ccedil;a</b></td></tr></tbody></table><br /><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>a) Quem &eacute; disciplinado, tem <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>b) Quando vou para cima, eu subo. Quando volto, eu <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>c) Balan&ccedil;ar &eacute; sin&ocirc;nimo de <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>d) Os numerais 15, 14, 13, 12, est&atilde;o em ordem <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>e) Suba &eacute; ant&ocirc;nimo de <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr><tr><td>f) Depois da Lua Nova, vem a Lua <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="11"></input></span>.</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

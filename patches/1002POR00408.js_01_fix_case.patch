@@ -1,0 +1,11 @@
+--- atividades/1002POR004/1002POR00408.js	2012-06-22 14:49:35.955885205 -0300
++++ atividades/1002POR004/1002POR00408.js.new	2012-06-22 15:09:24.327903064 -0300
+@@ -602,7 +602,7 @@
+ 
+ 
+ 
+-	PreloadImages('Imagens/boca.gif','Imagens/moeda.jpg','Imagens/cadeado.jpg','Imagens/bolo.jpg','Imagens/lobo.gif','Imagens/oculos.gif','Imagens/bebe.gif','Imagens/cabide.jpg','Imagens/balao.jpg','Imagens/abacate.jpg','Imagens/bau.jpg');
++	PreloadImages('imagens/boca.gif','imagens/moeda.jpg','imagens/cadeado.jpg','imagens/bolo.jpg','imagens/lobo.gif','imagens/oculos.gif','imagens/bebe.gif','imagens/cabide.jpg','imagens/balao.jpg','imagens/abacate.jpg','imagens/bau.jpg');
+ 
+ 
+ 	var i = 0;

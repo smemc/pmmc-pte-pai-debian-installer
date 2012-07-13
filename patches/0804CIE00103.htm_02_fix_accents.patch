@@ -1,0 +1,20 @@
+--- atividades/0804CIE001/0804CIE00103.htm	2012-06-22 15:03:32.383897772 -0300
++++ atividades/0804CIE001/0804CIE00103.htm.new	2012-06-22 15:03:32.383897772 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -59,7 +59,7 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">Cinco sentidos</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Procure no diagrama 10 palavras relacionadas aos cinco sentidos e escreva-as nos espa&#x00E7;os abaixo:</h3>
++	<h3 class="ExerciseSubtitle">Procure no diagrama 10 palavras relacionadas aos cinco sentidos e escreva-as nos espa&ccedil;os abaixo:</h3>
+ 
+ 
+ 

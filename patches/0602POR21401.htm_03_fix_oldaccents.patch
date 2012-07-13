@@ -1,0 +1,28 @@
+--- atividades/0602POR214/0602POR21401.htm	2012-06-22 15:01:50.919896250 -0300
++++ atividades/0602POR214/0602POR21401.htm.new	2012-06-22 15:01:50.923896250 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.2 Release 4 Build 4 -->
+ 
+@@ -1155,14 +1155,14 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">ORGANIZE AS S&Iacute;LABAS</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Exerc&iacute;cio de ordena&ccedil;&atilde;o de sílabas.</h3>
++	<h3 class="ExerciseSubtitle">Exerc&iacute;cio de ordena&ccedil;&atilde;o de s&iacute;labas.</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Forme uma palavra correta ordenando as sílabas. Quando achar que a palavra est&aacute; correta, clique no bot&atilde;o "Verificar" para verificar a sua resposta.</p>
++	<p id="Instructions">Forme uma palavra correta ordenando as s&iacute;labas. Quando achar que a palavra est&aacute; correta, clique no bot&atilde;o "Verificar" para verificar a sua resposta.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

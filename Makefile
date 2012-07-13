@@ -1,6 +1,9 @@
 VERSION = 2.12.1
 SHA256SUM = faf328ad6afcce8c243186a87bff7f30c97e63c98e282fcf4234caa6a46c98ed
 PREFIX = $(DESTDIR)/usr
+PTE_PREFIX = $(DESTDIR)/opt/pmmc/pte
+STANDALONE = 0
+
 
 INSTALL_BINARIES = \
 	install-bin \
@@ -53,9 +56,21 @@ INSTALL_ICONS = \
 
 build: $(ICONS) $(DESKTOP_FILES) linux/share/functions
 
-install: $(INSTALL_BINARIES) $(INSTALL_ICONS) $(INSTALL_DESKTOP_FILES)
+ifeq ($(STANDALONE), 1)
+install: install-main install-data install-doc
+else
+install: install-main
+endif
+
+install-main: $(INSTALL_BINARIES) $(INSTALL_ICONS) $(INSTALL_DESKTOP_FILES)
 	install -D -m 644 icons/pai.svg $(PREFIX)/share/icons/hicolor/scalable/apps/pmmc-pte-pai.svg
 	install -D -m 644 linux/share/functions $(PREFIX)/share/pai/functions
+
+install-data: linux/share/functions
+	./pai-install-data.sh $(PTE_PREFIX)/pai
+
+install-doc: linux/share/functions
+	./pai-install-doc.sh $(PTE_PREFIX)/doc/pai
 
 clean:
 	rm -f icons/*.png linux/desktop/*.desktop linux/share/functions

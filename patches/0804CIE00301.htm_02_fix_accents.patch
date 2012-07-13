@@ -1,0 +1,32 @@
+--- atividades/0804CIE003/0804CIE00301.htm	2012-06-22 15:03:33.095897784 -0300
++++ atividades/0804CIE003/0804CIE00301.htm.new	2012-06-22 15:03:33.095897784 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Jaime" />
+-<meta name="DC:Title" content="Fa&#x00E7;a a correspond&#x00EA;ncia" />
++<meta name="DC:Title" content="Fa&ccedil;a a correspond&ecirc;ncia" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -54,9 +54,9 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Fa&#x00E7;a a correspond&#x00EA;ncia</h2>
++	<h2 class="ExerciseTitle">Fa&ccedil;a a correspond&ecirc;ncia</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Arraste e fa&#x00E7;a a correspond&#x00EA;ncia.</h3>
++	<h3 class="ExerciseSubtitle">Arraste e fa&ccedil;a a correspond&ecirc;ncia.</h3>
+ 
+ 
+ 

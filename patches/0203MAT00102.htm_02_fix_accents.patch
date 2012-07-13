@@ -1,0 +1,25 @@
+--- atividades/0203MAT001/0203MAT00102.htm	2012-06-22 14:55:06.803890178 -0300
++++ atividades/0203MAT001/0203MAT00102.htm.new	2012-06-22 14:55:06.803890178 -0300
+@@ -428,10 +428,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o 3º Exercício!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -801,7 +801,7 @@
+ 
+ <div class="Titles">
+   <h2 class="ExerciseTitle"></h2>
+-  <h2 class="ExerciseTitle"><font color="#000000">SISTEMA DE NUMERA&#x00C7;&#x00C3;O 
++  <h2 class="ExerciseTitle"><font color="#000000">SISTEMA DE NUMERA&Ccedil;&Atilde;O 
+     DECIMAL</font></h2>
+   </div>
+ 

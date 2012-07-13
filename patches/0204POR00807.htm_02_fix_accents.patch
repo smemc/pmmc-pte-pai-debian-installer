@@ -1,0 +1,91 @@
+--- atividades/0204POR008/0204POR00807.htm	2012-06-22 14:56:59.891891877 -0300
++++ atividades/0204POR008/0204POR00807.htm.new	2012-06-22 14:56:59.891891877 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Você Terminou os Exercícios!';
+ var Finished = false;
+ var Locked = false;
+@@ -867,8 +867,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -883,7 +883,7 @@
+ 
+ 
+  -->
+-  <div align="left"><font size="3"><strong>Escreva os nomes das &#x00E1;rvores 
++  <div align="left"><font size="3"><strong>Escreva os nomes das &aacute;rvores 
+     que produzem as frutas:</strong></font> </div>
+   <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+@@ -914,7 +914,7 @@
+                 </input> 
+                 </span></div></td>
+             <td width="150" bgcolor="#FFCC33"> 
+-              <div align="center"><font size="3"><strong>p&#x00EA;ra</strong></font></div></td>
++              <div align="center"><font size="3"><strong>p&ecirc;ra</strong></font></div></td>
+             <td width="150" bgcolor="#FFCC33"> 
+               <div align="center"><span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="15" maxlength="15">
+@@ -946,7 +946,7 @@
+                 </input> 
+                 </span></div></td>
+             <td width="150" bgcolor="#FFCC33"> 
+-              <div align="center"><font size="3"><strong>p&#x00EA;ssego</strong></font></div></td>
++              <div align="center"><font size="3"><strong>p&ecirc;ssego</strong></font></div></td>
+             <td width="150" bgcolor="#FFCC33"> 
+               <div align="center"><span class="GapSpan" id="GapSpan7"> 
+                 <input type="text" class="GapBox" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" size="15" maxlength="15">
+@@ -962,7 +962,7 @@
+                 </input> 
+                 </span></div></td>
+             <td width="150" bgcolor="#FFCC33"> 
+-              <div align="center"><font size="3"><strong>ma&#x00E7;&#x00E3;</strong></font></div></td>
++              <div align="center"><font size="3"><strong>ma&ccedil;&atilde;</strong></font></div></td>
+             <td width="150" bgcolor="#FFCC33"> 
+               <div align="center"><span class="GapSpan" id="GapSpan9"> 
+                 <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="15" maxlength="15">
+@@ -1013,7 +1013,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

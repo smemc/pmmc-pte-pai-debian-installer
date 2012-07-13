@@ -1,0 +1,28 @@
+--- atividades/0704CIE004/0704CIE00401.htm	2012-06-22 15:03:08.807897419 -0300
++++ atividades/0704CIE004/0704CIE00401.htm.new	2012-06-22 15:03:08.807897419 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Alex Soares da Silva" />
+-<meta name="DC:Title" content="Complete de acordo com as palavras que est&#x00E3;o abaixo:" />
++<meta name="DC:Title" content="Complete de acordo com as palavras que est&atilde;o abaixo:" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -69,14 +69,14 @@
+ </p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Complete de acordo com as palavras que est&#x00E3;o abaixo:</h2>
++	<h2 class="ExerciseTitle">Complete de acordo com as palavras que est&atilde;o abaixo:</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">animais - foco - cheiro - lixo - g&#x00E1;s - contamina&#x00E7;&#x00E3;o - adubo - polui&#x00E7;&#x00E3;o - tratado - aterros - usinas - compostagem<br /><strong>Complete o item 4 com a palavra: </strong>COMPOSTAGEM</div>
++	<div id="Instructions">animais - foco - cheiro - lixo - g&aacute;s - contamina&ccedil;&atilde;o - adubo - polui&ccedil;&atilde;o - tratado - aterros - usinas - compostagem<br /><strong>Complete o item 4 com a palavra: </strong>COMPOSTAGEM</div>
+ </div>
+ 
+ 

@@ -1,0 +1,29 @@
+--- atividades/1004POR014/1004POR01410.htm	2012-06-22 15:05:57.903899962 -0300
++++ atividades/1004POR014/1004POR01410.htm.new	2012-06-22 15:05:57.907899962 -0300
+@@ -54,7 +54,7 @@
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de finalizar a cruzadinha clique em "Verificar" para corrigir.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de finalizar a cruzadinha clique em "Verificar" para corrigir.</div>
+  </div>
+ 
+ 
+@@ -92,7 +92,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Viaja pelo espa&#x00E7;o.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Ant&#x00F4;nimo de bom.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Lanterna do carro.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Fruto do cacaueiro.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Conjunto de letras da L&#x00ED;ngua Portuguesa.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Animal da selva.</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">Quem toca flauta.</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">&#x00D3;rg&#x00E3;o da audi&#x00E7;&#x00E3;o.</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_A_13" class="Clue">Astro que em torno do qual giram os planetas.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">Viaja pelo espa&ccedil;o.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Ant&ocirc;nimo de bom.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Lanterna do carro.</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">Fruto do cacaueiro.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Conjunto de letras da L&iacute;ngua Portuguesa.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Animal da selva.</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">Quem toca flauta.</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">&Oacute;rg&atilde;o da audi&ccedil;&atilde;o.</td></tr><tr><td class="ClueNum">13. </td><td id="Clue_A_13" class="Clue">Astro que em torno do qual giram os planetas.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -105,7 +105,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Verticais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Os f&#x00E3;s querem ganhar dos artistas.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Conjunto de animais de uma regi&#x00E3;o.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Ant&#x00F4;nimo de muito.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Quem tem sa&#x00FA;de.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">Sentimos quando algu&#x00E9;m querido est&#x00E1; longe.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_D_10" class="Clue">&#x00C1;gua que se pode beber.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Os f&atilde;s querem ganhar dos artistas.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Conjunto de animais de uma regi&atilde;o.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Ant&ocirc;nimo de muito.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Quem tem sa&uacute;de.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_D_9" class="Clue">Sentimos quando algu&eacute;m querido est&aacute; longe.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_D_10" class="Clue">&Aacute;gua que se pode beber.</td></tr>
+ 
+ </tbody>
+ </table>

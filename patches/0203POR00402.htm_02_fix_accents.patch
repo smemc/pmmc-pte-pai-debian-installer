@@ -1,0 +1,61 @@
+--- atividades/0203POR004/0203POR00402.htm	2012-06-22 14:55:31.055890542 -0300
++++ atividades/0203POR004/0203POR00402.htm.new	2012-06-22 14:55:31.059890542 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -783,7 +783,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-<h3 class="ExerciseSubtitle"><font color="#000000">PALAVRAS PROPAROX&#x00CD;TONAS</font></h3>
++<h3 class="ExerciseSubtitle"><font color="#000000">PALAVRAS PROPAROX&Iacute;TONAS</font></h3>
+ 
+ 
+ 
+@@ -834,7 +834,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Sucessor do ordinal 19&#x00BA;</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Instrumento &#x00F3;ptico para ver a dist&#x00E2;ncia</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">&#x00C9; o &#x00F3;rg&#x00E3;o do pensamento</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Ave pequena</td></tr>
++<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Sucessor do ordinal 19&ordm;</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Instrumento &oacute;ptico para ver a dist&acirc;ncia</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">&Eacute; o &oacute;rg&atilde;o do pensamento</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Ave pequena</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -847,7 +847,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Instrumento usado para medir a temperatura</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Espa&#x00E7;o de cem anos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Profissional que cuida dos enfermos</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Animal que mama</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Usa-se para corrigir ou proteger a vis&#x00E3;o</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Instrumento usado para medir a temperatura</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Espa&ccedil;o de cem anos</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Profissional que cuida dos enfermos</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Animal que mama</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Usa-se para corrigir ou proteger a vis&atilde;o</td></tr>
+ 
+ </tbody>
+ </table>

@@ -1,0 +1,21 @@
+--- atividades/0104GEO001/0104GEO00102.htm	2012-06-22 14:49:51.795885445 -0300
++++ atividades/0104GEO001/0104GEO00102.htm.new	2012-06-22 14:53:15.723888509 -0300
+@@ -95,15 +95,15 @@
+ <form id="QForm" method="post" action="" onsubmit="return false;">
+ <table border="0" style="margin: 2em auto 2em auto;"><tbody id="Questions">
+ 
+-<tr><td class="LeftItem"><img src="imagens/Tocantins.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
++<tr><td class="LeftItem"><img src="imagens/tocantins.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s0_0"><option value="x"></option>
+ <option value="1">Rond&#x00F4;nia (RO)</option>
+ <option value="0">Tocantins (TO)</option>
+ <option value="2">Acre (AC)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Rondonia.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/rondonia.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s1_1"><option value="x"></option>
+ <option value="1">Rond&#x00F4;nia (RO)</option>
+ <option value="0">Tocantins (TO)</option>
+ <option value="2">Acre (AC)</option>
+-</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/Acre.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
++</select></td><td></td></tr><tr><td class="LeftItem"><img src="imagens/acre.gif" width="200" height="140" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img></td><td class="RightItem"><select id="s2_2"><option value="x"></option>
+ <option value="1">Rond&#x00F4;nia (RO)</option>
+ <option value="0">Tocantins (TO)</option>
+ <option value="2">Acre (AC)</option>

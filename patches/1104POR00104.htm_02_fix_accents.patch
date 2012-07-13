@@ -1,0 +1,20 @@
+--- atividades/1104POR001/1104POR00104.htm	2012-06-22 15:06:35.423900525 -0300
++++ atividades/1104POR001/1104POR00104.htm.new	2012-06-22 15:06:35.423900525 -0300
+@@ -578,7 +578,7 @@
+ 
+ var CorrectResponse = 'Correto! Bom trabalho.';
+ var IncorrectResponse = 'Que pena! Tente outra vez. Os pares incorretos foram removidos.';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#bbbbee';
+@@ -903,7 +903,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Ligue os elementos da direita aos que lhes correspondem &#x00E0; esquerda.</p>
++	<p id="Instructions">Ligue os elementos da direita aos que lhes correspondem &agrave; esquerda.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

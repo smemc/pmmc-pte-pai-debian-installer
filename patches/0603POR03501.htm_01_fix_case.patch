@@ -1,0 +1,20 @@
+--- atividades/0603POR035/0603POR03501.htm	2012-06-22 14:49:52.591885457 -0300
++++ atividades/0603POR035/0603POR03501.htm.new	2012-06-22 15:02:28.355896813 -0300
+@@ -867,7 +867,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','QUADRO.gif','rodape.png');
++	PreloadImages('../imagens/logo.png','quadro.gif','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -1209,7 +1209,7 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <p style="text-align: center">
+-<img src="QUADRO.gif" width="713" height="302" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br />
++<img src="quadro.gif" width="713" height="302" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br />
+ </p>
+ <table border="1" cellpadding="2" cellspacing="2"><tbody><br />	<tr>		<td align="center" colspan="12"><font face="Arial"><b>TRISSÍLABAS</b></font></td>	</tr>	<tr>		<td align="center" width="8%" style="border-style:solid; border-width:2px; padding-left: 4px; padding-right: 4px" bordercolor="#000000">		<font face="Arial"><b>1</b></font></td>		<td align="center" width="8%" style="border-style:solid; border-width:2px; padding-left: 4px; padding-right: 4px" bordercolor="#000000">
+ 	<font face="Arial"><b>22</b></font></td>		<td align="center" width="8%" style="border-style:solid; border-width:2px; padding-left: 4px; padding-right: 4px" bordercolor="#000000">

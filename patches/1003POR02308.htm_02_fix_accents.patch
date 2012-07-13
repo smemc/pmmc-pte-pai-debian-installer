@@ -1,0 +1,30 @@
+--- atividades/1003POR023/1003POR02308.htm	2012-06-22 15:05:06.215899185 -0300
++++ atividades/1003POR023/1003POR02308.htm.new	2012-06-22 15:05:06.215899185 -0300
+@@ -34,12 +34,12 @@
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p></div>
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003POR02309.htm'; return false;">=&gt;</button>-->
+ 
+@@ -59,9 +59,9 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <div id="Instructions">Coloque as s&#x00ED;labas em ordem correta para formar 
+-    palavras. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir 
+-    seu exerc&#x00ED;cio.</div>
++  <div id="Instructions">Coloque as s&iacute;labas em ordem correta para formar 
++    palavras. Depois de conclu&iacute;do, clique em "Verificar" para corrigir 
++    seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

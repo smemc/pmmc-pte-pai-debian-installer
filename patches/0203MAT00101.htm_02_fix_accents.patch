@@ -1,0 +1,54 @@
+--- atividades/0203MAT001/0203MAT00101.htm	2012-06-22 14:55:06.299890170 -0300
++++ atividades/0203MAT001/0203MAT00101.htm.new	2012-06-22 14:55:06.299890170 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE MATEM&#x00C1;TICA - 3&#x00AA; S&#x00C9;RIE" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE MATEM&Aacute;TICA - 3&ordf; S&Eacute;RIE" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -437,14 +437,14 @@
+ var CurrQNum = 0;
+ var CorrectIndicator = ':-)';
+ var IncorrectIndicator = 'X';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var ContinuousScoring = true;
+-var CorrectFirstTime = 'Quest&#x00F5;es respondidas corretamente na primeira tentativa:';
++var CorrectFirstTime = 'Quest&otilde;es respondidas corretamente na primeira tentativa:';
+ var ShowCorrectFirstTime = true;
+ var ShuffleQs = false;
+ var ShuffleAs = false;
+ var Proximo = 'Agora vamos para o 2º Exercício!';
+-var DefaultRight = 'Parab&#x00E9;ns. Você acertou!';
++var DefaultRight = 'Parab&eacute;ns. Você acertou!';
+ var DefaultWrong = 'Resposta incorreta ! Tente novamente !';
+ var QsToShow = 4;
+ var Score = 0;
+@@ -1011,13 +1011,13 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles"> 
+-  <h2 class="ExerciseTitle"><font color="#000000">SISTEMA DE NUMERA&#x00C7;&#x00C3;O 
++  <h2 class="ExerciseTitle"><font color="#000000">SISTEMA DE NUMERA&Ccedil;&Atilde;O 
+     DECIMAL</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Clique no quadrinho 
+-    com o ponto de interroga&#x00E7;&#x00E3;o ao lado da alternativa que julgar 
++    com o ponto de interroga&ccedil;&atilde;o ao lado da alternativa que julgar 
+     correta.</p>
+ </div>
+ 

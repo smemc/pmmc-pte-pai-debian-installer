@@ -1,0 +1,29 @@
+--- atividades/0804GEO001/0804GEO00102.htm	2012-06-22 15:03:34.063897800 -0300
++++ atividades/0804GEO001/0804GEO00102.htm.new	2012-06-22 15:03:34.063897800 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -60,7 +60,7 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle"></h2>
+ 
+-	<h3 class="ExerciseSubtitle">Observe o Mapa-mundi abaixo com aten&#x00E7;&#x00E3;o, em seguida, fa&#x00E7;a o que se pede.</h3>
++	<h3 class="ExerciseSubtitle">Observe o Mapa-mundi abaixo com aten&ccedil;&atilde;o, em seguida, fa&ccedil;a o que se pede.</h3>
+ 
+ 
+ 
+@@ -87,7 +87,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr> <td>4. Escreva os nomes dos paralelos.</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="20" maxlength="20"></input></span>, <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="20" maxlength="20"></input></span>, <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="22"></input></span> e <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="23"></input></span></td> </tr> <tr> <td>5. Qual o nome do meridiano que separa o Oriente do Ocidente?</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="20" maxlength="20"></input></span></td> </tr> <tr> <td>6. Qual o nome da linha que separa os hem&#x00ED;sf&#x00E9;rios Sul e Norte?</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="20" maxlength="20"></input></span></td> </tr></tbody></table><br />
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr> <td>4. Escreva os nomes dos paralelos.</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="20" maxlength="20"></input></span>, <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="20" maxlength="20"></input></span>, <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="22"></input></span> e <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="23"></input></span></td> </tr> <tr> <td>5. Qual o nome do meridiano que separa o Oriente do Ocidente?</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="20" maxlength="20"></input></span></td> </tr> <tr> <td>6. Qual o nome da linha que separa os hem&iacute;sf&eacute;rios Sul e Norte?</td> </tr> <tr> <td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="20" maxlength="20"></input></span></td> </tr></tbody></table><br />
+ </div>
+ </form>
+ </div>

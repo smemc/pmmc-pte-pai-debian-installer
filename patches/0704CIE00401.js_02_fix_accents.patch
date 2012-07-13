@@ -1,0 +1,11 @@
+--- atividades/0704CIE004/0704CIE00401.js	2012-06-22 15:08:02.703901836 -0300
++++ atividades/0704CIE004/0704CIE00401.js.new	2012-06-22 15:08:02.703901836 -0300
+@@ -459,7 +459,7 @@
+ var Correct = 'Correto! Bom trabalho!.';
+ var Incorrect = 'Algumas das respostas estavam incorretas, e foram eliminadas.'; 
+ var GiveHint = 'Foi acrescentada uma letra correta.';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

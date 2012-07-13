@@ -1,0 +1,41 @@
+--- atividades/0603GEO087/0603GEO08701.htm	2012-06-22 15:02:03.787896443 -0300
++++ atividades/0603GEO087/0603GEO08701.htm.new	2012-06-22 15:02:03.787896443 -0300
+@@ -12,7 +12,7 @@
+ 
+ <!-- Revisado por Taciano em 11/10/2007 -->
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 22 -->
+ 
+@@ -465,9 +465,9 @@
+ var AcrossCaption = '';
+ var DownCaption = '';
+ var Correct = 'CERTO MUITO BEM !';
+-var Incorrect = 'Algumas respostas ainda não estão corretas.'; 
++var Incorrect = 'Algumas respostas ainda n&atilde;o est&atilde;o corretas.'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = '<br>A sua pontuação é: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Mensagem desejada !';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -872,7 +872,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">HORIZONTAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">SINALIZAÇÃO DE TRÂNSITO.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">NOME DAS PESSOAS QUE ANDAM NAS VIAS.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">O SINAL VERDE SIGNIFICA...</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">NOME DAS PESSOAS QUE DIRIGEM OS VEÍCULOS.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">O SINAL AMARELO SIGNIFICA...</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">NOME POPULAR DOS SEMÁFOROS.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">SINALIZA&Ccedil;&Atilde;O DE TR&Acirc;NSITO.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">NOME DAS PESSOAS QUE ANDAM NAS VIAS.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">O SINAL VERDE SIGNIFICA...</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">NOME DAS PESSOAS QUE DIRIGEM OS VE&Iacute;CULOS.</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">O SINAL AMARELO SIGNIFICA...</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">NOME POPULAR DOS SEM&Aacute;FOROS.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -885,7 +885,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">VERTICAIS</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">O SINAL VERMELHO SIGNIFICA...</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">OBEDECENDO A SINALIZAÇÃO VOCÊ TERÁ MAIS...</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">NOME DADOS ÀS RUAS ONDE TRAFEGAM OS VEÍCULOS.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">NOME DADO ÀS ESTRADAS.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">O SINAL VERMELHO SIGNIFICA...</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">OBEDECENDO A SINALIZA&Ccedil;&Atilde;O VOC&Ecirc; TER&Aacute; MAIS...</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">NOME DADOS &Agrave;S RUAS ONDE TRAFEGAM OS VE&Iacute;CULOS.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">NOME DADO &Agrave;S ESTRADAS.</td></tr>
+ 
+ </tbody>
+ </table>

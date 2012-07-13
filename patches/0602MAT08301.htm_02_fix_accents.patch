@@ -1,0 +1,20 @@
+--- atividades/0602MAT083/0602MAT08301.htm	2012-06-22 15:00:45.183895261 -0300
++++ atividades/0602MAT083/0602MAT08301.htm.new	2012-06-22 15:00:45.187895260 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="&#x003C;STRONG&#x003E;NO JOGO BOLA NA BOCA CADA JOGADOR TEM DIREITO A JOGAR A BOLA 3 VEZES. ESCOLHA A ALTERNATIVA EM QUE A OPERAÇÃO ESTÁ DE ACORDO COM O NÚMERO DE BOLAS QUE CADA UM ACERTOU.&#x003C;/STRONG&#x003E;&#x003C;/P&#x003E;" />
++<meta name="DC:Title" content="&lt;STRONG&gt;NO JOGO BOLA NA BOCA CADA JOGADOR TEM DIREITO A JOGAR A BOLA 3 VEZES. ESCOLHA A ALTERNATIVA EM QUE A OPERAÇÃO ESTÁ DE ACORDO COM O NÚMERO DE BOLAS QUE CADA UM ACERTOU.&lt;/STRONG&gt;&lt;/P&gt;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]

@@ -1,0 +1,30 @@
+--- atividades/0604HIS029/0604HIS02901.htm	2012-06-22 15:02:37.327896945 -0300
++++ atividades/0604HIS029/0604HIS02901.htm.new	2012-06-22 15:02:37.327896945 -0300
+@@ -34,7 +34,7 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">ESCRAVOS DE JÓ</h2>
++	<h2 class="ExerciseTitle">ESCRAVOS DE J&Oacute;</h2>
+ 	<h3 class="ExerciseSubtitle">ESCOLHA UMA FRASE E FALE SOBRE ELA, CRIANDO UM TEXTO.<br /></h3>
+     <h4 class="ExerciseSubtitle"><img src="img1.jpg" width="162" height="122"> <img src="img2.jpg" width="167" height="122"></h4>
+ </div>
+@@ -43,12 +43,12 @@
+ 	<div id="ClozeDiv">
+ 		<div class="ExerciseText">
+           	<ul>
+-            	<li><p><b>Milhões de escravos foram trazidos do Continente Africano para trabalhar nas lavouras. Foram transformados em coisas, mercadorias.</b></p></li>
+-    		<li><p><b>A escravidão enriqueceu os portugueses, que transformaram o Brasil em colônia. A escravidão dava muito lucr</b></p></li>
+-    		<li><p><b>No Brasil, no período colonial, perdurou o sistema escravocrata (os negros faziam todo o trabalho).</b></p></li>
+-    		<li><p><b>Muitas tribos africanas caçavam negros de outras tribos para vender aos portugueses.</b></p></li>
+-		    <li><p><b>No período colonial, a riqueza era medida pela quantidade de escravos que um senhor de engenho podia ter.</b></p></li>
+-    		<li><p><b>A escravidão acabou oficialmente no ano de 1888, mas não adiantou muito para os negros, que ficaram sem trabalho. Hoje, de cada 100 brasileiros com registro em carteira, apenas 7 são negros.</b></p></li>
++            	<li><p><b>Milh&otilde;es de escravos foram trazidos do Continente Africano para trabalhar nas lavouras. Foram transformados em coisas, mercadorias.</b></p></li>
++    		<li><p><b>A escravid&atilde;o enriqueceu os portugueses, que transformaram o Brasil em col&ocirc;nia. A escravid&atilde;o dava muito lucr</b></p></li>
++    		<li><p><b>No Brasil, no per&iacute;odo colonial, perdurou o sistema escravocrata (os negros faziam todo o trabalho).</b></p></li>
++    		<li><p><b>Muitas tribos africanas ca&ccedil;avam negros de outras tribos para vender aos portugueses.</b></p></li>
++		    <li><p><b>No per&iacute;odo colonial, a riqueza era medida pela quantidade de escravos que um senhor de engenho podia ter.</b></p></li>
++    		<li><p><b>A escravid&atilde;o acabou oficialmente no ano de 1888, mas n&atilde;o adiantou muito para os negros, que ficaram sem trabalho. Hoje, de cada 100 brasileiros com registro em carteira, apenas 7 s&atilde;o negros.</b></p></li>
+ 		  </ul>
+ 		</div>
+      	<form method="POST" action="--WEBBOT-SELF--">

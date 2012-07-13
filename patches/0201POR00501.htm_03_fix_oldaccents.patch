@@ -1,0 +1,11 @@
+--- atividades/0201POR005/0201POR00501.htm	2012-06-22 14:53:57.215889132 -0300
++++ atividades/0201POR005/0201POR00501.htm.new	2012-06-22 14:53:57.219889132 -0300
+@@ -451,7 +451,7 @@
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

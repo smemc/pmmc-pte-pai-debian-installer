@@ -1,0 +1,20 @@
+--- atividades/0202POR006/0202POR00604.htm	2012-06-22 14:54:45.459889857 -0300
++++ atividades/0202POR006/0202POR00604.htm.new	2012-06-22 14:54:45.459889857 -0300
+@@ -443,7 +443,7 @@
+ var ShowCorrectFirstTime = true;
+ var ShuffleQs = false;
+ var ShuffleAs = false;
+-var Proximo = 'Você Terminou os Exercícios!';
++var Proximo = 'Voc&ecirc; Terminou os Exerc&iacute;cios!';
+ var DefaultRight = 'Parab&eacute;ns. Voc&ecirc; Acertou!';
+ var DefaultWrong = 'Resposta incorreta ! Tente novamente !';
+ var QsToShow = 5;
+@@ -531,7 +531,7 @@
+ 	
+ //Now hide all except the first item
+ 	for (i=1; i<QArray.length; i++){
+-	// Comentei este comando porque eu quero que apareça todas as questões - Marlon Militani
++	// Comentei este comando porque eu quero que apare&ccedil;a todas as quest&otilde;es - Marlon Militani
+     // QArray[i].style.display = 'none';
+ 	QArray[i].style.display = '';
+ 	}		

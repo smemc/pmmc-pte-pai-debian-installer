@@ -1,0 +1,29 @@
+--- index.html	2012-06-22 15:12:19.299905692 -0300
++++ index.html.new	2012-06-22 15:12:19.303905692 -0300
+@@ -2,7 +2,7 @@
+ <html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+ 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+-	<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++	<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 	<link href="templates/2009/estilos/estilos_ini.css" rel="stylesheet" type="text/css" /><!-- Folha de Estilo --> 
+ 	<script type="text/javascript">
+ 		function fechar(){
+@@ -23,14 +23,14 @@
+ <body onLoad="abrepai()">
+ 
+ 	<div id="cabecalho">
+-		<h3 title="Logo do PAI"><abbr title="Pacote de Atividades de Informática"><a href="pai.htm"><span>PAI</span></a></abbr></h3>
+-		<h1 title="Pacote de Atividades de Informática"><span>Pacote de Atividades de Informática</span></h1>
++		<h3 title="Logo do PAI"><abbr title="Pacote de Atividades de Inform&aacute;tica"><a href="pai.htm"><span>PAI</span></a></abbr></h3>
++		<h1 title="Pacote de Atividades de Inform&aacute;tica"><span>Pacote de Atividades de Inform&aacute;tica</span></h1>
+    </div>
+    
+    <div id="principal">
+    		<div id="inicia">
+         	<p id="abre">Iniciando o PAI!<br /></p>
+-            <p align="center">Verifique se o sistema anti-popup está desligado</p>
++            <p align="center">Verifique se o sistema anti-popup est&aacute; desligado</p>
+         </div>
+   	</div>
+ </body>

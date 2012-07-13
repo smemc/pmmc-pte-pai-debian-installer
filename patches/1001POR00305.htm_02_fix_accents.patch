@@ -1,0 +1,56 @@
+--- atividades/1001POR003/1001POR00305.htm	2012-06-22 15:04:02.159898222 -0300
++++ atividades/1001POR003/1001POR00305.htm.new	2012-06-22 15:04:02.163898222 -0300
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -583,9 +583,9 @@
+ 
+ 
+ 
+-var CorrectResponse = 'Correto! Parab&#x00E9;ns!.';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas... tente novamente!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Correto! Parab&eacute;ns!.';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas... tente novamente!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o próximo exercício.';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+@@ -765,7 +765,7 @@
+ F[0][0]='<img src="cuica.jpg" width="100" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[0][1] = 1;
+ F[1] = new Array();
+-F[1][0]='<img src="caf&#x00E9;.jpg" width="114" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
++F[1][0]='<img src="caf&eacute;.jpg" width="114" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+ F[1][1] = 2;
+ F[2] = new Array();
+ F[2][0]='<img src="cueca.jpg" width="98" height="100" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img>';
+@@ -774,11 +774,11 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<font size = 7>CU&#x00CD;CA</font>';
++D[0][0]='<font size = 7>CU&Iacute;CA</font>';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='<font size = 7>CAF&#x00C9;</font>';
++D[1][0]='<font size = 7>CAF&Eacute;</font>';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+@@ -896,7 +896,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Arraste as palavras &#x00E0; esquerda ao lado da figura correspondente</p>
++	<p id="Instructions">Arraste as palavras &agrave; esquerda ao lado da figura correspondente</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

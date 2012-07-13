@@ -1,0 +1,84 @@
+--- atividades/1004POR010/1004POR01012.htm	2012-06-22 15:05:49.379899833 -0300
++++ atividades/1004POR010/1004POR01012.htm.new	2012-06-22 15:05:49.379899833 -0300
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -45,12 +45,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -61,7 +61,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -74,7 +74,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Reescreva as palavras do quadro em ordem alfab&#x00E9;tica. Elas tem X com som de CS:</div>
++	<div id="Instructions">Reescreva as palavras do quadro em ordem alfab&eacute;tica. Elas tem X com som de CS:</div>
+ </div>
+ 
+ 
+@@ -95,12 +95,12 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table border ="1" align="center" bgcolor="white" cellpadding="2" cellspacing="2"><tbody><tr><td><center>
+-                  <strong>DUREX - T&#x00D3;RAX - OX&#x00CD;TONA - T&#x00D3;XICO</strong> 
++                  <strong>DUREX - T&Oacute;RAX - OX&Iacute;TONA - T&Oacute;XICO</strong> 
+                 </center>
+                 <p><strong><br />
+-                  OXIG&#x00CA;NIO - T&#x00C1;XI - REFLEXO - COMPLEXO</strong>
++                  OXIG&Ecirc;NIO - T&Aacute;XI - REFLEXO - COMPLEXO</strong>
+                 <p><strong><br />
+-                  FLEX&#x00C3;O - SAXOFONE - CRUCIFIXO - AXILA</strong></td></tr></tbody></table><br /><br /><table align="center" cellpadding="2" cellspacing="2"><tbody><tr><td><span class="GapSpan" id="GapSpan0">
++                  FLEX&Atilde;O - SAXOFONE - CRUCIFIXO - AXILA</strong></td></tr></tbody></table><br /><br /><table align="center" cellpadding="2" cellspacing="2"><tbody><tr><td><span class="GapSpan" id="GapSpan0">
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="6" maxlength="7">
+                 </input></span></td><td><span class="GapSpan" id="GapSpan1">
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="8" maxlength="9">
+@@ -149,12 +149,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='final.htm'; return false;">=&gt;</button>-->
+ 
+@@ -169,7 +169,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

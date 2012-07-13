@@ -1,0 +1,129 @@
+--- atividades/0204MAT002/0204MAT00208.htm	2012-06-22 14:55:58.795890959 -0300
++++ atividades/0204MAT002/0204MAT00208.htm.new	2012-06-22 14:55:58.799890959 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE MATEM&#x00C1;TICA" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE MATEM&Aacute;TICA" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -824,13 +824,13 @@
+ 
+ <div class="Titles">
+ 	
+-  <h2 class="ExerciseTitle"><font color="#000000">N&#x00DA;MEROS ORDINAIS</font></h2>
++  <h2 class="ExerciseTitle"><font color="#000000">N&Uacute;MEROS ORDINAIS</font></h2>
+   </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -852,14 +852,14 @@
+       <div class="ClozeBody"> 
+         <table width="600" border="1" align="center" cellpadding="0" cellspacing="0">
+           <tr> 
+-            <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>Andr&#x00E9;</strong></font></div></td>
+-            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>36&#x00BA;</strong></font></div></td>
++            <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>Andr&eacute;</strong></font></div></td>
++            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>36&ordm;</strong></font></div></td>
+             <td width="380" bgcolor="#FFFFFF">
+-<div align="center"><strong><font color="#339933">trig&#x00E9;simo sexto lugar</font></strong></div></td>
++<div align="center"><strong><font color="#339933">trig&eacute;simo sexto lugar</font></strong></div></td>
+           </tr>
+           <tr> 
+             <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>Luciano</strong></font></div></td>
+-            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>75&#x00BA;</strong></font></div></td>
++            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>75&ordm;</strong></font></div></td>
+             <td width="380" bgcolor="#66CC99">
+ <div align="center"><strong><span class="GapSpan" id="GapSpan0"> 
+                 <input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="45">
+@@ -868,7 +868,7 @@
+           </tr>
+           <tr> 
+             <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>Carolina</strong></font></div></td>
+-            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>93&#x00BA;</strong></font></div></td>
++            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>93&ordm;</strong></font></div></td>
+             <td width="380" bgcolor="#66CC99">
+ <div align="center"><strong><span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="45">
+@@ -876,8 +876,8 @@
+                 </span></strong></div></td>
+           </tr>
+           <tr> 
+-            <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>Patr&#x00ED;cia</strong></font></div></td>
+-            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>107&#x00BA;</strong></font></div></td>
++            <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>Patr&iacute;cia</strong></font></div></td>
++            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>107&ordm;</strong></font></div></td>
+             <td width="380" bgcolor="#66CC99">
+ <div align="center"><strong><span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="45">
+@@ -885,8 +885,8 @@
+                 </span></strong></div></td>
+           </tr>
+           <tr> 
+-            <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>F&#x00E1;bio</strong></font></div></td>
+-            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>239&#x00BA;</strong></font></div></td>
++            <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>F&aacute;bio</strong></font></div></td>
++            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>239&ordm;</strong></font></div></td>
+             <td width="380" bgcolor="#66CC99">
+ <div align="center"><strong><span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="45">
+@@ -896,7 +896,7 @@
+           <tr> 
+             <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>Ana 
+                 Paula</strong></font></div></td>
+-            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>328&#x00BA;</strong></font></div></td>
++            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>328&ordm;</strong></font></div></td>
+             <td width="380" bgcolor="#66CC99">
+ <div align="center"><strong><span class="GapSpan" id="GapSpan4"> 
+                 <input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="45">
+@@ -905,7 +905,7 @@
+           </tr>
+           <tr> 
+             <td width="150" bgcolor="#FFFFCC"> <div align="center"><font color="#333399"><strong>Fernando</strong></font></div></td>
+-            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>581&#x00BA;</strong></font></div></td>
++            <td width="70" bgcolor="#FFFFCC"> <div align="center"><font color="#FF0000"><strong>581&ordm;</strong></font></div></td>
+             <td width="380" bgcolor="#66CC99">
+ <div align="center"><strong><span class="GapSpan" id="GapSpan5"> 
+                 <input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="45">
+@@ -940,7 +940,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

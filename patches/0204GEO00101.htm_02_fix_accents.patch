@@ -1,0 +1,47 @@
+--- atividades/0204GEO001/0204GEO00101.htm	2012-06-22 14:55:47.207890785 -0300
++++ atividades/0204GEO001/0204GEO00101.htm.new	2012-06-22 14:55:47.211890785 -0300
+@@ -428,10 +428,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;
+@@ -787,7 +787,7 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-  <h2 class="ExerciseTitle"><font color="#333399">EXERC&#x00CD;CIO DE GEOGRAFIA</font></h2>
++  <h2 class="ExerciseTitle"><font color="#333399">EXERC&Iacute;CIO DE GEOGRAFIA</font></h2>
+   <h3 class="ExerciseSubtitle"><font color="#333399">SISTEMA SOLAR</font></h3></div>
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+@@ -832,7 +832,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal -</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">MOVIMENTO DA TERRA QUE DURA 365 DIAS E 6 HORAS</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">REPRESENTAMOS O PLANETA TERRA ATRAV&#x00C9;S DO GLOBO .........</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">MOVIMENTO DA TERRA QUE DURA 24 HORAS</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">SAT&#x00C9;LITE NATURAL DA TERRA</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">ESTRELA QUE FORMA O NOSSO SISTEMA</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">PLANETA QUE TEM AN&#x00C9;IS &#x00C0; SUA VOLTA</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">EXISTEM DOIS P&#x00D3;LOS NA TERRA: O P&#x00D3;LO SUL E O P&#x00D3;LO .....</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_A_1" class="Clue">MOVIMENTO DA TERRA QUE DURA 365 DIAS E 6 HORAS</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">REPRESENTAMOS O PLANETA TERRA ATRAV&Eacute;S DO GLOBO .........</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">MOVIMENTO DA TERRA QUE DURA 24 HORAS</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">SAT&Eacute;LITE NATURAL DA TERRA</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">ESTRELA QUE FORMA O NOSSO SISTEMA</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_A_11" class="Clue">PLANETA QUE TEM AN&Eacute;IS &Agrave; SUA VOLTA</td></tr><tr><td class="ClueNum">12. </td><td id="Clue_A_12" class="Clue">EXISTEM DOIS P&Oacute;LOS NA TERRA: O P&Oacute;LO SUL E O P&Oacute;LO .....</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -845,9 +845,9 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical - </h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">PA&#x00CD;S QUE FAZ FRONTEIRA COM O BRASIL</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">&#x00C9; O PLANETA QUE EST&#x00C1; MAIS PR&#x00D3;XIMO DO SOL</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">NOME DO NOSSO PLANETA</td></tr><tr><td class="ClueNum">6. </td>
+-                <td id="Clue_D_6" class="Clue">ASTRO COM LUZ PR&#x00D3;PRIA</td>
+-              </tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">OS CIENTISTAS DECLARARAM QUE ELE N&#x00C3;O &#x00C9; PLANETA</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">PA&Iacute;S QUE FAZ FRONTEIRA COM O BRASIL</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">&Eacute; O PLANETA QUE EST&Aacute; MAIS PR&Oacute;XIMO DO SOL</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">NOME DO NOSSO PLANETA</td></tr><tr><td class="ClueNum">6. </td>
++                <td id="Clue_D_6" class="Clue">ASTRO COM LUZ PR&Oacute;PRIA</td>
++              </tr><tr><td class="ClueNum">8. </td><td id="Clue_D_8" class="Clue">OS CIENTISTAS DECLARARAM QUE ELE N&Atilde;O &Eacute; PLANETA</td></tr>
+ 
+ </tbody>
+ </table>

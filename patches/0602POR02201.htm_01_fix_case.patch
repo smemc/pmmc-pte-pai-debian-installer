@@ -1,0 +1,20 @@
+--- atividades/0602POR022/0602POR02201.htm	2012-06-22 14:49:53.675885473 -0300
++++ atividades/0602POR022/0602POR02201.htm.new	2012-06-22 15:00:51.375895354 -0300
+@@ -501,7 +501,7 @@
+ 
+ 
+ 
+-	PreloadImages('../imagens/logo.png','DECIFRE.png','rodape.png');
++	PreloadImages('../imagens/logo.png','decifre.png','rodape.png');
+ 
+ 
+ 	var i = 0;
+@@ -850,7 +850,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<img src="DECIFRE.png" width="600" height="340" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br /><B><br />DECIFROU A MENSAGEM? ESCREVA-A AQUI:<br /><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="38"></input></span>.<br /></B>
++<img src="decifre.png" width="600" height="340" style="display: block; margin-left: auto; margin-right: auto; text-align: center;"></img><br /><B><br />DECIFROU A MENSAGEM? ESCREVA-A AQUI:<br /><span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="38"></input></span>.<br /></B>
+ </div>
+ </form>
+ </div>

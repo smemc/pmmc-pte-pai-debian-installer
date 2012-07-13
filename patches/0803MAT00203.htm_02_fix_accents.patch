@@ -1,0 +1,33 @@
+--- atividades/0803MAT002/0803MAT00203.htm	2012-06-22 15:03:13.167897487 -0300
++++ atividades/0803MAT002/0803MAT00203.htm.new	2012-06-22 15:03:13.167897487 -0300
+@@ -21,7 +21,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -64,7 +64,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Responda nos espa&#x00E7;os em branco os valores pedidos. Em seguida, clique em Verificar para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Responda nos espa&ccedil;os em branco os valores pedidos. Em seguida, clique em Verificar para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -84,9 +84,9 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) No n&#x00FA;mero <b>396</b>, quem ocupa a ordem das unidades &#x00E9; o algarismo <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e a dezena &#x00E9; o <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e a centena &#x00E9; o <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr>
+-  <td>b) No n&#x00FA;mero <b>573</b>, o algarismo 7 est&#x00E1; na ordem das <span class="GapSpan" id="GapSpan3">
+-      <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e o 5 ocupa a ordem das <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e o 3 a ordem das <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr><td>c) Qual &#x00E9; o maior n&#x00FA;mero com 2 algarismos e o menor? Maior <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, menor <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr><td>d) Qual &#x00E9; o maior e o menor n&#x00FA;mero com 3 algarismos? Maior <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, menor <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr><td>e) Qual &#x00E9; o maior n&#x00FA;mero com 2 algarismos e o maior com 3 algarismos? Maior com 2 algarismos <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e o maior com 3 algarismos <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr></tbody></table><br /><br />
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) No n&uacute;mero <b>396</b>, quem ocupa a ordem das unidades &eacute; o algarismo <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e a dezena &eacute; o <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e a centena &eacute; o <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr>
++  <td>b) No n&uacute;mero <b>573</b>, o algarismo 7 est&aacute; na ordem das <span class="GapSpan" id="GapSpan3">
++      <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e o 5 ocupa a ordem das <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e o 3 a ordem das <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr><td>c) Qual &eacute; o maior n&uacute;mero com 2 algarismos e o menor? Maior <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, menor <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr><td>d) Qual &eacute; o maior e o menor n&uacute;mero com 3 algarismos? Maior <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, menor <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr><tr><td>e) Qual &eacute; o maior n&uacute;mero com 2 algarismos e o maior com 3 algarismos? Maior com 2 algarismos <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e o maior com 3 algarismos <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>.</td></tr></tbody></table><br /><br />
+ </div>
+ </form>
+ </div>

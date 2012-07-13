@@ -1,0 +1,39 @@
+--- atividades/1003POR012/1003POR01206.js	2012-06-22 15:09:43.647903354 -0300
++++ atividades/1003POR012/1003POR01206.js.new	2012-06-22 15:09:43.651903354 -0300
+@@ -325,7 +325,7 @@
+ 	}
+ 	return InArray;
+ }
+-<!-- Orientadores de Inform&#225;tica - Comentado para que n&#227;o exibe o resultado no enunciado da atividade -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para que n&atilde;o exibe o resultado no enunciado da atividade -->
+ function WriteToInstructions(Feedback) {
+ 	<!-- document.getElementById('InstructionsDiv').innerHTML = Feedback; -->
+ 
+@@ -441,7 +441,7 @@
+ 		Frm.submit();
+ 	}
+ 
+-  	//Orientadores de Inform&#225;tica - C&#243;digo que exibir o pr&#243;ximo arquivo
++  	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir o pr&oacute;ximo arquivo
+ 	parent.location.href="1003POR01207.htm";
+ 
+ }
+@@ -608,12 +608,12 @@
+ var Punctuation = '';
+ 
+ var Openers = '';
+-var CorrectResponse = 'Correto. Parab&#x00E9;ns!';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente novamente.';
+-var ThisMuchCorrect = 'Esta parte da resposta est&#x00E1; correta:';
+-var TheseAnswersToo = 'Estas respostas tamb&#x00E9;m est&#x00E3;o corretas:';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
+-var NextCorrect = 'Pr&#x00F3;xima letra correta adicionada: ';
++var CorrectResponse = 'Correto. Parab&eacute;ns!';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente novamente.';
++var ThisMuchCorrect = 'Esta parte da resposta est&aacute; correta:';
++var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o corretas:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var NextCorrect = 'Pr&oacute;xima letra correta adicionada: ';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#c5c5c5';
+ var PageBGColor = '#ffffff';

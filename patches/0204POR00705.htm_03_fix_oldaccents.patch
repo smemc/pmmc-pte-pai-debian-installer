@@ -1,0 +1,20 @@
+--- atividades/0204POR007/0204POR00705.htm	2012-06-22 14:56:53.675891783 -0300
++++ atividades/0204POR007/0204POR00705.htm.new	2012-06-22 14:56:53.675891783 -0300
+@@ -441,7 +441,7 @@
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+-var Proximo = 'Agora vamos para o Próximo Exercício!';
++var Proximo = 'Agora vamos para o Pr&oacute;ximo Exerc&iacute;cio!';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -893,7 +893,7 @@
+ 
+  -->
+       <strong><font size="3">Escreva as palavras abaixo nas colunas certas, seguindo 
+-      a ordem de numeração: </font></strong></p>
++      a ordem de numera&ccedil;&atilde;o: </font></strong></p>
+     <table width="600" border="1" cellspacing="0" cellpadding="0">
+       <tr> 
+         <td width="120" bgcolor="#009966"><div align="center" class="style5"><font size="4">1-caderno</font></div></td>

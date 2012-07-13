@@ -1,0 +1,52 @@
+--- atividades/0203POR002/0203POR00202.htm	2012-06-22 14:55:25.503890459 -0300
++++ atividades/0203POR002/0203POR00202.htm.new	2012-06-22 14:55:25.507890459 -0300
+@@ -7,7 +7,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -24,7 +24,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -438,10 +438,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -830,7 +830,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal</h3></td></tr>
+ 
+-<tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Quem fica sem roupa quando chega ao fim da linha?</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Ele &#x00E9; magro para chuchu, tem dentes e n&#x00E3;o come. Mesmo sem ter dinheiro, d&#x00E1; comida a quem tem fome. Quem &#x00E9;?</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Quem &#x00E9; que faz saltos, mas nunca esteve em olimp&#x00ED;ada?</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">O que &#x00E9; que gasta sapatos sem ter p&#x00E9;s?</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">O que &#x00E9; que n&#x00E3;o existe, mas tem um nome.</td></tr>
++<tr><td class="ClueNum">5. </td><td id="Clue_A_5" class="Clue">Quem fica sem roupa quando chega ao fim da linha?</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Ele &eacute; magro para chuchu, tem dentes e n&atilde;o come. Mesmo sem ter dinheiro, d&aacute; comida a quem tem fome. Quem &eacute;?</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">Quem &eacute; que faz saltos, mas nunca esteve em olimp&iacute;ada?</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">O que &eacute; que gasta sapatos sem ter p&eacute;s?</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_A_10" class="Clue">O que &eacute; que n&atilde;o existe, mas tem um nome.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -843,7 +843,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Qual &#x00E9; o estado brasileiro que tem 10 letras e nenhuma repete.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Qual &#x00E9; o alimento que tem a primeira letra do alfabeto no in&#x00ED;cio e a &#x00FA;ltima no final.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">O que &#x00E9; que cresce de cabe&#x00E7;a para baixo e p&#x00E9;s para cima.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Qual o mar que causa admira&#x00E7;&#x00E3;o?</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Quando a vaca faz gin&#x00E1;stica ela fica...</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">Qual &eacute; o estado brasileiro que tem 10 letras e nenhuma repete.</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Qual &eacute; o alimento que tem a primeira letra do alfabeto no in&iacute;cio e a &uacute;ltima no final.</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">O que &eacute; que cresce de cabe&ccedil;a para baixo e p&eacute;s para cima.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_D_4" class="Clue">Qual o mar que causa admira&ccedil;&atilde;o?</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Quando a vaca faz gin&aacute;stica ela fica...</td></tr>
+ 
+ </tbody>
+ </table>

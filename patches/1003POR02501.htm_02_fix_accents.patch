@@ -1,0 +1,29 @@
+--- atividades/1003POR025/1003POR02501.htm	2012-06-22 15:05:08.743899223 -0300
++++ atividades/1003POR025/1003POR02501.htm.new	2012-06-22 15:05:08.743899223 -0300
+@@ -72,7 +72,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Clique nos n&#x00FA;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Clique nos n&uacute;meros para abrir as dicas. Depois de completo, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -110,7 +110,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontal:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Instrumento musical</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Orienta uma excurs&#x00E3;o</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">&#x00C9; lan&#x00E7;ado no espa&#x00E7;o</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Fruta com a qual se faz refrigerante</td></tr>
++<tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">Instrumento musical</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">Orienta uma excurs&atilde;o</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">&Eacute; lan&ccedil;ado no espa&ccedil;o</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">Fruta com a qual se faz refrigerante</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -123,7 +123,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Vertical:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">&#x00C9; feita em festa junina</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Tipo de tinta</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Ave do p&#x00F3;lo sul</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Onde se compra carne</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Briga armada entre pa&#x00ED;ses</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Transporta carros quebrados</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">&Eacute; feita em festa junina</td></tr><tr><td class="ClueNum">2. </td><td id="Clue_D_2" class="Clue">Tipo de tinta</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">Ave do p&oacute;lo sul</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">Onde se compra carne</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_D_6" class="Clue">Briga armada entre pa&iacute;ses</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_D_7" class="Clue">Transporta carros quebrados</td></tr>
+ 
+ </tbody>
+ </table>

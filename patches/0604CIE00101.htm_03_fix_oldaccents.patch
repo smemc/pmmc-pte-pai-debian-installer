@@ -1,0 +1,131 @@
+--- atividades/0604CIE001/0604CIE00101.htm	2012-06-22 15:02:33.815896895 -0300
++++ atividades/0604CIE001/0604CIE00101.htm.new	2012-06-22 15:02:33.819896895 -0300
+@@ -4,7 +4,7 @@
+ <META name="Author" content="Criado usando Galli's QuizFaber 2.10.1">
+ <META name="generator" content="Galli's QuizFaber 2.10.1">
+ <META name="keywords" content="quiz">
+-<META name="description" content="Escolha Verdadeiro ou Falso para as afirmações sobre higiene alimentar">
++<META name="description" content="Escolha Verdadeiro ou Falso para as afirma&ccedil;&otilde;es sobre higiene alimentar">
+ <TITLE>PAI - Pacote de Atividades Educacionais</TITLE>
+    
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+@@ -43,7 +43,7 @@
+ </SCRIPT>
+ 
+ <div class="Titles">
+-  <h2 class="ExerciseTitle">Escolha Verdadeiro ou Falso para as afirmações sobre higiene alimentar</h2>
++  <h2 class="ExerciseTitle">Escolha Verdadeiro ou Falso para as afirma&ccedil;&otilde;es sobre higiene alimentar</h2>
+ </div>
+ 
+ <FORM NAME='domanda'><SCRIPT LANGUAGE='JavaScript'>
+@@ -249,7 +249,7 @@
+ <A NAME='qstAnchor0'>
+ </A>
+ <P>
+-<h1 class="ExerciseSubtitle">Que cuidados são tomados para que os alimentos não prejudiquem sua a saúde e se mantenham saudáveis?</h1>
++<h1 class="ExerciseSubtitle">Que cuidados s&atilde;o tomados para que os alimentos n&atilde;o prejudiquem sua a sa&uacute;de e se mantenham saud&aacute;veis?</h1>
+ 			<p>&nbsp;</p>
+ <B><FONT  FACE='Arial' SIZE='2'></FONT></B>
+ <P>
+@@ -301,14 +301,14 @@
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> G </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Tomar água em bicas ou rios.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Tomar &aacute;gua em bicas ou rios.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001006'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001006'> <FONT FACE='Arial' SIZE='2'>Falso</FONT><p>&nbsp;</p> </blockquote></TD>
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> H </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Ferver o leite crú (não pasteurizado).</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Ferver o leite cr&uacute; (n&atilde;o pasteurizado).</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001007'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001007'> <FONT FACE='Arial' SIZE='2'>Falso</FONT> <p>&nbsp;</p></blockquote></TD>
+@@ -329,7 +329,7 @@
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> K </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Consumir frutas uma vez por mês.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Consumir frutas uma vez por m&ecirc;s.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001010'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001010'> <FONT FACE='Arial' SIZE='2'>Falso</FONT><p>&nbsp;</p> </blockquote></TD>
+@@ -364,7 +364,7 @@
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> P </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Cozinhar verduras e legumes no vapor para que não percam os nutrientes.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Cozinhar verduras e legumes no vapor para que n&atilde;o percam os nutrientes.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001015'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001015'> <FONT FACE='Arial' SIZE='2'>Falso</FONT> <p>&nbsp;</p></blockquote></TD>
+@@ -378,14 +378,14 @@
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> R </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Não lavar as frutas que possuem casca.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>N&atilde;o lavar as frutas que possuem casca.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001017'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001017'> <FONT FACE='Arial' SIZE='2'>Falso</FONT> <p>&nbsp;</p></blockquote></TD>
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> S </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Lavar as mãos antes de cozinhar ou alimentar-se.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Lavar as m&atilde;os antes de cozinhar ou alimentar-se.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001018'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001018'> <FONT FACE='Arial' SIZE='2'>Falso</FONT> <p>&nbsp;</p></blockquote></TD>
+@@ -406,14 +406,14 @@
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> V </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Consumir no mínimo 1 litro de água diariamente.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Consumir no m&iacute;nimo 1 litro de &aacute;gua diariamente.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001021'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001021'> <FONT FACE='Arial' SIZE='2'>Falso</FONT> <p>&nbsp;</p></blockquote></TD>
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> W </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Engolir o alimento com pouca mastigação.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Engolir o alimento com pouca mastiga&ccedil;&atilde;o.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001022'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001022'> <FONT FACE='Arial' SIZE='2'>Falso</FONT><p>&nbsp;</p> </blockquote></TD>
+@@ -427,28 +427,28 @@
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> Y </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Escovar os dentes após o consumo de alimentos.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Escovar os dentes ap&oacute;s o consumo de alimentos.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001024'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001024'> <FONT FACE='Arial' SIZE='2'>Falso</FONT> <p>&nbsp;</p></blockquote></TD>
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'> Z </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Consumir apenas água filtrada.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Consumir apenas &aacute;gua filtrada.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001025'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001025'> <FONT FACE='Arial' SIZE='2'>Falso</FONT> <p>&nbsp;</p></blockquote></TD>
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'>AA </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Só os alimentos dos restaurantes são bons.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>S&oacute; os alimentos dos restaurantes s&atilde;o bons.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001026'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001026'> <FONT FACE='Arial' SIZE='2'>Falso</FONT> <p>&nbsp;</p></blockquote></TD>
+ <TR>
+ <TD WIDTH=10% ALIGN='CENTER' >
+ <FONT  COLOR='#000000' FACE='Verdana' SIZE='4'>AB </FONT></TD>
+-<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Comer a todo momento, pois não importa o horário.</FONT></TD><TR>
++<TD WIDTH=90% ALIGN='LEFT' ><FONT  FACE='Arial' SIZE='2'>Comer a todo momento, pois n&atilde;o importa o hor&aacute;rio.</FONT></TD><TR>
+ <TD><p>&nbsp;</p></TD>
+ <TD COLSPAN=2><blockquote>
+ <INPUT TYPE='radio' NAME='radio001027'> <FONT FACE='Arial' SIZE='2'>Verdadeiro</FONT> <INPUT TYPE='radio' NAME='radio001027'> <FONT FACE='Arial' SIZE='2'>Falso</FONT><p>&nbsp;</p> </blockquote></TD>

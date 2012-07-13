@@ -1,0 +1,11 @@
+--- atividades/1003POR005/1003POR00502.htm	2012-06-22 15:04:28.167898614 -0300
++++ atividades/1003POR005/1003POR00502.htm.new	2012-06-22 15:04:28.167898614 -0300
+@@ -30,7 +30,7 @@
+ 
+   <div class="Titles">
+ 	<h2 class="ExerciseTitle">BOB BAFO - ORTOGRAFIA</h2>
+-	<h3 class="ExerciseSubtitle">Agora que voc&#234; j&#225; corrigiu as palavras encontre as palavras certas nesse ca&#231;a-palavras:</h3>
++	<h3 class="ExerciseSubtitle">Agora que voc&ecirc; j&aacute; corrigiu as palavras encontre as palavras certas nesse ca&ccedil;a-palavras:</h3>
+   </div>
+ 
+   <div id="InstructionsDiv" class="StdDiv">

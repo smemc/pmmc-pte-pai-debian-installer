@@ -1,0 +1,11 @@
+--- atividades/imagens/fim.htm	2012-06-22 15:07:31.915901374 -0300
++++ atividades/imagens/fim.htm.new	2012-06-22 15:07:31.915901374 -0300
+@@ -4,7 +4,7 @@
+ <meta http-equiv="Content-Language" content="pt-br">
+ <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ <script language="JavaScript" type="text/javascript">
+ 	function click() {
+ 		if(event.button==2) {

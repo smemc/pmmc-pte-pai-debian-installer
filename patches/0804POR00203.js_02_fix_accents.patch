@@ -1,0 +1,33 @@
+--- atividades/0804POR002/0804POR00203.js	2012-06-22 15:09:00.047902698 -0300
++++ atividades/0804POR002/0804POR00203.js.new	2012-06-22 15:09:00.047902698 -0300
+@@ -636,9 +636,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&#x00E9;ns!!! ';
+-var IncorrectResponse = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = '<img src="imagens/ok.gif" alt="ok.gif" title="ok" width="45" height="48"></img></br>Parab&eacute;ns!!! ';
++var IncorrectResponse = '<img src="imagens/no.gif" alt="no.gif" title="no" width="50" height="50"></img></br>Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -819,7 +819,7 @@
+ 
+ F = new Array();
+ F[0] = new Array();
+-F[0][0]='Cal&#x00E7;ar';
++F[0][0]='Cal&ccedil;ar';
+ F[0][1] = 1;
+ F[1] = new Array();
+ F[1][0]='Pregou';
+@@ -843,7 +843,7 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='Descal&#x00E7;ar';
++D[0][0]='Descal&ccedil;ar';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();

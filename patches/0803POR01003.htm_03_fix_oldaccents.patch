@@ -1,0 +1,66 @@
+--- atividades/0803POR010/0803POR01003.htm	2012-06-22 15:03:25.167897666 -0300
++++ atividades/0803POR010/0803POR01003.htm.new	2012-06-22 15:03:25.171897666 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.3 Release 0 Build 3 -->
+ 
+@@ -298,7 +298,7 @@
+ 	
+ 	function everythingIsCorrect()
+ 	{
+-		alert('Parabéns. Bom trabalho! ');	
++		alert('Parab&eacute;ns. Bom trabalho! ');	
+ 		parent.location.href="../imagens/fim.htm";
+ 	}
+ 	
+@@ -594,7 +594,7 @@
+ <div class="Titles">
+ 	<h2 class="ExerciseTitle">Paladar</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Separe os substântivos: </h3>
++	<h3 class="ExerciseSubtitle">Separe os subst&acirc;ntivos: </h3>
+ </div>
+ 
+ <div id="MainDiv" class="StdDiv">
+@@ -614,30 +614,30 @@
+ 		  <li id="node7" groupId="box2">Cachorro</li>
+ 		  <li id="node8" groupId="box1">Luciana</li>
+ 		  <li id="node9" groupId="box1">Renata</li>
+-		  <li id="node10" groupId="box1">Mônica</li>
++		  <li id="node10" groupId="box1">M&ocirc;nica</li>
+ 		  <li id="node11" groupId="box2">Praia</li>
+ 		  <li id="node12" groupId="box1">Itaquaquecetuba</li>
+ 		  <li id="node13" groupId="box2">Vestido</li>
+ 		  <li id="node14" groupId="box2">Motorista</li>
+ 		  <li id="node15" groupId="box1">Mogi das Cruzes</li>
+-		  <li id="node16" groupId="box2">Aniversário</li>
+-		  <li id="node17" groupId="box1">Márcia</li>
++		  <li id="node16" groupId="box2">Anivers&aacute;rio</li>
++		  <li id="node17" groupId="box1">M&aacute;rcia</li>
+ 		  <li id="node18" groupId="box1">Alexandre</li>
+           <li id="node19" groupId="box1">Rafael</li>
+           <li id="node20" groupId="box1">Monique</li>
+-		  <li id="node21" groupId="box2">Armário</li>
++		  <li id="node21" groupId="box2">Arm&aacute;rio</li>
+ 		</ul>
+ 	</div>
+   </div>	
+ 	<div id="dhtmlgoodies_mainContainer">
+ 		<!-- ONE <UL> for each "room" -->
+ 		<div>
+-			<p>Substântivos Próprios</p>
++			<p>Subst&acirc;ntivos Pr&oacute;prios</p>
+ 			<ul id="box1">
+ 			</ul>
+ 		</div>
+ 		<div>		
+-			<p>Substântivos Comuns</p>
++			<p>Subst&acirc;ntivos Comuns</p>
+ 			<ul id="box2"></ul>
+ 		</div>
+         	</div>

@@ -1,0 +1,53 @@
+--- atividades/1004MAT001/1004MAT00102.htm	2012-06-22 15:05:13.127899288 -0300
++++ atividades/1004MAT001/1004MAT00102.htm.new	2012-06-22 15:05:13.127899288 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson S. Freitas Jr" />
+-<meta name="DC:Title" content="Sistema de Numera&#x00E7;&#x00E3;o Decimal" />
++<meta name="DC:Title" content="Sistema de Numera&ccedil;&atilde;o Decimal" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -22,7 +22,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -589,13 +589,13 @@
+ var Punctuation = '\u0022\u002E\u002F';
+ 
+ var Openers = '\u0022';
+-var CorrectResponse = 'Correto. Parab&#x00E9;ns!';
+-var IncorrectResponse = 'Algumas est&#x00E3;o erradas... Preste aten&#x00E7;&#x00E3;o';
+-var ThisMuchCorrect = 'Esta parte da sua resposta est&#x00E1; correta:';
+-var TheseAnswersToo = 'Estas respostas tamb&#x00E9;m est&#x00E3;o coretas:';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var CorrectResponse = 'Correto. Parab&eacute;ns!';
++var IncorrectResponse = 'Algumas est&atilde;o erradas... Preste aten&ccedil;&atilde;o';
++var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
++var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o coretas:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o próximo exercício.';
+-var NextCorrect = 'Pr&#x00F3;xima letra correta adicionada: ';
++var NextCorrect = 'Pr&oacute;xima letra correta adicionada: ';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+ var PageBGColor = '#ffffff';
+@@ -1143,9 +1143,9 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+-  <p id="Instructions"><font size="3">2 - Mova as fichas para que os n&#x00FA;meros 
+-    apare&#x00E7;am na ordem crescente. Depois de conclu&#x00ED;do, clique em 
+-    "Verificar" para corrigir o exerc&#x00ED;cio:</font></p>
++  <p id="Instructions"><font size="3">2 - Mova as fichas para que os n&uacute;meros 
++    apare&ccedil;am na ordem crescente. Depois de conclu&iacute;do, clique em 
++    "Verificar" para corrigir o exerc&iacute;cio:</font></p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

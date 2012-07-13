@@ -1,0 +1,43 @@
+--- atividades/0601MAT024/0601MAT02401.htm	2012-06-22 14:57:28.011892297 -0300
++++ atividades/0601MAT024/0601MAT02401.htm.new	2012-06-22 14:57:28.011892297 -0300
+@@ -6,7 +6,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+ <meta name="DC:Creator" content="Angelo Camargo" />
+-<meta name="DC:Title" content="COLOQUE OS NÚMEROS EM ORDEM DECRESCENTE" />
++<meta name="DC:Title" content="COLOQUE OS N&Uacute;MEROS EM ORDEM DECRESCENTE" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -615,10 +615,10 @@
+ var Openers = '';
+ var CorrectResponse = 'Correto!';
+ var IncorrectResponse = 'Que pena! Tente novamente.';
+-var ThisMuchCorrect = 'Esta parte da sua resposta está correta:';
+-var TheseAnswersToo = 'Estas respostas também estão corretas:';
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var NextCorrect = 'A próxima parte correta é: ';
++var ThisMuchCorrect = 'Esta parte da sua resposta est&aacute; correta:';
++var TheseAnswersToo = 'Estas respostas tamb&eacute;m est&atilde;o corretas:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var NextCorrect = 'A pr&oacute;xima parte correta &eacute;: ';
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+ var PageBGColor = '#ffffff';
+@@ -1186,14 +1186,14 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">COLOQUE OS NÚMEROS EM ORDEM DECRESCENTE</h2>
++	<h2 class="ExerciseTitle">COLOQUE OS N&Uacute;MEROS EM ORDEM DECRESCENTE</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Coloque os quadros em ordem. Quando você achar que suas respostas estão corretas, clique em "Verificar" para conferir suas respostas.</p>
++	<p id="Instructions">Coloque os quadros em ordem. Quando voc&ecirc; achar que suas respostas est&atilde;o corretas, clique em "Verificar" para conferir suas respostas.</p>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

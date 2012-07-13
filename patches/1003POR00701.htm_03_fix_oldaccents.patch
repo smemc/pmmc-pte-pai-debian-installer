@@ -1,0 +1,20 @@
+--- atividades/1003POR007/1003POR00701.htm	2012-06-22 15:04:30.059898641 -0300
++++ atividades/1003POR007/1003POR00701.htm.new	2012-06-22 15:04:30.063898641 -0300
+@@ -10,7 +10,7 @@
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+ 
+-<title>.:: PAI - Pacote de Atividades de Informática ::.</title>
++<title>.:: PAI - Pacote de Atividades de Inform&aacute;tica ::.</title>
+ 
+ <!-- Made with executable version 6.0 Release 4 Build 23 -->
+ 
+@@ -448,7 +448,7 @@
+ var GiveHint = 'Muito bem';
+ var CaseSensitive = false;
+ var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Agora vamos para o próximo exercício'
++var Proximo = 'Agora vamos para o pr&oacute;ximo exerc&iacute;cio'
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;

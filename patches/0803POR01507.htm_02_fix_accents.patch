@@ -1,0 +1,29 @@
+--- atividades/0803POR015/0803POR01507.htm	2012-06-22 15:03:27.955897708 -0300
++++ atividades/0803POR015/0803POR01507.htm.new	2012-06-22 15:03:27.955897708 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -63,7 +63,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Complete com <b>s</b> ou <b>ss</b> as palavras. Em seguida clique no bot&#x00E3;o verificar para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Complete com <b>s</b> ou <b>ss</b> as palavras. Em seguida clique no bot&atilde;o verificar para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -83,7 +83,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>pa <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> o</td><td width=40></td><td>pa <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> ear</td></tr><tr><td>ca <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> a</td><td></td><td>cami <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> a</td></tr><tr><td>p&#x00E1; <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> aro</td><td></td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> uco</td></tr><tr><td>ca <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> ulo</td><td></td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> apeca</td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>pa <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> o</td><td width=40></td><td>pa <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> ear</td></tr><tr><td>ca <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> a</td><td></td><td>cami <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> a</td></tr><tr><td>p&aacute; <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> aro</td><td></td><td><span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> uco</td></tr><tr><td>ca <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> ulo</td><td></td><td><span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;"></input></span> apeca</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

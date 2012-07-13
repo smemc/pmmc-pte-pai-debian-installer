@@ -1,0 +1,11 @@
+--- atividades/imagens/fim.htm	2012-06-22 14:49:28.815885099 -0300
++++ atividades/imagens/fim.htm.new	2012-06-22 15:07:31.859901373 -0300
+@@ -14,7 +14,7 @@
+ 	document.onmousedown=click;
+ </script>
+ 
+-<script src="../../scripts/AC_RunActiveContent.js" type="text/javascript"></script>
++<script src="../../scripts/ac_runactivecontent.js" type="text/javascript"></script>
+ </head>
+ 
+ <body link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">

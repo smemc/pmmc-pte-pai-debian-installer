@@ -1,0 +1,49 @@
+--- atividades/0803MAT005/0803MAT00503.htm	2012-06-22 15:03:15.279897515 -0300
++++ atividades/0803MAT005/0803MAT00503.htm.new	2012-06-22 15:03:15.279897515 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Danilo  F. A. Moraes" />
+-<meta name="DC:Title" content="O dia, a semana, o m&#x00EA;s e o ano..." />
++<meta name="DC:Title" content="O dia, a semana, o m&ecirc;s e o ano..." />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -56,16 +56,16 @@
+ </div>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">O dia, a semana, o m&#x00EA;s e o ano...</h2>
++	<h2 class="ExerciseTitle">O dia, a semana, o m&ecirc;s e o ano...</h2>
+ 
+-	<h3 class="ExerciseSubtitle">Voc&#x00EA; j&#x00E1; sabe que podemos medir o tempo em horas, minutos e segundos.<br />Outras unidades de medida de tempo s&#x00E3;o as semanas, os meses, os anos, as d&#x00E9;cadas, os s&#x00E9;ulos, os mil&#x00EA;nios.</h3>
++	<h3 class="ExerciseSubtitle">Voc&ecirc; j&aacute; sabe que podemos medir o tempo em horas, minutos e segundos.<br />Outras unidades de medida de tempo s&atilde;o as semanas, os meses, os anos, as d&eacute;cadas, os s&eacute;ulos, os mil&ecirc;nios.</h3>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions"><b>Instru&#x00E7;&#x00F5;es:</b> Digite nos espa&#x00E7;os em brancos as respostas das perguntas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions"><b>Instru&ccedil;&otilde;es:</b> Digite nos espa&ccedil;os em brancos as respostas das perguntas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -85,7 +85,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Quantos meses t&#x00EA;m um ano?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> meses</td></tr></tr><td>b) Quais s&#x00E3;o os meses do ano?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>, <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e <span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>c) Quantos meses t&#x00EA;m o bimestre?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> meses</td></tr><td>d) Quantos meses tem o trimestre? E o semestre?</td></tr><tr><td>R: O trimestre tem <span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> meses. E o semestre tem <span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> meses</td></tr></tbody></table>
++<table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td>a) Quantos meses t&ecirc;m um ano?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> meses</td></tr></tr><td>b) Quais s&atilde;o os meses do ano?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="9"></input></span>, <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan9"><input type="text" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan10"><input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="8"></input></span>, <span class="GapSpan" id="GapSpan11"><input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> e <span class="GapSpan" id="GapSpan12"><input type="text" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" class="GapBox" size="8"></input></span></td></tr><tr><td>c) Quantos meses t&ecirc;m o bimestre?</td></tr><tr><td>R: <span class="GapSpan" id="GapSpan13"><input type="text" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> meses</td></tr><td>d) Quantos meses tem o trimestre? E o semestre?</td></tr><tr><td>R: O trimestre tem <span class="GapSpan" id="GapSpan14"><input type="text" id="Gap14" onfocus="TrackFocus(14)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> meses. E o semestre tem <span class="GapSpan" id="GapSpan15"><input type="text" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" class="GapBox" size="8"></input></span> meses</td></tr></tbody></table>
+ </div>
+ </form>
+ </div>

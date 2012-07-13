@@ -1,0 +1,103 @@
+--- atividades/0204POR002/0204POR00204.htm	2012-06-22 14:56:28.767891409 -0300
++++ atividades/0204POR002/0204POR00204.htm.new	2012-06-22 14:56:28.767891409 -0300
+@@ -8,7 +8,7 @@
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Marlon Militani" />
+ <meta name="DC:Creator" content="UNREGISTERED" />
+-<meta name="DC:Title" content="EXERC&#x00CD;CIOS DE PORTUGU&#x00CA;S" />
++<meta name="DC:Title" content="EXERC&Iacute;CIOS DE PORTUGU&Ecirc;S" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -25,7 +25,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -446,11 +446,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Proximo = 'Agora vamos para o Próximo Exercício!';
+ var Finished = false;
+ var Locked = false;
+@@ -955,8 +955,8 @@
+ 
+ <div id="InstructionsDiv" class="StdDiv"> 
+   <p id="Instructions"><strong>Instru&ccedil;&otilde;es:</strong> Escreva nos 
+-    espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o 
+-    "Verificar" para corrigir seu exerc&#x00ED;cio.</p>
++    espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o 
++    "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -989,7 +989,7 @@
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+                 </span>&nbsp;jove<span class="GapSpan" id="GapSpan1"> 
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+-                </span>&nbsp;rep&#x00F3;rter&nbsp;vai&nbsp;e<span class="GapSpan" id="GapSpan2"> 
++                </span>&nbsp;rep&oacute;rter&nbsp;vai&nbsp;e<span class="GapSpan" id="GapSpan2"> 
+                 <input type="text" class="GapBox" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+                 </span>trevistar&nbsp;u<span class="GapSpan" id="GapSpan3"> 
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+@@ -1008,9 +1008,9 @@
+                 <input type="text" class="GapBox" id="Gap9" onfocus="TrackFocus(9)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+                 </span>tra&nbsp;nu<span class="GapSpan" id="GapSpan10"> 
+                 <input type="text" class="GapBox" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+-                </span>&nbsp;corredor&nbsp;que&nbsp;parece&nbsp;n&#x00E3;o&nbsp;ter&nbsp;fi<span class="GapSpan" id="GapSpan11"> 
++                </span>&nbsp;corredor&nbsp;que&nbsp;parece&nbsp;n&atilde;o&nbsp;ter&nbsp;fi<span class="GapSpan" id="GapSpan11"> 
+                 <input type="text" class="GapBox" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+-                </span>,&nbsp;at&#x00E9;&nbsp;que&nbsp;e<span class="GapSpan" id="GapSpan12"> 
++                </span>,&nbsp;at&eacute;&nbsp;que&nbsp;e<span class="GapSpan" id="GapSpan12"> 
+                 <input type="text" class="GapBox" id="Gap12" onfocus="TrackFocus(12)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+                 </span>co<span class="GapSpan" id="GapSpan13"> 
+                 <input type="text" class="GapBox" id="Gap13" onfocus="TrackFocus(13)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+@@ -1019,10 +1019,10 @@
+                 </span>.<br />
+                 Os&nbsp;dois&nbsp;logo&nbsp;inicia<span class="GapSpan" id="GapSpan15"> 
+                 <input type="text" class="GapBox" id="Gap15" onfocus="TrackFocus(15)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+-                </span>&nbsp;o&nbsp;bl&#x00E1;-bl&#x00E1;-bl&#x00E1;&nbsp;e&nbsp;a&nbsp;co<span class="GapSpan" id="GapSpan16"> 
++                </span>&nbsp;o&nbsp;bl&aacute;-bl&aacute;-bl&aacute;&nbsp;e&nbsp;a&nbsp;co<span class="GapSpan" id="GapSpan16"> 
+                 <input type="text" class="GapBox" id="Gap16" onfocus="TrackFocus(16)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+-                </span>versa&nbsp;come&#x00E7;a&nbsp;a&nbsp;rolar.<br />
+-                L&#x00E1;&nbsp;pelas&nbsp;ta<span class="GapSpan" id="GapSpan17"> 
++                </span>versa&nbsp;come&ccedil;a&nbsp;a&nbsp;rolar.<br />
++                L&aacute;&nbsp;pelas&nbsp;ta<span class="GapSpan" id="GapSpan17"> 
+                 <input type="text" class="GapBox" id="Gap17" onfocus="TrackFocus(17)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+                 </span>tas&nbsp;faz&nbsp;a&nbsp;pergunta:<br />
+                 -&nbsp;O<span class="GapSpan" id="GapSpan18"> 
+@@ -1035,10 +1035,10 @@
+                 <input type="text" class="GapBox" id="Gap21" onfocus="TrackFocus(21)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+                 </span>cerame<span class="GapSpan" id="GapSpan22"> 
+                 <input type="text" class="GapBox" id="Gap22" onfocus="TrackFocus(22)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+-                </span>te,&nbsp;n&#x00E3;o&nbsp;v&#x00E1;&nbsp;me&nbsp;e<span class="GapSpan" id="GapSpan23"> 
++                </span>te,&nbsp;n&atilde;o&nbsp;v&aacute;&nbsp;me&nbsp;e<span class="GapSpan" id="GapSpan23"> 
+                 <input type="text" class="GapBox" id="Gap23" onfocus="TrackFocus(23)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+                 </span>rolar.<br />
+-                -&nbsp;J&#x00E1;&nbsp;que&nbsp;voc&#x00EA;&nbsp;quer&nbsp;saber,&nbsp;eu&nbsp;vou&nbsp;dizer!&nbsp;Foi&nbsp;no&nbsp;banheiro,&nbsp;
++                -&nbsp;J&aacute;&nbsp;que&nbsp;voc&ecirc;&nbsp;quer&nbsp;saber,&nbsp;eu&nbsp;vou&nbsp;dizer!&nbsp;Foi&nbsp;no&nbsp;banheiro,&nbsp;
+                 be<span class="GapSpan" id="GapSpan24"> 
+                 <input type="text" class="GapBox" id="Gap24" onfocus="TrackFocus(24)" onblur="LeaveGap()" size="1" maxlength="1"></input> 
+                 </span>&nbsp;e<span class="GapSpan" id="GapSpan25"> 
+@@ -1076,7 +1076,7 @@
+ 
+ 
+ <!--
+-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &#x00CD;ndice </button>
++<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='../index.html'; return false;"> Voltar ao &Iacute;ndice </button>
+ -->
+ 
+ 

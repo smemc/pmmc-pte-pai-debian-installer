@@ -1,0 +1,20 @@
+--- atividades/0102POR001/0102POR00101.htm	2012-06-22 14:53:12.995888468 -0300
++++ atividades/0102POR001/0102POR00101.htm.new	2012-06-22 14:53:12.995888468 -0300
+@@ -4,7 +4,7 @@
+              xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to UNREGISTERED."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Title" content="CRUZADINHA - XADREZ - &quot;Jo&#x00E3;o Petroti&quot;" />
++<meta name="DC:Title" content="CRUZADINHA - XADREZ - &quot;Jo&atilde;o Petroti&quot;" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -40,7 +40,7 @@
+ <!-- BeginTopNavButtons -->
+ <!-- EndTopNavButtons -->
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">CRUZADINHA - XADREZ - "Jo&#x00E3;o Petroti&quot;</h2>
++	<h2 class="ExerciseTitle">CRUZADINHA - XADREZ - "Jo&atilde;o Petroti&quot;</h2>
+     <h3 class="ExerciseSubtitle">Leia o texto atentamente e clique em &quot;Cruzadinha&quot; para iniciar a atividade.</h3>
+ </div>
+ 

@@ -1,0 +1,62 @@
+--- atividades/0601POR034/0101POR00105.htm	2012-06-22 14:59:03.123893729 -0300
++++ atividades/0601POR034/0101POR00105.htm.new	2012-06-22 14:59:03.123893729 -0300
+@@ -503,11 +503,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = true;
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -583,10 +583,10 @@
+ function StartUp(){
+ 	
+ 		
+-//*********** Acrescentado pelos Orientadores de Inform&#225;tica de Mogi das Cruzes ************
++//*********** Acrescentado pelos Orientadores de Inform&aacute;tica de Mogi das Cruzes ************
+ 	document.onkeyup = AvancaRetorna; //captura a tecla digitada
+ 	document.onmousedown=clicar; //captura o clique do mouse
+-	document.oncontextmenu = mensagem;//bloqueia o bot&#227;o direito no Firefox
++	document.oncontextmenu = mensagem;//bloqueia o bot&atilde;o direito no Firefox
+ //**** Fim ******
+ 
+ 	RemoveBottomNavBarForIE();
+@@ -881,10 +881,10 @@
+ }
+ 
+ 
+-//Fun&#231;&#227;o que permite o avan&#231;o e retorno de p&#225;ginas da atividade, sem que a mesma seja completada
+-//Adicionada pelos Orientadores de Inform&#225;tica da PMMC
++//Fun&ccedil;&atilde;o que permite o avan&ccedil;o e retorno de p&aacute;ginas da atividade, sem que a mesma seja completada
++//Adicionada pelos Orientadores de Inform&aacute;tica da PMMC
+ function AvancaRetorna(e) {
+-	if (!e) e = window.event; //necess&#225;rio para validar a tecla no IE
++	if (!e) e = window.event; //necess&aacute;rio para validar a tecla no IE
+ 	letra = String.fromCharCode(e.keyCode);
+ 	btn_alt = e['altKey'];
+ 	btn_ctrl = e['ctrlKey'];
+@@ -900,7 +900,7 @@
+ 	}
+ }
+ 
+-function clicar() { //fun&#231;&#227;o respons&#225;vel pelo tratamento do bot&#227;o direito do mouse no IE
++function clicar() { //fun&ccedil;&atilde;o respons&aacute;vel pelo tratamento do bot&atilde;o direito do mouse no IE
+     if (event.button==2) {
+      		mensagem;
+     }
+@@ -946,7 +946,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as palavras adequadas. Clique em "Verificar" para verificar as respostas.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as palavras adequadas. Clique em "Verificar" para verificar as respostas.</div>
+ </div>
+ 
+ 

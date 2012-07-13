@@ -1,0 +1,114 @@
+--- atividades/1004POR013/1004POR01303.htm	2012-06-22 15:05:53.979899902 -0300
++++ atividades/1004POR013/1004POR01303.htm.new	2012-06-22 15:05:53.979899902 -0300
+@@ -1,10 +1,10 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
+ <meta name="DC:Title" content="Tempos verbais" />
+ 
+ 
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -47,12 +47,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01304.htm'; return false;">=&gt;</button>-->
+ 
+@@ -63,7 +63,7 @@
+ 
+ <!-- EndTopNavButtons -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -76,7 +76,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Complete as frases com os verbos nos tempos pedidos. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Complete as frases com os verbos nos tempos pedidos. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -100,12 +100,12 @@
+           <tbody><tr>
+               <td bgcolor="#cfe5b8">a) Marcos Paulo <span class="GapSpan" id="GapSpan0">
+                 <input type="text" class="GapBox" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="6" maxlength="8">
+-                </input></span> a bola com for&#x00E7;a.</td></tr><tr>
+-              <td bgcolor="#cfe5b8"><em>(chutar - pret&#x00E9;rito perfeito)</em></td>
++                </input></span> a bola com for&ccedil;a.</td></tr><tr>
++              <td bgcolor="#cfe5b8"><em>(chutar - pret&eacute;rito perfeito)</em></td>
+             </tr><tr>
+               <td bgcolor="#99ccff">b) Os meninos <span class="GapSpan" id="GapSpan1">
+                 <input type="text" class="GapBox" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="6" maxlength="8">
+-                </input></span> video-game com freq&#x00FC;&#x00EA;ncia.</td></tr><tr>
++                </input></span> video-game com freq&uuml;&ecirc;ncia.</td></tr><tr>
+               <td bgcolor="#99ccff"><em>(jogar - presente)</em></td>
+             </tr><tr>
+               <td bgcolor="#cfe5b8">c) Princys e eu <span class="GapSpan" id="GapSpan2">
+@@ -116,12 +116,12 @@
+               <td bgcolor="#99ccff">d) Eu <span class="GapSpan" id="GapSpan3">
+                 <input type="text" class="GapBox" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="10" maxlength="12">
+                 </input></span> com meus amigos da outra escola.</td></tr><tr>
+-              <td bgcolor="#99ccff"><em>(conversar - pret&#x00E9;rito imperfeito)</em></td>
++              <td bgcolor="#99ccff"><em>(conversar - pret&eacute;rito imperfeito)</em></td>
+             </tr><tr>
+-              <td bgcolor="#cfe5b8">e) Cl&#x00E9;o <span class="GapSpan" id="GapSpan4">
++              <td bgcolor="#cfe5b8">e) Cl&eacute;o <span class="GapSpan" id="GapSpan4">
+                 <input type="text" class="GapBox" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="8" maxlength="10">
+-                </input></span> na quadra se n&#x00E3;o estivesse chovendo.</td></tr><tr>
+-              <td bgcolor="#cfe5b8"><em>(correr - futuro do pret&#x00E9;rito)</em></td>
++                </input></span> na quadra se n&atilde;o estivesse chovendo.</td></tr><tr>
++              <td bgcolor="#cfe5b8"><em>(correr - futuro do pret&eacute;rito)</em></td>
+             </tr></tbody></table>
+ </div>
+ </form>
+@@ -147,12 +147,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1004POR01304.htm'; return false;">=&gt;</button>-->
+ 
+@@ -167,7 +167,7 @@
+ 
+ <!-- EndSubmissionForm -->
+ 
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ </body>

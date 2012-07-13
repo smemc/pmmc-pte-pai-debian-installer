@@ -1,0 +1,11 @@
+--- atividades/0204HIS001/0204HIS00103.htm	2012-06-22 14:55:48.319890802 -0300
++++ atividades/0204HIS001/0204HIS00103.htm.new	2012-06-22 14:55:48.319890802 -0300
+@@ -438,7 +438,7 @@
+ var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Clique no botão OK e veja uma surpresa!';
++var Proximo = 'Clique no bot&atilde;o OK e veja uma surpresa!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

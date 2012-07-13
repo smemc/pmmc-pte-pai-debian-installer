@@ -1,0 +1,24 @@
+--- atividades/1004POR009/1004POR00902.js	2012-06-22 15:11:01.979904531 -0300
++++ atividades/1004POR009/1004POR00902.js.new	2012-06-22 15:11:01.979904531 -0300
+@@ -606,9 +606,9 @@
+ 
+ //JMATCH-SPECIFIC CORE JAVASCRIPT CODE
+ 
+-var CorrectResponse = 'Correto. Parab&#x00E9;ns! <br> Agora vamos para o pr&#x00F3;ximo exerc&#x00ED;cio.';
+-var IncorrectResponse = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var CorrectResponse = 'Correto. Parab&eacute;ns! <br> Agora vamos para o pr&oacute;ximo exerc&iacute;cio.';
++var IncorrectResponse = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#c5c5c5';
+@@ -792,7 +792,7 @@
+ F[1][0]='<font size = 5>ELA</font>';
+ F[1][1] = 2;
+ F[2] = new Array();
+-F[2][0]='<font size = 5>N&#x00D3;S</font>';
++F[2][0]='<font size = 5>N&Oacute;S</font>';
+ F[2][1] = 3;
+ F[3] = new Array();
+ F[3][0]='<font size = 5>ELES</font>';

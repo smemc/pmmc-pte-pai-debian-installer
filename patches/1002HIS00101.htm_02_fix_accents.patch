@@ -1,0 +1,414 @@
+--- atividades/1002HIS001/1002HIS00101.htm	2012-06-22 15:04:04.447898256 -0300
++++ atividades/1002HIS001/1002HIS00101.htm.new	2012-06-22 15:04:04.451898257 -0300
+@@ -1,11 +1,11 @@
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+-             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&#225;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
++             xml:lang="en"><head><meta name="author" content="Created with Hot Potatoes by Half-Baked Software, registered to Orientadores de Inform&aacute;tica."></meta><meta name="keywords" content="Hot Potatoes, Hot Potatoes, Half-Baked Software, Windows, University of Victoria"></meta>
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+-<meta name="DC:Creator" content="Orientadores de Inform&#225;tica" />
+-<meta name="DC:Title" content="COMPLETAR AS LACUNAS DAS M&#x00DA;SICAS NATALINAS" />
++<meta name="DC:Creator" content="Orientadores de Inform&aacute;tica" />
++<meta name="DC:Title" content="COMPLETAR AS LACUNAS DAS M&Uacute;SICAS NATALINAS" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -18,7 +18,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -46,12 +46,12 @@
+ 
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1002HIS00102.htm'; return false;">=&gt;</button>-->
+ 
+@@ -61,18 +61,18 @@
+ 
+ 
+ <!-- EndTopNavButtons -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir a imagem de cabe&#231;alho -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir a imagem de cabe&ccedil;alho -->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" /></p>
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">COMPLETAR AS LACUNAS DAS M&#x00DA;SICAS NATALINAS</h2>
++	<h2 class="ExerciseTitle">COMPLETAR AS LACUNAS DAS M&Uacute;SICAS NATALINAS</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escolha nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escolha nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -93,40 +93,40 @@
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+ <table align="center" cellpadding="2" cellspacing="2"><tbody><tr>
+-              <td><div align="left"><center><strong><em>Ent&#x00E3;o &#x00E9; Natal...</em></strong></center><br />
++              <td><div align="left"><center><strong><em>Ent&atilde;o &eacute; Natal...</em></strong></center><br />
+                   <br />
+-                  Ent&#x00E3;o &#x00E9; <span class="GapSpan" id="GapSpan0"> 
++                  Ent&atilde;o &eacute; <span class="GapSpan" id="GapSpan0"> 
+                   <select id="Gap0">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+                   </select>
+                   </span> <br />
+-                  E o que voc&#x00EA; fez<br />
++                  E o que voc&ecirc; fez<br />
+                   O ano <span class="GapSpan" id="GapSpan1"> 
+                   <select id="Gap1">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+@@ -134,19 +134,19 @@
+                   </span> <br />
+                   E nasce outra vez<br />
+                   <br />
+-                  Ent&#x00E3;o &#x00E9; <span class="GapSpan" id="GapSpan2"> 
++                  Ent&atilde;o &eacute; <span class="GapSpan" id="GapSpan2"> 
+                   <select id="Gap2">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+@@ -157,32 +157,32 @@
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+                   </select>
+-                  </span> crist&#x00E3;<br />
++                  </span> crist&atilde;<br />
+                   Do velho e do <span class="GapSpan" id="GapSpan4"> 
+                   <select id="Gap4">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+@@ -190,20 +190,20 @@
+                   </span> <br />
+                   Do amor como um todo<br />
+                   <br />
+-                  <em>Refr&#x00E3;o:</em><br />
+-                  Ent&#x00E3;o <span class="GapSpan" id="GapSpan5"> 
++                  <em>Refr&atilde;o:</em><br />
++                  Ent&atilde;o <span class="GapSpan" id="GapSpan5"> 
+                   <select id="Gap5">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+@@ -214,14 +214,14 @@
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+@@ -232,58 +232,58 @@
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+                   </select>
+                   </span> quem<br />
+-                  Souber o que &#x00E9; o bem<br />
++                  Souber o que &eacute; o bem<br />
+                   <br />
+-                  Ent&#x00E3;o &#x00E9; natal<br />
+-                  Pro enfermo e pro s&#x00E3;o<br />
++                  Ent&atilde;o &eacute; natal<br />
++                  Pro enfermo e pro s&atilde;o<br />
+                   Pro rico e pro pobre<br />
+-                  Num s&#x00F3; <span class="GapSpan" id="GapSpan8"> 
++                  Num s&oacute; <span class="GapSpan" id="GapSpan8"> 
+                   <select id="Gap8">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+                   </select>
+                   </span> <br />
+                   <br />
+-                  Ent&#x00E3;o bom natal<br />
++                  Ent&atilde;o bom natal<br />
+                   Pro branco e pro negro<br />
+                   Amarelo e <span class="GapSpan" id="GapSpan9"> 
+                   <select id="Gap9">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+@@ -294,36 +294,36 @@
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+                   </select>
+                   </span> afinal<br />
+                   <br />
+-                  <em>Refr&#x00E3;o</em><br />
++                  <em>Refr&atilde;o</em><br />
+                   <br />
+-                  Ent&#x00E3;o &#x00E9; natal<br />
++                  Ent&atilde;o &eacute; natal<br />
+                   E o que a <span class="GapSpan" id="GapSpan11"> 
+                   <select id="Gap11">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+@@ -334,53 +334,53 @@
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+                   </select>
+                   </span> termina<br />
+-                  E come&#x00E7;a outra vez<br />
++                  E come&ccedil;a outra vez<br />
+                   <br />
+-                  Ent&#x00E3;o &#x00E9; natal<br />
++                  Ent&atilde;o &eacute; natal<br />
+                   A <span class="GapSpan" id="GapSpan13"> 
+                   <select id="Gap13">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+                   </select>
+-                  </span> crist&#x00E3;<br />
++                  </span> crist&atilde;<br />
+                   Do <span class="GapSpan" id="GapSpan14"> 
+                   <select id="Gap14">
+                     <option value=""></option>
+                     <option value="ano">ano</option>
+                     <option value="bom">bom</option>
+-                    <option value="cora&#x00E7;&#x00E3;o">cora&#x00E7;&#x00E3;o</option>
++                    <option value="cora&ccedil;&atilde;o">cora&ccedil;&atilde;o</option>
+                     <option value="feliz">feliz</option>
+                     <option value="festa">festa</option>
+                     <option value="gente">gente</option>
+                     <option value="natal">natal</option>
+                     <option value="novo">novo</option>
+                     <option value="paz">paz</option>
+-                    <option value="tamb&#x00E9;m">tamb&#x00E9;m</option>
++                    <option value="tamb&eacute;m">tamb&eacute;m</option>
+                     <option value="termina">termina</option>
+                     <option value="velho">velho</option>
+                     <option value="vermelho">vermelho</option>
+@@ -414,12 +414,12 @@
+ 
+ <div class="NavButtonBar" id="BottomNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1002HIS00102.htm'; return false;">=&gt;</button>-->
+ 
+@@ -431,7 +431,7 @@
+ <!-- EndBottomNavButtons -->
+ <!-- BeginSubmissionForm -->
+ <!-- EndSubmissionForm -->
+-<!-- Orientadores de Inform&#225;tica - Comando inclu&#237;do para exibir o cr&#233;dito do Professor e Orientador -->
++<!-- Orientadores de Inform&aacute;tica - Comando inclu&iacute;do para exibir o cr&eacute;dito do Professor e Orientador -->
+ </body>
+ 
+ </html>

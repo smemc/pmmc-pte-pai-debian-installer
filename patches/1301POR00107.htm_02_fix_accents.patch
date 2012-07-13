@@ -1,0 +1,44 @@
+--- atividades/1301POR001/1301POR00107.htm	2012-06-22 15:06:45.567900676 -0300
++++ atividades/1301POR001/1301POR00107.htm.new	2012-06-22 15:06:45.567900676 -0300
+@@ -19,7 +19,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -585,7 +585,7 @@
+ 
+ var CorrectResponse = 'CERTO! MUITO BEM!';
+ var IncorrectResponse = 'TENTE NOVAMENTE';
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;: ';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
+ var DivWidth = 600; //default value
+ var FeedbackWidth = 200; //default
+ var ExBGColor = '#e2e2e2';
+@@ -777,19 +777,19 @@
+ 
+ D = new Array();
+ D[0] = new Array();
+-D[0][0]='<br /><center><img src="cuecaamarela.png" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="200" height="30"></img><br /><br />';
++D[0][0]='<br /><center><img src="cuecaamarela.png" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="200" height="30"></img><br /><br />';
+ D[0][1] = 1;
+ D[0][2] = 0;
+ D[1] = new Array();
+-D[1][0]='<br /><center><img src="abelhaorelhuda.png" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="200" height="30"></img><br />';
++D[1][0]='<br /><center><img src="abelhaorelhuda.png" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="200" height="30"></img><br />';
+ D[1][1] = 2;
+ D[1][2] = 0;
+ D[2] = new Array();
+-D[2][0]='<br /><center><img src="caracolmaleta.png" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="200" height="30"></img><br />';
++D[2][0]='<br /><center><img src="caracolmaleta.png" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="200" height="30"></img><br />';
+ D[2][1] = 3;
+ D[2][2] = 0;
+ D[3] = new Array();
+-D[3][0]='<br /><center><img src="banheirapatinho.png" title="Araste at&#x00E9; a Fra&#x00E7;&#x00E3;o correspondente da coluna ao lado" width="200" height="30"></img><br />';
++D[3][0]='<br /><center><img src="banheirapatinho.png" title="Araste at&eacute; a Fra&ccedil;&atilde;o correspondente da coluna ao lado" width="200" height="30"></img><br />';
+ D[3][1] = 4;
+ D[3][2] = 0;
+ 

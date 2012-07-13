@@ -1,0 +1,94 @@
+--- atividades/0603GEO088/0603GEO08801.js	2012-06-22 15:07:49.615901640 -0300
++++ atividades/0603GEO088/0603GEO08801.js.new	2012-06-22 15:07:49.619901640 -0300
+@@ -1054,8 +1054,8 @@
+ okImage  = mediaDir+"/ok2.gif";
+ boxImage = mediaDir+"/square2.gif";
+ }
+-tagOkImage = "<IMG SRC="+unescape("%22")+okImage+unescape("%22")+" ALIGN='CENTER' ALT='Resposta selecionada'>";
+-tagBoxImage = "<IMG SRC="+unescape("%22")+boxImage+unescape("%22")+" ALIGN='CENTER'>";
++tagOkImage = "<IMG SRC="+unescape("&quot;")+okImage+unescape("&quot;")+" ALIGN='CENTER' ALT='Resposta selecionada'>";
++tagBoxImage = "<IMG SRC="+unescape("&quot;")+boxImage+unescape("&quot;")+" ALIGN='CENTER'>";
+ half_index = Math.ceil(questions/2);
+ index13  = Math.ceil(questions/3);
+ index23  = Math.ceil(2*questions/3);
+@@ -1134,11 +1134,11 @@
+ }
+ if (isGuess) {
+ responseImage = mediaDir+"/smile.gif";
+-documento.write(" <TR><TD WIDTH=30><IMG SRC="+unescape("%22")+responseImage+unescape("%22")+" ALIGN='CENTER' ALT='Resposta correta'></TD>");
++documento.write(" <TR><TD WIDTH=30><IMG SRC="+unescape("&quot;")+responseImage+unescape("&quot;")+" ALIGN='CENTER' ALT='Resposta correta'></TD>");
+ }
+ else {
+ responseImage = mediaDir+"/ko.gif";
+-documento.write(" <TR><TD WIDTH=30><IMG SRC="+unescape("%22")+responseImage+unescape("%22")+" ALIGN='CENTER' ALT='Resposta incorreta'></TD>");
++documento.write(" <TR><TD WIDTH=30><IMG SRC="+unescape("&quot;")+responseImage+unescape("&quot;")+" ALIGN='CENTER' ALT='Resposta incorreta'></TD>");
+ }
+ documento.write("<TD WIDTH=30> <FONT FACE='Arial'>");
+ documento.write(Lettera(j));
+@@ -1165,7 +1165,7 @@
+ documento.write("<TD>"+choice+"</TD>");
+ else {
+ arrowImage = mediaDir+"/arrow.gif";
+-documento.write("<TD><S>"+choice+"</S> <IMG SRC="+unescape("%22")+arrowImage+unescape("%22")+" ALIGN='CENTER'> ");
++documento.write("<TD><S>"+choice+"</S> <IMG SRC="+unescape("&quot;")+arrowImage+unescape("&quot;")+" ALIGN='CENTER'> ");
+ for (l=0; l<allAnsReport[i][j].valuation.length-1; l++)
+ documento.write(allAnsReport[i][j].valuation[l]+ " , ");
+ documento.write(allAnsReport[i][j].valuation[l]);
+@@ -1180,7 +1180,7 @@
+ documento.write("<TD>"+choice[0]+" - ");
+ documento.write("<S>"+choice[1]+"</S>");
+ arrowImage = mediaDir+"/arrow.gif";
+-documento.write("<IMG SRC="+unescape("%22")+arrowImage+unescape("%22")+" ALIGN='CENTER'> ");
++documento.write("<IMG SRC="+unescape("&quot;")+arrowImage+unescape("&quot;")+" ALIGN='CENTER'> ");
+ for (l=0; l<allAnsReport[i][j].valuation.length-1; l++)
+ documento.write(allAnsReport[i][j].valuation[l]+ " , ");
+ documento.write(allAnsReport[i][j].valuation[l]);
+@@ -1605,30 +1605,30 @@
+   doc.writeln("<TABLE cellpadding=5 border=0 width=100%><TR><TD>");
+   doc.writeln(""+quizTitle+"");
+   doc.writeln("</TD></TR></TABLE></TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Número de perguntas</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&#160;&#160;"+(questions-invisibleQuests)+"</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Número de perguntas</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+(questions-invisibleQuests)+"</TD></TR>");
+   if (identityName!="") {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Nome</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' >&#160;&#160;"+identityName+"</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Nome</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' >&nbsp;&nbsp;"+identityName+"</TD></TR>");
+   }
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Respostas corretas</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&#160;&#160;"+nc+"</TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Respostas incorretas</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&#160;&#160;"+ns+"</TD></TR>");
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Perguntas não respondidas</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&#160;&#160;"+falseQuests+"</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Respostas corretas</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+nc+"</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Respostas incorretas</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+ns+"</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Perguntas não respondidas</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+falseQuests+"</TD></TR>");
+   if (maxtime>0) {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Tempo de preenchimento</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&#160;&#160;"+getTimeString(deltatime)+"</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Tempo de preenchimento</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+getTimeString(deltatime)+"</TD></TR>");
+   }
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Data</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&#160;&#160;"+DataToStringa()+"</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Data</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+DataToStringa()+"</TD></TR>");
+   if (computeMarkErr==0) {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Pontuação</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&#160;&#160;"+GetVoto(voto)+"</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontuação</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;"+GetVoto(voto)+"</TD></TR>");
+   } else {
+-  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&#160;&#160;Pontuação</TD>");
+-  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&#160;&#160;sem pontuação</TD></TR>");
++  doc.writeln("<TR><TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;Pontuação</TD>");
++  doc.writeln("    <TD bgcolor='#FFFFFF' nowrap>&nbsp;&nbsp;sem pontuação</TD></TR>");
+   }
+   doc.writeln("</TABLE></TD></TR></TABLE></TD></TABLE></center>");
+ }

@@ -1,0 +1,72 @@
+--- atividades/0604MAT035/0604MAT03501.htm	2012-06-22 15:02:39.183896975 -0300
++++ atividades/0604MAT035/0604MAT03501.htm.new	2012-06-22 15:02:39.187896975 -0300
+@@ -1,4 +1,4 @@
+-<!-- Revisado por Júlio César Soares da Silva / Data: 01/10/2007 -->
++<!-- Revisado por J&uacute;lio C&eacute;sar Soares da Silva / Data: 01/10/2007 -->
+ <?xml version="1.0"?>
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "xhtml11.dtd">
+        <html xmlns="http://www.w3.org/1999/xhtml"
+@@ -6,7 +6,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="DIGERATI" />
+-<meta name="DC:Title" content="Situações - Problema" />
++<meta name="DC:Title" content="Situa&ccedil;&otilde;es - Problema" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -469,12 +469,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -847,14 +847,14 @@
+ <!-- EndTopNavButtons -->
+ 
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">Situações - Problema</h2>
++	<h2 class="ExerciseTitle">Situa&ccedil;&otilde;es - Problema</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Ao terminar todo o exercício clique no botão verificar para corrigir.</p>
++	<p id="Instructions">Ao terminar todo o exerc&iacute;cio clique no bot&atilde;o verificar para corrigir.</p>
+ </div>
+ 
+ 
+@@ -874,15 +874,15 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<B><br />1 - Vítor tinha 987 lápis em sua coleção. Ele guardou 363 e o restante distribuiu entre 24 colegas. Quantos lápis ganhou cada colega de Vítor?<font face="arial" color="blue"><br />RESPOSTA: Cada colega ganhou <span class="GapSpan" id="GapSpan0">
++<B><br />1 - V&iacute;tor tinha 987 l&aacute;pis em sua cole&ccedil;&atilde;o. Ele guardou 363 e o restante distribuiu entre 24 colegas. Quantos l&aacute;pis ganhou cada colega de V&iacute;tor?<font face="arial" color="blue"><br />RESPOSTA: Cada colega ganhou <span class="GapSpan" id="GapSpan0">
+         <input type="text" class="GapBox" id="Gap0" style="width: 3em;" onfocus="TrackFocus(0)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> lápis.</font><br /><br />2 - Distribua 111 figurinhas entre 2 crianças, de modo que uma delas receba13 figurinhas a mais que a outra. Quantas figurinhas receberá cada criança?<font face="arial" color="blue"><br />RESPOSTA: A que ganhou menos receberá <span class="GapSpan" id="GapSpan1">
++        </input></span> l&aacute;pis.</font><br /><br />2 - Distribua 111 figurinhas entre 2 crian&ccedil;as, de modo que uma delas receba13 figurinhas a mais que a outra. Quantas figurinhas receber&aacute; cada crian&ccedil;a?<font face="arial" color="blue"><br />RESPOSTA: A que ganhou menos receber&aacute; <span class="GapSpan" id="GapSpan1">
+         <input type="text" class="GapBox" id="Gap1" style="width: 3em;" onfocus="TrackFocus(1)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> figurinhas. A que ganhou mais receberá <span class="GapSpan" id="GapSpan2">
++        </input></span> figurinhas. A que ganhou mais receber&aacute; <span class="GapSpan" id="GapSpan2">
+         <input type="text" class="GapBox" id="Gap2" style="width: 3em;" onfocus="TrackFocus(2)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> figurinhas.</font><br /><br />3 - A professora Júlia vai fazer uma caixinha de surpresas para distribuir entre seus 25 alunos. Ela comprou 124 barrinhas de chocolate, 226 balas e 50 pirulitos para colocar nas caixinhas. Quantos doces Júlia colocará em cada caixinha?<font face="arial" color="blue"><br />RESPOSTA: Júlia colocará <span class="GapSpan" id="GapSpan3">
++        </input></span> figurinhas.</font><br /><br />3 - A professora J&uacute;lia vai fazer uma caixinha de surpresas para distribuir entre seus 25 alunos. Ela comprou 124 barrinhas de chocolate, 226 balas e 50 pirulitos para colocar nas caixinhas. Quantos doces J&uacute;lia colocar&aacute; em cada caixinha?<font face="arial" color="blue"><br />RESPOSTA: J&uacute;lia colocar&aacute; <span class="GapSpan" id="GapSpan3">
+         <input type="text" class="GapBox" id="Gap3" style="width: 3em;" onfocus="TrackFocus(3)" onblur="LeaveGap()" size="3" maxlength="3">
+-        </input></span> doces em cada caixinha.</font><br /><br />4 - Um número multiplicado por 42 é igual a 35.574. Qual é o número?<font face="arial" color="blue"><br />RESPOSTA: O número é <span class="GapSpan" id="GapSpan4">
++        </input></span> doces em cada caixinha.</font><br /><br />4 - Um n&uacute;mero multiplicado por 42 &eacute; igual a 35.574. Qual &eacute; o n&uacute;mero?<font face="arial" color="blue"><br />RESPOSTA: O n&uacute;mero &eacute; <span class="GapSpan" id="GapSpan4">
+         <input type="text" class="GapBox" id="Gap4" style="width: 3em;" onfocus="TrackFocus(4)" onblur="LeaveGap()" size="3" maxlength="3">
+         </input></span>.</font><br /></b></div>
+ </form>

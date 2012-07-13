@@ -1,0 +1,43 @@
+--- atividades/1003CIE001/1003CIE00104.htm	2012-06-22 15:04:18.335898465 -0300
++++ atividades/1003CIE001/1003CIE00104.htm.new	2012-06-22 15:04:18.335898465 -0300
+@@ -5,7 +5,7 @@
+ 
+ <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+ <meta name="DC:Creator" content="Wilson Junior" />
+-<meta name="DC:Title" content="SA&#x00DA;DE E EDUCA&#x00C7;&#x00C3;O" />
++<meta name="DC:Title" content="SA&Uacute;DE E EDUCA&Ccedil;&Atilde;O" />
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+@@ -34,12 +34,12 @@
+ </div>
+ <div class="NavButtonBar" id="TopNavBar">
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado para n&#227;o exibir o bot&#227;o Voltar -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para n&atilde;o exibir o bot&atilde;o Voltar -->
+ 
+ 
+ 
+ 
+-<!-- Orientadores de Inform&#225;tica - Comentado pra n&#227;o exibir o bot&#227;o pr&#243;ximo -->
++<!-- Orientadores de Inform&aacute;tica - Comentado pra n&atilde;o exibir o bot&atilde;o pr&oacute;ximo -->
+ 
+ <!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1003CIE00105.htm'; return false;">=&gt;</button>-->
+ 
+@@ -51,14 +51,14 @@
+   <!-- EndTopNavButtons -->
+ </div>
+ <div class="Titles">
+-	<h2 class="ExerciseTitle">SA&#x00DA;DE E EDUCA&#x00C7;&#x00C3;O</h2>
++	<h2 class="ExerciseTitle">SA&Uacute;DE E EDUCA&Ccedil;&Atilde;O</h2>
+ 
+ 
+ 
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Coloque as palavras em ordem correta para formas as frases. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Coloque as palavras em ordem correta para formas as frases. Depois de conclu&iacute;do, clique em "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

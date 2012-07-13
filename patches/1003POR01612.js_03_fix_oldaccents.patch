@@ -1,0 +1,29 @@
+--- atividades/1003POR016/1003POR01612.js	2012-06-22 15:10:03.647903652 -0300
++++ atividades/1003POR016/1003POR01612.js.new	2012-06-22 15:10:03.651903654 -0300
+@@ -325,7 +325,7 @@
+ 	}
+ 	return InArray;
+ }
+-<!-- Orientadores de Informática - Comentado para que não exibe o resultado no enunciado da atividade -->
++<!-- Orientadores de Inform&aacute;tica - Comentado para que n&atilde;o exibe o resultado no enunciado da atividade -->
+ function WriteToInstructions(Feedback) {
+ 	<!-- document.getElementById('InstructionsDiv').innerHTML = Feedback; -->
+ 
+@@ -441,7 +441,7 @@
+ 		Frm.submit();
+ 	}
+ 
+-  	//Orientadores de Informática - Código que exibir o próximo arquivo
++  	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir o pr&oacute;ximo arquivo
+ 	parent.location.href="../imagens/fim.htm";
+ 
+ }
+@@ -788,7 +788,7 @@
+ 		Frm.submit();
+ 	}
+ 
+-  	//Orientadores de Informática - Código que exibir o próximo arquivo
++  	//Orientadores de Inform&aacute;tica - C&oacute;digo que exibir o pr&oacute;ximo arquivo
+ 	parent.location.href="../imagens/fim.htm";
+ }
+ 

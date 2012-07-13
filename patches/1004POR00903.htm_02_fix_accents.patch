@@ -1,0 +1,11 @@
+--- atividades/1004POR009/1004POR00903.htm	2012-06-22 15:05:42.427899726 -0300
++++ atividades/1004POR009/1004POR00903.htm.new	2012-06-22 15:05:42.431899727 -0300
+@@ -71,7 +71,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Arraste as palavras ao lado das palavras correspondentes. Depois de conclu&#x00ED;do, clique em "Verificar" para corrigir o exerc&#x00ED;cio.</div>
++	<div id="Instructions">Arraste as palavras ao lado das palavras correspondentes. Depois de conclu&iacute;do, clique em "Verificar" para corrigir o exerc&iacute;cio.</div>
+ </div>
+ 
+ <div class="StdDiv" id="CheckButtonDiv">

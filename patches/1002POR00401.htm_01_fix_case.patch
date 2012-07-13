@@ -1,0 +1,11 @@
+--- atividades/1002POR004/1002POR00401.htm	2012-06-22 14:49:36.007885205 -0300
++++ atividades/1002POR004/1002POR00401.htm.new	2012-06-22 15:04:11.915898366 -0300
+@@ -50,7 +50,7 @@
+ 
+ <!-- Orientadores de Informática - Comentado pra não exibir o botão próximo -->
+ 
+-<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1002por00402.htm'; return false;">=&gt;</button>-->
++<!-- <button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='1002POR00402.htm'; return false;">=&gt;</button>-->
+ 
+ 
+ </div>

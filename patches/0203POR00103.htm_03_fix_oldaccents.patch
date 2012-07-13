@@ -1,0 +1,11 @@
+--- atividades/0203POR001/0203POR00103.htm	2012-06-22 14:55:24.015890437 -0300
++++ atividades/0203POR001/0203POR00103.htm.new	2012-06-22 14:55:24.015890437 -0300
+@@ -442,7 +442,7 @@
+ var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+ var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+-var Proximo = 'Você terminou os Exercícios!';
++var Proximo = 'Voc&ecirc; terminou os Exerc&iacute;cios!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+ var Penalties = 0;

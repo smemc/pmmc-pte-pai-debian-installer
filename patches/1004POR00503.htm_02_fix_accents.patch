@@ -1,0 +1,53 @@
+--- atividades/1004POR005/1004POR00503.htm	2012-06-22 15:05:39.591899686 -0300
++++ atividades/1004POR005/1004POR00503.htm.new	2012-06-22 15:05:39.591899686 -0300
+@@ -13,7 +13,7 @@
+ <title>.:: PAI - Pacote de Atividades de Informática ::.</title>
+ 
+     <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -434,11 +434,11 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Correto parab&#x00E9;ns';
+-var Incorrect = 'Algumas est&#x00E3;o erradas... Preste aten&#x00E7;&#x00E3;o'; 
++var Correct = 'Correto parab&eacute;ns';
++var Incorrect = 'Algumas est&atilde;o erradas... Preste aten&ccedil;&atilde;o'; 
+ var GiveHint = 'Muito bem';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Agora vamos para o próximo exercício.';
+ var Finished = false;
+ var Locked = false;
+@@ -1034,7 +1034,7 @@
+ <div id="InstructionsDiv" class="StdDiv">
+ 	
+   <p id="Instructions">Complete as palavras com <strong>T</strong> ou <strong>D</strong> 
+-    e depois copie toda a palavra. Depois de completado todo o exerc&#x00ED;cio, 
++    e depois copie toda a palavra. Depois de completado todo o exerc&iacute;cio, 
+     clique em "Verificar" para corrigir</p>
+ </div>
+ 
+@@ -1066,7 +1066,7 @@
+                   </span><font size="4">ona</font></div></td>
+               <td><div align="center"><span class="GapSpan" id="GapSpan2"> 
+                   <input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;" />
+-                  </span><font size="4">ep&#x00F3;si</font><span class="GapSpan" id="GapSpan3"> 
++                  </span><font size="4">ep&oacute;si</font><span class="GapSpan" id="GapSpan3"> 
+                   <input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;" />
+                   </span><font size="4">o</font></div></td>
+             </tr>
+@@ -1094,7 +1094,7 @@
+                   <input type="text" id="Gap10" onfocus="TrackFocus(10)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;" />
+                   </span><font size="4">esper</font><span class="GapSpan" id="GapSpan11"> 
+                   <input type="text" id="Gap11" onfocus="TrackFocus(11)" onblur="LeaveGap()" class="GapBox" size="2" style="width: 2em;" />
+-                  </span><font size="4">&#x00ED;cio</font></div></td>
++                  </span><font size="4">&iacute;cio</font></div></td>
+             </tr>
+             <tr>
+               <td><div align="center"><span class="GapSpan" id="GapSpan12"> 

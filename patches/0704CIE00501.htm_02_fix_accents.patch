@@ -1,0 +1,47 @@
+--- atividades/0704CIE005/0704CIE00501.htm	2012-06-22 15:03:09.267897427 -0300
++++ atividades/0704CIE005/0704CIE00501.htm.new	2012-06-22 15:03:09.267897427 -0300
+@@ -19,7 +19,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Informatica - C&#243;digo comentado para separar o CSS do arquivo HTML
++<!-- Orientadores de Informatica - C&oacute;digo comentado para separar o CSS do arquivo HTML
+ <style type="text/css">
+ 
+ [strStyleSheet1]
+@@ -62,7 +62,7 @@
+ 
+ 
+ 
+-<!-- Orientadores de inform&#225;tica - Inclui cabe&#231;alho SME-->
++<!-- Orientadores de inform&aacute;tica - Inclui cabe&ccedil;alho SME-->
+ <p style="text-align: center;"><img src="../../templates/2009/imagens/logo.png" />
+ </p>
+ 
+@@ -77,7 +77,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<div id="Instructions">Escreva nos espa&#x00E7;os em branco as respostas adequadas. Em seguida, clique no bot&#x00E3;o "Verificar" para corrigir seu exerc&#x00ED;cio.</div>
++	<div id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</div>
+ </div>
+ 
+ 
+@@ -97,7 +97,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-a)	Derrubada das florestas que provoca graves preju&#x00ED;zos &#x00E0; fauna e a flora de uma regi&#x00E3;o:<br />Resposta: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />b)	Camada que envolve a Terra e funciona como um filtro protetor:<br />Resposta: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />c)	Gases que provocam a altera&#x00E7;&#x00E3;o do n&#x00ED;vel de oz&#x00F4;nio na atmosfera:<br />Resposta: <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />d)	Processo de desgaste do solo, provocado pela &#x00E1;gua e pelo vento:<br />Resposta: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />e)	Ci&#x00EA;ncia que estuda a rela&#x00E7;&#x00E3;o dos seres vivos entre si e dos seres vivos e o ambiente onde eles vivem:<br />Resposta: <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />f)	Raios do Sol que podem danificar as c&#x00E9;lulas vivas, destruindo planta&#x00E7;&#x00F5;es e provocando o c&#x00E2;ncer de pele:<br />Respota: <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />g)	Processo que torna o ambiente sujo e prejudicial &#x00E0; sa&#x00FA;de:<br />Resposta: <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />h)	Processo pelo qual o solo vai lentamente tornando-se menos f&#x00E9;rtil:<br />Resposta: <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />i)	Ocorre devido aos gases liberados pela queima de combust&#x00ED;veis f&#x00F3;sseis: <br />Resposta: <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> 
++a)	Derrubada das florestas que provoca graves preju&iacute;zos &agrave; fauna e a flora de uma regi&atilde;o:<br />Resposta: <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />b)	Camada que envolve a Terra e funciona como um filtro protetor:<br />Resposta: <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />c)	Gases que provocam a altera&ccedil;&atilde;o do n&iacute;vel de oz&ocirc;nio na atmosfera:<br />Resposta: <span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />d)	Processo de desgaste do solo, provocado pela &aacute;gua e pelo vento:<br />Resposta: <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />e)	Ci&ecirc;ncia que estuda a rela&ccedil;&atilde;o dos seres vivos entre si e dos seres vivos e o ambiente onde eles vivem:<br />Resposta: <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />f)	Raios do Sol que podem danificar as c&eacute;lulas vivas, destruindo planta&ccedil;&otilde;es e provocando o c&acirc;ncer de pele:<br />Respota: <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />g)	Processo que torna o ambiente sujo e prejudicial &agrave; sa&uacute;de:<br />Resposta: <span class="GapSpan" id="GapSpan6"><input type="text" id="Gap6" onfocus="TrackFocus(6)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />h)	Processo pelo qual o solo vai lentamente tornando-se menos f&eacute;rtil:<br />Resposta: <span class="GapSpan" id="GapSpan7"><input type="text" id="Gap7" onfocus="TrackFocus(7)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> <br /><br />i)	Ocorre devido aos gases liberados pela queima de combust&iacute;veis f&oacute;sseis: <br />Resposta: <span class="GapSpan" id="GapSpan8"><input type="text" id="Gap8" onfocus="TrackFocus(8)" onblur="LeaveGap()" class="GapBox" size="18" maxlength="19"></input></span> 
+ </div>
+ </form>
+ </div>
+@@ -136,7 +136,7 @@
+ 
+ 
+ 
+-<!-- Orientadores de inform&#225;tica - Inclui os cr&#233;ditos -->
++<!-- Orientadores de inform&aacute;tica - Inclui os cr&eacute;ditos -->
+ <!--<div align="center"><img src="rodape.png" /> </div>-->
+ 
+ <!-- EndBottomNavButtons -->

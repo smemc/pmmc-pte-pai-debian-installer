@@ -1,0 +1,43 @@
+--- atividades/0204HIS001/0204HIS00103.htm	2012-06-22 14:55:48.307890801 -0300
++++ atividades/0204HIS001/0204HIS00103.htm.new	2012-06-22 14:55:48.311890802 -0300
+@@ -20,7 +20,7 @@
+ 
+ <link href="../estilos/estilos.css" rel="stylesheet" type="text/css" />
+ 
+-<!-- Orientadores de Inform&#225;tica - Linha comentada para retirar o CSS
++<!-- Orientadores de Inform&aacute;tica - Linha comentada para retirar o CSS
+ <style type="text/css">
+ 
+ [strStyleSheet-OI]
+@@ -434,10 +434,10 @@
+ var Feedback = '';
+ var AcrossCaption = '';
+ var DownCaption = '';
+-var Correct = 'Parab&#x00E9;ns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas est&#x00E3;o incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'A correct letter has been added.';
+-var YourScoreIs = 'A sua pontua&#x00E7;&#x00E3;o &#x00E9;:';
++var YourScoreIs = 'A sua pontua&ccedil;&atilde;o &eacute;:';
+ var Proximo = 'Clique no botão OK e veja uma surpresa!';
+ var BuiltGrid = '';
+ var BuiltExercise = '';
+@@ -845,7 +845,7 @@
+ <tbody id="CluesAcross">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesAcrossLabel">Horizontais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">A ENFERMEIRA QUE LUTOU PELOS FRACOS, DOENTES E OPRIMIDOS.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">NO DIA 08 DE MAR&#x00C7;O COMEMORAMOS O SEU DIA.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">FEZ SUCESSO NO MUNDO COM A M&#x00DA;SICA "O QUE &#x00C9; QUE A BAIANA TEM ?"</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">A MULHER TEM MUITA DEDICA&#x00C7;&#x00C3;O PARA COM SEUS FILHOS E MARIDO. ELA &#x00C9; ........................</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">EM 1933, AS MULHERES LUTARAM POR DIREITOS POL&#x00CD;TICOS E ADQUIRIRAM O DIREITO DE ........................ SEUS GOVERNANTES.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">QUALIDADE DA MULHER, QUANDO SE TEM SUA AMIZADE.</td></tr>
++<tr><td class="ClueNum">2. </td><td id="Clue_A_2" class="Clue">A ENFERMEIRA QUE LUTOU PELOS FRACOS, DOENTES E OPRIMIDOS.</td></tr><tr><td class="ClueNum">4. </td><td id="Clue_A_4" class="Clue">NO DIA 08 DE MAR&Ccedil;O COMEMORAMOS O SEU DIA.</td></tr><tr><td class="ClueNum">6. </td><td id="Clue_A_6" class="Clue">FEZ SUCESSO NO MUNDO COM A M&Uacute;SICA "O QUE &Eacute; QUE A BAIANA TEM ?"</td></tr><tr><td class="ClueNum">7. </td><td id="Clue_A_7" class="Clue">A MULHER TEM MUITA DEDICA&Ccedil;&Atilde;O PARA COM SEUS FILHOS E MARIDO. ELA &Eacute; ........................</td></tr><tr><td class="ClueNum">8. </td><td id="Clue_A_8" class="Clue">EM 1933, AS MULHERES LUTARAM POR DIREITOS POL&Iacute;TICOS E ADQUIRIRAM O DIREITO DE ........................ SEUS GOVERNANTES.</td></tr><tr><td class="ClueNum">9. </td><td id="Clue_A_9" class="Clue">QUALIDADE DA MULHER, QUANDO SE TEM SUA AMIZADE.</td></tr>
+ 
+ </tbody>
+ </table>
+@@ -858,7 +858,7 @@
+ <tbody id="CluesDown">
+ <tr><td colspan="2"><h3 class="ExerciseSubtitle" id="CluesDownLabel">Verticais:</h3></td></tr>
+ 
+-<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">NO COME&#x00C7;O DOS ANOS DE 1857, ELA CONQUISTOU IGUAL JORNADA DE TRABALHO. ELA ERA ...............................</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">A MULHER VIVE NA BATALHA PELO SEU ESPA&#x00C7;O, ELA VIVE NA ........................ POR MELHORES CONDI&#x00C7;&#x00D5;ES.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">A CANTORA DO ROCK DOS ANOS 60, COMPANHEIRA DE ROBERTO CARLOS.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_D_10" class="Clue">O MAIOR DOM QUE D&#x00C1; DEUS &#x00C0; MULHER.</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_D_11" class="Clue">A PROFISS&#x00C3;O QUE DESEMPENHA, INTERPRETANDO V&#x00C1;RIOS PERSONAGENS.</td></tr>
++<tr><td class="ClueNum">1. </td><td id="Clue_D_1" class="Clue">NO COME&Ccedil;O DOS ANOS DE 1857, ELA CONQUISTOU IGUAL JORNADA DE TRABALHO. ELA ERA ...............................</td></tr><tr><td class="ClueNum">3. </td><td id="Clue_D_3" class="Clue">A MULHER VIVE NA BATALHA PELO SEU ESPA&Ccedil;O, ELA VIVE NA ........................ POR MELHORES CONDI&Ccedil;&Otilde;ES.</td></tr><tr><td class="ClueNum">5. </td><td id="Clue_D_5" class="Clue">A CANTORA DO ROCK DOS ANOS 60, COMPANHEIRA DE ROBERTO CARLOS.</td></tr><tr><td class="ClueNum">10. </td><td id="Clue_D_10" class="Clue">O MAIOR DOM QUE D&Aacute; DEUS &Agrave; MULHER.</td></tr><tr><td class="ClueNum">11. </td><td id="Clue_D_11" class="Clue">A PROFISS&Atilde;O QUE DESEMPENHA, INTERPRETANDO V&Aacute;RIOS PERSONAGENS.</td></tr>
+ 
+ </tbody>
+ </table>

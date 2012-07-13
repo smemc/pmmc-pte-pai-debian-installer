@@ -1,0 +1,37 @@
+--- atividades/0602MAT074/0602MAT07403.htm	2012-06-22 15:00:44.559895253 -0300
++++ atividades/0602MAT074/0602MAT07403.htm.new	2012-06-22 15:00:44.559895253 -0300
+@@ -467,12 +467,12 @@
+ }
+ 
+ var Feedback = '';
+-var Correct = 'Parabéns. Bom trabalho!';
+-var Incorrect = 'Algumas respostas estão incorretas. Tente outra vez!'; 
++var Correct = 'Parab&eacute;ns. Bom trabalho!';
++var Incorrect = 'Algumas respostas est&atilde;o incorretas. Tente outra vez!'; 
+ var GiveHint = 'Foi adicionada a letra seguinte';
+ var CaseSensitive = false;
+-var YourScoreIs = '<br>A sua pontuação é: ';
+-var Proximo = 'Vamos ao Próximo?';
++var YourScoreIs = '<br>A sua pontua&ccedil;&atilde;o &eacute;: ';
++var Proximo = 'Vamos ao Pr&oacute;ximo?';
+ var Finished = false;
+ var Locked = false;
+ var Score = 0;
+@@ -858,7 +858,7 @@
+ </div>
+ 
+ <div id="InstructionsDiv" class="StdDiv">
+-	<p id="Instructions">Escreva nos espaços em branco as respostas adequadas. Em seguida, clique no botão "Verificar" para corrigir seu exercício.</p>
++	<p id="Instructions">Escreva nos espa&ccedil;os em branco as respostas adequadas. Em seguida, clique no bot&atilde;o "Verificar" para corrigir seu exerc&iacute;cio.</p>
+ </div>
+ 
+ 
+@@ -878,7 +878,7 @@
+ <div id="ClozeDiv">
+ <form id="Cloze" method="post" action="" onsubmit="return false;">
+ <div class="ClozeBody">
+-<STRONG>3 - QUANTAS CAIXAS DE 6 OVOS PODEMOS COMPLETAR COM 24 OVOS?</STRONG><br /><br />QUANTOS OVOS AO TODO? <STRONG> - RESPOSTA: AO TODO SÃO <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> OVOS. </STRONG><br />QUANTOS OVOS EM CADA CAIXA? <STRONG> - RESPOSTA: AO TODO SÃO <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> OVOS EM CADA CAIXA. </STRONG><br />QUANTAS CAIXAS?<br /><STRONG>RESPOSTA:<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> : <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> = <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> E SOBRAM <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> OVOS </STRONG><br />
++<STRONG>3 - QUANTAS CAIXAS DE 6 OVOS PODEMOS COMPLETAR COM 24 OVOS?</STRONG><br /><br />QUANTOS OVOS AO TODO? <STRONG> - RESPOSTA: AO TODO S&Atilde;O <span class="GapSpan" id="GapSpan0"><input type="text" id="Gap0" onfocus="TrackFocus(0)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> OVOS. </STRONG><br />QUANTOS OVOS EM CADA CAIXA? <STRONG> - RESPOSTA: AO TODO S&Atilde;O <span class="GapSpan" id="GapSpan1"><input type="text" id="Gap1" onfocus="TrackFocus(1)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> OVOS EM CADA CAIXA. </STRONG><br />QUANTAS CAIXAS?<br /><STRONG>RESPOSTA:<span class="GapSpan" id="GapSpan2"><input type="text" id="Gap2" onfocus="TrackFocus(2)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> : <span class="GapSpan" id="GapSpan3"><input type="text" id="Gap3" onfocus="TrackFocus(3)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> = <span class="GapSpan" id="GapSpan4"><input type="text" id="Gap4" onfocus="TrackFocus(4)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> E SOBRAM <span class="GapSpan" id="GapSpan5"><input type="text" id="Gap5" onfocus="TrackFocus(5)" onblur="LeaveGap()" class="GapBox" size="3" style="width: 3em;"></input></span> OVOS </STRONG><br />
+ </div>
+ </form>
+ </div>
